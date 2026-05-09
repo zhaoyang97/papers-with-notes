@@ -11,7 +11,7 @@
 
 # 🎓 CVPR 2025 Papers
 
-**📚 Other conferences**: [ACL 2026](ACL2026-Papers.md) · [CVPR 2026](CVPR2026-Papers.md) · [ICLR 2026](ICLR2026-Papers.md) · [AAAI 2026](AAAI2026-Papers.md) · [NeurIPS 2025](NeurIPS2025-Papers.md) · [ICCV 2025](ICCV2025-Papers.md) · [ICML 2025](ICML2025-Papers.md) · [ACL 2025](ACL2025-Papers.md)
+**📚 Other conferences**: [ACL 2026](ACL2026-Papers.md) · [CVPR 2026](CVPR2026-Papers.md) · [ICLR 2026](ICLR2026-Papers.md) · [AAAI 2026](AAAI2026-Papers.md) · [NeurIPS 2025](NeurIPS2025-Papers.md) · [ICCV 2025](ICCV2025-Papers.md) · [ICML 2025](ICML2025-Papers.md) · [ACL 2025](ACL2025-Papers.md) · [ECCV 2024](ECCV2024-Papers.md)
 
 📝 Paper notes: [中文 / Chinese](https://papernotes.org/) · [English](https://en.papernotes.org/)
 

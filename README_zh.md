@@ -27,7 +27,8 @@
 | ICML 2025 | [ICML2025-Papers.md](ICML2025-Papers.md) | 1,061 | 1,061 | 0 |
 | ACL 2025 | [ACL2025-Papers.md](ACL2025-Papers.md) | 2,394 | 1,865 | 0 |
 | CVPR 2025 | [CVPR2025-Papers.md](CVPR2025-Papers.md) | 3,130 | 1,850 | 0 |
-| **合计** | | **16,121** | **13,794** | **8,964** |
+| ECCV 2024 | [ECCV2024-Papers.md](ECCV2024-Papers.md) | 956 | 956 | 0 |
+| **合计** | | **17,077** | **14,750** | **8,964** |
 
 ## 📐 页面结构
 
