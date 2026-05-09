@@ -1,0 +1,10 @@
+# Editor artifacts
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+TODO.md
