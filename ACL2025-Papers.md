@@ -67,6 +67,7 @@
 **A Survey on Efficient Large Language Model Training: From Data-centric Perspectives**
 
 - Paper: <https://arxiv.org/abs/2510.25817>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/a_survey_on_efficient_large…](https://papernotes.org/ACL2025/llm_nlp/a_survey_on_efficient_large_language/)
 
 **Mind Your Tone: Investigating How Prompt Politeness Affects LLM Accuracy (short paper)** · 📖 Findings
 
@@ -81,6 +82,7 @@
 **Locate-and-Focus: Enhancing Terminology Translation in Speech Language Models**
 
 - Paper: <https://arxiv.org/abs/2507.18263>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/locateandfocus_enhancing_te…](https://papernotes.org/ACL2025/llm_nlp/locateandfocus_enhancing_terminology_translation_in_speech/)
 
 **P3: Prompts Promote Prompting** · 📖 Findings
 
@@ -100,6 +102,7 @@
 **GradOT: Training-free Gradient-preserving Offsite-tuning for Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2507.04455>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/gradot_offsite_tuning](https://papernotes.org/ACL2025/llm_nlp/gradot_offsite_tuning/)
 
 **Can LLMs Identify Critical Limitations within Scientific Research? A Systematic Evaluation on AI Research Papers**
 
@@ -113,10 +116,12 @@
 **Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2507.01915>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/gapo_multi_objective_alignm…](https://papernotes.org/ACL2025/llm_nlp/gapo_multi_objective_alignment/)
 
 **Boosting LLM's Molecular Structure Elucidation with Knowledge Enhanced Tree Search Reasoning**
 
 - Paper: <https://arxiv.org/abs/2506.23056>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/boosting_llms_molecular_str…](https://papernotes.org/ACL2025/llm_nlp/boosting_llms_molecular_structure_elucidation_with_knowledge_enhanced_tree_searc/)
 
 **A Systematic Study of Compositional Syntactic Transformer Language Models**
 
@@ -171,6 +176,7 @@
 **Revisiting Compositional Generalization Capability of Large Language Models Considering Instruction Following Ability**
 
 - Paper: <https://arxiv.org/abs/2506.15629>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/compositional_generalizatio…](https://papernotes.org/ACL2025/llm_nlp/compositional_generalization_instruction/)
 
 **Probabilistic Aggregation and Targeted Embedding Optimization for Collective Moral Reasoning in Large Language Models** · 📖 Findings
 
@@ -185,10 +191,12 @@
 **MEraser: An Effective Fingerprint Erasure Approach for Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2506.12551>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/meraser_fingerprint_erasure](https://papernotes.org/ACL2025/llm_nlp/meraser_fingerprint_erasure/)
 
 **ConsistencyChecker: Tree-based Evaluation of LLM Generalization Capabilities**
 
 - Paper: <https://arxiv.org/abs/2506.12376>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/consistencychecker_tree_eva…](https://papernotes.org/ACL2025/llm_nlp/consistencychecker_tree_evaluation/)
 
 **Can LLMs Generate High-Quality Test Cases for Algorithm Problems? TestCase-Eval: A Systematic Evaluation of Fault Coverage and Exposure**
 
@@ -197,6 +205,7 @@
 **Deontological Keyword Bias: The Impact of Modal Expressions on Normative Judgments of Language Models**
 
 - Paper: <https://arxiv.org/abs/2506.11068>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/deontological_keyword_bias](https://papernotes.org/ACL2025/llm_nlp/deontological_keyword_bias/)
 
 **TaxoAdapt: Aligning LLM-Based Multidimensional Taxonomy Construction to Evolving Research Corpora**
 
@@ -206,6 +215,7 @@
 **Classifying Unreliable Narrators with Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2506.10231>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/classifying_unreliable_narr…](https://papernotes.org/ACL2025/llm_nlp/classifying_unreliable_narrators/)
 
 **Do LLMs Give Psychometrically Plausible Responses in Educational Assessments?** · 🛠️ Workshop
 
@@ -234,6 +244,7 @@
 **What Makes a Good Natural Language Prompt?**
 
 - Paper: <https://arxiv.org/abs/2506.06950>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/good_natural_language_prompt](https://papernotes.org/ACL2025/llm_nlp/good_natural_language_prompt/)
 
 **Not quite Sherlock Holmes: Language model predictions do not reliably differentiate impossible from improbable events** · 📖 Findings
 
@@ -253,6 +264,7 @@
 **Leveraging Self-Attention for Input-Dependent Soft Prompting in LLMs**
 
 - Paper: <https://arxiv.org/abs/2506.05629>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/input_dependent_soft_prompt…](https://papernotes.org/ACL2025/llm_nlp/input_dependent_soft_prompting/)
 
 **Just a Scratch: Enhancing LLM Capabilities for Self-harm Detection through Intent Differentiation and Emoji Interpretation**
 
@@ -272,10 +284,12 @@
 **Aligning Large Language Models with Implicit Preferences from User-Generated Content**
 
 - Paper: <https://arxiv.org/abs/2506.04463>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/pugc_align_implicit_pref_ugc](https://papernotes.org/ACL2025/llm_nlp/pugc_align_implicit_pref_ugc/)
 
 **Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to Enhance LLM Reasoning**
 
 - Paper: <https://arxiv.org/abs/2506.03939>
+- Notes (Chinese): [papernotes.org/ACL2025/multi_agent/graph_counselor_multiag…](https://papernotes.org/ACL2025/multi_agent/graph_counselor_multiagent_graphrag/)
 
 **Pre$^3$: Enabling Deterministic Pushdown Automata for Faster Structured LLM Generation**
 
@@ -319,6 +333,7 @@
 **AIMSCheck: Leveraging LLMs for AI-Assisted Review of Modern Slavery Statements Across Jurisdictions**
 
 - Paper: <https://arxiv.org/abs/2506.01671>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/aimscheck_modern_slavery](https://papernotes.org/ACL2025/llm_nlp/aimscheck_modern_slavery/)
 
 **Representations of Fact, Fiction and Forecast in Large Language Models: Epistemics and Attitudes**
 
@@ -328,6 +343,7 @@
 **Growing Through Experience: Scaling Episodic Grounding in Language Models**
 
 - Paper: <https://arxiv.org/abs/2506.01312>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/episodic_grounding_experience](https://papernotes.org/ACL2025/llm_nlp/episodic_grounding_experience/)
 
 **Beyond In-Context Learning: Aligning Long-form Generation of Large Language Models via Task-Inherent Attribute Guidelines** · 📖 Findings
 
@@ -370,6 +386,7 @@
 **SkillVerse : Assessing and Enhancing LLMs with Tree Evaluation**
 
 - Paper: <https://arxiv.org/abs/2506.00319>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/skillverse_tree_eval](https://papernotes.org/ACL2025/llm_nlp/skillverse_tree_eval/)
 
 **Can LLMs Understand Unvoiced Speech? Exploring EMG-to-Text Conversion with LLMs**
 
@@ -384,7 +401,7 @@
 **Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?**
 
 - Paper: <https://arxiv.org/abs/2505.24778>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/revisiting_epistemic_marker…](https://papernotes.org/ACL2025/llm_nlp/revisiting_epistemic_markers_in_confidence_estimation_can_markers_accurately_ref/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/epistemic-markers-in-confid…](https://papernotes.org/ACL2025/llm_nlp/epistemic-markers-in-confidence-estimation/)
 
 **Are Optimal Algorithms Still Optimal? Rethinking Sorting in LLM-Based Pairwise Ranking with Batching and Caching**
 
@@ -414,10 +431,12 @@
 **Revisiting Common Assumptions about Arabic Dialects in NLP**
 
 - Paper: <https://arxiv.org/abs/2505.21816>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/arabic_dialects_assumptions…](https://papernotes.org/ACL2025/llm_nlp/arabic_dialects_assumptions_revisited/)
 
 **How Humans and LLMs Organize Conceptual Knowledge: Exploring Subordinate Categories in Italian**
 
 - Paper: <https://arxiv.org/abs/2505.21301>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/conceptual_knowledge_org](https://papernotes.org/ACL2025/llm_nlp/conceptual_knowledge_org/)
 
 **Uncertainty Unveiled: Can Exposure to More In-context Examples Mitigate Uncertainty for Large Language Models?** · 📖 Findings
 
@@ -432,6 +451,7 @@
 **CogniBench: A Legal-inspired Framework and Dataset for Assessing Cognitive Faithfulness of Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2505.20767>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/cognibench_cognitive_faithf…](https://papernotes.org/ACL2025/llm_nlp/cognibench_cognitive_faithfulness/)
 
 **Enhancing Transformation from Natural Language to Signal Temporal Logic Using LLMs with Diverse External Knowledge**
 
@@ -446,6 +466,7 @@
 **Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents**
 
 - Paper: <https://arxiv.org/abs/2505.19997>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/simulating_diverse_students](https://papernotes.org/ACL2025/llm_nlp/simulating_diverse_students/)
 
 **FoodTaxo: Generating Food Taxonomies with Large Language Models** · 🏭 Industry
 
@@ -455,10 +476,12 @@
 **Comparing Moral Values in Western English-speaking societies and LLMs with Word Associations**
 
 - Paper: <https://arxiv.org/abs/2505.19674>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/moral_values_western](https://papernotes.org/ACL2025/llm_nlp/moral_values_western/)
 
 **Automated CAD Modeling Sequence Generation from Text Descriptions via Transformer-Based Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2505.19490>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/cadllm_cad_modeling_from_text](https://papernotes.org/ACL2025/llm_nlp/cadllm_cad_modeling_from_text/)
 
 **Unveiling Dual Quality in Product Reviews: An NLP-Based Approach** · 🏭 Industry
 
@@ -488,6 +511,7 @@
 **Veracity Bias and Beyond: Uncovering LLMs' Hidden Beliefs in Problem-Solving Reasoning**
 
 - Paper: <https://arxiv.org/abs/2505.16128>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/veracity_bias_llm_hidden_be…](https://papernotes.org/ACL2025/llm_nlp/veracity_bias_llm_hidden_beliefs/)
 
 **Internal and External Impacts of Natural Language Processing Papers**
 
@@ -497,6 +521,7 @@
 **Can Large Language Models Understand Internet Buzzwords Through User-Generated Content**
 
 - Paper: <https://arxiv.org/abs/2505.15071>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/buzzword_understanding_ugc](https://papernotes.org/ACL2025/llm_nlp/buzzword_understanding_ugc/)
 
 **TRATES: Trait-Specific Rubric-Assisted Cross-Prompt Essay Scoring** · 📖 Findings
 
@@ -536,6 +561,7 @@
 **Contrastive Prompting Enhances Sentence Embeddings in LLMs through Inference-Time Steering**
 
 - Paper: <https://arxiv.org/abs/2505.12831>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/contrastive_prompting_embed…](https://papernotes.org/ACL2025/llm_nlp/contrastive_prompting_embeddings/)
 
 **Why Not Act on What You Know? Unleashing Safety Potential of LLMs via Self-Aware Guard Enhancement** · 📖 Findings
 
@@ -570,6 +596,7 @@
 **Theory of Mind in Large Language Models: Assessment and Enhancement**
 
 - Paper: <https://arxiv.org/abs/2505.00026>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/theory_of_mind_llm](https://papernotes.org/ACL2025/llm_nlp/theory_of_mind_llm/)
 
 **Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling**
 
@@ -589,6 +616,7 @@
 **Analyzing LLMs' Knowledge Boundary Cognition Across Languages Through the Lens of Internal Representations**
 
 - Paper: <https://arxiv.org/abs/2504.13816>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/knowledge_boundary_crosslin…](https://papernotes.org/ACL2025/llm_nlp/knowledge_boundary_crosslingual/)
 
 **Revisiting Uncertainty Quantification Evaluation in Language Models: Spurious Interactions with Response Length Bias Results**
 
@@ -598,6 +626,7 @@
 **LazyReview: A Dataset for Uncovering Lazy Thinking in NLP Peer Reviews**
 
 - Paper: <https://arxiv.org/abs/2504.11042>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/lazyreview_peer_review](https://papernotes.org/ACL2025/llm_nlp/lazyreview_peer_review/)
 
 **OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training Tokens** · 🎬 Demo
 
@@ -621,10 +650,12 @@
 **Representation Bending for Large Language Model Safety**
 
 - Paper: <https://arxiv.org/abs/2504.01550>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/repbend_representation_bend…](https://papernotes.org/ACL2025/llm_nlp/repbend_representation_bending_safety/)
 
 **GAPO: Learning Preferential Prompt through Generative Adversarial Policy Optimization**
 
 - Paper: <https://arxiv.org/abs/2503.20194>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/gapo_preferential_prompt](https://papernotes.org/ACL2025/llm_nlp/gapo_preferential_prompt/)
 
 **AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration**
 
@@ -644,10 +675,12 @@
 **LLM Braces: Straightening Out LLM Predictions with Relevant Sub-Updates**
 
 - Paper: <https://arxiv.org/abs/2503.16334>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/llm_braces_straightening](https://papernotes.org/ACL2025/llm_nlp/llm_braces_straightening/)
 
 **MathFusion: Enhancing Mathematical Problem-solving of LLM through Instruction Fusion**
 
 - Paper: <https://arxiv.org/abs/2503.16212>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/mathfusion_instruction_fusion](https://papernotes.org/ACL2025/llm_nlp/mathfusion_instruction_fusion/)
 
 **Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models**
 
@@ -661,6 +694,7 @@
 **Language Models, Graph Searching, and Supervision Adulteration: When More Supervision is Less and How to Make More More**
 
 - Paper: <https://arxiv.org/abs/2503.10542>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/lm_graph_search_supervision](https://papernotes.org/ACL2025/llm_nlp/lm_graph_search_supervision/)
 
 **Why Prompt Design Matters and Works: A Complexity Analysis of Prompt Search Space in LLMs**
 
@@ -690,6 +724,7 @@
 **Enough Coin Flips Can Make LLMs Act Bayesian**
 
 - Paper: <https://arxiv.org/abs/2503.04722>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/coin_flips_bayesian](https://papernotes.org/ACL2025/llm_nlp/coin_flips_bayesian/)
 
 **Large Language Models in Bioinformatics: A Survey**
 
@@ -699,6 +734,7 @@
 **TableLoRA: Low-rank Adaptation on Table Structure Understanding for Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2503.04396>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/table_lora_structure_unders…](https://papernotes.org/ACL2025/llm_nlp/table_lora_structure_understanding/)
 
 **On the Acquisition of Shared Grammatical Representations in Bilingual Language Models**
 
@@ -723,6 +759,7 @@
 **MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment**
 
 - Paper: <https://arxiv.org/abs/2503.01711>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/maps_personalized_search](https://papernotes.org/ACL2025/llm_nlp/maps_personalized_search/)
 
 **Bandit-Based Prompt Design Strategy Selection Improves Prompt Optimizers** · 📖 Findings
 
@@ -732,6 +769,7 @@
 **Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs**
 
 - Paper: <https://arxiv.org/abs/2502.20968>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/sarft_roleplay_safety](https://papernotes.org/ACL2025/llm_nlp/sarft_roleplay_safety/)
 
 **Do Language Models Understand Honorific Systems in Javanese?**
 
@@ -741,6 +779,7 @@
 **LLM as a Broken Telephone: Iterative Generation Distorts Information**
 
 - Paper: <https://arxiv.org/abs/2502.20258>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/llm_broken_telephone](https://papernotes.org/ACL2025/llm_nlp/llm_broken_telephone/)
 
 **Self-Training Elicits Concise Reasoning in Large Language Models** · 📖 Findings
 
@@ -750,6 +789,7 @@
 **EdiText: Controllable Coarse-to-Fine Text Editing with Diffusion Language Models**
 
 - Paper: <https://arxiv.org/abs/2502.19765>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/editext_diffusion_text_edit…](https://papernotes.org/ACL2025/llm_nlp/editext_diffusion_text_editing/)
 
 **When Large Language Models Meet Speech: A Survey on Integration Approaches** · 📖 Findings
 
@@ -774,10 +814,12 @@
 **LR^2Bench: Evaluating Long-chain Reflective Reasoning Capabilities of Large Language Models via Constraint Satisfaction Problems**
 
 - Paper: <https://arxiv.org/abs/2502.17848>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/lr2bench_evaluating_long-ch…](https://papernotes.org/ACL2025/llm_nlp/lr2bench_evaluating_long-chain_reflective_reasoning_capabilities_of_large_langua/)
 
 **Recurrent Knowledge Identification and Fusion for Language Model Continual Learning**
 
 - Paper: <https://arxiv.org/abs/2502.17510>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/recurrent_kif_continual_lea…](https://papernotes.org/ACL2025/llm_nlp/recurrent_kif_continual_learning/)
 
 **AAD-LLM: Neural Attention-Driven Auditory Scene Understanding**
 
@@ -792,6 +834,7 @@
 **Mapping 1,000+ Language Models via the Log-Likelihood Vector**
 
 - Paper: <https://arxiv.org/abs/2502.16173>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/mapping_1000_models_loglike…](https://papernotes.org/ACL2025/llm_nlp/mapping_1000_models_loglikelihood/)
 
 **ExpliCa: Evaluating Explicit Causal Reasoning in Large Language Models** · 📖 Findings
 
@@ -820,6 +863,7 @@
 **CER: Confidence Enhanced Reasoning in LLMs**
 
 - Paper: <https://arxiv.org/abs/2502.14634>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/cer_confidence_enhanced_rea…](https://papernotes.org/ACL2025/llm_nlp/cer_confidence_enhanced_reasoning/)
 
 **Behavioral Analysis of Information Salience in Large Language Models** · 📖 Findings
 
@@ -848,6 +892,7 @@
 **Towards Geo-Culturally Grounded LLM Generations**
 
 - Paper: <https://arxiv.org/abs/2502.13497>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/geocultural_grounded_llm](https://papernotes.org/ACL2025/llm_nlp/geocultural_grounded_llm/)
 
 **HumT DumT: Measuring and controlling human-like language in LLMs**
 
@@ -857,6 +902,7 @@
 **When People are Floods: Analyzing Dehumanizing Metaphors in Immigration Discourse with Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2502.13246>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/dehumanizing_metaphors_immi…](https://papernotes.org/ACL2025/llm_nlp/dehumanizing_metaphors_immigration/)
 
 **Beyond Profile: From Surface-Level Facts to Deep Persona Simulation in LLMs** · 📖 Findings
 
@@ -871,10 +917,12 @@
 **Multi-Attribute Steering of Language Models via Targeted Intervention**
 
 - Paper: <https://arxiv.org/abs/2502.12446>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/multi_attribute_steering](https://papernotes.org/ACL2025/llm_nlp/multi_attribute_steering/)
 
 **Pragmatics in the Era of Large Language Models: A Survey on Datasets, Evaluation, Opportunities and Challenges**
 
 - Paper: <https://arxiv.org/abs/2502.12378>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/pragmatics_survey](https://papernotes.org/ACL2025/llm_nlp/pragmatics_survey/)
 
 **Culture is Not Trivia: Sociocultural Theory for Cultural NLP**
 
@@ -889,11 +937,12 @@
 **From Selection to Generation: A Survey of LLM-based Active Learning**
 
 - Paper: <https://arxiv.org/abs/2502.11767>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/from_selection_to_generatio…](https://papernotes.org/ACL2025/llm_nlp/from_selection_to_generation_a_survey_of_llm-based_active_learning/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/from_selection_to_generatio…](https://papernotes.org/ACL2025/llm_nlp/from_selection_to_generation_a_survey/)
 
 **Diversity-oriented Data Augmentation with Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2502.11671>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/diversity_data_augmentation](https://papernotes.org/ACL2025/llm_nlp/diversity_data_augmentation/)
 
 **DiSCo: Device-Server Collaborative LLM-Based Text Streaming Services**
 
@@ -917,6 +966,7 @@
 **PlanGenLLMs: A Modern Survey of LLM Planning Capabilities**
 
 - Paper: <https://arxiv.org/abs/2502.11221>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/plangenllms_planning_survey](https://papernotes.org/ACL2025/llm_nlp/plangenllms_planning_survey/)
 
 **A Survey of LLM-based Agents in Medicine: How far are we from Baymax?** · 📖 Findings
 
@@ -941,15 +991,17 @@
 **SelfElicit: Your Language Model Secretly Knows Where is the Relevant Evidence**
 
 - Paper: <https://arxiv.org/abs/2502.08767>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/selfelicit_evidence_highlig…](https://papernotes.org/ACL2025/llm_nlp/selfelicit_evidence_highlighting/)
 
 **BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving**
 
 - Paper: <https://arxiv.org/abs/2502.03438>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/bfs-prover_scalable_best-fi…](https://papernotes.org/ACL2025/llm_nlp/bfs-prover_scalable_best-first_tree_search_for_llm-based_automatic_theorem_provi/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/bfs-prover-scalable-best-fi…](https://papernotes.org/ACL2025/llm_nlp/bfs-prover-scalable-best-first-tree-search-for-llm-based-automatic-theorem-proving/)
 
 **Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2502.02444>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/generative_psycholexical_ap…](https://papernotes.org/ACL2025/llm_nlp/generative_psycholexical_approach_for_constructing_value/)
 
 **LongDPO: Unlock Better Long-form Generation Abilities for LLMs via Critique-augmented Stepwise Information**
 
@@ -959,6 +1011,7 @@
 **AutoGUI: Scaling GUI Grounding with Automatic Functionality Annotations from LLMs**
 
 - Paper: <https://arxiv.org/abs/2502.01977>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/autogui_scaling_gui_groundi…](https://papernotes.org/ACL2025/llm_nlp/autogui_scaling_gui_grounding_with_automatic/)
 
 **TReMu: Towards Neuro-Symbolic Temporal Reasoning for LLM-Agents with Memory in Multi-Session Dialogues** · 📖 Findings
 
@@ -978,7 +1031,7 @@
 **Can We Retrieve Everything All at Once? ARM: An Alignment-Oriented LLM-based Retrieval Method**
 
 - Paper: <https://arxiv.org/abs/2501.18539>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/can_we_retrieve_everything_…](https://papernotes.org/ACL2025/llm_nlp/can_we_retrieve_everything_all_at_once_arm_an_alignment-oriented_llm-based_retri/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/arm_alignment_retrieval](https://papernotes.org/ACL2025/llm_nlp/arm_alignment_retrieval/)
 
 **Improving Contextual Faithfulness of Large Language Models via Retrieval Heads-Induced Optimization**
 
@@ -998,10 +1051,12 @@
 **Semantic Exploration with Adaptive Gating for Efficient Problem Solving with Language Models**
 
 - Paper: <https://arxiv.org/abs/2501.05752>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/semantic_exploration_adapti…](https://papernotes.org/ACL2025/llm_nlp/semantic_exploration_adaptive_gating/)
 
 **How to Enable Effective Cooperation Between Humans and NLP Models: A Survey of Principles, Formalizations, and Beyond**
 
 - Paper: <https://arxiv.org/abs/2501.05714>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/human_nlp_cooperation_survey](https://papernotes.org/ACL2025/llm_nlp/human_nlp_cooperation_survey/)
 
 **ChronoSense: Exploring Temporal Understanding in Large Language Models with Time Intervals of Events**
 
@@ -1011,6 +1066,7 @@
 **Cross-model Transferability among Large Language Models on the Platonic Representations of Concepts**
 
 - Paper: <https://arxiv.org/abs/2501.02009>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/cross_model_transferability…](https://papernotes.org/ACL2025/llm_nlp/cross_model_transferability_sv/)
 
 **Automating Legal Interpretation with LLMs: Retrieval, Generation, and Evaluation**
 
@@ -1034,6 +1090,7 @@
 **EscapeBench: Towards Advancing Creative Intelligence of Language Model Agents**
 
 - Paper: <https://arxiv.org/abs/2412.13549>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/escapebench_creative_agent](https://papernotes.org/ACL2025/llm_nlp/escapebench_creative_agent/)
 
 **Refining Salience-Aware Sparse Fine-Tuning Strategies for Language Models**
 
@@ -1043,6 +1100,7 @@
 **Algorithmic Fidelity of Large Language Models in Generating Synthetic German Public Opinions: A Case Study**
 
 - Paper: <https://arxiv.org/abs/2412.13169>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/algorithmic_fidelity_german…](https://papernotes.org/ACL2025/llm_nlp/algorithmic_fidelity_german_opinion/)
 
 **Are Your LLMs Capable of Stable Reasoning?**
 
@@ -1052,27 +1110,32 @@
 **Knowledge Boundary of Large Language Models: A Survey**
 
 - Paper: <https://arxiv.org/abs/2412.12472>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/knowledge_boundary_survey](https://papernotes.org/ACL2025/llm_nlp/knowledge_boundary_survey/)
 
 **The Impact of Token Granularity on the Predictive Power of Language Model Surprisal**
 
 - Paper: <https://arxiv.org/abs/2412.11940>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/token_granularity_impact](https://papernotes.org/ACL2025/llm_nlp/token_granularity_impact/)
 
 **Stepwise Reasoning Disruption Attack of LLMs**
 
 - Paper: <https://arxiv.org/abs/2412.11934>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/stepwise_reasoning_disrupti…](https://papernotes.org/ACL2025/llm_nlp/stepwise_reasoning_disruption_attack_of_llms/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/seed_stepwise_reasoning_dis…](https://papernotes.org/ACL2025/llm_nlp/seed_stepwise_reasoning_disruption_attack/)
 
 **LLMs Can Simulate Standardized Patients via Agent Coevolution**
 
 - Paper: <https://arxiv.org/abs/2412.11716>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/evopatient_standardized_pat…](https://papernotes.org/ACL2025/llm_nlp/evopatient_standardized_patient/)
 
 **Token Prepending: A Training-Free Approach for Eliciting Better Sentence Embeddings from LLMs**
 
 - Paper: <https://arxiv.org/abs/2412.11556>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/token_prepending_training_f…](https://papernotes.org/ACL2025/llm_nlp/token_prepending_training_free/)
 
 **Segment-Level Diffusion: A Framework for Controllable Long-Form Generation with Diffusion Language Models**
 
 - Paper: <https://arxiv.org/abs/2412.11333>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/segment_level_diffusion](https://papernotes.org/ACL2025/llm_nlp/segment_level_diffusion/)
 
 **TrimLLM: Progressive Layer Dropping for Domain-Specific LLMs**
 
@@ -1082,14 +1145,17 @@
 **On the Limit of Language Models as Planning Formalizers**
 
 - Paper: <https://arxiv.org/abs/2412.09879>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/limit_llm_planning_formalizer](https://papernotes.org/ACL2025/llm_nlp/limit_llm_planning_formalizer/)
 
 **C$^2$LEVA: Toward Comprehensive and Contamination-Free Language Model Evaluation** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2412.04947>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/c2leva_toward_comprehensive…](https://papernotes.org/ACL2025/llm_nlp/c2leva_toward_comprehensive_and_contamination-free_language_model_evaluation/)
 
 **Evaluating Language Models as Synthetic Data Generators**
 
 - Paper: <https://arxiv.org/abs/2412.03679>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/evaluating_lms_synthetic_da…](https://papernotes.org/ACL2025/llm_nlp/evaluating_lms_synthetic_data_gen/)
 
 **If Eleanor Rigby Had Met ChatGPT: A Study on Loneliness in a Post-LLM World**
 
@@ -1099,6 +1165,7 @@
 **Enhancing Character-Level Understanding in LLMs through Token Internal Structure Learning**
 
 - Paper: <https://arxiv.org/abs/2411.17679>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/character_level_understanding](https://papernotes.org/ACL2025/llm_nlp/character_level_understanding/)
 
 **Do Large Language Models Perform Latent Multi-Hop Reasoning without Exploiting Shortcuts?** · 📖 Findings
 
@@ -1113,10 +1180,12 @@
 **Disentangling Memory and Reasoning Ability in Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2411.13504>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/disentangle_memory_reasoning](https://papernotes.org/ACL2025/llm_nlp/disentangle_memory_reasoning/)
 
 **Efficient and Accurate Prompt Optimization: the Benefit of Memory in Exemplar-Guided Reflection**
 
 - Paper: <https://arxiv.org/abs/2411.07446>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/erm_prompt_optimization_mem…](https://papernotes.org/ACL2025/llm_nlp/erm_prompt_optimization_memory/)
 
 **NeKo: Cross-Modality Post-Recognition Error Correction with Tasks-Guided Mixture-of-Experts Language Model** · 🏭 Industry
 
@@ -1145,6 +1214,7 @@
 **Math Neurosurgery: Isolating Language Models' Math Reasoning Abilities Using Only Forward Passes**
 
 - Paper: <https://arxiv.org/abs/2410.16930>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/mathneuro_math_reasoning_is…](https://papernotes.org/ACL2025/llm_nlp/mathneuro_math_reasoning_isolation/)
 
 **How Numerical Precision Affects Arithmetical Reasoning Capabilities of LLMs** · 📖 Findings
 
@@ -1164,6 +1234,7 @@
 **Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up**
 
 - Paper: <https://arxiv.org/abs/2410.12323>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/reversal_of_thought_enhanci…](https://papernotes.org/ACL2025/llm_nlp/reversal_of_thought_enhancing_large_language/)
 
 **LLMs know their vulnerabilities: Uncover Safety Gaps through Natural Distribution Shifts**
 
@@ -1173,6 +1244,7 @@
 **Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System**
 
 - Paper: <https://arxiv.org/abs/2410.09403>
+- Notes (Chinese): [papernotes.org/ACL2025/multi_agent/virsci_multi_agent_idea…](https://papernotes.org/ACL2025/multi_agent/virsci_multi_agent_idea_gen/)
 
 **LLM×MapReduce: Simplified Long-Sequence Processing using Large Language Models**
 
@@ -1182,6 +1254,7 @@
 **Nudging: Inference-time Alignment of LLMs via Guided Decoding**
 
 - Paper: <https://arxiv.org/abs/2410.09300>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/nudging_inference_time_alig…](https://papernotes.org/ACL2025/llm_nlp/nudging_inference_time_alignment/)
 
 **Which Demographics do LLMs Default to During Annotation?**
 
@@ -1191,6 +1264,7 @@
 **MergePrint: Merge-Resistant Fingerprints for Robust Black-box Ownership Verification of Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2410.08604>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/mergeprint_fingerprint_owne…](https://papernotes.org/ACL2025/llm_nlp/mergeprint_fingerprint_ownership/)
 
 **Can Language Models Reason about Individualistic Human Values and Preferences?**
 
@@ -1205,10 +1279,12 @@
 **Geometric Signatures of Compositionality Across a Language Model's Lifetime**
 
 - Paper: <https://arxiv.org/abs/2410.01444>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/geometric_compositionality_…](https://papernotes.org/ACL2025/llm_nlp/geometric_compositionality_lifetime/)
 
 **Circuit Compositions: Exploring Modular Structures in Transformer-Based Language Models**
 
 - Paper: <https://arxiv.org/abs/2410.01434>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/circuit_compositions_modula…](https://papernotes.org/ACL2025/llm_nlp/circuit_compositions_modular_structures/)
 
 **The Nature of NLP: Analyzing Contributions in NLP Papers**
 
@@ -1238,10 +1314,12 @@
 **Wait, that's not an option: LLMs Robustness with Incorrect Multiple-Choice Options**
 
 - Paper: <https://arxiv.org/abs/2409.00113>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/llm_robustness_incorrect_mcq](https://papernotes.org/ACL2025/llm_nlp/llm_robustness_incorrect_mcq/)
 
 **Awes, Laws, and Flaws From Today's LLM Research** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2408.15409>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/awes_laws_and_flaws_from_to…](https://papernotes.org/ACL2025/llm_nlp/awes_laws_and_flaws_from_todays_llm_research/)
 
 **LlamaDuo: LLMOps Pipeline for Seamless Migration from Service LLMs to Small-Scale Local LLMs**
 
@@ -1261,6 +1339,7 @@
 **Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling**
 
 - Paper: <https://arxiv.org/abs/2408.08696>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/token_recycling](https://papernotes.org/ACL2025/llm_nlp/token_recycling/)
 
 **Re-TASK: Revisiting LLM Tasks from Capability, Skill, and Knowledge Perspectives** · 📖 Findings
 
@@ -1280,10 +1359,12 @@
 **$T^5Score$: A Methodology for Automatically Assessing the Quality of LLM Generated Multi-Document Topic Sets** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2407.17390>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/t5score_a_methodology_for_a…](https://papernotes.org/ACL2025/llm_nlp/t5score_a_methodology_for_automatically_assessing_the_quality_of_llm_generated_m/)
 
 **Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training**
 
 - Paper: <https://arxiv.org/abs/2407.09121>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/derta_decoupled_refusal](https://papernotes.org/ACL2025/llm_nlp/derta_decoupled_refusal/)
 
 **UnSeenTimeQA: Time-Sensitive Question-Answering Beyond LLMs' Memorization**
 
@@ -1298,6 +1379,7 @@
 **LLMs instead of Human Judges? A Large Scale Empirical Study across 20 NLP Evaluation Tasks**
 
 - Paper: <https://arxiv.org/abs/2406.18403>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/llm_vs_human_judges_study](https://papernotes.org/ACL2025/llm_nlp/llm_vs_human_judges_study/)
 
 **Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective** · 📖 Findings
 
@@ -1327,6 +1409,7 @@
 **The Impossibility of Fair LLMs**
 
 - Paper: <https://arxiv.org/abs/2406.03198>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/impossibility_fair_llms](https://papernotes.org/ACL2025/llm_nlp/impossibility_fair_llms/)
 
 **Mitigate Position Bias in Large Language Models via Scaling a Single Dimension** · 📖 Findings
 
@@ -1336,6 +1419,7 @@
 **JoPA: Explaining Large Language Model's Generation via Joint Prompt Attribution**
 
 - Paper: <https://arxiv.org/abs/2405.20404>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/jopa_explaining_large_langu…](https://papernotes.org/ACL2025/llm_nlp/jopa_explaining_large_language_models_generation_via_joint_prompt_attribution/)
 
 **Learning from Litigation: Graphs and LLMs for Retrieval and Reasoning in eDiscovery**
 
@@ -1345,10 +1429,12 @@
 **Efficient Universal Goal Hijacking with Semantics-guided Prompt Organization**
 
 - Paper: <https://arxiv.org/abs/2405.14189>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/goal_hijacking_attack](https://papernotes.org/ACL2025/llm_nlp/goal_hijacking_attack/)
 
 **LLM-Powered Test Case Generation for Detecting Bugs in Plausible Programs**
 
 - Paper: <https://arxiv.org/abs/2404.10304>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/llm_test_case_gen_bugs](https://papernotes.org/ACL2025/llm_nlp/llm_test_case_gen_bugs/)
 
 **Sample-Efficient Human Evaluation of Large Language Models via Maximum Discrepancy Competition**
 
@@ -1358,10 +1444,12 @@
 **Binary Classifier Optimization for Large Language Model Alignment**
 
 - Paper: <https://arxiv.org/abs/2404.04656>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/bco_binary_classifier_align…](https://papernotes.org/ACL2025/llm_nlp/bco_binary_classifier_alignment/)
 
 **PATCH! {P}sychometrics-{A}ssis{T}ed Ben{CH}marking of Large Language Models against Human Populations: A Case Study of Proficiency in 8th Grade Mathematics** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2404.01799>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/patch_psychometrics-…](https://papernotes.org/ACL2025/llm_evaluation/patch_psychometrics-assisted_benchmarking_of_large_language_models_against_human/)
 
 **Multi-Level Explanations for Generative Language Models**
 
@@ -1370,42 +1458,52 @@
 **ECLM: Entity Level Language Model for Spoken Language Understanding with Chain of Intent**
 
 - Paper: <https://arxiv.org/abs/2403.04481>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/eclm_entity_level_language_…](https://papernotes.org/ACL2025/llm_nlp/eclm_entity_level_language_model_spoken_language_understanding/)
 
 **SongComposer: A Large Language Model for Lyric and Melody Generation in Song Composition**
 
 - Paper: <https://arxiv.org/abs/2402.17645>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/songcomposer_llm_lyric_melo…](https://papernotes.org/ACL2025/llm_nlp/songcomposer_llm_lyric_melody_generation/)
 
 **Bias in Language Models: Beyond Trick Tests and Towards RUTEd Evaluation**
 
 - Paper: <https://arxiv.org/abs/2402.12649>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/bias_in_language_models_bey…](https://papernotes.org/ACL2025/llm_nlp/bias_in_language_models_beyond_trick_tests_ruted_evaluation/)
 
 **Language-Codec: Bridging Discrete Codec Representations and Speech Language Models**
 
 - Paper: <https://arxiv.org/abs/2402.12208>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/language_codec_bridging_dis…](https://papernotes.org/ACL2025/llm_nlp/language_codec_bridging_discrete_codec_speech_language_models/)
 
 **SEE: Strategic Exploration and Exploitation for Cohesive In-Context Prompt Optimization**
 
 - Paper: <https://arxiv.org/abs/2402.11347>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/see_strategic_exploration_e…](https://papernotes.org/ACL2025/llm_nlp/see_strategic_exploration_exploitation_prompt_optimization/)
 
 **A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive**
 
 - Paper: <https://arxiv.org/abs/2402.11005>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/theory_of_llm_sampling](https://papernotes.org/ACL2025/llm_nlp/theory_of_llm_sampling/)
 
 **Can Graph Descriptive Order Affect Solving Graph Problems with LLMs?**
 
 - Paper: <https://arxiv.org/abs/2402.07140>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/graph_descriptive_order_llm](https://papernotes.org/ACL2025/llm_nlp/graph_descriptive_order_llm/)
 
 **DeAL: Decoding-time Alignment for Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2402.06147>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/deal_decoding_time_alignment](https://papernotes.org/ACL2025/llm_nlp/deal_decoding_time_alignment/)
 
 **Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2401.08491>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/contrastive_perplexity_cont…](https://papernotes.org/ACL2025/llm_nlp/contrastive_perplexity_controlled_gen/)
 
 **Enhancing Open-Domain Task-Solving Capability of LLMs via Autonomous Tool Integration from GitHub**
 
 - Paper: <https://arxiv.org/abs/2312.17294>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/paper_2312_17294](https://papernotes.org/ACL2025/llm_nlp/paper_2312_17294/)
 
 **AfroBench: How Good are Large Language Models on African Languages?** · 📖 Findings
 
@@ -1414,9 +1512,11 @@
 
 **A Survey on Foundation Language Models for Single-cell Biology**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/foundation_lm_single_cell_s…](https://papernotes.org/ACL2025/llm_nlp/foundation_lm_single_cell_survey/)
 
 **TrimLLM: Progressive Layer Dropping for Domain-Specific LLMs**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/trimllm_layer_dropping](https://papernotes.org/ACL2025/llm_nlp/trimllm_layer_dropping/)
 
 **Fusing Highly Specialized Language Models for Comprehensive Expertise**
 
@@ -1434,6 +1534,7 @@
 
 **Cuckoo: An IE Free Rider Hatched by Massive Nutrition in LLM's Nest**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/cuckoo_an_ie_free_rider_hat…](https://papernotes.org/ACL2025/llm_nlp/cuckoo_an_ie_free_rider_hatched_by_massive_nutrition_in_llms_nest/)
 
 **Neural Topic Modeling with Large Language Models in the Loop**
 
@@ -1546,6 +1647,7 @@
 
 **Bitnet.cpp: Efficient Edge Inference for Ternary LLMs**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/bitnetcpp_efficient_edge_in…](https://papernotes.org/ACL2025/llm_nlp/bitnetcpp_efficient_edge_inference_for_ternary_llms/)
 
 **LLMs + Persona-Plug = Personalized LLMs**
 
@@ -1658,6 +1760,7 @@
 
 **Can LLMs Ground when they (Don't) Know: A Study on Direct and Loaded Political Questions**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/can_llms_ground_when_they_d…](https://papernotes.org/ACL2025/llm_nlp/can_llms_ground_when_they_dont_know_a_study_on_direct_and_loaded_political_quest/)
 
 **SCULPT: Systematic Tuning of Long Prompts**
 
@@ -1927,7 +2030,7 @@
 
 **Can we Retrieve Everything All at Once? ARM: An Alignment-Oriented LLM-based Retrieval Method**
 
-- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/can_we_retrieve_everything_…](https://papernotes.org/ACL2025/llm_nlp/can_we_retrieve_everything_all_at_once_arm_an_alignment-oriented_llm-based_retri/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/arm_alignment_retrieval](https://papernotes.org/ACL2025/llm_nlp/arm_alignment_retrieval/)
 
 **More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives**
 
@@ -1948,7 +2051,7 @@
 
 **BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving**
 
-- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/bfs-prover_scalable_best-fi…](https://papernotes.org/ACL2025/llm_nlp/bfs-prover_scalable_best-first_tree_search_for_llm-based_automatic_theorem_provi/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/bfs-prover-scalable-best-fi…](https://papernotes.org/ACL2025/llm_nlp/bfs-prover-scalable-best-first-tree-search-for-llm-based-automatic-theorem-proving/)
 
 **Beyond Output Matching: Bidirectional Alignment for Enhanced In-Context Learning**
 
@@ -1981,7 +2084,7 @@
 
 **Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?**
 
-- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/revisiting_epistemic_marker…](https://papernotes.org/ACL2025/llm_nlp/revisiting_epistemic_markers_in_confidence_estimation_can_markers_accurately_ref/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/epistemic-markers-in-confid…](https://papernotes.org/ACL2025/llm_nlp/epistemic-markers-in-confidence-estimation/)
 
 **Combining Domain and Alignment Vectors Provides Better Knowledge-Safety Trade-offs in LLMs**
 
@@ -2129,6 +2232,7 @@
 **Improving MLLM's Document Image Machine Translation via Synchronously Self-reviewing Its OCR Proficiency** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2507.08309>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/improving_mllms_docu…](https://papernotes.org/ACL2025/multimodal_vlm/improving_mllms_document_image_machine_translation_via_synchronously_self-review/)
 
 **Single-to-mix Modality Alignment with Multimodal Large Language Model for Document Image Machine Translation**
 
@@ -2168,6 +2272,7 @@
 **Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents**
 
 - Paper: <https://arxiv.org/abs/2506.21252>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/agent_rewardbench](https://papernotes.org/ACL2025/multimodal_vlm/agent_rewardbench/)
 
 **DALR: Dual-level Alignment Learning for Multimodal Sentence Representation Learning** · 📖 Findings
 
@@ -2177,6 +2282,7 @@
 **VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service**
 
 - Paper: <https://arxiv.org/abs/2506.15755>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/vlminferslow_evaluat…](https://papernotes.org/ACL2025/multimodal_vlm/vlminferslow_evaluating_the_efficiency_robustness_of/)
 
 **WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts** · 📖 Findings
 
@@ -2191,6 +2297,7 @@
 **Evaluating Multimodal Large Language Models on Video Captioning via Monte Carlo Tree Search**
 
 - Paper: <https://arxiv.org/abs/2506.11155>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/mcts_video_captionin…](https://papernotes.org/ACL2025/multimodal_vlm/mcts_video_captioning_eval/)
 
 **Burn After Reading: Do Multimodal Large Language Models Truly Capture Order of Events in Image Sequences?**
 
@@ -2210,10 +2317,12 @@
 **VReST: Enhancing Reasoning in Large Vision-Language Models through Tree Search and Self-Reward Mechanism**
 
 - Paper: <https://arxiv.org/abs/2506.08691>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/vrest_tree_search_vl…](https://papernotes.org/ACL2025/multimodal_vlm/vrest_tree_search_vlm_reasoning/)
 
 **HotelMatch-LLM: Joint Multi-Task Training of Small and Large Language Models for Efficient Multimodal Hotel Retrieval**
 
 - Paper: <https://arxiv.org/abs/2506.07296>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/hotelmatch_llm_retri…](https://papernotes.org/ACL2025/multimodal_vlm/hotelmatch_llm_retrieval/)
 
 **Cultural Bias Matters: A Cross-Cultural Benchmark Dataset and Sentiment-Enriched Model for Understanding Multimodal Metaphors**
 
@@ -2237,14 +2346,17 @@
 **Speaking Beyond Language: A Large-Scale Multimodal Dataset for Learning Nonverbal Cues from Video-Grounded Dialogues**
 
 - Paper: <https://arxiv.org/abs/2506.00958>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/speaking_beyond_lang…](https://papernotes.org/ACL2025/multimodal_vlm/speaking_beyond_language/)
 
 **Aligning VLM Assistants with Personalized Situated Cognition**
 
 - Paper: <https://arxiv.org/abs/2506.00930>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/aligning_vlm_assista…](https://papernotes.org/ACL2025/multimodal_vlm/aligning_vlm_assistants_with_personalized_situated/)
 
 **EffiVLM-BENCH: A Comprehensive Benchmark for Evaluating Training-Free Acceleration in Large Vision-Language Models**
 
 - Paper: <https://arxiv.org/abs/2506.00479>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/effivlm_bench_accele…](https://papernotes.org/ACL2025/multimodal_vlm/effivlm_bench_acceleration/)
 
 **FinMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation**
 
@@ -2254,10 +2366,12 @@
 **Donate or Create? Comparing Data Collection Strategies for Emotion-labeled Multimodal Social Media Posts**
 
 - Paper: <https://arxiv.org/abs/2505.24427>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/donate_or_create_com…](https://papernotes.org/ACL2025/multimodal_vlm/donate_or_create_comparing_data_collection/)
 
 **VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC Videos**
 
 - Paper: <https://arxiv.org/abs/2505.23693>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/vf_eval_aigc_video_f…](https://papernotes.org/ACL2025/multimodal_vlm/vf_eval_aigc_video_feedback/)
 
 **MMBoundary: Advancing MLLM Knowledge Boundary Awareness through Reasoning Step Confidence Calibration**
 
@@ -2272,6 +2386,7 @@
 **Can LLMs Deceive CLIP? Benchmarking Adversarial Compositionality of Pre-trained Multimodal Representation via Text Updates**
 
 - Paper: <https://arxiv.org/abs/2505.22943>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/adversarial_composit…](https://papernotes.org/ACL2025/multimodal_vlm/adversarial_compositionality_clip/)
 
 **Retrieval Visual Contrastive Decoding to Mitigate Object Hallucinations in Large Vision-Language Models** · 📖 Findings
 
@@ -2281,6 +2396,7 @@
 **Can Multimodal Large Language Models Understand Spatial Relations?**
 
 - Paper: <https://arxiv.org/abs/2505.19015>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/spatialmqa_mllm_spat…](https://papernotes.org/ACL2025/multimodal_vlm/spatialmqa_mllm_spatial_relations/)
 
 **Inference Compute-Optimal Video Vision Language Models**
 
@@ -2320,7 +2436,7 @@
 **Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains**
 
 - Paper: <https://arxiv.org/abs/2504.20199>
-- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/weaving_context_acro…](https://papernotes.org/ACL2025/multimodal_vlm/weaving_context_across_images_improving_vision-language_models_through_focus-cen/)
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/visc-focus-centric-v…](https://papernotes.org/ACL2025/multimodal_vlm/visc-focus-centric-visual-chains-for-multi-image-reasoning/)
 
 **LogicQA: Logical Anomaly Detection with Vision Language Model Generated Questions** · 🏭 Industry
 
@@ -2345,10 +2461,12 @@
 **Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning**
 
 - Paper: <https://arxiv.org/abs/2503.13360>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/tvc_mitigating_visua…](https://papernotes.org/ACL2025/multimodal_vlm/tvc_mitigating_visual_forgetting/)
 
 **HiDe-LLaVA: Hierarchical Decoupling for Continual Instruction Tuning of Multimodal Large Language Model**
 
 - Paper: <https://arxiv.org/abs/2503.12941>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/hidellava_hierarchic…](https://papernotes.org/ACL2025/multimodal_vlm/hidellava_hierarchical_decoupling_for_continual_instruction/)
 
 **Coreference as an indicator of context scope in multimodal narrative** · 🛠️ Workshop
 
@@ -2373,10 +2491,12 @@
 **TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM Theorem Understanding**
 
 - Paper: <https://arxiv.org/abs/2502.19400>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/theorem_explain_agent](https://papernotes.org/ACL2025/multimodal_vlm/theorem_explain_agent/)
 
 **Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation**
 
 - Paper: <https://arxiv.org/abs/2502.14846>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/code_guided_text_ric…](https://papernotes.org/ACL2025/multimodal_vlm/code_guided_text_rich_image/)
 
 **Harnessing PDF Data for Improving Japanese Large Multimodal Models** · 📖 Findings
 
@@ -2386,6 +2506,7 @@
 **Symmetrical Visual Contrastive Optimization: Aligning Vision-Language Models with Minimal Contrastive Images**
 
 - Paper: <https://arxiv.org/abs/2502.13928>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/symmetrical_visual_c…](https://papernotes.org/ACL2025/multimodal_vlm/symmetrical_visual_contrastive_optimization_aligning_visionlanguage/)
 
 **Transferring Textual Preferences to Vision-Language Understanding through Model Merging**
 
@@ -2395,7 +2516,7 @@
 **VLM2-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues**
 
 - Paper: <https://arxiv.org/abs/2502.12084>
-- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/vlm2-bench_a_closer_…](https://papernotes.org/ACL2025/multimodal_vlm/vlm2-bench_a_closer_look_at_how_well_vlms_implicitly_link_explicit_matching_visu/)
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/vlm2-bench-visual-cu…](https://papernotes.org/ACL2025/multimodal_vlm/vlm2-bench-visual-cue-linking/)
 
 **Token Pruning in Multimodal Large Language Models: Are We Solving the Right Problem?** · 📖 Findings
 
@@ -2405,7 +2526,7 @@
 **CORDIAL: Can Multimodal Large Language Models Effectively Understand Coherence Relationships?**
 
 - Paper: <https://arxiv.org/abs/2502.11300>
-- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/cordial_can_multimod…](https://papernotes.org/ACL2025/multimodal_vlm/cordial_can_multimodal_large_language_models_effectively_understand_coherence_re/)
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/cordial-multimodal-l…](https://papernotes.org/ACL2025/multimodal_vlm/cordial-multimodal-llm-coherence-relationships/)
 
 **Can't See the Forest for the Trees: Benchmarking Multimodal Safety Awareness for Multimodal LLMs**
 
@@ -2424,10 +2545,12 @@
 **InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2501.12368>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/internlm-xcomposer25…](https://papernotes.org/ACL2025/multimodal_vlm/internlm-xcomposer25-reward_a_simple_yet_effective_multi-modal_reward_model/)
 
 **ChartCoder: Advancing Multimodal Large Language Model for Chart-to-Code Generation**
 
 - Paper: <https://arxiv.org/abs/2501.06598>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/chartcoder_chart_to_…](https://papernotes.org/ACL2025/multimodal_vlm/chartcoder_chart_to_code/)
 
 **Scalable Vision Language Model Training via High Quality Data Curation**
 
@@ -2462,18 +2585,22 @@
 **SPHERE: Unveiling Spatial Blind Spots in Vision-Language Models Through Hierarchical Evaluation**
 
 - Paper: <https://arxiv.org/abs/2412.12693>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/sphere_unveiling_spa…](https://papernotes.org/ACL2025/multimodal_vlm/sphere_unveiling_spatial_blind_spots_in/)
 
 **PunchBench: Benchmarking MLLMs in Multimodal Punchline Comprehension**
 
 - Paper: <https://arxiv.org/abs/2412.11906>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/punchbench_mllm_punc…](https://papernotes.org/ACL2025/multimodal_vlm/punchbench_mllm_punchline/)
 
 **MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale**
 
 - Paper: <https://arxiv.org/abs/2412.05237>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/mammoth_vl_multimoda…](https://papernotes.org/ACL2025/multimodal_vlm/mammoth_vl_multimodal_reasoning/)
 
 **Value-Spectrum: Quantifying Preferences of Vision-Language Models via Value Decomposition in Social Media Contexts**
 
 - Paper: <https://arxiv.org/abs/2411.11479>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/value_spectrum_vlm_p…](https://papernotes.org/ACL2025/multimodal_vlm/value_spectrum_vlm_pref/)
 
 **MIRe: Enhancing Multimodal Queries Representation via Fusion-Free Modality Interaction for Multimodal Retrieval** · 📖 Findings
 
@@ -2483,14 +2610,17 @@
 **Exploring How Generative MLLMs Perceive More Than CLIP with the Same Vision Encoder**
 
 - Paper: <https://arxiv.org/abs/2411.05195>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/exploring_how_genera…](https://papernotes.org/ACL2025/multimodal_vlm/exploring_how_generative_mllms_perceive_more/)
 
 **Attacking Vision-Language Computer Agents via Pop-ups**
 
 - Paper: <https://arxiv.org/abs/2411.02391>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/attacking_vl_agents_…](https://papernotes.org/ACL2025/multimodal_vlm/attacking_vl_agents_popups/)
 
 **Insight Over Sight: Exploring the Vision-Knowledge Conflicts in Multimodal LLMs**
 
 - Paper: <https://arxiv.org/abs/2410.08145>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/conflictvis_vision_k…](https://papernotes.org/ACL2025/multimodal_vlm/conflictvis_vision_knowledge_conflict/)
 
 **AVG-LLaVA: An Efficient Large Multimodal Model with Adaptive Visual Granularity** · 📖 Findings
 
@@ -2505,6 +2635,7 @@
 **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**
 
 - Paper: <https://arxiv.org/abs/2409.02813>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/mmmupro_a_more_robus…](https://papernotes.org/ACL2025/multimodal_vlm/mmmupro_a_more_robust_multidiscipline_multimodal/)
 
 **Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models** · 📖 Findings
 
@@ -2529,6 +2660,7 @@
 **Don't Miss the Forest for the Trees: Attentional Vision Calibration for Large Vision Language Models** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2405.17820>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/dont_miss_the_forest…](https://papernotes.org/ACL2025/multimodal_vlm/dont_miss_the_forest_for_the_trees_attentional_vision_calibration_for_large_visi/)
 
 **MMInA: Benchmarking Multihop Multimodal Internet Agents** · 📖 Findings
 
@@ -2538,6 +2670,7 @@
 **A Survey on Patent Analysis: From NLP to Multimodal AI**
 
 - Paper: <https://arxiv.org/abs/2404.08668>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/patent_analysis_survey](https://papernotes.org/ACL2025/multimodal_vlm/patent_analysis_survey/)
 
 **Unsolvable Problem Detection: Robust Understanding Evaluation for Large Multimodal Models**
 
@@ -2555,6 +2688,7 @@
 
 **LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating**
 
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/longdocurl_multimoda…](https://papernotes.org/ACL2025/multimodal_vlm/longdocurl_multimodal_long_doc/)
 
 **Jailbreak Large Vision-Language Models Through Multi-Modal Linkage**
 
@@ -2568,9 +2702,11 @@
 
 **Inference Compute-Optimal Video Vision Language Models**
 
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/inference_compute_op…](https://papernotes.org/ACL2025/multimodal_vlm/inference_compute_optimal_video_vlm/)
 
 **Centurio: On Drivers of Multilingual Ability of Large Vision-Language Model**
 
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/centurio_multilingua…](https://papernotes.org/ACL2025/multimodal_vlm/centurio_multilingual_vlm/)
 
 **Con Instruction: Universal Jailbreaking of Multimodal Large Language Models via Non-Textual Modalities**
 
@@ -2582,19 +2718,23 @@
 
 **Teaching Vision-Language Models to Ask: Resolving Ambiguity in Visual Questions**
 
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/teaching_vlm_ask_amb…](https://papernotes.org/ACL2025/multimodal_vlm/teaching_vlm_ask_ambiguity/)
 
 **Visual Evidence Prompting Mitigates Hallucinations in Large Vision-Language Models**
 
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/visual_evidence_prom…](https://papernotes.org/ACL2025/multimodal_vlm/visual_evidence_prompting/)
 
 **Sharper and Faster mean Better: Towards More Efficient Vision-Language Model for Hour-scale Long Video Understanding**
 
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/sophia_efficient_lon…](https://papernotes.org/ACL2025/multimodal_vlm/sophia_efficient_long_video/)
 
 **Enhancing Multimodal Continual Instruction Tuning with BranchLoRA**
 
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/branchlora_continual…](https://papernotes.org/ACL2025/multimodal_vlm/branchlora_continual_instruction/)
 
 **VLM2-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues**
 
-- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/vlm2-bench_a_closer_…](https://papernotes.org/ACL2025/multimodal_vlm/vlm2-bench_a_closer_look_at_how_well_vlms_implicitly_link_explicit_matching_visu/)
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/vlm2-bench-visual-cu…](https://papernotes.org/ACL2025/multimodal_vlm/vlm2-bench-visual-cue-linking/)
 
 **ActiView: Evaluating Active Perception Ability for Multimodal Large Language Models**
 
@@ -2631,6 +2771,7 @@
 
 **Agri-CM$^3$: A Chinese Massive Multi-modal, Multi-level Benchmark for Agricultural Understanding and Reasoning**
 
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/agri-cm3_a_chinese_m…](https://papernotes.org/ACL2025/multimodal_vlm/agri-cm3_a_chinese_massive_multi-modal_multi-level_benchmark_for_agricultural_un/)
 
 **Redundancy Principles for MLLMs Benchmarks**
 
@@ -2717,7 +2858,7 @@
 
 **CORDIAL: Can Multimodal Large Language Models Effectively Understand Coherence Relationships?**
 
-- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/cordial_can_multimod…](https://papernotes.org/ACL2025/multimodal_vlm/cordial_can_multimodal_large_language_models_effectively_understand_coherence_re/)
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/cordial-multimodal-l…](https://papernotes.org/ACL2025/multimodal_vlm/cordial-multimodal-llm-coherence-relationships/)
 
 **VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search**
 
@@ -2771,7 +2912,7 @@
 
 **Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains**
 
-- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/weaving_context_acro…](https://papernotes.org/ACL2025/multimodal_vlm/weaving_context_across_images_improving_vision-language_models_through_focus-cen/)
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/visc-focus-centric-v…](https://papernotes.org/ACL2025/multimodal_vlm/visc-focus-centric-visual-chains-for-multi-image-reasoning/)
 
 **Benchmarking and Improving Large Vision-Language Models for Fundamental Visual Graph Understanding and Reasoning**
 
@@ -2836,10 +2977,12 @@
 **Help Me Write a Story: Evaluating LLMs' Ability to Generate Writing Feedback**
 
 - Paper: <https://arxiv.org/abs/2507.16007>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/help_write_story_fee…](https://papernotes.org/ACL2025/llm_evaluation/help_write_story_feedback/)
 
 **AbGen: Evaluating Large Language Models in Ablation Study Design and Evaluation for Scientific Research**
 
 - Paper: <https://arxiv.org/abs/2507.13300>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/abgen_evaluating_lar…](https://papernotes.org/ACL2025/llm_evaluation/abgen_evaluating_large_language_models_in/)
 
 **McBE: A Multi-task Chinese Bias Evaluation Benchmark for Large Language Models** · 📖 Findings
 
@@ -2849,6 +2992,7 @@
 **La Leaderboard: A Large Language Model Leaderboard for Spanish Varieties and Languages of Spain and Latin America**
 
 - Paper: <https://arxiv.org/abs/2507.00999>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/la_leaderboard_spanish](https://papernotes.org/ACL2025/llm_evaluation/la_leaderboard_spanish/)
 
 **PapersPlease: A Benchmark for Evaluating Motivational Values of Large Language Models Based on ERG Theory** · 🛠️ Workshop
 
@@ -2878,10 +3022,12 @@
 **Com$^2$ : A Causal-Guided Benchmark for Exploring Complex Commonsense Reasoning in Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2506.07064>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/com2_causal_commonse…](https://papernotes.org/ACL2025/llm_evaluation/com2_causal_commonsense/)
 
 **FinanceReasoning: Benchmarking Financial Numerical Reasoning More Credible, Comprehensive and Challenging**
 
 - Paper: <https://arxiv.org/abs/2506.05828>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/financereasoning_ben…](https://papernotes.org/ACL2025/llm_evaluation/financereasoning_benchmarking_financial_numerical_reasoning_more/)
 
 **A MISMATCHED Benchmark for Scientific Natural Language Inference** · 📖 Findings
 
@@ -2901,14 +3047,17 @@
 **Improving the Calibration of Confidence Scores in Text Generation Using the Output Distribution's Characteristics**
 
 - Paper: <https://arxiv.org/abs/2506.00637>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/calibration_confiden…](https://papernotes.org/ACL2025/llm_evaluation/calibration_confidence_text_gen/)
 
 **GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Reasoning**
 
 - Paper: <https://arxiv.org/abs/2505.22661>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/guessarena_guess_who…](https://papernotes.org/ACL2025/llm_evaluation/guessarena_guess_who_i_am_a/)
 
 **Something's Fishy In The Data Lake: A Critical Re-evaluation of Table Union Search Benchmarks** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2505.21329>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/somethings_fishy_in_…](https://papernotes.org/ACL2025/llm_evaluation/somethings_fishy_in_the_data_lake_a_critical_re-evaluation_of_table_union_search/)
 
 **WXImpactBench: A Disruptive Weather Impact Understanding Benchmark for Evaluating Large Language Models**
 
@@ -2933,6 +3082,7 @@
 **ELABORATION: A Comprehensive Benchmark on Human-LLM Competitive Programming**
 
 - Paper: <https://arxiv.org/abs/2505.16667>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/elaboration_competit…](https://papernotes.org/ACL2025/llm_evaluation/elaboration_competitive_programming/)
 
 **EcomScriptBench: A Multi-task Benchmark for E-commerce Script Planning via Step-wise Intention-Driven Product Association**
 
@@ -2942,6 +3092,7 @@
 **YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering**
 
 - Paper: <https://arxiv.org/abs/2505.14279>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/yescieval_llm_judge_…](https://papernotes.org/ACL2025/llm_evaluation/yescieval_llm_judge_science/)
 
 **SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science**
 
@@ -2986,6 +3137,7 @@
 **Retrieval Models Aren't Tool-Savvy: Benchmarking Tool Retrieval for Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2503.01763>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/retrieval_models_are…](https://papernotes.org/ACL2025/llm_evaluation/retrieval_models_arent_tool-savvy_benchmarking_tool_retrieval_for_large_language/)
 
 **KITAB-Bench: A Comprehensive Multi-Domain Benchmark for Arabic OCR and Document Understanding**
 
@@ -3015,6 +3167,7 @@
 **VITAL: A New Dataset for Benchmarking Pluralistic Alignment in Healthcare**
 
 - Paper: <https://arxiv.org/abs/2502.13775>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/vital_pluralistic_al…](https://papernotes.org/ACL2025/llm_evaluation/vital_pluralistic_alignment_healthcare/)
 
 **HPSS: Heuristic Prompting Strategy Search for LLM Evaluators** · 📖 Findings
 
@@ -3069,10 +3222,12 @@
 **JuStRank: Benchmarking LLM Judges for System Ranking**
 
 - Paper: <https://arxiv.org/abs/2412.09569>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/justrank_llm_judge_s…](https://papernotes.org/ACL2025/llm_evaluation/justrank_llm_judge_system_ranking/)
 
 **RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios**
 
 - Paper: <https://arxiv.org/abs/2412.08972>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/rulearena_rule_guide…](https://papernotes.org/ACL2025/llm_evaluation/rulearena_rule_guided_reasoning/)
 
 **BESSTIE: A Benchmark for Sentiment and Sarcasm Classification for Varieties of English** · 📖 Findings
 
@@ -3121,12 +3276,14 @@
 
 **EcomScriptBench: A Multi-task Benchmark for E-commerce Script Planning via Step-wise Intention-Driven Product Association**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/ecomscriptbench](https://papernotes.org/ACL2025/llm_evaluation/ecomscriptbench/)
 
 **StrucText-Eval: Evaluating Large Language Model's Reasoning Ability in Structure-Rich Text**
 
 
 **BelarusianGLUE: Towards a Natural Language Understanding Benchmark for Belarusian**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/belarusian_glue](https://papernotes.org/ACL2025/llm_evaluation/belarusian_glue/)
 
 **EvoWiki: Evaluating LLMs on Evolving Knowledge**
 
@@ -3134,6 +3291,7 @@
 
 **AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/androidlab_autonomou…](https://papernotes.org/ACL2025/llm_evaluation/androidlab_autonomous_agent/)
 
 **INVESTORBENCH: A Benchmark for Financial Decision-Making Tasks with LLM-based Agent**
 
@@ -3320,10 +3478,12 @@
 **LACA: Improving Cross-lingual Aspect-Based Sentiment Analysis with LLM Data Augmentation**
 
 - Paper: <https://arxiv.org/abs/2508.09515>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/laca_crosslingual_a…](https://papernotes.org/ACL2025/multilingual_mt/laca_crosslingual_absa/)
 
 **Marco-Bench-MIF: On Multilingual Instruction-Following Capability of Large Language**
 
 - Paper: <https://arxiv.org/abs/2507.11882>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/marco_bench_multili…](https://papernotes.org/ACL2025/multilingual_mt/marco_bench_multilingual_if/)
 
 **Beyond N-Grams: Rethinking Evaluation Metrics and Strategies for Multilingual Abstractive Summarization**
 
@@ -3337,6 +3497,7 @@
 **Data Quality Issues in Multilingual Speech Datasets: The Need for Sociolinguistic Awareness and Proactive Language Planning**
 
 - Paper: <https://arxiv.org/abs/2506.17525>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/multilingual_speech…](https://papernotes.org/ACL2025/multilingual_mt/multilingual_speech_data_quality/)
 
 **COSMMIC: Comment-Sensitive Multimodal Multilingual Indian Corpus for Summarization and Headline Generation**
 
@@ -3355,14 +3516,17 @@
 **NameTag 3: A Tool and a Service for Multilingual/Multitagset NER**
 
 - Paper: <https://arxiv.org/abs/2506.05949>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/nametag_3_a_tool_an…](https://papernotes.org/ACL2025/multilingual_mt/nametag_3_a_tool_and_a_service_for_multilingualmultitagset_ner/)
 
 **M$^3$FinMeeting: A Multilingual, Multi-Sector, and Multi-Task Financial Meeting Understanding Evaluation Dataset**
 
 - Paper: <https://arxiv.org/abs/2506.02510>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/m3finmeeting_a_mult…](https://papernotes.org/ACL2025/multilingual_mt/m3finmeeting_a_multilingual_multi-sector_and_multi-task_financial_meeting_unders/)
 
 **Read it in Two Steps: Translating Extremely Low-Resource Languages with Code-Augmented Grammar Books**
 
 - Paper: <https://arxiv.org/abs/2506.01796>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/low_resource_transl…](https://papernotes.org/ACL2025/multilingual_mt/low_resource_translation/)
 
 **MaXIFE: Multilingual and Cross-lingual Instruction Following Evaluation**
 
@@ -3377,6 +3541,7 @@
 **Cross-Lingual Generalization and Compression: From Language-Specific to Shared Neurons**
 
 - Paper: <https://arxiv.org/abs/2506.01629>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/cross_lingual_neuro…](https://papernotes.org/ACL2025/multilingual_mt/cross_lingual_neurons_compression/)
 
 **Statement-Tuning Enables Efficient Cross-lingual Generalization in Encoder-only Models** · 📖 Findings
 
@@ -3401,10 +3566,12 @@
 **Hierarchical Level-Wise News Article Clustering via Multilingual Matryoshka Embeddings**
 
 - Paper: <https://arxiv.org/abs/2506.00277>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/hierarchical_news_c…](https://papernotes.org/ACL2025/multilingual_mt/hierarchical_news_clustering/)
 
 **Disentangling Language and Culture for Evaluating Multilingual Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2505.24635>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/disentangle_languag…](https://papernotes.org/ACL2025/multilingual_mt/disentangle_language_culture/)
 
 **ZIPA: A family of efficient models for multilingual phone recognition**
 
@@ -3414,6 +3581,7 @@
 **Less, but Better: Efficient Multilingual Expansion for LLMs via Layer-wise Mixture-of-Experts**
 
 - Paper: <https://arxiv.org/abs/2505.22582>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/less_but_better_eff…](https://papernotes.org/ACL2025/multilingual_mt/less_but_better_efficient_multilingual_expansion/)
 
 **SeqPO-SiMT: Sequential Policy Optimization for Simultaneous Machine Translation**
 
@@ -3428,6 +3596,7 @@
 **Delving into Multilingual Ethical Bias: The MSQAD with Statistical Hypothesis Tests for Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2505.19121>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/msqad_multilingual_…](https://papernotes.org/ACL2025/multilingual_mt/msqad_multilingual_ethical_bias/)
 
 **CCHall: A Novel Benchmark for Joint Cross-Lingual and Cross-Modal Hallucinations Detection in Large Language Models**
 
@@ -3437,6 +3606,7 @@
 **Cross-Lingual Pitfalls: Automatic Probing Cross-Lingual Weakness of Multilingual Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2505.18673>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/crosslingual_pitfalls](https://papernotes.org/ACL2025/multilingual_mt/crosslingual_pitfalls/)
 
 **EXECUTE: A Multilingual Benchmark for LLM Token Understanding** · 📖 Findings
 
@@ -3521,6 +3691,7 @@
 **MiLiC-Eval: Benchmarking Multilingual LLMs for China's Minority Languages** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2503.01150>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/milic-eval_benchmar…](https://papernotes.org/ACL2025/multilingual_mt/milic-eval_benchmarking_multilingual_llms_for_chinas_minority_languages/)
 
 **Assessing Agentic Large Language Models in Multilingual National Bias** · 📖 Findings
 
@@ -3530,6 +3701,7 @@
 **Middle-Layer Representation Alignment for Cross-Lingual Transfer in Fine-Tuned LLMs**
 
 - Paper: <https://arxiv.org/abs/2502.14830>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/mid_layer_crossling…](https://papernotes.org/ACL2025/multilingual_mt/mid_layer_crosslingual_alignment/)
 
 **Edit Once, Update Everywhere: A Simple Framework for Cross-Lingual Knowledge Synchronization in LLMs** · 📖 Findings
 
@@ -3559,6 +3731,7 @@
 **Memorization Inheritance in Sequence-Level Knowledge Distillation for Neural Machine Translation**
 
 - Paper: <https://arxiv.org/abs/2502.01491>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/memorization_inheri…](https://papernotes.org/ACL2025/multilingual_mt/memorization_inheritance_seqkd/)
 
 **Language Fusion for Parameter-Efficient Cross-lingual Transfer**
 
@@ -3607,6 +3780,7 @@
 **ShifCon: Enhancing Non-Dominant Language Capabilities with a Shift-based Multilingual Contrastive Framework**
 
 - Paper: <https://arxiv.org/abs/2410.19453>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/shifcon_nondominant…](https://papernotes.org/ACL2025/multilingual_mt/shifcon_nondominant_language/)
 
 **GrammaMT: Improving Machine Translation with Grammar-Informed In-Context Learning**
 
@@ -3616,6 +3790,7 @@
 **Do Large Language Models have an English Accent? Evaluating and Improving the Naturalness of Multilingual LLMs**
 
 - Paper: <https://arxiv.org/abs/2410.15956>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/multilingual_llm_en…](https://papernotes.org/ACL2025/multilingual_mt/multilingual_llm_english_accent/)
 
 **M-RewardBench: Evaluating Reward Models in Multilingual Settings**
 
@@ -3630,6 +3805,7 @@
 **LangSAMP: Language-Script Aware Multilingual Pretraining**
 
 - Paper: <https://arxiv.org/abs/2409.18199>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/langsamp_multilingu…](https://papernotes.org/ACL2025/multilingual_mt/langsamp_multilingual_pretraining/)
 
 **CRUXEVAL-X: A Benchmark for Multilingual Code Reasoning, Understanding and Execution**
 
@@ -3639,6 +3815,7 @@
 **Modular Sentence Encoders: Separating Language Specialization from Cross-Lingual Alignment**
 
 - Paper: <https://arxiv.org/abs/2407.14878>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/modular_sentence_en…](https://papernotes.org/ACL2025/multilingual_mt/modular_sentence_encoders/)
 
 **Code-Switching Red-Teaming: LLM Evaluation for Safety and Multilingual Understanding**
 
@@ -3663,6 +3840,7 @@
 **Did Translation Models Get More Robust Without Anyone Even Noticing?**
 
 - Paper: <https://arxiv.org/abs/2403.03923>
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/translation_robustn…](https://papernotes.org/ACL2025/multilingual_mt/translation_robustness/)
 
 **Machine Translation Models are Zero-Shot Detectors of Translation Direction** · 📖 Findings
 
@@ -3671,6 +3849,7 @@
 
 **M-RewardBench: Evaluating Reward Models in Multilingual Settings**
 
+- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/m_rewardbench](https://papernotes.org/ACL2025/multilingual_mt/m_rewardbench/)
 
 **Steering into New Embedding Spaces: Analyzing Cross-Lingual Alignment Induced by Model Interventions in Multilingual Language Models**
 
@@ -3858,6 +4037,7 @@
 **FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation**
 
 - Paper: <https://arxiv.org/abs/2506.08938>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/faithfulrag_f…](https://papernotes.org/ACL2025/information_retrieval/faithfulrag_fact_level_conflict/)
 
 **GaRAGe: A Benchmark with Grounding Annotations for RAG Evaluation** · 📖 Findings
 
@@ -3877,10 +4057,12 @@
 **CoRe-MMRAG: Cross-Source Knowledge Reconciliation for Multimodal RAG**
 
 - Paper: <https://arxiv.org/abs/2506.02544>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/core_mmrag_kn…](https://papernotes.org/ACL2025/information_retrieval/core_mmrag_knowledge_reconciliation/)
 
 **DRAG: Distilling RAG for SLMs from LLMs to Transfer Knowledge and Mitigate Hallucination via Evidence and Graph-based Distillation**
 
 - Paper: <https://arxiv.org/abs/2506.01954>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/drag_distilli…](https://papernotes.org/ACL2025/information_retrieval/drag_distilling_rag_slm/)
 
 **When Should Dense Retrievers Be Updated in Evolving Corpora? Detecting Out-of-Distribution Corpora Using GradNormIR** · 📖 Findings
 
@@ -3900,14 +4082,17 @@
 **Don't Reinvent the Wheel: Efficient Instruction-Following Text Embedding based on Guided Space Transformation**
 
 - Paper: <https://arxiv.org/abs/2505.24754>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/dont_reinvent…](https://papernotes.org/ACL2025/information_retrieval/dont_reinvent_the_wheel_efficient_instruction-following_text_embedding_based_on_/)
 
 **PRISM: A Framework for Producing Interpretable Political Bias Embeddings with Political-Aware Cross-Encoder**
 
 - Paper: <https://arxiv.org/abs/2505.24646>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/prism_politic…](https://papernotes.org/ACL2025/information_retrieval/prism_political_bias_embeddings/)
 
 **Uncovering Visual-Semantic Psycholinguistic Properties from the Distributional Structure of Text Embedding Space**
 
 - Paper: <https://arxiv.org/abs/2505.23029>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/psycholinguis…](https://papernotes.org/ACL2025/information_retrieval/psycholinguistic_visual_semantic/)
 
 **Logical Consistency is Vital: Neural-Symbolic Information Retrieval for Negative-Constraint Queries**
 
@@ -3917,10 +4102,12 @@
 **Divide-Then-Align: Honest Alignment based on the Knowledge Boundary of RAG**
 
 - Paper: <https://arxiv.org/abs/2505.20871>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/divide_then_a…](https://papernotes.org/ACL2025/information_retrieval/divide_then_align_rag_knowledge_boundary/)
 
 **NeuSym-RAG: Hybrid Neural Symbolic Retrieval with Multiview Structuring for PDF Question Answering**
 
 - Paper: <https://arxiv.org/abs/2505.19754>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/neusym_rag_pd…](https://papernotes.org/ACL2025/information_retrieval/neusym_rag_pdf_qa/)
 
 **Optimized Text Embedding Models and Benchmarks for Amharic Passage Retrieval** · 📖 Findings
 
@@ -3930,6 +4117,7 @@
 **GainRAG: Preference Alignment in Retrieval-Augmented Generation through Gain Signal Synthesis**
 
 - Paper: <https://arxiv.org/abs/2505.18710>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/gainrag_prefe…](https://papernotes.org/ACL2025/information_retrieval/gainrag_preference_alignment/)
 
 **Removal of Hallucination on Hallucination: Debate-Augmented RAG**
 
@@ -3974,6 +4162,7 @@
 **Collapse of Dense Retrievers: Short, Early, and Literal Biases Outranking Factual Evidence**
 
 - Paper: <https://arxiv.org/abs/2503.05037>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/collapse_dens…](https://papernotes.org/ACL2025/information_retrieval/collapse_dense_retrievers/)
 
 **HoH: A Dynamic Benchmark for Evaluating the Impact of Outdated Information on Retrieval-Augmented Generation**
 
@@ -4023,10 +4212,12 @@
 **Gumbel Reranking: Differentiable End-to-End Reranker Optimization**
 
 - Paper: <https://arxiv.org/abs/2502.11116>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/gumbel_rerank…](https://papernotes.org/ACL2025/information_retrieval/gumbel_reranking/)
 
 **Re-ranking Using Large Language Models for Mitigating Exposure to Harmful Content on Social Media Platforms**
 
 - Paper: <https://arxiv.org/abs/2501.13977>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/llm_reranking…](https://papernotes.org/ACL2025/information_retrieval/llm_reranking_harmful_content/)
 
 **Enhancing Lexicon-Based Text Embeddings with Large Language Models**
 
@@ -4041,6 +4232,7 @@
 **HybGRAG: Hybrid Retrieval-Augmented Generation on Textual and Relational Knowledge Bases**
 
 - Paper: <https://arxiv.org/abs/2412.16311>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/hybgrag_hybri…](https://papernotes.org/ACL2025/information_retrieval/hybgrag_hybrid_rag_skb/)
 
 **AIR-Bench: Automated Heterogeneous Information Retrieval Benchmark**
 
@@ -4055,6 +4247,7 @@
 **KnowShiftQA: How Robust are RAG Systems when Textbook Knowledge Shifts in K-12 Education?**
 
 - Paper: <https://arxiv.org/abs/2412.08985>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/knowshiftqa_r…](https://papernotes.org/ACL2025/information_retrieval/knowshiftqa_rag_knowledge_shifts/)
 
 **GRAF: Graph Retrieval Augmented by Facts for Romanian Legal Multi-Choice Question Answering** · 📖 Findings
 
@@ -4064,6 +4257,7 @@
 **RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2412.02830>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/rare_retrieva…](https://papernotes.org/ACL2025/information_retrieval/rare_retrieval_augmented_reasoning/)
 
 **Evaluation of Attribution Bias in Generator-Aware Retrieval-Augmented Large Language Models** · 📖 Findings
 
@@ -4073,14 +4267,17 @@
 **Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs**
 
 - Paper: <https://arxiv.org/abs/2410.11001>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/gor_rag_long_…](https://papernotes.org/ACL2025/information_retrieval/gor_rag_long_context_summary/)
 
 **Parenting: Optimizing Knowledge Selection of Retrieval-Augmented Language Models with Parameter Decoupling and Tailored Tuning**
 
 - Paper: <https://arxiv.org/abs/2410.10360>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/parenting_opt…](https://papernotes.org/ACL2025/information_retrieval/parenting_optimizing_knowledge_selection_of_retrievalaugmented/)
 
 **Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2410.07176>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/astute_rag_kn…](https://papernotes.org/ACL2025/information_retrieval/astute_rag_knowledge_conflicts/)
 
 **Multilingual Retrieval Augmented Generation for Culturally-Sensitive Tasks: A Benchmark for Cross-lingual Robustness** · 📖 Findings
 
@@ -4090,10 +4287,12 @@
 **Pandora's Box or Aladdin's Lamp: A Comprehensive Analysis Revealing the Role of RAG Noise in Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2408.13533>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/pandora_box_r…](https://papernotes.org/ACL2025/information_retrieval/pandora_box_rag_noise/)
 
 **Controllable and Reliable Knowledge-Intensive Task-Oriented Conversational Agents with Declarative Genie Worksheets**
 
 - Paper: <https://arxiv.org/abs/2407.05674>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/genie_workshe…](https://papernotes.org/ACL2025/information_retrieval/genie_worksheets_tod_agent/)
 
 **CoIR: A Comprehensive Benchmark for Code Information Retrieval Models**
 
@@ -4108,6 +4307,7 @@
 **FlashBack:Efficient Retrieval-Augmented Language Modeling for Long Context Inference** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2405.04065>
+- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/flashbackeffi…](https://papernotes.org/ACL2025/information_retrieval/flashbackefficient_retrieval-augmented_language_modeling_for_long_context_infere/)
 
 **Health-LLM: Personalized Retrieval-Augmented Disease Prediction System** · 🛠️ Workshop
 
@@ -4258,6 +4458,7 @@
 **EAC-MoE: Expert-Selection Aware Compressor for Mixture-of-Experts Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2508.01625>
+- Notes (Chinese): [papernotes.org/ACL2025/moe/eac_moe_expert_aware_compression](https://papernotes.org/ACL2025/moe/eac_moe_expert_aware_compression/)
 
 **IAM: Efficient Inference through Attention Mapping between Different-scale LLMs**
 
@@ -4267,10 +4468,12 @@
 **DAC: A Dynamic Attention-aware Approach for Task-Agnostic Prompt Compression**
 
 - Paper: <https://arxiv.org/abs/2507.11942>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/dac_prompt_compre…](https://papernotes.org/ACL2025/model_compression/dac_prompt_compression/)
 
 **Flipping Knowledge Distillation: Leveraging Small Models' Expertise to Enhance LLMs in Text Matching**
 
 - Paper: <https://arxiv.org/abs/2507.05617>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/flipping_kd_small…](https://papernotes.org/ACL2025/model_compression/flipping_kd_small_to_large/)
 
 **Disentangling the Roles of Representation and Selection in Data Pruning**
 
@@ -4285,6 +4488,7 @@
 **MoQAE: Mixed-Precision Quantization for Long-Context LLM Inference via Mixture of Quantization-Aware Experts**
 
 - Paper: <https://arxiv.org/abs/2506.07533>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/moqae_mixed_preci…](https://papernotes.org/ACL2025/model_compression/moqae_mixed_precision_kv_cache/)
 
 **Adapt Once, Thrive with Updates: Transferable Parameter-Efficient Fine-Tuning on Evolving Base Models**
 
@@ -4303,6 +4507,7 @@
 **Prompt Candidates, then Distill: A Teacher-Student Framework for LLM-driven Data Annotation**
 
 - Paper: <https://arxiv.org/abs/2506.03857>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/prompt_distill_te…](https://papernotes.org/ACL2025/model_compression/prompt_distill_teacher_student/)
 
 **Unifying Uniform and Binary-coding Quantization for Accurate Compression of Large Language Models**
 
@@ -4311,6 +4516,7 @@
 **Beyond Text Compression: Evaluating Tokenizers Across Scales**
 
 - Paper: <https://arxiv.org/abs/2506.03101>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/beyond_text_compr…](https://papernotes.org/ACL2025/model_compression/beyond_text_compression_tokenizers/)
 
 **Assigning Distinct Roles to Quantized and Low-Rank Matrices Toward Optimal Weight Decomposition** · 📖 Findings
 
@@ -4320,6 +4526,7 @@
 **Unraveling LoRA Interference: Orthogonal Subspaces for Robust Model Merging**
 
 - Paper: <https://arxiv.org/abs/2505.22934>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/osrm_lora_merging…](https://papernotes.org/ACL2025/model_compression/osrm_lora_merging_orthogonal/)
 
 **ClaimPKG: Enhancing Claim Verification via Pseudo-Subgraph Generation with Lightweight Specialized LLM** · 📖 Findings
 
@@ -4334,14 +4541,17 @@
 **Quaff: Quantized Parameter-Efficient Fine-Tuning under Outlier Spatial Stability Hypothesis**
 
 - Paper: <https://arxiv.org/abs/2505.14742>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/quaff_quantized_p…](https://papernotes.org/ACL2025/model_compression/quaff_quantized_peft/)
 
 **Unveiling Language-Specific Features in Large Language Models via Sparse Autoencoders**
 
 - Paper: <https://arxiv.org/abs/2505.05111>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/language_specific…](https://papernotes.org/ACL2025/model_compression/language_specific_features/)
 
 **LLMSR@XLLM25: Less is More: Enhancing Structured Multi-Agent Reasoning via Quality-Guided Distillation**
 
 - Paper: <https://arxiv.org/abs/2504.16408>
+- Notes (Chinese): [papernotes.org/ACL2025/multi_agent/llmsrxllm25_less_is_mor…](https://papernotes.org/ACL2025/multi_agent/llmsrxllm25_less_is_more_enhancing_structured_multi-agent_reasoning_via_quality-/)
 
 **Sparse Logit Sampling: Accelerating Knowledge Distillation in LLMs**
 
@@ -4356,14 +4566,17 @@
 **State-offset Tuning: State-based Parameter-Efficient Fine-Tuning for State Space Models**
 
 - Paper: <https://arxiv.org/abs/2503.03499>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/state_offset_tuni…](https://papernotes.org/ACL2025/model_compression/state_offset_tuning_ssm_peft/)
 
 **AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation**
 
 - Paper: <https://arxiv.org/abs/2503.02832>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/aligndistil_token…](https://papernotes.org/ACL2025/model_compression/aligndistil_token_level_alignment/)
 
 **PTQ1.61: Push the Real Limit of Extremely Low-Bit Post-Training Quantization Methods for Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2502.13179>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/ptq161_low_bit_qu…](https://papernotes.org/ACL2025/model_compression/ptq161_low_bit_quantization/)
 
 **GSQ-Tuning: Group-Shared Exponents Integer in Fully Quantized Training for LLMs On-Device Fine-tuning** · 📖 Findings
 
@@ -4373,6 +4586,7 @@
 **APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs**
 
 - Paper: <https://arxiv.org/abs/2502.12085>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/apb_distributed_l…](https://papernotes.org/ACL2025/model_compression/apb_distributed_long_context/)
 
 **Who Taught You That? Tracing Teachers in Model Distillation** · 📖 Findings
 
@@ -4397,10 +4611,12 @@
 **DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization**
 
 - Paper: <https://arxiv.org/abs/2411.14055>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/drpruning_robust_…](https://papernotes.org/ACL2025/model_compression/drpruning_robust_pruning/)
 
 **``Give Me BF16 or Give Me Death''? Accuracy-Performance Trade-Offs in LLM Quantization**
 
 - Paper: <https://arxiv.org/abs/2411.02355>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/bf16_or_death_qua…](https://papernotes.org/ACL2025/model_compression/bf16_or_death_quantization_tradeoffs/)
 
 **BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction for Whisper-Enhanced Text Generation** · 📖 Findings
 
@@ -4410,14 +4626,17 @@
 **FedEx-LoRA: Exact Aggregation for Federated and Efficient Fine-Tuning of Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2410.09432>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/fedex_lora_federa…](https://papernotes.org/ACL2025/model_compression/fedex_lora_federated_exact_aggregation/)
 
 **Mitigating Selection Bias with Node Pruning and Auxiliary Options**
 
 - Paper: <https://arxiv.org/abs/2409.18857>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/selection_bias_no…](https://papernotes.org/ACL2025/model_compression/selection_bias_node_pruning/)
 
 **STUN: Structured-Then-Unstructured Pruning for Scalable MoE Pruning**
 
 - Paper: <https://arxiv.org/abs/2409.06211>
+- Notes (Chinese): [papernotes.org/ACL2025/moe/stun_moe_pruning](https://papernotes.org/ACL2025/moe/stun_moe_pruning/)
 
 **mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding**
 
@@ -4432,6 +4651,7 @@
 **EfficientQAT: Efficient Quantization-Aware Training for Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2407.11062>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/efficientqat](https://papernotes.org/ACL2025/model_compression/efficientqat/)
 
 **BlockPruner: Fine-grained Pruning for Large Language Models** · 📖 Findings
 
@@ -4461,18 +4681,22 @@
 **Towards the Law of Capacity Gap in Distilling Language Models**
 
 - Paper: <https://arxiv.org/abs/2311.07052>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/law_of_capacity_g…](https://papernotes.org/ACL2025/model_compression/law_of_capacity_gap_distilling_language_models/)
 
 **Capture the Key in Reasoning to Enhance CoT Distillation Generalization**
 
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/capture_key_cot_d…](https://papernotes.org/ACL2025/model_compression/capture_key_cot_distillation/)
 
 **UniICL: An Efficient ICL Framework Unifying Compression, Selection, and Generation**
 
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/uniicl_icl_framew…](https://papernotes.org/ACL2025/model_compression/uniicl_icl_framework/)
 
 **``Yes, My LoRD.'' Guiding Language Model Extraction with Locality Reinforced Distillation**
 
 
 **L4Q: Parameter Efficient Quantization-Aware Fine-Tuning on Large Language Models**
 
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/l4q_parameter_eff…](https://papernotes.org/ACL2025/model_compression/l4q_parameter_efficient_quantization_aware_finetuning/)
 
 **TEACH: A Contrastive Knowledge Adaptive Distillation Framework for Classical Chinese Understanding**
 
@@ -4483,6 +4707,7 @@
 
 **A Silver Bullet or a Compromise for Full Attention? A Comprehensive Study of Gist Token-based Context Compression**
 
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/gist_token_contex…](https://papernotes.org/ACL2025/model_compression/gist_token_context_compression/)
 
 **Quantification of Large Language Model Distillation**
 
@@ -4493,6 +4718,7 @@
 
 **mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding**
 
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/mplug_docowl2_doc…](https://papernotes.org/ACL2025/model_compression/mplug_docowl2_doc_compress/)
 
 **PIC: Unlocking Long-Form Text Generation Capabilities of Large Language Models via Position ID Compression**
 
@@ -4544,6 +4770,7 @@
 
 **Language Models Resist Alignment: Evidence From Data Compression**
 
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/language_models_r…](https://papernotes.org/ACL2025/model_compression/language_models_resist_alignment/)
 
 **500xCompressor: Generalized Prompt Compression for Large Language Models**
 
@@ -4614,6 +4841,7 @@
 **Enhancing Safe and Controllable Protein Generation via Knowledge Preference Optimization**
 
 - Paper: <https://arxiv.org/abs/2507.10923>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/kpo_protein_safety](https://papernotes.org/ACL2025/llm_alignment/kpo_protein_safety/)
 
 **Expectation Confirmation Preference Optimization for Multi-Turn Conversational Recommendation Agent** · 📖 Findings
 
@@ -4643,10 +4871,12 @@
 **Mutual-Taught for Co-adapting Policy and Reward Models**
 
 - Paper: <https://arxiv.org/abs/2506.06292>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/mutual_taught_policy_…](https://papernotes.org/ACL2025/llm_alignment/mutual_taught_policy_reward/)
 
 **SynthesizeMe! Inducing Persona-Guided Prompts for Personalized Reward Models in LLMs**
 
 - Paper: <https://arxiv.org/abs/2506.05598>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/synthesizeme_persona_…](https://papernotes.org/ACL2025/llm_alignment/synthesizeme_persona_prompts/)
 
 **Robust Preference Optimization via Dynamic Target Margins** · 📖 Findings
 
@@ -4661,10 +4891,12 @@
 **AutoMixAlign: Adaptive Data Mixing for Multi-Task Preference Optimization in LLMs**
 
 - Paper: <https://arxiv.org/abs/2506.00569>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/automixalign_adaptive…](https://papernotes.org/ACL2025/llm_alignment/automixalign_adaptive_data_mixing/)
 
 **Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences**
 
 - Paper: <https://arxiv.org/abs/2506.00419>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/teaching_an_old_llm_s…](https://papernotes.org/ACL2025/llm_alignment/teaching_an_old_llm_secure_coding/)
 
 **Probability-Consistent Preference Optimization for Enhanced LLM Reasoning** · 📖 Findings
 
@@ -4674,6 +4906,7 @@
 **Towards Reward Fairness in RLHF: From a Resource Allocation Perspective**
 
 - Paper: <https://arxiv.org/abs/2505.23349>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/reward_fairness_rlhf](https://papernotes.org/ACL2025/llm_alignment/reward_fairness_rlhf/)
 
 **AgentAlign: Navigating Safety Alignment in the Shift from Informative to Agentic Large Language Models**
 
@@ -4707,6 +4940,7 @@
 **MPO: Multilingual Safety Alignment via Reward Gap Optimization**
 
 - Paper: <https://arxiv.org/abs/2505.16869>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/mpo_multilingual_safe…](https://papernotes.org/ACL2025/llm_alignment/mpo_multilingual_safety_alignment/)
 
 **Rethinking Reward Model Evaluation Through the Lens of Reward Overoptimization**
 
@@ -4731,6 +4965,7 @@
 **M2S: Multi-turn to Single-turn jailbreak in Red Teaming for LLMs**
 
 - Paper: <https://arxiv.org/abs/2503.04856>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/m2s_multiturn_to_sing…](https://papernotes.org/ACL2025/llm_alignment/m2s_multiturn_to_singleturn_jailbreak_in/)
 
 **DiffPO: Diffusion-styled Preference Optimization for Inference Time Alignment of Large Language Models**
 
@@ -4754,6 +4989,7 @@
 **Cheems: A Practical Guidance for Building and Evaluating Chinese Reward Models from Scratch**
 
 - Paper: <https://arxiv.org/abs/2502.17173>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/cheems_chinese_reward…](https://papernotes.org/ACL2025/llm_alignment/cheems_chinese_reward_models/)
 
 **Retrieval-Augmented Fine-Tuning With Preference Optimization For Visual Program Generation**
 
@@ -4768,6 +5004,7 @@
 **SEA: Low-Resource Safety Alignment for Multimodal Large Language Models via Synthetic Embeddings**
 
 - Paper: <https://arxiv.org/abs/2502.12562>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/sea_lowresource_safet…](https://papernotes.org/ACL2025/llm_alignment/sea_lowresource_safety_alignment_for_multimodal/)
 
 **Focused-DPO: Enhancing Code Generation Through Focused Preference Optimization on Error-Prone Points** · 📖 Findings
 
@@ -4802,6 +5039,7 @@
 **Curiosity-Driven Reinforcement Learning from Human Feedback**
 
 - Paper: <https://arxiv.org/abs/2501.11463>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/curiosity_driven_rlhf](https://papernotes.org/ACL2025/llm_alignment/curiosity_driven_rlhf/)
 
 **FocalPO: Enhancing Preference Optimizing by Focusing on Correct Preference Rankings**
 
@@ -4811,6 +5049,7 @@
 **Understanding Impact of Human Feedback via Influence Functions**
 
 - Paper: <https://arxiv.org/abs/2501.05790>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/influence_functions_r…](https://papernotes.org/ACL2025/llm_alignment/influence_functions_rlhf/)
 
 **PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models**
 
@@ -4820,10 +5059,12 @@
 **Think\&Cite: Improving Attributed Text Generation with Self-Guided Tree Search and Progress Reward Modeling**
 
 - Paper: <https://arxiv.org/abs/2412.14860>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/think_cite_attributed…](https://papernotes.org/ACL2025/llm_alignment/think_cite_attributed_text_gen/)
 
 **IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization**
 
 - Paper: <https://arxiv.org/abs/2411.06208>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/iopo_input_output_pre…](https://papernotes.org/ACL2025/llm_alignment/iopo_input_output_preference/)
 
 **SQL Injection Jailbreak: A Structural Disaster of Large Language Models** · 📖 Findings
 
@@ -4833,6 +5074,7 @@
 **A Troublemaker with Contagious Jailbreak Makes Chaos in Honest Towns**
 
 - Paper: <https://arxiv.org/abs/2410.16155>
+- Notes (Chinese): [papernotes.org/ACL2025/multi_agent/tmcht_contagious_jailbr…](https://papernotes.org/ACL2025/multi_agent/tmcht_contagious_jailbreak_multiagent/)
 
 **Federated Data-Efficient Instruction Tuning for Large Language Models** · 📖 Findings
 
@@ -4856,6 +5098,7 @@
 **Don't Say No: Jailbreaking LLM by Suppressing Refusal** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2404.16369>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/dont_say_no_jailbreak…](https://papernotes.org/ACL2025/llm_alignment/dont_say_no_jailbreaking_llm_by_suppressing_refusal/)
 
 **Reward Generalization in RLHF: A Topological Perspective** · 📖 Findings
 
@@ -4865,6 +5108,7 @@
 **JailbreakRadar: Comprehensive Assessment of Jailbreak Attacks Against LLMs**
 
 - Paper: <https://arxiv.org/abs/2402.05668>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/jailbreakradar_compre…](https://papernotes.org/ACL2025/llm_alignment/jailbreakradar_comprehensive_assessment_jailbreak_attacks/)
 
 **JsonTuning: Towards Generalizable, Robust, and Controllable Instruction Tuning** · 📖 Findings
 
@@ -4996,6 +5240,7 @@
 **Beyond Facts: Evaluating Intent Hallucination in Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2506.06539>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/intent_hallucination_eval](https://papernotes.org/ACL2025/llm_safety/intent_hallucination_eval/)
 
 **Lacuna Inc. at SemEval-2025 Task 4: LoRA-Enhanced Influence-Based Unlearning for LLMs** · 🛠️ Workshop
 
@@ -5020,6 +5265,7 @@
 **Stochastic Chameleons: Irrelevant Context Hallucinations Reveal Class-Based (Mis)Generalization in LLMs**
 
 - Paper: <https://arxiv.org/abs/2505.22630>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/stochastic_chameleons_ir…](https://papernotes.org/ACL2025/llm_safety/stochastic_chameleons_irrelevant_context_hallucinations_reveal_class-based_misge/)
 
 **Are the Hidden States Hiding Something? Testing the Limits of Factuality-Encoding Capabilities in LLMs**
 
@@ -5034,10 +5280,12 @@
 **MorphMark: Flexible Adaptive Watermarking for Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2505.11541>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/morphmark_adaptive_water…](https://papernotes.org/ACL2025/llm_safety/morphmark_adaptive_watermarking/)
 
 **From Trade-off to Synergy: A Versatile Symbiotic Watermarking Framework for Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2505.09924>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/from_tradeoff_to_synergy…](https://papernotes.org/ACL2025/llm_safety/from_tradeoff_to_synergy_a_versatile/)
 
 **PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization**
 
@@ -5066,10 +5314,12 @@
 **Can Indirect Prompt Injection Attacks Be Detected and Removed?**
 
 - Paper: <https://arxiv.org/abs/2502.16580>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/indirect_prompt_injectio…](https://papernotes.org/ACL2025/llm_safety/indirect_prompt_injection_detection/)
 
 **Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2502.15910>
+- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/manu_modality_aware_…](https://papernotes.org/ACL2025/multimodal_vlm/manu_modality_aware_unlearning/)
 
 **TreeCut: A Synthetic Unanswerable Math Word Problem Dataset for LLM Hallucination Evaluation**
 
@@ -5079,6 +5329,7 @@
 **Unveiling Privacy Risks in LLM Agent Memory**
 
 - Paper: <https://arxiv.org/abs/2502.13172>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/mextra_agent_memory_privacy](https://papernotes.org/ACL2025/llm_agent/mextra_agent_memory_privacy/)
 
 **SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models** · 📖 Findings
 
@@ -5088,6 +5339,7 @@
 **Can LLM Watermarks Robustly Prevent Unauthorized Knowledge Distillation?**
 
 - Paper: <https://arxiv.org/abs/2502.11598>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/llm_watermark_distillati…](https://papernotes.org/ACL2025/llm_safety/llm_watermark_distillation_robustness/)
 
 **Which Retain Set Matters for LLM Unlearning? A Case Study on Entity Unlearning** · 📖 Findings
 
@@ -5097,6 +5349,7 @@
 **Improved Unbiased Watermark for Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2502.11268>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/improved_unbiased_waterm…](https://papernotes.org/ACL2025/llm_safety/improved_unbiased_watermark_for_large_language/)
 
 **ReLearn: Unlearning via Learning for Large Language Models**
 
@@ -5144,6 +5397,7 @@
 **Ensemble Watermarks for Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2411.19563>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/ensemble_watermarks_llm](https://papernotes.org/ACL2025/llm_safety/ensemble_watermarks_llm/)
 
 **Unveiling and Addressing Pseudo Forgetting in Large Language Models** · 📖 Findings
 
@@ -5153,14 +5407,17 @@
 **Defense Against Prompt Injection Attack by Leveraging Attack Techniques**
 
 - Paper: <https://arxiv.org/abs/2411.00459>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/defense_prompt_injection](https://papernotes.org/ACL2025/llm_safety/defense_prompt_injection/)
 
 **The Tug of War Within: Mitigating the Fairness-Privacy Conflicts in Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2410.16672>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/tug_of_war_fairness_priv…](https://papernotes.org/ACL2025/llm_safety/tug_of_war_fairness_privacy/)
 
 **Hallucination Detox: Sensitivity Dropout (SenD) for Large Language Model Training**
 
 - Paper: <https://arxiv.org/abs/2410.15460>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/hallucination_detox_send](https://papernotes.org/ACL2025/llm_safety/hallucination_detox_send/)
 
 **Real-time Factuality Assessment from Adversarial Feedback**
 
@@ -5209,6 +5466,7 @@
 
 **HALoGEN: Fantastic LLM Hallucinations and Where to Find Them**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/halogen_hallucinations](https://papernotes.org/ACL2025/llm_safety/halogen_hallucinations/)
 
 **Root Defense Strategies: Ensuring Safety of LLM at the Decoding Level**
 
@@ -5227,6 +5485,7 @@
 
 **Cracking the Code of Hallucination in LVLMs with Vision-aware Head Divergence**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/cracking_hallucination_vhd](https://papernotes.org/ACL2025/llm_safety/cracking_hallucination_vhd/)
 
 **Are the Hidden States Hiding Something? Testing the Limits of Factuality-Encoding Capabilities in LLMs**
 
@@ -5325,7 +5584,7 @@
 **REPRO-Bench: Can Agentic AI Systems Assess the Reproducibility of Social Science Research?** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2507.18901>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/repro-bench_can_agentic_a…](https://papernotes.org/ACL2025/llm_agent/repro-bench_can_agentic_ai_systems_assess_the_reproducibility_of_social_science_/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/repro-bench_can_agentic_a…](https://papernotes.org/ACL2025/llm_agent/repro-bench_can_agentic_ai_systems_assess_the_reproducibility_of_research_claims/)
 
 **MIND: A Multi-agent Framework for Zero-shot Harmful Meme Detection**
 
@@ -5365,14 +5624,17 @@
 **Enhancing Interpretable Image Classification Through LLM Agents and Conditional Concept Bottleneck Models**
 
 - Paper: <https://arxiv.org/abs/2506.01334>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/llm_agent_image_classific…](https://papernotes.org/ACL2025/llm_agent/llm_agent_image_classification/)
 
 **Multiple LLM Agents Debate for Equitable Cultural Alignment**
 
 - Paper: <https://arxiv.org/abs/2505.24671>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/multiple_llm_agents_debat…](https://papernotes.org/ACL2025/llm_agent/multiple_llm_agents_debate_for_equitable/)
 
 **NexusSum: Hierarchical LLM Agents for Long-Form Narrative Summarization**
 
 - Paper: <https://arxiv.org/abs/2505.24575>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/nexussum_narrative_summar…](https://papernotes.org/ACL2025/llm_agent/nexussum_narrative_summarization/)
 
 **Select, Read, and Write: A Multi-Agent Framework of Full-Text-based Related Work Generation** · 📖 Findings
 
@@ -5382,6 +5644,7 @@
 **GUI-explorer: Autonomous Exploration and Mining of Transition-aware Knowledge for GUI Agent**
 
 - Paper: <https://arxiv.org/abs/2505.16827>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/gui_explorer_autonomous](https://papernotes.org/ACL2025/llm_agent/gui_explorer_autonomous/)
 
 **EMULATE: A Multi-Agent Framework for Determining the Veracity of Atomic Claims by Emulating Human Actions**
 
@@ -5391,6 +5654,7 @@
 **GuideBench: Benchmarking Domain-Oriented Guideline Following for LLM Agents**
 
 - Paper: <https://arxiv.org/abs/2505.11368>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/guidebench_guideline_foll…](https://papernotes.org/ACL2025/llm_agent/guidebench_guideline_following/)
 
 **MetaSynth: Meta-Prompting-Driven Agentic Scaffolds for Diverse Synthetic Data Generation** · 📖 Findings
 
@@ -5400,6 +5664,7 @@
 **SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge Refinement**
 
 - Paper: <https://arxiv.org/abs/2504.03561>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/synworld_agentic_action_k…](https://papernotes.org/ACL2025/llm_agent/synworld_agentic_action_knowledge/)
 
 **Agentic Knowledgeable Self-awareness**
 
@@ -5424,7 +5689,7 @@
 **Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems**
 
 - Paper: <https://arxiv.org/abs/2502.19328>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/agentic_reward_modeling_i…](https://papernotes.org/ACL2025/llm_agent/agentic_reward_modeling_integrating_human_preferences_with_verifiable_correctnes/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/agentic-reward-modeling-i…](https://papernotes.org/ACL2025/llm_agent/agentic-reward-modeling-integrating-human-preferences-with-verifiable-correctness-signals/)
 
 **MEDDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis**
 
@@ -5448,14 +5713,17 @@
 **Adaptive Tool Use in Large Language Models with Meta-Cognition Trigger**
 
 - Paper: <https://arxiv.org/abs/2502.12961>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/meco_metacognition_tool_use](https://papernotes.org/ACL2025/llm_agent/meco_metacognition_tool_use/)
 
 **Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration**
 
 - Paper: <https://arxiv.org/abs/2502.11882>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/dpt_agent_dual_process](https://papernotes.org/ACL2025/llm_agent/dpt_agent_dual_process/)
 
 **Table-Critic: A Multi-Agent Framework for Collaborative Criticism and Refinement in Table Reasoning**
 
 - Paper: <https://arxiv.org/abs/2502.11799>
+- Notes (Chinese): [papernotes.org/ACL2025/multi_agent/table_critic_multi_agent](https://papernotes.org/ACL2025/multi_agent/table_critic_multi_agent/)
 
 **LLM Agents Making Agent Tools**
 
@@ -5475,18 +5743,22 @@
 **Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools**
 
 - Paper: <https://arxiv.org/abs/2502.04644>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/agentic_reasoning_tools](https://papernotes.org/ACL2025/llm_agent/agentic_reasoning_tools/)
 
 **R2D2: Remembering, Replaying and Dynamic Decision Making with a Reflective Agentic Memory**
 
 - Paper: <https://arxiv.org/abs/2501.12485>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/r2d2_reflective_agentic_m…](https://papernotes.org/ACL2025/llm_agent/r2d2_reflective_agentic_memory/)
 
 **ToolHop: A Query-Driven Benchmark for Evaluating Large Language Models in Multi-Hop Tool Use**
 
 - Paper: <https://arxiv.org/abs/2501.02506>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/toolhop_multi_hop_tool_use](https://papernotes.org/ACL2025/llm_agent/toolhop_multi_hop_tool_use/)
 
 **OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis**
 
 - Paper: <https://arxiv.org/abs/2412.19723>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/os_genesis_gui_agent_traj…](https://papernotes.org/ACL2025/llm_agent/os_genesis_gui_agent_trajectory/)
 
 **GeAR: Graph-enhanced Agent for Retrieval-augmented Generation** · 📖 Findings
 
@@ -5516,10 +5788,12 @@
 **Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement**
 
 - Paper: <https://arxiv.org/abs/2410.04444>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/gödel_agent_a_self-refere…](https://papernotes.org/ACL2025/llm_agent/gödel_agent_a_self-referential_agent_framework_for_recursive_self-improvement/)
 
 **Caution for the Environment: Multimodal LLM Agents are Susceptible to Environmental Distractions**
 
 - Paper: <https://arxiv.org/abs/2408.02544>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/caution_environment_gui_a…](https://papernotes.org/ACL2025/llm_agent/caution_environment_gui_agent_distractions/)
 
 **Beyond Numeric Rewards: In-Context Dueling Bandits with LLM Agents** · 📖 Findings
 
@@ -5528,6 +5802,7 @@
 
 **FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/fact_audit_factcheck](https://papernotes.org/ACL2025/llm_agent/fact_audit_factcheck/)
 
 **SurveyPilot: an Agentic Framework for Automated Human Opinion Collection from Social Media**
 
@@ -5567,7 +5842,7 @@
 
 **Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems**
 
-- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/agentic_reward_modeling_i…](https://papernotes.org/ACL2025/llm_agent/agentic_reward_modeling_integrating_human_preferences_with_verifiable_correctnes/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/agentic-reward-modeling-i…](https://papernotes.org/ACL2025/llm_agent/agentic-reward-modeling-integrating-human-preferences-with-verifiable-correctness-signals/)
 
 **AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations**
 
@@ -5594,7 +5869,7 @@
 
 **REPRO-Bench: Can Agentic AI Systems Assess the Reproducibility of Social Science Research?**
 
-- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/repro-bench_can_agentic_a…](https://papernotes.org/ACL2025/llm_agent/repro-bench_can_agentic_ai_systems_assess_the_reproducibility_of_social_science_/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/repro-bench_can_agentic_a…](https://papernotes.org/ACL2025/llm_agent/repro-bench_can_agentic_ai_systems_assess_the_reproducibility_of_research_claims/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -5621,6 +5896,7 @@
 **Safe: Enhancing Mathematical Reasoning in Large Language Models via Retrospective Step-aware Formal Verification**
 
 - Paper: <https://arxiv.org/abs/2506.04592>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_reasoning/safe_math_reasoning](https://papernotes.org/ACL2025/llm_reasoning/safe_math_reasoning/)
 
 **RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought**
 
@@ -5670,6 +5946,7 @@
 **Unlocking General Long Chain-of-Thought Reasoning Capabilities of Large Language Models via Representation Engineering**
 
 - Paper: <https://arxiv.org/abs/2503.11314>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_reasoning/glore_long_cot_repres…](https://papernotes.org/ACL2025/llm_reasoning/glore_long_cot_representation/)
 
 **Local Look-Ahead Guidance via Verifier-in-the-Loop for Automated Theorem Proving** · 📖 Findings · 🛠️ Workshop
 
@@ -5698,6 +5975,7 @@
 **Linguistic Generalizability of Test-Time Scaling in Mathematical Reasoning**
 
 - Paper: <https://arxiv.org/abs/2502.17407>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_reasoning/mclm_multilingual_tes…](https://papernotes.org/ACL2025/llm_reasoning/mclm_multilingual_test_time_scaling/)
 
 **CoT-UQ: Improving Response-wise Uncertainty Quantification in LLMs with Chain-of-Thought** · 📖 Findings
 
@@ -5707,6 +5985,7 @@
 **Is That Your Final Answer? Test-Time Scaling Improves Selective Question Answering**
 
 - Paper: <https://arxiv.org/abs/2502.13962>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_reasoning/test_time_scaling_sel…](https://papernotes.org/ACL2025/llm_reasoning/test_time_scaling_selective_qa/)
 
 **ThinkGuard: Deliberative Slow Thinking Leads to Cautious Guardrails**
 
@@ -5726,6 +6005,7 @@
 **SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs**
 
 - Paper: <https://arxiv.org/abs/2502.12134>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_reasoning/softcot_soft_chain_of…](https://papernotes.org/ACL2025/llm_reasoning/softcot_soft_chain_of_thought/)
 
 **Chain-of-Reasoning: Towards Unified Mathematical Reasoning in Large Language Models via a Multi-Paradigm Perspective**
 
@@ -5740,6 +6020,7 @@
 **Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework**
 
 - Paper: <https://arxiv.org/abs/2412.16953>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_reasoning/aristotle_logical_rea…](https://papernotes.org/ACL2025/llm_reasoning/aristotle_logical_reasoning/)
 
 **ProcessBench: Identifying Process Errors in Mathematical Reasoning**
 
@@ -5759,6 +6040,7 @@
 **LogicPro: Improving Complex Logical Reasoning via Program-Guided Learning**
 
 - Paper: <https://arxiv.org/abs/2409.12929>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_reasoning/logicpro_program_guid…](https://papernotes.org/ACL2025/llm_reasoning/logicpro_program_guided_reasoning/)
 
 **Critic-CoT: Boosting the reasoning abilities of large language model via Chain-of-thoughts Critic** · 📖 Findings
 
@@ -5768,6 +6050,7 @@
 **Fine-Tuning on Diverse Reasoning Chains Drives Within-Inference CoT Refinement in LLMs**
 
 - Paper: <https://arxiv.org/abs/2407.03181>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_reasoning/dcot_diverse_cot_refi…](https://papernotes.org/ACL2025/llm_reasoning/dcot_diverse_cot_refinement/)
 
 **Towards Better Chain-of-Thought: A Reflection on Effectiveness and Faithfulness** · 📖 Findings
 
@@ -5776,6 +6059,7 @@
 
 **Improve Vision Language Model Chain-of-thought Reasoning**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_reasoning/improve_vlm_cot_reaso…](https://papernotes.org/ACL2025/llm_reasoning/improve_vlm_cot_reasoning/)
 
 **Mixture of insighTful Experts (MoTE): The Synergy of Reasoning Chains and Expert Mixtures in Self-Alignment**
 
@@ -5865,6 +6149,7 @@
 **KV-Latent: Dimensional-level KV Cache Reduction with Frequency-aware Rotary Positional Embedding**
 
 - Paper: <https://arxiv.org/abs/2507.11273>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_efficiency/kv_latent_cache_redu…](https://papernotes.org/ACL2025/llm_efficiency/kv_latent_cache_reduction/)
 
 **Ref-Long: Benchmarking the Long-context Referencing Capability of Long-context Language Models**
 
@@ -5874,6 +6159,7 @@
 **SpindleKV: A Novel KV Cache Reduction Method Balancing Both Shallow and Deep Layers**
 
 - Paper: <https://arxiv.org/abs/2507.06517>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_efficiency/spindlekv_layered_kv…](https://papernotes.org/ACL2025/llm_efficiency/spindlekv_layered_kv_cache/)
 
 **GigaChat Family: Efficient Russian Language Modeling Through Mixture of Experts Architecture** · 🎬 Demo
 
@@ -5883,6 +6169,7 @@
 **DIVE into MoE: Diversity-Enhanced Reconstruction of Large Language Models from Dense into Mixture-of-Experts**
 
 - Paper: <https://arxiv.org/abs/2506.09351>
+- Notes (Chinese): [papernotes.org/ACL2025/moe/dive_moe_reconstruction](https://papernotes.org/ACL2025/moe/dive_moe_reconstruction/)
 
 **Literary Evidence Retrieval via Long-Context Language Models**
 
@@ -5897,10 +6184,12 @@
 **CLaSp: In-Context Layer Skip for Self-Speculative Decoding**
 
 - Paper: <https://arxiv.org/abs/2505.24196>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_efficiency/clasp_self_speculati…](https://papernotes.org/ACL2025/llm_efficiency/clasp_self_speculative_decoding/)
 
 **What Really Matters in Many-Shot Attacks? An Empirical Study of Long-Context Vulnerabilities in LLMs**
 
 - Paper: <https://arxiv.org/abs/2505.19773>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_efficiency/many_shot_attacks_lo…](https://papernotes.org/ACL2025/llm_efficiency/many_shot_attacks_long_context/)
 
 **Scaling Context, Not Parameters: Training a Compact 7B Language Model for Efficient Long-Context Processing** · 🏭 Industry
 
@@ -5910,6 +6199,7 @@
 **LADM: Long-context Training Data Selection with Attention-based Dependency Measurement for LLMs**
 
 - Paper: <https://arxiv.org/abs/2503.02502>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_efficiency/ladm_long_context_data](https://papernotes.org/ACL2025/llm_efficiency/ladm_long_context_data/)
 
 **Unveiling Environmental Impacts of Large Language Model Serving: A Functional Unit View**
 
@@ -5964,6 +6254,7 @@
 **How to Train Long-Context Language Models (Effectively)**
 
 - Paper: <https://arxiv.org/abs/2410.02660>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_efficiency/train_long_context_e…](https://papernotes.org/ACL2025/llm_efficiency/train_long_context_effectively/)
 
 **What are the Essential Factors in Crafting Effective Long Context Multi-Hop Instruction Datasets? Insights and Best Practices**
 
@@ -5972,6 +6263,7 @@
 
 **Sliding Windows Are Not the End: Exploring Full Ranking with Long-Context Large Language Models**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_efficiency/sliding_windows_full…](https://papernotes.org/ACL2025/llm_efficiency/sliding_windows_full_ranking/)
 
 **Extending LLM Context Window with Adaptive Grouped Positional Encoding: A Training-Free Method**
 
@@ -6001,6 +6293,7 @@
 
 **Unveiling Environmental Impacts of Large Language Model Serving: A Functional Unit View**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_efficiency/fuel-unveiling-envir…](https://papernotes.org/ACL2025/llm_efficiency/fuel-unveiling-environmental-impacts-of-llm-serving/)
 
 **MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language Models**
 
@@ -6020,6 +6313,7 @@
 
 **Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_efficiency/native_sparse_attent…](https://papernotes.org/ACL2025/llm_efficiency/native_sparse_attention/)
 
 **RefreshKV: Updating Small KV Cache During Long-form Generation**
 
@@ -6080,7 +6374,7 @@
 **MedBioRAG: Semantic Search and Retrieval-Augmented Generation with Large Language Models for Medical and Biological QA**
 
 - Paper: <https://arxiv.org/abs/2512.10996>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/medbiorag_semantic_…](https://papernotes.org/ACL2025/medical_imaging/medbiorag_semantic_search_and_retrieval-augmented_generation_with_large_language/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/medbiorag_semantic_…](https://papernotes.org/ACL2025/medical_imaging/medbiorag_semantic_search_and_retrieval-augmented_generation_for_biomedical_lite/)
 
 **One Size Fits None: Rethinking Fairness in Medical AI** · 🛠️ Workshop
 
@@ -6105,6 +6399,7 @@
 **KokoroChat: A Japanese Psychological Counseling Dialogue Dataset Collected via Role-Playing by Trained Counselors**
 
 - Paper: <https://arxiv.org/abs/2506.01357>
+- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/kokorochat_a_japane…](https://papernotes.org/ACL2025/medical_imaging/kokorochat_a_japanese_psychological_counseling_dialogue/)
 
 **Improving Automatic Evaluation of Large Language Models (LLMs) in Biomedical Relation Extraction via LLMs-as-the-Judge**
 
@@ -6123,10 +6418,12 @@
 **RADAR: Enhancing Radiology Report Generation with Supplementary Knowledge Injection**
 
 - Paper: <https://arxiv.org/abs/2505.14318>
+- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/radar_radiology_rep…](https://papernotes.org/ACL2025/medical_imaging/radar_radiology_report_gen/)
 
 **Online Iterative Self-Alignment for Radiology Report Generation**
 
 - Paper: <https://arxiv.org/abs/2505.11983>
+- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/oisa_radiology_repo…](https://papernotes.org/ACL2025/medical_imaging/oisa_radiology_report_gen/)
 
 **$SECRET$: Semi-supervised Clinical Trial Document Similarity Search**
 
@@ -6136,6 +6433,7 @@
 **Query-driven Document-level Scientific Evidence Extraction from Biomedical Studies**
 
 - Paper: <https://arxiv.org/abs/2505.06186>
+- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/urca_biomedical_evi…](https://papernotes.org/ACL2025/medical_imaging/urca_biomedical_evidence_extraction/)
 
 **A Retrieval-Based Approach to Medical Procedure Matching in Romanian**
 
@@ -6150,6 +6448,7 @@
 **Towards Omni-RAG: Comprehensive Retrieval-Augmented Generation for Large Language Models in Medical Applications**
 
 - Paper: <https://arxiv.org/abs/2501.02460>
+- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/omni_rag_medical](https://papernotes.org/ACL2025/medical_imaging/omni_rag_medical/)
 
 **Are LLMs Effective Psychological Assessors? Leveraging Adaptive RAG for Interpretable Mental Health Screening**
 
@@ -6159,18 +6458,22 @@
 **Aligning AI Research with the Needs of Clinical Coding Workflows: Eight Recommendations Based on US Data Analysis and Critical Review**
 
 - Paper: <https://arxiv.org/abs/2412.18043>
+- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/clinical_coding_eig…](https://papernotes.org/ACL2025/medical_imaging/clinical_coding_eight_recommendations/)
 
 **AfriMed-QA: A Pan-African, Multi-Specialty, Medical Question-Answering Benchmark Dataset**
 
 - Paper: <https://arxiv.org/abs/2411.15640>
+- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/afrimed_qa_pan_afri…](https://papernotes.org/ACL2025/medical_imaging/afrimed_qa_pan_african/)
 
 **ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents**
 
 - Paper: <https://arxiv.org/abs/2410.17657>
+- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/reflectool_clinical…](https://papernotes.org/ACL2025/medical_imaging/reflectool_clinical_agent/)
 
 **CheXalign: Preference fine-tuning in chest X-ray interpretation models without human feedback**
 
 - Paper: <https://arxiv.org/abs/2410.07025>
+- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/chexalign_preferenc…](https://papernotes.org/ACL2025/medical_imaging/chexalign_preference_finetuning/)
 
 **MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder**
 
@@ -6194,6 +6497,7 @@
 
 **The Impact of Auxiliary Patient Data on Automated Chest X-Ray Report Generation and How to Incorporate It**
 
+- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/auxiliary_patient_d…](https://papernotes.org/ACL2025/medical_imaging/auxiliary_patient_data_xray/)
 
 **PsyDT: Using LLMs to Construct the Digital Twin of Psychological Counselor with Personalized Counseling Style for Psychological Counseling**
 
@@ -6268,7 +6572,7 @@
 
 **MedBioRAG: Semantic Search and Retrieval-Augmented Generation with Large Language Models for Medical and Biological QA**
 
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/medbiorag_semantic_…](https://papernotes.org/ACL2025/medical_imaging/medbiorag_semantic_search_and_retrieval-augmented_generation_with_large_language/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/medbiorag_semantic_…](https://papernotes.org/ACL2025/medical_imaging/medbiorag_semantic_search_and_retrieval-augmented_generation_for_biomedical_lite/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -6291,6 +6595,7 @@
 **SpeechIQ: Speech-Agentic Intelligence Quotient Across Cognitive Levels in Voice Understanding by Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2507.19361>
+- Notes (Chinese): [papernotes.org/ACL2025/audio_speech/speechiq_speechagentic…](https://papernotes.org/ACL2025/audio_speech/speechiq_speechagentic_intelligence_quotient_across_cognitive/)
 
 **Double Entendre: Robust Audio-Based AI-Generated Lyrics Detection via Multi-View Fusion** · 📖 Findings
 
@@ -6319,6 +6624,7 @@
 **In-the-wild Audio Spatialization with Flexible Text-guided Localization**
 
 - Paper: <https://arxiv.org/abs/2506.00927>
+- Notes (Chinese): [papernotes.org/ACL2025/audio_speech/tas_audio_spatialization](https://papernotes.org/ACL2025/audio_speech/tas_audio_spatialization/)
 
 **Towards Reliable Large Audio Language Model** · 📖 Findings
 
@@ -6348,6 +6654,7 @@
 **T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback**
 
 - Paper: <https://arxiv.org/abs/2505.10561>
+- Notes (Chinese): [papernotes.org/ACL2025/audio_speech/t2a_feedback_audio_gen](https://papernotes.org/ACL2025/audio_speech/t2a_feedback_audio_gen/)
 
 **Advancing Zero-shot Text-to-Speech Intelligibility across Diverse Domains via Preference Alignment**
 
@@ -6377,7 +6684,7 @@
 **ATRI: Mitigating Multilingual Audio Text Retrieval Inconsistencies by Reducing Data Distribution Errors**
 
 - Paper: <https://arxiv.org/abs/2502.14627>
-- Notes (Chinese): [papernotes.org/ACL2025/audio_speech/atri_mitigating_multil…](https://papernotes.org/ACL2025/audio_speech/atri_mitigating_multilingual_audio_text_retrieval_inconsistencies_by_reducing_da/)
+- Notes (Chinese): [papernotes.org/ACL2025/audio_speech/atri-mitigating-multil…](https://papernotes.org/ACL2025/audio_speech/atri-mitigating-multilingual-audio-text-retrieval-inconsistencies/)
 
 **On the Robust Approximation of ASR Metrics**
 
@@ -6392,10 +6699,12 @@
 **Finding A Voice: Exploring the Potential of African American Dialect and Voice Generation for Chatbots**
 
 - Paper: <https://arxiv.org/abs/2501.03441>
+- Notes (Chinese): [papernotes.org/ACL2025/audio_speech/aae_voice_chatbot](https://papernotes.org/ACL2025/audio_speech/aae_voice_chatbot/)
 
 **Benchmarking Open-ended Audio Dialogue Understanding for Large Audio-Language Models**
 
 - Paper: <https://arxiv.org/abs/2412.05167>
+- Notes (Chinese): [papernotes.org/ACL2025/audio_speech/audio_dialogue_benchmark](https://papernotes.org/ACL2025/audio_speech/audio_dialogue_benchmark/)
 
 **Who Can Withstand Chat-Audio Attacks? An Evaluation Benchmark for Large Audio-Language Models** · 📖 Findings
 
@@ -6410,21 +6719,24 @@
 **Autoregressive Speech Synthesis without Vector Quantization**
 
 - Paper: <https://arxiv.org/abs/2407.08551>
+- Notes (Chinese): [papernotes.org/ACL2025/audio_speech/autoregressive_speech_…](https://papernotes.org/ACL2025/audio_speech/autoregressive_speech_synthesis_without_vq/)
 
 **GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement**
 
 - Paper: <https://arxiv.org/abs/2406.11546>
+- Notes (Chinese): [papernotes.org/ACL2025/audio_speech/gigaspeech2_low_resour…](https://papernotes.org/ACL2025/audio_speech/gigaspeech2_low_resource_asr/)
 
 **ControlSpeech: Towards Simultaneous and Independent Zero-shot Speaker Cloning and Zero-shot Language Style Control**
 
 - Paper: <https://arxiv.org/abs/2406.01205>
+- Notes (Chinese): [papernotes.org/ACL2025/audio_speech/controlspeech_zero_shot](https://papernotes.org/ACL2025/audio_speech/controlspeech_zero_shot/)
 
 **Takin-VC: Expressive Zero-Shot Voice Conversion via Adaptive Hybrid Content Encoding and Enhanced Timbre Modeling**
 
 
 **ATRI: Mitigating Multilingual Audio Text Retrieval Inconsistencies by Reducing Data Distribution Errors**
 
-- Notes (Chinese): [papernotes.org/ACL2025/audio_speech/atri_mitigating_multil…](https://papernotes.org/ACL2025/audio_speech/atri_mitigating_multilingual_audio_text_retrieval_inconsistencies_by_reducing_da/)
+- Notes (Chinese): [papernotes.org/ACL2025/audio_speech/atri-mitigating-multil…](https://papernotes.org/ACL2025/audio_speech/atri-mitigating-multilingual-audio-text-retrieval-inconsistencies/)
 
 **Distilling an End-to-End Voice Assistant Without Instruction Training Data**
 
@@ -6503,6 +6815,7 @@
 **BOOKCOREF: Coreference Resolution at Book Scale**
 
 - Paper: <https://arxiv.org/abs/2507.12075>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/bookcoref_book_scale](https://papernotes.org/ACL2025/llm_nlp/bookcoref_book_scale/)
 
 **Can LLMs Reliably Simulate Real Students' Abilities in Mathematics and Reading Comprehension?** · 🛠️ Workshop
 
@@ -6551,6 +6864,7 @@
 **Towards a More Generalized Approach in Open Relation Extraction**
 
 - Paper: <https://arxiv.org/abs/2505.22801>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/generalized_open_relation_e…](https://papernotes.org/ACL2025/llm_nlp/generalized_open_relation_extract/)
 
 **RISE: Reasoning Enhancement via Iterative Self-Exploration in Multi-hop Question Answering** · 📖 Findings
 
@@ -6560,6 +6874,7 @@
 **ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision**
 
 - Paper: <https://arxiv.org/abs/2505.21250>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/rescore_multihop_qa](https://papernotes.org/ACL2025/llm_nlp/rescore_multihop_qa/)
 
 **Hierarchical Retrieval with Evidence Curation for Open-Domain Financial Question Answering on Standardized Documents** · 📖 Findings
 
@@ -6599,6 +6914,7 @@
 **Beyond Prompting: An Efficient Embedding Framework for Open-Domain Question Answering**
 
 - Paper: <https://arxiv.org/abs/2503.01606>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/embqa_embedding_odqa](https://papernotes.org/ACL2025/llm_nlp/embqa_embedding_odqa/)
 
 **Disambiguate First, Parse Later: Generating Interpretations for Ambiguity Resolution in Semantic Parsing** · 📖 Findings
 
@@ -6628,10 +6944,12 @@
 **CaLMQA: Exploring culturally specific long-form question answering across 23 languages**
 
 - Paper: <https://arxiv.org/abs/2406.17761>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/calmqa_cultural_multilingua…](https://papernotes.org/ACL2025/llm_nlp/calmqa_cultural_multilingual_qa/)
 
 **Dynamic Order Template Prediction for Generative Aspect-Based Sentiment Analysis**
 
 - Paper: <https://arxiv.org/abs/2406.11130>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/dot_absa_template](https://papernotes.org/ACL2025/llm_nlp/dot_absa_template/)
 
 **How Much Do Encoder Models Know About Word Senses?**
 
@@ -6709,6 +7027,7 @@
 **TokAlign: Efficient Vocabulary Adaptation via Token Alignment**
 
 - Paper: <https://arxiv.org/abs/2506.03523>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_pretraining/tokalign_vocab_adap…](https://papernotes.org/ACL2025/llm_pretraining/tokalign_vocab_adaptation/)
 
 **Emergent Abilities of Large Language Models under Continued Pre-training for Language Adaptation**
 
@@ -6732,6 +7051,7 @@
 **Data Whisperer: Efficient Data Selection for Task-Specific LLM Fine-Tuning via Few-Shot In-Context Learning**
 
 - Paper: <https://arxiv.org/abs/2505.12212>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_pretraining/data_whisperer_data…](https://papernotes.org/ACL2025/llm_pretraining/data_whisperer_data_selection/)
 
 **Model Performance-Guided Evaluation Data Selection for Effective Prompt Optimization** · 📖 Findings
 
@@ -6741,6 +7061,7 @@
 **Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models**
 
 - Paper: <https://arxiv.org/abs/2504.14194>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_pretraining/metarater_a_multidi…](https://papernotes.org/ACL2025/llm_pretraining/metarater_a_multidimensional_data_selection_method/)
 
 **Splintering Nonconcatenative Languages for Better Tokenization** · 📖 Findings
 
@@ -6755,6 +7076,7 @@
 **InSerter: Speech Instruction Following with Unsupervised Interleaved Pre-training**
 
 - Paper: <https://arxiv.org/abs/2503.02769>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_pretraining/inserter_speech_ins…](https://papernotes.org/ACL2025/llm_pretraining/inserter_speech_instruction/)
 
 **Adversarial Tokenization**
 
@@ -6769,11 +7091,12 @@
 **Between Circuits and Chomsky: Pre-pretraining on Formal Languages Imparts Linguistic Biases**
 
 - Paper: <https://arxiv.org/abs/2502.19249>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_pretraining/between_circuits_ch…](https://papernotes.org/ACL2025/llm_pretraining/between_circuits_chomsky/)
 
 **Stealing Training Data from Large Language Models in Decentralized Training through Activation Inversion Attack**
 
 - Paper: <https://arxiv.org/abs/2502.16086>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_pretraining/stealing_training_d…](https://papernotes.org/ACL2025/llm_pretraining/stealing_training_data_from_large_language_models_in_decentralized_training_thro/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_pretraining/activation-inversio…](https://papernotes.org/ACL2025/llm_pretraining/activation-inversion-attack-stealing-training-data-in-decentralized-training/)
 
 **Tokenization is Sensitive to Language Variation** · 📖 Findings
 
@@ -6807,6 +7130,7 @@
 **Nemotron-CC: Transforming Common Crawl into a Refined Long-Horizon Pretraining Dataset**
 
 - Paper: <https://arxiv.org/abs/2412.02595>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_pretraining/nemotron_cc_pretrai…](https://papernotes.org/ACL2025/llm_pretraining/nemotron_cc_pretraining_data/)
 
 **Velocitune: A Velocity-based Dynamic Domain Reweighting Method for Continual Pre-training**
 
@@ -6836,10 +7160,12 @@
 **SCAR: Data Selection via Style Consistency-Aware Response Ranking for Efficient Instruction-Tuning of Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2406.10882>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_pretraining/scar_style_consiste…](https://papernotes.org/ACL2025/llm_pretraining/scar_style_consistency_data_selection/)
 
 **An Effective Incorporating Heterogeneous Knowledge Curriculum Learning for Sequence Labeling**
 
 - Paper: <https://arxiv.org/abs/2402.13534>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_pretraining/dual_stage_curricul…](https://papernotes.org/ACL2025/llm_pretraining/dual_stage_curriculum_learning_sequence_labeling/)
 
 **Autonomous Data Selection with Zero-shot Generative Classifiers for Mathematical Texts** · 📖 Findings
 
@@ -6848,6 +7174,7 @@
 
 **FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_pretraining/fr_spec_speculative…](https://papernotes.org/ACL2025/llm_pretraining/fr_spec_speculative_sampling/)
 
 **Towards Effective and Efficient Continual Pre-training of Large Language Models**
 
@@ -6866,7 +7193,7 @@
 
 **Stealing Training Data from Large Language Models in Decentralized Training through Activation Inversion Attack**
 
-- Notes (Chinese): [papernotes.org/ACL2025/llm_pretraining/stealing_training_d…](https://papernotes.org/ACL2025/llm_pretraining/stealing_training_data_from_large_language_models_in_decentralized_training_thro/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_pretraining/activation-inversio…](https://papernotes.org/ACL2025/llm_pretraining/activation-inversion-attack-stealing-training-data-in-decentralized-training/)
 
 **Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation**
 
@@ -6922,6 +7249,7 @@
 **Exploring the Impact of Instruction-Tuning on LLM's Susceptibility to Misinformation**
 
 - Paper: <https://arxiv.org/abs/2507.18203>
+- Notes (Chinese): [papernotes.org/ACL2025/social_computing/exploring_the_impa…](https://papernotes.org/ACL2025/social_computing/exploring_the_impact_of_instruction-tuning_on_llms_susceptibility_to_misinformat/)
 
 **Exploring Gender Bias in Large Language Models: An In-depth Dive into the German Language** · 🛠️ Workshop
 
@@ -6941,6 +7269,7 @@
 **K/DA: Automated Data Generation Pipeline for Detoxifying Implicitly Offensive Language in Korean**
 
 - Paper: <https://arxiv.org/abs/2506.13513>
+- Notes (Chinese): [papernotes.org/ACL2025/social_computing/kda_automated_data…](https://papernotes.org/ACL2025/social_computing/kda_automated_data_generation_pipeline_for_detoxifying_implicitly_offensive_lang/)
 
 **Silencing Empowerment, Allowing Bigotry: Auditing the Moderation of Hate Speech on Twitch**
 
@@ -6965,6 +7294,7 @@
 **Synergizing LLMs with Global Label Propagation for Multimodal Fake News Detection**
 
 - Paper: <https://arxiv.org/abs/2506.00488>
+- Notes (Chinese): [papernotes.org/ACL2025/social_computing/llm_label_propagat…](https://papernotes.org/ACL2025/social_computing/llm_label_propagation/)
 
 **Exploring Multimodal Challenges in Toxic Chinese Detection: Taxonomy, Benchmark, and Findings** · 📖 Findings
 
@@ -6974,6 +7304,7 @@
 **How does Misinformation Affect Large Language Model Behaviors and Preferences?**
 
 - Paper: <https://arxiv.org/abs/2505.21608>
+- Notes (Chinese): [papernotes.org/ACL2025/social_computing/how_does_misinform…](https://papernotes.org/ACL2025/social_computing/how_does_misinformation_affect_large_language/)
 
 **MDIT-Bench: Evaluating the Dual-Implicit Toxicity in Large Multimodal Models** · 📖 Findings
 
@@ -7013,10 +7344,12 @@
 **Evaluation of LLM Vulnerabilities to Being Misused for Personalized Disinformation Generation**
 
 - Paper: <https://arxiv.org/abs/2412.13666>
+- Notes (Chinese): [papernotes.org/ACL2025/social_computing/llm_personalized_d…](https://papernotes.org/ACL2025/social_computing/llm_personalized_disinformation/)
 
 **HateDay: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter**
 
 - Paper: <https://arxiv.org/abs/2411.15462>
+- Notes (Chinese): [papernotes.org/ACL2025/social_computing/hateday_global_hat…](https://papernotes.org/ACL2025/social_computing/hateday_global_hate_speech/)
 
 **Detection of Human and Machine-Authored Fake News in Urdu**
 
@@ -7087,6 +7420,7 @@
 **CoCoLex: Confidence-guided Copy-based Decoding for Grounded Legal Text Generation**
 
 - Paper: <https://arxiv.org/abs/2508.05534>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/cocolex_legal_text_gen](https://papernotes.org/ACL2025/llm_nlp/cocolex_legal_text_gen/)
 
 **ATGen: A Framework for Active Text Generation** · 🎬 Demo
 
@@ -7096,6 +7430,7 @@
 **Multi-document Summarization through Multi-document Event Relation Graph Reasoning in LLMs: a case study in Framing Bias Mitigation**
 
 - Paper: <https://arxiv.org/abs/2506.12978>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/event_graph_bias_mitigation…](https://papernotes.org/ACL2025/llm_nlp/event_graph_bias_mitigation_summarization/)
 
 **TagRouter: Learning Route to LLMs through Tags for Open-Domain Text Generation Tasks**
 
@@ -7110,10 +7445,12 @@
 **Tell, Don't Show: Leveraging Language Models' Abstractive Retellings to Model Literary Themes** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2505.23166>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/tell_dont_show_leveraging_l…](https://papernotes.org/ACL2025/llm_nlp/tell_dont_show_leveraging_language_models_abstractive_retellings_to_model_litera/)
 
 **Document-Level Text Generation with Minimum Bayes Risk Decoding using Optimal Transport**
 
 - Paper: <https://arxiv.org/abs/2505.23078>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/doc_level_mbr_optimal_trans…](https://papernotes.org/ACL2025/llm_nlp/doc_level_mbr_optimal_transport/)
 
 **A Representation Level Analysis of NMT Model Robustness to Grammatical Errors** · 📖 Findings
 
@@ -7128,18 +7465,22 @@
 **Writing Like the Best: Exemplar-Based Expository Text Generation**
 
 - Paper: <https://arxiv.org/abs/2505.18859>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/writing_like_best_exemplar](https://papernotes.org/ACL2025/llm_nlp/writing_like_best_exemplar/)
 
 **An Empirical Study of Many-to-Many Summarization with Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2505.12983>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/an_empirical_study_of_manyt…](https://papernotes.org/ACL2025/llm_nlp/an_empirical_study_of_manytomany_summarization/)
 
 **Odysseus Navigates the Sirens' Song: Dynamic Focus Decoding for Factual and Diverse Open-Ended Text Generation**
 
 - Paper: <https://arxiv.org/abs/2503.08057>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/odysseus_dynamic_focus_deco…](https://papernotes.org/ACL2025/llm_nlp/odysseus_dynamic_focus_decoding/)
 
 **Dehumanizing Machines: Mitigating Anthropomorphic Behaviors in Text Generation Systems**
 
 - Paper: <https://arxiv.org/abs/2502.14019>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/dehumanizing_machines_anthr…](https://papernotes.org/ACL2025/llm_nlp/dehumanizing_machines_anthropomorphic/)
 
 **Rethinking Evaluation Metrics for Grammatical Error Correction: Why Use a Different Evaluation Process than Human?**
 
@@ -7149,6 +7490,7 @@
 **What Is That Talk About? A Video-to-Text Summarization Dataset for Scientific Presentations**
 
 - Paper: <https://arxiv.org/abs/2502.08279>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/video_text_summarization](https://papernotes.org/ACL2025/llm_nlp/video_text_summarization/)
 
 **Context-Aware Hierarchical Merging for Long Document Summarization** · 📖 Findings
 
@@ -7259,6 +7601,7 @@
 **RSCF: Relation-Semantics Consistent Filter for Entity Embedding of Knowledge Graph**
 
 - Paper: <https://arxiv.org/abs/2505.20813>
+- Notes (Chinese): [papernotes.org/ACL2025/graph_learning/rscf_relationsemanti…](https://papernotes.org/ACL2025/graph_learning/rscf_relationsemantics_consistent_filter_for_entity/)
 
 **Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings**
 
@@ -7292,14 +7635,17 @@
 **Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?**
 
 - Paper: <https://arxiv.org/abs/2412.08174>
+- Notes (Chinese): [papernotes.org/ACL2025/graph_learning/can_graph_neural_net…](https://papernotes.org/ACL2025/graph_learning/can_graph_neural_networks_learn_language/)
 
 **GraphNarrator: Generating Textual Explanations for Graph Neural Networks**
 
 - Paper: <https://arxiv.org/abs/2410.15268>
+- Notes (Chinese): [papernotes.org/ACL2025/graph_learning/graphnarrator](https://papernotes.org/ACL2025/graph_learning/graphnarrator/)
 
 **Can Knowledge Graphs Make Large Language Models More Trustworthy? An Empirical Study Over Open-ended Question Answering**
 
 - Paper: <https://arxiv.org/abs/2410.08085>
+- Notes (Chinese): [papernotes.org/ACL2025/graph_learning/kg_llm_trustworthy_qa](https://papernotes.org/ACL2025/graph_learning/kg_llm_trustworthy_qa/)
 
 **Fast-and-Frugal Text-Graph Transformers are Effective Link Predictors** · 📖 Findings
 
@@ -7319,10 +7665,12 @@
 **Extending Complex Logical Queries on Uncertain Knowledge Graphs**
 
 - Paper: <https://arxiv.org/abs/2403.01508>
+- Notes (Chinese): [papernotes.org/ACL2025/graph_learning/extending_complex_lo…](https://papernotes.org/ACL2025/graph_learning/extending_complex_logical_queries_uncertain_knowledge_graphs/)
 
 **Can LLMs Evaluate Complex Attribution in QA? Automatic Benchmarking using Knowledge Graphs**
 
 - Paper: <https://arxiv.org/abs/2401.14640>
+- Notes (Chinese): [papernotes.org/ACL2025/graph_learning/paper_2401_14640](https://papernotes.org/ACL2025/graph_learning/paper_2401_14640/)
 
 **HyperFM: Fact-Centric Multimodal Fusion for Link Prediction over Hyper-Relational Knowledge Graphs**
 
@@ -7395,10 +7743,12 @@
 **Establishing Trustworthy LLM Evaluation via Shortcut Neuron Analysis**
 
 - Paper: <https://arxiv.org/abs/2506.04142>
+- Notes (Chinese): [papernotes.org/ACL2025/interpretability/shortcut_neuron_eval](https://papernotes.org/ACL2025/interpretability/shortcut_neuron_eval/)
 
 **IRT-Router: Effective and Interpretable Multi-LLM Routing via Item Response Theory**
 
 - Paper: <https://arxiv.org/abs/2506.01048>
+- Notes (Chinese): [papernotes.org/ACL2025/interpretability/irt_router_multi_llm](https://papernotes.org/ACL2025/interpretability/irt_router_multi_llm/)
 
 **Probing the Geometry of Truth: Consistency and Generalization of Truth Directions in LLMs Across Logical Transformations and Question Answering Tasks** · 📖 Findings
 
@@ -7418,6 +7768,7 @@
 **Llama See, Llama Do: A Mechanistic Perspective on Contextual Entrainment and Distraction in LLMs**
 
 - Paper: <https://arxiv.org/abs/2505.09338>
+- Notes (Chinese): [papernotes.org/ACL2025/interpretability/llama_see_llama_do…](https://papernotes.org/ACL2025/interpretability/llama_see_llama_do_entrainment/)
 
 **Safety is Not Only About Refusal: Reasoning-Enhanced Fine-tuning for Interpretable LLM Safety** · 📖 Findings
 
@@ -7437,11 +7788,12 @@
 **Enhancing Automated Interpretability with Output-Centric Feature Descriptions**
 
 - Paper: <https://arxiv.org/abs/2501.08319>
+- Notes (Chinese): [papernotes.org/ACL2025/interpretability/output_centric_int…](https://papernotes.org/ACL2025/interpretability/output_centric_interpretability/)
 
 **Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers**
 
 - Paper: <https://arxiv.org/abs/2411.08745>
-- Notes (Chinese): [papernotes.org/ACL2025/interpretability/separating_tongue_…](https://papernotes.org/ACL2025/interpretability/separating_tongue_from_thought_activation_patching_reveals_language-agnostic_con/)
+- Notes (Chinese): [papernotes.org/ACL2025/interpretability/language_agnostic_…](https://papernotes.org/ACL2025/interpretability/language_agnostic_concepts/)
 
 **Reasoning Circuits in Language Models: A Mechanistic Interpretation of Syllogistic Inference** · 📖 Findings
 
@@ -7455,6 +7807,7 @@
 **CLEME2.0: Towards Interpretable Evaluation by Disentangling Edits for Grammatical Error Correction**
 
 - Paper: <https://arxiv.org/abs/2407.00934>
+- Notes (Chinese): [papernotes.org/ACL2025/interpretability/cleme2_gec_evaluat…](https://papernotes.org/ACL2025/interpretability/cleme2_gec_evaluation/)
 
 **Cracking Factual Knowledge: A Comprehensive Analysis of Degenerate Knowledge Neurons in Large Language Models**
 
@@ -7464,6 +7817,7 @@
 **Retrieve to Explain: Evidence-driven Predictions for Explainable Drug Target Identification**
 
 - Paper: <https://arxiv.org/abs/2402.04068>
+- Notes (Chinese): [papernotes.org/ACL2025/interpretability/retrieve_to_explai…](https://papernotes.org/ACL2025/interpretability/retrieve_to_explain_drug_target_identification/)
 
 **Position-aware Automatic Circuit Discovery**
 
@@ -7500,7 +7854,7 @@
 
 **Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers**
 
-- Notes (Chinese): [papernotes.org/ACL2025/interpretability/separating_tongue_…](https://papernotes.org/ACL2025/interpretability/separating_tongue_from_thought_activation_patching_reveals_language-agnostic_con/)
+- Notes (Chinese): [papernotes.org/ACL2025/interpretability/language_agnostic_…](https://papernotes.org/ACL2025/interpretability/language_agnostic_concepts/)
 
 **An Empirical Study of Mechanistic Interpretability Approaches for Factual Recall**
 
@@ -7557,6 +7911,7 @@
 **FEA-Bench: A Benchmark for Evaluating Repository-Level Code Generation for Feature Implementation**
 
 - Paper: <https://arxiv.org/abs/2503.06680>
+- Notes (Chinese): [papernotes.org/ACL2025/code_intelligence/feabench_repo_cod…](https://papernotes.org/ACL2025/code_intelligence/feabench_repo_code_gen/)
 
 **CodeIF: Benchmarking the Instruction-Following Capabilities of Large Language Models for Code Generation** · 🏭 Industry
 
@@ -7566,6 +7921,7 @@
 **GiFT: Gibbs Fine-Tuning for Code Generation**
 
 - Paper: <https://arxiv.org/abs/2502.11466>
+- Notes (Chinese): [papernotes.org/ACL2025/code_intelligence/gift_gibbs_fine_t…](https://papernotes.org/ACL2025/code_intelligence/gift_gibbs_fine_tuning_code_gen/)
 
 **Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling** · 📖 Findings · 🛠️ Workshop
 
@@ -7575,6 +7931,7 @@
 **Personality-Guided Code Generation Using Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2411.00006>
+- Notes (Chinese): [papernotes.org/ACL2025/code_intelligence/personality_guide…](https://papernotes.org/ACL2025/code_intelligence/personality_guided_code_gen/)
 
 **SceneGenAgent: Precise Industrial Scene Generation with Coding Agent**
 
@@ -7589,10 +7946,12 @@
 **CodeDPO: Aligning Code Models with Self Generated and Verified Source Code**
 
 - Paper: <https://arxiv.org/abs/2410.05605>
+- Notes (Chinese): [papernotes.org/ACL2025/code_intelligence/codedpo_code_alig…](https://papernotes.org/ACL2025/code_intelligence/codedpo_code_alignment/)
 
 **GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding**
 
 - Paper: <https://arxiv.org/abs/2409.04183>
+- Notes (Chinese): [papernotes.org/ACL2025/code_intelligence/galla_graph_align…](https://papernotes.org/ACL2025/code_intelligence/galla_graph_aligned_large_language_models/)
 
 **ReflectionCoder: Learning from Reflection Sequence for Enhanced One-off Code Generation**
 
@@ -7601,6 +7960,7 @@
 
 **Tree-of-Evolution: Tree-Structured Instruction Evolution for Code Generation in Large Language Models**
 
+- Notes (Chinese): [papernotes.org/ACL2025/code_intelligence/tree_of_evolution…](https://papernotes.org/ACL2025/code_intelligence/tree_of_evolution_code_gen/)
 
 **UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench**
 
@@ -7651,6 +8011,7 @@
 **ChainEdit: Propagating Ripple Effects in LLM Knowledge Editing through Logical Rule-Guided Chains**
 
 - Paper: <https://arxiv.org/abs/2507.08427>
+- Notes (Chinese): [papernotes.org/ACL2025/knowledge_editing/chainedit_propaga…](https://papernotes.org/ACL2025/knowledge_editing/chainedit_propagating_ripple_effects_in_llm/)
 
 **Towards a Principled Evaluation of Knowledge Editors** · 🛠️ Workshop
 
@@ -7665,6 +8026,7 @@
 **Efficient Knowledge Editing via Minimal Precomputation**
 
 - Paper: <https://arxiv.org/abs/2506.04226>
+- Notes (Chinese): [papernotes.org/ACL2025/knowledge_editing/efficient_knowled…](https://papernotes.org/ACL2025/knowledge_editing/efficient_knowledge_editing/)
 
 **COMPKE: Complex Question Answering under Knowledge Editing** · 📖 Findings
 
@@ -7709,6 +8071,7 @@
 **CKnowEdit: A New Chinese Knowledge Editing Dataset for Linguistics, Facts, and Logic Error Correction in LLMs**
 
 - Paper: <https://arxiv.org/abs/2409.05806>
+- Notes (Chinese): [papernotes.org/ACL2025/knowledge_editing/cknowedit_chinese…](https://papernotes.org/ACL2025/knowledge_editing/cknowedit_chinese_knowledge_editing_dataset_llms/)
 
 **BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning**
 
@@ -7753,16 +8116,17 @@
 **HACo-Det: A Study Towards Fine-Grained Machine-Generated Text Detection under Human-AI Coauthoring**
 
 - Paper: <https://arxiv.org/abs/2506.02959>
-- Notes (Chinese): [papernotes.org/ACL2025/aigc_detection/haco-det_a_study_tow…](https://papernotes.org/ACL2025/aigc_detection/haco-det_a_study_towards_fine-grained_machine-generated_text_detection_under_hum/)
+- Notes (Chinese): [papernotes.org/ACL2025/aigc_detection/haco-det-fine-graine…](https://papernotes.org/ACL2025/aigc_detection/haco-det-fine-grained-detection-under-human-ai-coauthoring/)
 
 **Comparing LLM-generated and human-authored news text using formal syntactic theory**
 
 - Paper: <https://arxiv.org/abs/2506.01407>
+- Notes (Chinese): [papernotes.org/ACL2025/aigc_detection/llm_vs_human_formal_…](https://papernotes.org/ACL2025/aigc_detection/llm_vs_human_formal_syntax/)
 
 **Reliably Bounding False Positives: A Zero-Shot Machine-Generated Text Detection Framework via Multiscaled Conformal Prediction**
 
 - Paper: <https://arxiv.org/abs/2505.05084>
-- Notes (Chinese): [papernotes.org/ACL2025/aigc_detection/reliably_bounding_fa…](https://papernotes.org/ACL2025/aigc_detection/reliably_bounding_false_positives_a_zero-shot_machine-generated_text_detection_f/)
+- Notes (Chinese): [papernotes.org/ACL2025/aigc_detection/mcp-zero-shot-mgt-de…](https://papernotes.org/ACL2025/aigc_detection/mcp-zero-shot-mgt-detection-via-conformal-prediction/)
 
 **KatFishNet: Detecting LLM-Generated Korean Text through Linguistic Feature Analysis**
 
@@ -7772,18 +8136,22 @@
 **Iron Sharpens Iron: Defending Against Attacks in Machine-Generated Text Detection with Adversarial Training**
 
 - Paper: <https://arxiv.org/abs/2502.12734>
+- Notes (Chinese): [papernotes.org/ACL2025/aigc_detection/greater_adversarial_…](https://papernotes.org/ACL2025/aigc_detection/greater_adversarial_mgt_detection/)
 
 **Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection**
 
 - Paper: <https://arxiv.org/abs/2502.12611>
+- Notes (Chinese): [papernotes.org/ACL2025/aigc_detection/who_writes_what_ai_d…](https://papernotes.org/ACL2025/aigc_detection/who_writes_what_ai_detection/)
 
 **People who frequently use ChatGPT for writing tasks are accurate and robust detectors of AI-generated text**
 
 - Paper: <https://arxiv.org/abs/2501.15654>
+- Notes (Chinese): [papernotes.org/ACL2025/aigc_detection/chatgpt_user_ai_text…](https://papernotes.org/ACL2025/aigc_detection/chatgpt_user_ai_text_detection/)
 
 **Are We in the AI-Generated Text World Already? Quantifying and Monitoring AIGT on Social Media**
 
 - Paper: <https://arxiv.org/abs/2412.18148>
+- Notes (Chinese): [papernotes.org/ACL2025/aigc_detection/aigt_social_media_mo…](https://papernotes.org/ACL2025/aigc_detection/aigt_social_media_monitoring/)
 
 **A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on NLI** · 📖 Findings
 
@@ -7793,6 +8161,7 @@
 **MultiSocial: Multilingual Benchmark of Machine-Generated Text Detection of Social-Media Texts**
 
 - Paper: <https://arxiv.org/abs/2406.12549>
+- Notes (Chinese): [papernotes.org/ACL2025/aigc_detection/multisocial_mgt_dete…](https://papernotes.org/ACL2025/aigc_detection/multisocial_mgt_detection/)
 
 **Learning to Rewrite: Generalized LLM-Generated Text Detection**
 
@@ -7800,14 +8169,14 @@
 
 **Reliably Bounding False Positives: A Zero-Shot Machine-Generated Text Detection Framework via Multiscaled Conformal Prediction**
 
-- Notes (Chinese): [papernotes.org/ACL2025/aigc_detection/reliably_bounding_fa…](https://papernotes.org/ACL2025/aigc_detection/reliably_bounding_false_positives_a_zero-shot_machine-generated_text_detection_f/)
+- Notes (Chinese): [papernotes.org/ACL2025/aigc_detection/mcp-zero-shot-mgt-de…](https://papernotes.org/ACL2025/aigc_detection/mcp-zero-shot-mgt-detection-via-conformal-prediction/)
 
 **SINCon: Mitigate LLM-Generated Malicious Message Injection Attack for Rumor Detection**
 
 
 **HACo-Det: A Study Towards Fine-Grained Machine-Generated Text Detection under Human-AI Coauthoring**
 
-- Notes (Chinese): [papernotes.org/ACL2025/aigc_detection/haco-det_a_study_tow…](https://papernotes.org/ACL2025/aigc_detection/haco-det_a_study_towards_fine-grained_machine-generated_text_detection_under_hum/)
+- Notes (Chinese): [papernotes.org/ACL2025/aigc_detection/haco-det-fine-graine…](https://papernotes.org/ACL2025/aigc_detection/haco-det-fine-grained-detection-under-human-ai-coauthoring/)
 
 **XDAC: XAI-Driven Detection and Attribution of LLM-Generated News Comments in Korean**
 
@@ -7840,6 +8209,7 @@
 **Planning with Diffusion Models for Target-Oriented Dialogue Systems**
 
 - Paper: <https://arxiv.org/abs/2504.16858>
+- Notes (Chinese): [papernotes.org/ACL2025/image_generation/difftod_diffusion_…](https://papernotes.org/ACL2025/image_generation/difftod_diffusion_dialogue_planning/)
 
 **D-GEN: Automatic Distractor Generation and Evaluation for Reliable Assessment of Generative Model** · 📖 Findings
 
@@ -7900,6 +8270,7 @@
 **SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods**
 
 - Paper: <https://arxiv.org/abs/2507.21463>
+- Notes (Chinese): [papernotes.org/ACL2025/ai_safety/speechfake_a_largescale_m…](https://papernotes.org/ACL2025/ai_safety/speechfake_a_largescale_multilingual_speech_deepfake/)
 
 **FairI Tales: Evaluation of Fairness in Indian Contexts with a Focus on Bias and Stereotypes**
 
@@ -7918,10 +8289,12 @@
 **PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance**
 
 - Paper: <https://arxiv.org/abs/2502.17041>
+- Notes (Chinese): [papernotes.org/ACL2025/ai_safety/privacibench_evaluating_p…](https://papernotes.org/ACL2025/ai_safety/privacibench_evaluating_privacy_with_contextual_integrity/)
 
 **CENTAUR: Bridging the Impossible Trinity of Privacy, Efficiency, and Performance in Privacy-Preserving Transformer Inference**
 
 - Paper: <https://arxiv.org/abs/2412.10652>
+- Notes (Chinese): [papernotes.org/ACL2025/ai_safety/centaur_bridging_the_impo…](https://papernotes.org/ACL2025/ai_safety/centaur_bridging_the_impossible_trinity_of/)
 
 **Robust and Minimally Invasive Watermarking for EaaS**
 
@@ -7931,10 +8304,12 @@
 **Efficiently Identifying Watermarked Segments in Mixed-Source Texts**
 
 - Paper: <https://arxiv.org/abs/2410.03600>
+- Notes (Chinese): [papernotes.org/ACL2025/ai_safety/watermark_segment_detection](https://papernotes.org/ACL2025/ai_safety/watermark_segment_detection/)
 
 **WET: Overcoming Paraphrasing Vulnerabilities in Embeddings-as-a-Service with Linear Transformation Watermarks**
 
 - Paper: <https://arxiv.org/abs/2409.04459>
+- Notes (Chinese): [papernotes.org/ACL2025/ai_safety/wet_eaas_watermark](https://papernotes.org/ACL2025/ai_safety/wet_eaas_watermark/)
 
 **Building a Long Text Privacy Policy Corpus with Multi-Class Labels**
 
@@ -7968,6 +8343,7 @@
 **UniConv: Unifying Retrieval and Response Generation for Large Language Models in Conversations**
 
 - Paper: <https://arxiv.org/abs/2507.07030>
+- Notes (Chinese): [papernotes.org/ACL2025/dialogue/uniconv_retrieval_response…](https://papernotes.org/ACL2025/dialogue/uniconv_retrieval_response_gen/)
 
 **PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants** · 📖 Findings
 
@@ -7997,6 +8373,7 @@
 **Exploring Persona Sentiment Sensitivity in Personalized Dialogue Generation**
 
 - Paper: <https://arxiv.org/abs/2502.11423>
+- Notes (Chinese): [papernotes.org/ACL2025/dialogue/persona_sentiment_dialogue](https://papernotes.org/ACL2025/dialogue/persona_sentiment_dialogue/)
 
 **Dialogue Systems for Emotional Support via Value Reinforcement**
 
@@ -8011,6 +8388,7 @@
 **ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework**
 
 - Paper: <https://arxiv.org/abs/2409.10289>
+- Notes (Chinese): [papernotes.org/ACL2025/dialogue/reflectdiffu_empathetic_re…](https://papernotes.org/ACL2025/dialogue/reflectdiffu_empathetic_response/)
 
 **Wizard of Shopping: Target-Oriented E-commerce Dialogue Generation with Decision Tree Branching**
 
@@ -8067,6 +8445,7 @@
 **Rolling the DICE on Idiomaticity: How LLMs Fail to Grasp Context**
 
 - Paper: <https://arxiv.org/abs/2410.16069>
+- Notes (Chinese): [papernotes.org/ACL2025/robotics/dice_idiomaticity](https://papernotes.org/ACL2025/robotics/dice_idiomaticity/)
 
 **Assessment and manipulation of latent constructs in pre-trained language models using psychometric scales**
 
@@ -8162,10 +8541,12 @@
 **TreeRL: LLM Reinforcement Learning with On-Policy Tree Search**
 
 - Paper: <https://arxiv.org/abs/2506.11902>
+- Notes (Chinese): [papernotes.org/ACL2025/reinforcement_learning/treerl_tree_…](https://papernotes.org/ACL2025/reinforcement_learning/treerl_tree_search_rl/)
 
 **An Efficient Task-Oriented Dialogue Policy: Evolutionary Reinforcement Learning Injected by Elite Individuals**
 
 - Paper: <https://arxiv.org/abs/2506.03519>
+- Notes (Chinese): [papernotes.org/ACL2025/dialogue/eierl_dialogue_policy](https://papernotes.org/ACL2025/dialogue/eierl_dialogue_policy/)
 
 **Learning to Generate Structured Output with Schema Reinforcement Learning**
 
@@ -8223,6 +8604,7 @@
 **GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion**
 
 - Paper: <https://arxiv.org/abs/2506.01673>
+- Notes (Chinese): [papernotes.org/ACL2025/recommender/gram_generative_recomme…](https://papernotes.org/ACL2025/recommender/gram_generative_recommendation/)
 
 **KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models**
 
@@ -8273,6 +8655,7 @@
 **Contrastive Learning on LLM Back Generation Treebank for Cross-domain Constituency Parsing**
 
 - Paper: <https://arxiv.org/abs/2505.20976>
+- Notes (Chinese): [papernotes.org/ACL2025/self_supervised/llm_back_gen_treebank](https://papernotes.org/ACL2025/self_supervised/llm_back_gen_treebank/)
 
 **WhiSPA: Semantically and Psychologically Aligned Whisper with Self-Supervised Contrastive and Student-Teacher Learning**
 
@@ -8287,6 +8670,7 @@
 **QAEncoder: Towards Aligned Representation Learning in Question Answering Systems**
 
 - Paper: <https://arxiv.org/abs/2409.20434>
+- Notes (Chinese): [papernotes.org/ACL2025/self_supervised/qaencoder_aligned_r…](https://papernotes.org/ACL2025/self_supervised/qaencoder_aligned_representation/)
 
 **Enhancing Unsupervised Sentence Embeddings via Knowledge-Driven Data Augmentation and Gaussian-Decayed Contrastive Learning**
 
@@ -8347,6 +8731,7 @@
 **On the Reliability of Large Language Models for Causal Discovery**
 
 - Paper: <https://arxiv.org/abs/2407.19638>
+- Notes (Chinese): [papernotes.org/ACL2025/causal_inference/llm_causal_discove…](https://papernotes.org/ACL2025/causal_inference/llm_causal_discovery_reliability/)
 
 **Dually Self-Improved Counterfactual Data Augmentation Using Large Language Model**
 
@@ -8379,6 +8764,7 @@
 **Context-Aware Sentiment Forecasting via LLM-based Multi-Perspective Role-Playing Agents**
 
 - Paper: <https://arxiv.org/abs/2505.24331>
+- Notes (Chinese): [papernotes.org/ACL2025/time_series/context_aware_sentiment…](https://papernotes.org/ACL2025/time_series/context_aware_sentiment_forecasting_agents/)
 
 **Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement**
 
@@ -8457,6 +8843,7 @@
 **DiffuseDef: Improved Robustness to Adversarial Attacks via Iterative Denoising**
 
 - Paper: <https://arxiv.org/abs/2407.00248>
+- Notes (Chinese): [papernotes.org/ACL2025/image_restoration/diffusedef_advers…](https://papernotes.org/ACL2025/image_restoration/diffusedef_adversarial_defense/)
 
 **A Self-Denoising Model for Robust Few-Shot Relation Extraction**
 
@@ -8502,6 +8889,7 @@
 **ScaleBiO: Scalable Bilevel Optimization for LLM Data Reweighting**
 
 - Paper: <https://arxiv.org/abs/2406.19976>
+- Notes (Chinese): [papernotes.org/ACL2025/optimization/scalebio_bilevel_data_…](https://papernotes.org/ACL2025/optimization/scalebio_bilevel_data_reweighting/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -8558,6 +8946,7 @@
 **CoachMe: Decoding Sport Elements with a Reference-Based Coaching Instruction Generation Model**
 
 - Paper: <https://arxiv.org/abs/2509.11698>
+- Notes (Chinese): [papernotes.org/ACL2025/others/coachme_sport_instruction](https://papernotes.org/ACL2025/others/coachme_sport_instruction/)
 
 **Self-Foveate: Enhancing Diversity and Difficulty of Synthesized Instructions from Unsupervised Text via Multi-Level Foveation** · 📖 Findings
 
@@ -8602,10 +8991,12 @@
 **DoMIX: An Efficient Framework for Exploiting Domain Knowledge in Fine-Tuning**
 
 - Paper: <https://arxiv.org/abs/2507.02302>
+- Notes (Chinese): [papernotes.org/ACL2025/others/domix_an_efficient_framework…](https://papernotes.org/ACL2025/others/domix_an_efficient_framework_for_exploiting/)
 
 **ProxAnn: Use-Oriented Evaluations of Topic Models and Document Clustering**
 
 - Paper: <https://arxiv.org/abs/2507.00828>
+- Notes (Chinese): [papernotes.org/ACL2025/others/proxann_topic_model_eval](https://papernotes.org/ACL2025/others/proxann_topic_model_eval/)
 
 **Towards Style Alignment in Cross-Cultural Translation**
 
@@ -8615,6 +9006,7 @@
 **Hierarchical Memory Organization for Wikipedia Generation**
 
 - Paper: <https://arxiv.org/abs/2506.23393>
+- Notes (Chinese): [papernotes.org/ACL2025/others/hierarchical_memory_wikipedi…](https://papernotes.org/ACL2025/others/hierarchical_memory_wikipedia_gen/)
 
 **AutoMixer: Checkpoint Artifacts as Automatic Data Mixers**
 
@@ -8663,6 +9055,7 @@
 **Enhancing Hyperbole and Metaphor Detection with Their Bidirectional Dynamic Interaction and Emotion Knowledge**
 
 - Paper: <https://arxiv.org/abs/2506.15504>
+- Notes (Chinese): [papernotes.org/ACL2025/others/hyperbole_metaphor_detection](https://papernotes.org/ACL2025/others/hyperbole_metaphor_detection/)
 
 **Capacity Matters: a Proof-of-Concept for Transformer Memorization on Real-World Data** · 🛠️ Workshop
 
@@ -8672,6 +9065,7 @@
 **Digital Gatekeepers: Google's Role in Curating Hashtags and Subreddits**
 
 - Paper: <https://arxiv.org/abs/2506.14370>
+- Notes (Chinese): [papernotes.org/ACL2025/others/digital_gatekeepers_googles_…](https://papernotes.org/ACL2025/others/digital_gatekeepers_googles_role_in_curating_hashtags_and_subreddits/)
 
 **SPOT: Bridging Natural Language and Geospatial Search for Investigative Journalists**
 
@@ -8691,6 +9085,7 @@
 **(RSA)\texttwosuperior: A Rhetorical-Strategy-Aware Rational Speech Act Framework for Figurative Language Understanding**
 
 - Paper: <https://arxiv.org/abs/2506.09301>
+- Notes (Chinese): [papernotes.org/ACL2025/others/rsatexttwosuperior_a_rhetori…](https://papernotes.org/ACL2025/others/rsatexttwosuperior_a_rhetorical-strategy-aware_rational_speech_act_framework_for/)
 
 **Well Begun is Half Done: Low-resource Preference Alignment by Weak-to-Strong Decoding** · 📖 Findings
 
@@ -8725,6 +9120,7 @@
 **Identifying Reliable Evaluation Metrics for Scientific Text Revision**
 
 - Paper: <https://arxiv.org/abs/2506.04772>
+- Notes (Chinese): [papernotes.org/ACL2025/others/reliable_eval_metrics_scient…](https://papernotes.org/ACL2025/others/reliable_eval_metrics_scientific/)
 
 **Behavioural vs. Representational Systematicity in End-to-End Models: An Opinionated Survey**
 
@@ -8764,6 +9160,7 @@
 **GA-S$^3$: Comprehensive Social Network Simulation with Group Agents** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2506.03532>
+- Notes (Chinese): [papernotes.org/ACL2025/others/ga-s3_comprehensive_social_n…](https://papernotes.org/ACL2025/others/ga-s3_comprehensive_social_network_simulation_with_group_agents/)
 
 **EpiCoDe: Boosting Model Performance Beyond Training with Extrapolation and Contrastive Decoding** · 📖 Findings
 
@@ -8773,10 +9170,12 @@
 **Causal Estimation of Tokenisation Bias**
 
 - Paper: <https://arxiv.org/abs/2506.03149>
+- Notes (Chinese): [papernotes.org/ACL2025/others/causal_tokenisation_bias](https://papernotes.org/ACL2025/others/causal_tokenisation_bias/)
 
 **It's Not a Walk in the Park! Challenges of Idiom Translation in Speech-to-text Systems**
 
 - Paper: <https://arxiv.org/abs/2506.02995>
+- Notes (Chinese): [papernotes.org/ACL2025/others/its_not_a_walk_in_the_park_c…](https://papernotes.org/ACL2025/others/its_not_a_walk_in_the_park_challenges_of_idiom_translation_in_speech-to-text_sys/)
 
 **HATA: Trainable and Hardware-Efficient Hash-Aware Top-k Attention for Scalable Large Model Inference** · 📖 Findings
 
@@ -8811,6 +9210,7 @@
 **LAQuer: Localized Attribution Queries in Content-grounded Generation**
 
 - Paper: <https://arxiv.org/abs/2506.01187>
+- Notes (Chinese): [papernotes.org/ACL2025/others/laquer_localized_attribution](https://papernotes.org/ACL2025/others/laquer_localized_attribution/)
 
 **One for All: Update Parameterized Knowledge Across Multiple Models with Once Edit**
 
@@ -8840,6 +9240,7 @@
 **PVP: An Image Dataset for Personalized Visual Persuasion with Persuasion Strategies, Viewer Characteristics, and Persuasiveness Ratings**
 
 - Paper: <https://arxiv.org/abs/2506.00481>
+- Notes (Chinese): [papernotes.org/ACL2025/others/pvp_an_image_dataset_for_per…](https://papernotes.org/ACL2025/others/pvp_an_image_dataset_for_personalized/)
 
 **Inter-Passage Verification for Multi-evidence Multi-answer QA** · 📖 Findings
 
@@ -8854,6 +9255,7 @@
 **Aligned but Blind: Alignment Increases Implicit Bias by Reducing Awareness of Race**
 
 - Paper: <https://arxiv.org/abs/2506.00253>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/aligned_but_blind_imp…](https://papernotes.org/ACL2025/llm_alignment/aligned_but_blind_implicit_bias/)
 
 **MIR: Methodology Inspiration Retrieval for Scientific Research Problems**
 
@@ -8868,6 +9270,7 @@
 **Improving Language and Modality Transfer in Translation by Character-level Modeling**
 
 - Paper: <https://arxiv.org/abs/2505.24561>
+- Notes (Chinese): [papernotes.org/ACL2025/others/improving_language_and_modal…](https://papernotes.org/ACL2025/others/improving_language_and_modality_transfer_in/)
 
 **RMoA: Optimizing Mixture-of-Agents through Diversity Maximization and Residual Compensation** · 📖 Findings
 
@@ -8917,6 +9320,7 @@
 **Map\&Make: Schema Guided Text to Table Generation**
 
 - Paper: <https://arxiv.org/abs/2505.23174>
+- Notes (Chinese): [papernotes.org/ACL2025/others/mapmake_schema_guided_text_t…](https://papernotes.org/ACL2025/others/mapmake_schema_guided_text_to_table_generation/)
 
 **A Practical Approach for Building Production-Grade Conversational Agents with Workflow Graphs** · 🏭 Industry
 
@@ -8941,6 +9345,7 @@
 **Unifying Continuous and Discrete Text Diffusion with Non-simultaneous Diffusion Processes**
 
 - Paper: <https://arxiv.org/abs/2505.22165>
+- Notes (Chinese): [papernotes.org/ACL2025/others/neodiff_unified_text_diffusion](https://papernotes.org/ACL2025/others/neodiff_unified_text_diffusion/)
 
 **Limited Generalizability in Argument Mining: State-Of-The-Art Models Learn Datasets, Not Arguments**
 
@@ -8950,10 +9355,12 @@
 **Principled Content Selection to Generate Diverse and Personalized Multi-Document Summaries**
 
 - Paper: <https://arxiv.org/abs/2505.21859>
+- Notes (Chinese): [papernotes.org/ACL2025/others/dpp_diverse_multidoc_summary](https://papernotes.org/ACL2025/others/dpp_diverse_multidoc_summary/)
 
 **Predicting Implicit Arguments in Procedural Video Instructions**
 
 - Paper: <https://arxiv.org/abs/2505.21068>
+- Notes (Chinese): [papernotes.org/ACL2025/others/implicit_arguments_video_ins…](https://papernotes.org/ACL2025/others/implicit_arguments_video_instructions/)
 
 **Visual Cues Enhance Predictive Turn-Taking for Two-Party Human Interaction** · 📖 Findings
 
@@ -8968,10 +9375,12 @@
 **TUNA: Comprehensive Fine-grained Temporal Understanding Evaluation on Dense Dynamic Videos**
 
 - Paper: <https://arxiv.org/abs/2505.20124>
+- Notes (Chinese): [papernotes.org/ACL2025/others/tuna_temporal_understanding](https://papernotes.org/ACL2025/others/tuna_temporal_understanding/)
 
 **Frictional Agent Alignment Framework: Slow Down and Don't Break Things**
 
 - Paper: <https://arxiv.org/abs/2505.19428>
+- Notes (Chinese): [papernotes.org/ACL2025/others/frictional_agent_alignment](https://papernotes.org/ACL2025/others/frictional_agent_alignment/)
 
 **ChartLens: Fine-grained Visual Attribution in Charts**
 
@@ -9026,6 +9435,7 @@
 **Re-identification of De-identified Documents with Autoregressive Infilling**
 
 - Paper: <https://arxiv.org/abs/2505.12859>
+- Notes (Chinese): [papernotes.org/ACL2025/others/reidentification_deidentified](https://papernotes.org/ACL2025/others/reidentification_deidentified/)
 
 **What is Stigma Attributed to? A Theory-Grounded, Expert-Annotated Interview Corpus for Demystifying Mental-Health Stigma**
 
@@ -9035,6 +9445,7 @@
 **Beyond Frameworks: Unpacking Collaboration Strategies in Multi-Agent Systems**
 
 - Paper: <https://arxiv.org/abs/2505.12467>
+- Notes (Chinese): [papernotes.org/ACL2025/multi_agent/beyond_frameworks_multi…](https://papernotes.org/ACL2025/multi_agent/beyond_frameworks_multi_agent_collaboration/)
 
 **Towards Comprehensive Argument Analysis in Education: Dataset, Tasks, and Method**
 
@@ -9044,6 +9455,7 @@
 **Counterspeech the ultimate shield! Multi-Conditioned Counterspeech Generation through Attributed Prefix Learning**
 
 - Paper: <https://arxiv.org/abs/2505.11958>
+- Notes (Chinese): [papernotes.org/ACL2025/others/hippro_counterspeech_gen](https://papernotes.org/ACL2025/others/hippro_counterspeech_gen/)
 
 **AnalyticKWS: Towards Exemplar-Free Analytic Class Incremental Learning for Small-footprint Keyword Spotting**
 
@@ -9053,6 +9465,7 @@
 **Hierarchical Bracketing Encodings for Dependency Parsing as Tagging**
 
 - Paper: <https://arxiv.org/abs/2505.11693>
+- Notes (Chinese): [papernotes.org/ACL2025/others/hierarchical_bracketing_dep_…](https://papernotes.org/ACL2025/others/hierarchical_bracketing_dep_parsing/)
 
 **Evaluating Design Decisions for Dual Encoder-based Entity Disambiguation**
 
@@ -9062,6 +9475,7 @@
 **Towards Better Evaluation for Generated Patent Claims**
 
 - Paper: <https://arxiv.org/abs/2505.11095>
+- Notes (Chinese): [papernotes.org/ACL2025/others/patclaimeval_patent_evaluation](https://papernotes.org/ACL2025/others/patclaimeval_patent_evaluation/)
 
 **Improve Rule Retrieval and Reasoning with Self-Induction and Relevance ReEstimate**
 
@@ -9086,6 +9500,7 @@
 **Completing A Systematic Review in Hours instead of Months with Interactive AI Agents**
 
 - Paper: <https://arxiv.org/abs/2504.14822>
+- Notes (Chinese): [papernotes.org/ACL2025/others/completing_a_systematic_revi…](https://papernotes.org/ACL2025/others/completing_a_systematic_review_in_hours/)
 
 **Memorization: A Close Look at Books** · 🛠️ Workshop
 
@@ -9095,6 +9510,7 @@
 **ARise: Towards Knowledge-Augmented Reasoning via Risk-Adaptive Search**
 
 - Paper: <https://arxiv.org/abs/2504.10893>
+- Notes (Chinese): [papernotes.org/ACL2025/others/arise_risk_adaptive_search](https://papernotes.org/ACL2025/others/arise_risk_adaptive_search/)
 
 **DocAgent: A Multi-Agent System for Automated Code Documentation Generation**
 
@@ -9109,6 +9525,7 @@
 **Rubrik's Cube: Testing a New Rubric for Evaluating Explanations on the CUBE dataset**
 
 - Paper: <https://arxiv.org/abs/2503.23899>
+- Notes (Chinese): [papernotes.org/ACL2025/others/rubriks_cube_testing_a_new_r…](https://papernotes.org/ACL2025/others/rubriks_cube_testing_a_new_rubric_for_evaluating_explanations_on_the_cube_datase/)
 
 **Using Source-Side Confidence Estimation for Reliable Translation into Unfamiliar Languages** · 🎬 Demo
 
@@ -9118,6 +9535,7 @@
 **Substance over Style: Evaluating Proactive Conversational Coaching Agents**
 
 - Paper: <https://arxiv.org/abs/2503.19328>
+- Notes (Chinese): [papernotes.org/ACL2025/others/proactive_conversational_coa…](https://papernotes.org/ACL2025/others/proactive_conversational_coaching/)
 
 **Meta-Learning Neural Mechanisms rather than Bayesian Priors**
 
@@ -9127,11 +9545,12 @@
 **TROVE: A Challenge for Fine-Grained Text Provenance via Source Sentence Tracing and Relationship Classification**
 
 - Paper: <https://arxiv.org/abs/2503.15289>
+- Notes (Chinese): [papernotes.org/ACL2025/others/trove_a_challenge_for_finegr…](https://papernotes.org/ACL2025/others/trove_a_challenge_for_finegrained_text/)
 
 **Sightation Counts: Leveraging Sighted User Feedback in Building a BLV-aligned Dataset of Diagram Descriptions**
 
 - Paper: <https://arxiv.org/abs/2503.13369>
-- Notes (Chinese): [papernotes.org/ACL2025/others/sightation_counts_leveraging…](https://papernotes.org/ACL2025/others/sightation_counts_leveraging_sighted_user_feedback_in_building_a_blv-aligned_dat/)
+- Notes (Chinese): [papernotes.org/ACL2025/others/sightation-blv-aligned-diagr…](https://papernotes.org/ACL2025/others/sightation-blv-aligned-diagram-descriptions/)
 
 **Understanding Common Ground Misalignment in Goal-Oriented Dialog: A Case-Study with Ubuntu Chat Logs**
 
@@ -9156,6 +9575,7 @@
 **Statistical Deficiency for Task Inclusion Estimation**
 
 - Paper: <https://arxiv.org/abs/2503.05491>
+- Notes (Chinese): [papernotes.org/ACL2025/others/statistical_deficiency_task_…](https://papernotes.org/ACL2025/others/statistical_deficiency_task_inclusion/)
 
 **HelpSteer3: Human-Annotated Feedback and Edit Data to Empower Inference-Time Scaling in Open-Ended General-Domain Tasks**
 
@@ -9165,6 +9585,7 @@
 **SEOE: A Scalable and Reliable Semantic Evaluation Framework for Open Domain Event Detection**
 
 - Paper: <https://arxiv.org/abs/2503.03303>
+- Notes (Chinese): [papernotes.org/ACL2025/others/seoe_semantic_eval](https://papernotes.org/ACL2025/others/seoe_semantic_eval/)
 
 **KodCode: A Diverse, Challenging, and Verifiable Synthetic Dataset for Coding**
 
@@ -9209,6 +9630,7 @@
 **Anything Goes? A Crosslinguistic Study of (Im)possible Language Learning in LMs**
 
 - Paper: <https://arxiv.org/abs/2502.18795>
+- Notes (Chinese): [papernotes.org/ACL2025/others/anything_goes_a_crosslinguis…](https://papernotes.org/ACL2025/others/anything_goes_a_crosslinguistic_study_of_impossible_language_learning_in_lms/)
 
 **SYNTHIA: Novel Concept Design with Affordance Composition**
 
@@ -9218,10 +9640,12 @@
 **CORAL: Learning Consistent Representations across Multi-step Training with Lighter Speculative Drafter**
 
 - Paper: <https://arxiv.org/abs/2502.16880>
+- Notes (Chinese): [papernotes.org/ACL2025/others/coral_speculative_drafting](https://papernotes.org/ACL2025/others/coral_speculative_drafting/)
 
 **All That Glitters is Not Novel: Plagiarism in AI Generated Research**
 
 - Paper: <https://arxiv.org/abs/2502.16487>
+- Notes (Chinese): [papernotes.org/ACL2025/others/plagiarism_ai_generated_rese…](https://papernotes.org/ACL2025/others/plagiarism_ai_generated_research/)
 
 **Towards Robust ESG Analysis Against Greenwashing Risks: Aspect-Action Analysis with Cross-Category Generalization**
 
@@ -9235,6 +9659,7 @@
 **SOTOPIA-\ensuremath\Omega: Dynamic Strategy Injection Learning and Social Instruction Following Evaluation for Social Agents**
 
 - Paper: <https://arxiv.org/abs/2502.15538>
+- Notes (Chinese): [papernotes.org/ACL2025/others/sotopia-ensuremathomega_dyna…](https://papernotes.org/ACL2025/others/sotopia-ensuremathomega_dynamic_strategy_injection_learning_and_social_instructi/)
 
 **Tree-of-Debate: Multi-Persona Debate Trees Elicit Critical Thinking for Scientific Comparative Analysis**
 
@@ -9259,11 +9684,12 @@
 **Meaning Beyond Truth Conditions: Evaluating Discourse Level Understanding via Anaphora Accessibility**
 
 - Paper: <https://arxiv.org/abs/2502.14119>
-- Notes (Chinese): [papernotes.org/ACL2025/others/meaning_beyond_truth_conditi…](https://papernotes.org/ACL2025/others/meaning_beyond_truth_conditions_evaluating_discourse_level_understanding_via_ana/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/meaning-beyond-truth-condit…](https://papernotes.org/ACL2025/llm_nlp/meaning-beyond-truth-conditions-anaphora-accessibility/)
 
 **BeamLoRA: Beam-Constraint Low-Rank Adaptation**
 
 - Paper: <https://arxiv.org/abs/2502.13604>
+- Notes (Chinese): [papernotes.org/ACL2025/model_compression/beamlora_beam_con…](https://papernotes.org/ACL2025/model_compression/beamlora_beam_constraint_lora/)
 
 **A Large and Balanced Corpus for Fine-grained Arabic Readability Assessment** · 📖 Findings
 
@@ -9278,6 +9704,7 @@
 **Cramming 1568 Tokens into a Single Vector and Back Again: Exploring the Limits of Embedding Space Capacity**
 
 - Paper: <https://arxiv.org/abs/2502.13063>
+- Notes (Chinese): [papernotes.org/ACL2025/others/cramming_tokens_embedding_ca…](https://papernotes.org/ACL2025/others/cramming_tokens_embedding_capacity/)
 
 **You need to MIMIC to get FAME: Solving Meeting Transcript Scarcity with a Multi-Agent Conversations** · 📖 Findings
 
@@ -9297,6 +9724,7 @@
 **Commonsense Reasoning in Arab Culture**
 
 - Paper: <https://arxiv.org/abs/2502.12788>
+- Notes (Chinese): [papernotes.org/ACL2025/others/commonsense_arab_culture](https://papernotes.org/ACL2025/others/commonsense_arab_culture/)
 
 **VAQUUM: Are Vague Quantifiers Grounded in Visual Data?**
 
@@ -9311,7 +9739,7 @@
 **If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?**
 
 - Paper: <https://arxiv.org/abs/2502.11469>
-- Notes (Chinese): [papernotes.org/ACL2025/others/if_attention_serves_as_a_cog…](https://papernotes.org/ACL2025/others/if_attention_serves_as_a_cognitive_model_of_human_memory_retrieval_what_is_the_p/)
+- Notes (Chinese): [papernotes.org/ACL2025/others/if_attention_serves_as_a_cog…](https://papernotes.org/ACL2025/others/if_attention_serves_as_a_cognitive/)
 
 **Revisiting Weak-to-Strong Generalization in Theory and Practice: Reverse KL vs. Forward KL** · 📖 Findings
 
@@ -9331,6 +9759,7 @@
 **Bone Soups: A Seek-and-Soup Model Merging Approach for Controllable Multi-Objective Generation**
 
 - Paper: <https://arxiv.org/abs/2502.10762>
+- Notes (Chinese): [papernotes.org/ACL2025/others/bone_soups_multi_objective_gen](https://papernotes.org/ACL2025/others/bone_soups_multi_objective_gen/)
 
 **Can Uniform Meaning Representation Help GPT-4 Translate from Indigenous Languages?**
 
@@ -9360,18 +9789,22 @@
 **ACECODER: Acing Coder RL via Automated Test-Case Synthesis**
 
 - Paper: <https://arxiv.org/abs/2502.01718>
+- Notes (Chinese): [papernotes.org/ACL2025/others/acecoder_acing_coder_rl_via_…](https://papernotes.org/ACL2025/others/acecoder_acing_coder_rl_via_automated/)
 
 **Generating Plausible Distractors for Multiple-Choice Questions via Student Choice Prediction**
 
 - Paper: <https://arxiv.org/abs/2501.13125>
+- Notes (Chinese): [papernotes.org/ACL2025/others/distractor_gen_multiple_choice](https://papernotes.org/ACL2025/others/distractor_gen_multiple_choice/)
 
 **Divide-Then-Aggregate: An Efficient Tool Learning Method via Parallel Tool Invocation**
 
 - Paper: <https://arxiv.org/abs/2501.12432>
+- Notes (Chinese): [papernotes.org/ACL2025/others/dta_llama_parallel_tool_invo…](https://papernotes.org/ACL2025/others/dta_llama_parallel_tool_invocation/)
 
 **Whose Boat Does it Float? Improving Personalization in Preference Tuning via Inferred User Personas**
 
 - Paper: <https://arxiv.org/abs/2501.11549>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/personalized_preferen…](https://papernotes.org/ACL2025/llm_alignment/personalized_preference_opt/)
 
 **ACORD: An Expert-Annotated Retrieval Dataset for Legal Contract Drafting**
 
@@ -9391,6 +9824,7 @@
 **Enhancing Transformers for Generalizable First-Order Logical Entailment**
 
 - Paper: <https://arxiv.org/abs/2501.00759>
+- Notes (Chinese): [papernotes.org/ACL2025/others/enhancing_fol_entailment](https://papernotes.org/ACL2025/others/enhancing_fol_entailment/)
 
 **Why Are Positional Encodings Nonessential for Deep Autoregressive Transformers? Revisiting a Petroglyph** · 📖 Findings
 
@@ -9425,6 +9859,7 @@
 **Behind Closed Words: Creating and Investigating the forePLay Annotated Dataset for Polish Erotic Discourse**
 
 - Paper: <https://arxiv.org/abs/2412.17533>
+- Notes (Chinese): [papernotes.org/ACL2025/others/foreplay_polish_erotic_detec…](https://papernotes.org/ACL2025/others/foreplay_polish_erotic_detection/)
 
 **Meta-Reflection: A Feedback-Free Reflection Learning Framework**
 
@@ -9444,6 +9879,7 @@
 **When to Speak, When to Abstain: Contrastive Decoding with Abstention**
 
 - Paper: <https://arxiv.org/abs/2412.12527>
+- Notes (Chinese): [papernotes.org/ACL2025/others/when_to_speak_when_to_abstain](https://papernotes.org/ACL2025/others/when_to_speak_when_to_abstain/)
 
 **Inferring Functionality of Attention Heads from their Parameters**
 
@@ -9483,6 +9919,7 @@
 **Towards Robust and Efficient Federated Low-Rank Adaptation with Heterogeneous Clients**
 
 - Paper: <https://arxiv.org/abs/2410.22815>
+- Notes (Chinese): [papernotes.org/ACL2025/others/federated_lora_heterogeneous](https://papernotes.org/ACL2025/others/federated_lora_heterogeneous/)
 
 **Decoding Reading Goals from Eye Movements**
 
@@ -9492,14 +9929,17 @@
 **Literature Meets Data: A Synergistic Approach to Hypothesis Generation**
 
 - Paper: <https://arxiv.org/abs/2410.17309>
+- Notes (Chinese): [papernotes.org/ACL2025/others/literature_meets_data_hypoth…](https://papernotes.org/ACL2025/others/literature_meets_data_hypothesis/)
 
 **SudoLM: Learning Access Control of Parametric Knowledge with Authorization Alignment**
 
 - Paper: <https://arxiv.org/abs/2410.14676>
+- Notes (Chinese): [papernotes.org/ACL2025/others/sudolm_authorization_alignment](https://papernotes.org/ACL2025/others/sudolm_authorization_alignment/)
 
 **LoGU: Long-form Generation with Uncertainty Expressions**
 
 - Paper: <https://arxiv.org/abs/2410.14309>
+- Notes (Chinese): [papernotes.org/ACL2025/others/logu_longform_gen_uncertainty](https://papernotes.org/ACL2025/others/logu_longform_gen_uncertainty/)
 
 **A Little Human Data Goes A Long Way**
 
@@ -9548,7 +9988,7 @@
 **STRICTA: Structured Reasoning in Critical Text Assessment for Peer Review and Beyond**
 
 - Paper: <https://arxiv.org/abs/2409.05367>
-- Notes (Chinese): [papernotes.org/ACL2025/others/stricta_structured_reasoning…](https://papernotes.org/ACL2025/others/stricta_structured_reasoning_in_critical_text_assessment_for_peer_review_and_bey/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_reasoning/stricta_structured_re…](https://papernotes.org/ACL2025/llm_reasoning/stricta_structured_reasoning_peer_review/)
 
 **Sparse Rewards Can Self-Train Dialogue Agents** · 📖 Findings
 
@@ -9558,6 +9998,7 @@
 **X-TURING: Towards an Enhanced and Efficient Turing Test for Long-Term Dialogue Agents**
 
 - Paper: <https://arxiv.org/abs/2408.09853>
+- Notes (Chinese): [papernotes.org/ACL2025/others/xturing_enhanced_turing_test](https://papernotes.org/ACL2025/others/xturing_enhanced_turing_test/)
 
 **Graph-guided Cross-composition Feature Disentanglement for Compositional Zero-shot Learning** · 📖 Findings
 
@@ -9572,6 +10013,7 @@
 **Principled Understanding of Generalization for Generative Transformer Models in Arithmetic Reasoning Tasks**
 
 - Paper: <https://arxiv.org/abs/2407.17963>
+- Notes (Chinese): [papernotes.org/ACL2025/others/principled_generalization_ar…](https://papernotes.org/ACL2025/others/principled_generalization_arithmetic/)
 
 **Low-Rank Interconnected Adaptation across Layers** · 📖 Findings
 
@@ -9581,6 +10023,7 @@
 **USDC: A Dataset of $\underline{U}$ser $\underline{S}$tance and $\underline{D}$ogmatism in Long $\underline{C}$onversations** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2406.16833>
+- Notes (Chinese): [papernotes.org/ACL2025/others/usdc_a_dataset_of_underlineu…](https://papernotes.org/ACL2025/others/usdc_a_dataset_of_underlineuser_underlinestance_and_underlinedogmatism_in_long_u/)
 
 **S3 - Semantic Signal Separation**
 
@@ -9595,14 +10038,17 @@
 **Intuitive Fine-Tuning: Towards Simplifying Alignment into a Single Process**
 
 - Paper: <https://arxiv.org/abs/2405.11870>
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/intuitive_fine_tuning…](https://papernotes.org/ACL2025/llm_alignment/intuitive_fine_tuning_simplifying_alignment_into_single_process/)
 
 **Anchored Answers: Unravelling Positional Bias in GPT-2's Multiple-Choice Questions** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2405.03205>
+- Notes (Chinese): [papernotes.org/ACL2025/object_detection/anchored_answers_u…](https://papernotes.org/ACL2025/object_detection/anchored_answers_unravelling_positional_bias_in_gpt-2s_multiple-choice_questions/)
 
 **Model Extrapolation Expedites Alignment**
 
 - Paper: <https://arxiv.org/abs/2404.16792>
+- Notes (Chinese): [papernotes.org/ACL2025/others/expo_model_extrapolation](https://papernotes.org/ACL2025/others/expo_model_extrapolation/)
 
 **Using Shapley interactions to understand how models use structure**
 
@@ -9612,13 +10058,16 @@
 **MindRef: Mimicking Human Memory for Hierarchical Reference Retrieval with Fine-Grained Location Awareness**
 
 - Paper: <https://arxiv.org/abs/2402.17010>
+- Notes (Chinese): [papernotes.org/ACL2025/others/mindref_mimicking_human_memo…](https://papernotes.org/ACL2025/others/mindref_mimicking_human_memory_hierarchical_reference_retrieval/)
 
 **DREsS: Dataset for Rubric-based Essay Scoring on EFL Writing**
 
 - Paper: <https://arxiv.org/abs/2402.16733>
+- Notes (Chinese): [papernotes.org/ACL2025/others/dress_dataset_rubric_based_e…](https://papernotes.org/ACL2025/others/dress_dataset_rubric_based_essay_scoring_efl_writing/)
 
 **$S^3$ - Semantic Signal Separation**
 
+- Notes (Chinese): [papernotes.org/ACL2025/others/s3_-_semantic_signal_separat…](https://papernotes.org/ACL2025/others/s3_-_semantic_signal_separation/)
 
 **ATLANTIS: Weak-to-Strong Learning via Importance Sampling**
 
@@ -9656,6 +10105,7 @@
 
 **AndroidGen: Building an Android Language Agent under Data Scarcity**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_agent/androidgen_agent_data_sca…](https://papernotes.org/ACL2025/llm_agent/androidgen_agent_data_scarcity/)
 
 **Less for More: Enhanced Feedback-aligned Mixed LLMs for Molecule Caption Generation and Fine-Grained NLI Evaluation**
 
@@ -9753,7 +10203,7 @@
 
 **Meaning Beyond Truth Conditions: Evaluating Discourse Level Understanding via Anaphora Accessibility**
 
-- Notes (Chinese): [papernotes.org/ACL2025/others/meaning_beyond_truth_conditi…](https://papernotes.org/ACL2025/others/meaning_beyond_truth_conditions_evaluating_discourse_level_understanding_via_ana/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/meaning-beyond-truth-condit…](https://papernotes.org/ACL2025/llm_nlp/meaning-beyond-truth-conditions-anaphora-accessibility/)
 
 **Warmup Generations: A Task-Agnostic Approach for Guiding Sequence-to-Sequence Learning with Unsupervised Initial State Generation**
 
@@ -9774,6 +10224,7 @@
 
 **Byte Latent Transformer: Patches Scale Better Than Tokens**
 
+- Notes (Chinese): [papernotes.org/ACL2025/others/byte_latent_transformer](https://papernotes.org/ACL2025/others/byte_latent_transformer/)
 
 **Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition**
 
@@ -9788,6 +10239,7 @@
 
 **Uni-Retrieval: A Multi-Style Retrieval Framework for STEM's Education**
 
+- Notes (Chinese): [papernotes.org/ACL2025/others/uni-retrieval_a_multi-style_…](https://papernotes.org/ACL2025/others/uni-retrieval_a_multi-style_retrieval_framework_for_stems_education/)
 
 **On Support Samples of Next Word Prediction**
 
@@ -9878,6 +10330,7 @@
 
 **A New Formulation of Zipf's Meaning-Frequency Law through Contextual Diversity**
 
+- Notes (Chinese): [papernotes.org/ACL2025/others/a_new_formulation_of_zipfs_m…](https://papernotes.org/ACL2025/others/a_new_formulation_of_zipfs_meaning-frequency_law_through_contextual_diversity/)
 
 **Masks Can be Learned as an Alternative to Experts**
 
@@ -9971,6 +10424,7 @@
 
 **D\'ej\`a Vu? Decoding Repeated Reading from Eye Movements**
 
+- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/deja_vu_decoding_repeated_r…](https://papernotes.org/ACL2025/llm_nlp/deja_vu_decoding_repeated_reading_from_eye_movements/)
 
 **nvAgent: Automated Data Visualization from Natural Language via Collaborative Agent Workflow**
 
@@ -10146,7 +10600,7 @@
 
 **Sightation Counts: Leveraging Sighted User Feedback in Building a BLV-aligned Dataset of Diagram Descriptions**
 
-- Notes (Chinese): [papernotes.org/ACL2025/others/sightation_counts_leveraging…](https://papernotes.org/ACL2025/others/sightation_counts_leveraging_sighted_user_feedback_in_building_a_blv-aligned_dat/)
+- Notes (Chinese): [papernotes.org/ACL2025/others/sightation-blv-aligned-diagr…](https://papernotes.org/ACL2025/others/sightation-blv-aligned-diagram-descriptions/)
 
 **Knowledge Tracing in Programming Education Integrating Students' Questions**
 
@@ -10363,7 +10817,7 @@
 
 **Intuitive Fine-Tuning: Towards Simplifying Alignment into a Single Process**
 
-- Notes (Chinese): [papernotes.org/ACL2025/others/intuitive_fine_tuning](https://papernotes.org/ACL2025/others/intuitive_fine_tuning/)
+- Notes (Chinese): [papernotes.org/ACL2025/llm_alignment/intuitive_fine_tuning…](https://papernotes.org/ACL2025/llm_alignment/intuitive_fine_tuning_simplifying_alignment_into_single_process/)
 
 **Attention-Seeker: Dynamic Self-Attention Scoring for Unsupervised Key-Frame Extraction**
 

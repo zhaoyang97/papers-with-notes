@@ -181,6 +181,8 @@
 
 - Paper: <https://arxiv.org/abs/2510.23974>
 - Code: <https://github.com/aailab-kaist/DATE>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/diffusion_adap…](https://papernotes.org/NeurIPS2025/image_generation/diffusion_adaptive_text_embedding_for_texttoimage_diffusion/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/diffusion_a…](https://en.papernotes.org/NeurIPS2025/image_generation/diffusion_adaptive_text_embedding_for_texttoimage_diffusion/)
 
 **LLM Meets Diffusion: A Hybrid Framework for Crystal Material Generation**
 
@@ -207,6 +209,8 @@
 
 - Paper: <https://arxiv.org/abs/2510.21003>
 - Code: <https://github.com/imagination-research/Distilled-Decoding-2>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/dd2_onestep_ar…](https://papernotes.org/NeurIPS2025/image_generation/dd2_onestep_ar_distill/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/distilled_d…](https://en.papernotes.org/NeurIPS2025/image_generation/distilled_decoding_2_onestep_sampling_of_image_autoregressiv/)
 
 **EditInfinity: Image Editing with Binary-Quantized Generative Models**
 
@@ -395,11 +399,15 @@
 
 - Paper: <https://arxiv.org/abs/2505.17955>
 - Code: <https://github.com/eugene6923/Diffusion-Classifiers-Compositionality>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/diffusion_clas…](https://papernotes.org/NeurIPS2025/image_generation/diffusion_classifiers_understand_compositionality_but_condit/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/diffusion_c…](https://en.papernotes.org/NeurIPS2025/image_generation/diffusion_classifiers_understand_compositionality_but_condit/)
 
 **Co-Reinforcement Learning for Unified Multimodal Understanding and Generation**
 
 - Paper: <https://arxiv.org/abs/2505.17534>
 - Code: <https://github.com/mm-vl/ULM-R1>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/coreinforcemen…](https://papernotes.org/NeurIPS2025/image_generation/coreinforcement_learning_for_unified_multimodal_understandin/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/coreinforce…](https://en.papernotes.org/NeurIPS2025/image_generation/coreinforcement_learning_for_unified_multimodal_understandin/)
 
 **Guided Diffusion Sampling on Function Spaces with Applications to PDEs**
 
@@ -447,6 +455,8 @@
 
 - Paper: <https://arxiv.org/abs/2505.11196>
 - Code: <https://github.com/shallowdream204/DiCo>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/dico_revitaliz…](https://papernotes.org/NeurIPS2025/image_generation/dico_revitalizing_convnets_for_scalable_and_efficient_diffus/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/dico_revita…](https://en.papernotes.org/NeurIPS2025/image_generation/dico_revitalizing_convnets_for_scalable_and_efficient_diffus/)
 
 **Pairwise Optimal Transports for Training All-to-All Flow-Based Condition Transfer Model**
 
@@ -618,6 +628,8 @@
 **What We Don't C: Manifold Disentanglement for Structured Discovery** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2511.09433>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/what_we_dont_c…](https://papernotes.org/NeurIPS2025/image_generation/what_we_dont_c_manifold_disentanglement_for_structured_discovery/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/what_we_don…](https://en.papernotes.org/NeurIPS2025/image_generation/what_we_dont_c_manifold_disentanglement_for_structured_discovery/)
 
 **Decomate: Leveraging Generative Models for Co-Creative SVG Animation** · 🛠️ Workshop
 
@@ -652,6 +664,8 @@
 **InfinityStar: Unified Spacetime AutoRegressive Modeling for Visual Generation** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2511.04675>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/infinitystar_u…](https://papernotes.org/NeurIPS2025/image_generation/infinitystar_unified_spacetime_autoregressive_modeling_for_v/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/infinitysta…](https://en.papernotes.org/NeurIPS2025/image_generation/infinitystar_unified_spacetime_autoregressive_modeling_for_v/)
 
 **Energy Loss Functions for Physical Systems**
 
@@ -777,6 +791,8 @@
 **Head Pursuit: Probing Attention Specialization in Multimodal Transformers** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2510.21518>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/head_pursuit_p…](https://papernotes.org/NeurIPS2025/image_generation/head_pursuit_probing_attention_specialization_in_multimodal/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/head_pursui…](https://en.papernotes.org/NeurIPS2025/image_generation/head_pursuit_probing_attention_specialization_in_multimodal/)
 
 **Towards a Golden Classifier-Free Guidance Path via Foresight Fixed Point Iterations** · ✨ Spotlight
 
@@ -823,6 +839,8 @@
 **AccuQuant: Simulating Multiple Denoising Steps for Quantizing Diffusion Models**
 
 - Paper: <https://arxiv.org/abs/2510.20348>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/accuquant_simu…](https://papernotes.org/NeurIPS2025/image_generation/accuquant_simulating_multiple_denoising_steps_for_quantizing/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/accuquant_s…](https://en.papernotes.org/NeurIPS2025/image_generation/accuquant_simulating_multiple_denoising_steps_for_quantizing/)
 
 **Detection and Simulation of Urban Heat Islands Using a Fine-Tuned Geospatial Foundation Model for Microclimate Impact Prediction** · 🛠️ Workshop
 
@@ -1010,6 +1028,8 @@
 **DEFT: Decompositional Efficient Fine-Tuning for Text-to-Image Models**
 
 - Paper: <https://arxiv.org/abs/2509.22793>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/deft_decomposi…](https://papernotes.org/NeurIPS2025/image_generation/deft_decompositional_efficient_finetuning_for_texttoimage_mo/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/deft_decomp…](https://en.papernotes.org/NeurIPS2025/image_generation/deft_decompositional_efficient_finetuning_for_texttoimage_mo/)
 
 **Mind-the-Glitch: Visual Correspondence for Detecting Inconsistencies in Subject-Driven Generation** · ✨ Spotlight
 
@@ -1051,6 +1071,8 @@
 **CAMILA: Context-Aware Masking for Image Editing with Language Alignment**
 
 - Paper: <https://arxiv.org/abs/2509.19731>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/camila_context…](https://papernotes.org/NeurIPS2025/image_generation/camila_contextaware_masking_for_image_editing_with_language/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/camila_cont…](https://en.papernotes.org/NeurIPS2025/image_generation/camila_contextaware_masking_for_image_editing_with_language/)
 
 **Graph-based Neural Space Weather Forecasting** · 🛠️ Workshop
 
@@ -1141,6 +1163,8 @@
 **Composition and Alignment of Diffusion Models using Constrained Learning**
 
 - Paper: <https://arxiv.org/abs/2508.19104>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/composition_an…](https://papernotes.org/NeurIPS2025/image_generation/composition_and_alignment_of_diffusion_models_using_constrai/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/composition…](https://en.papernotes.org/NeurIPS2025/image_generation/composition_and_alignment_of_diffusion_models_using_constrai/)
 
 **Amortized Sampling with Transferable Normalizing Flows**
 
@@ -1193,10 +1217,14 @@
 **Schrödinger Bridge Matching for Tree-Structured Costs and Entropic Wasserstein Barycentres**
 
 - Paper: <https://arxiv.org/abs/2506.17197>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/schrödinger_br…](https://papernotes.org/NeurIPS2025/image_generation/schrödinger_bridge_matching_for_tree-structured_costs_and_entropic_wasserstein_b/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/schrödinger…](https://en.papernotes.org/NeurIPS2025/image_generation/schrödinger_bridge_matching_for_tree-structured_costs_and_entropic_wasserstein_b/)
 
 **CORAL: Disentangling Latent Representations in Long-Tailed Diffusion**
 
 - Paper: <https://arxiv.org/abs/2506.15933>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/coral_disentan…](https://papernotes.org/NeurIPS2025/image_generation/coral_disentangling_latent_representations_in_longtailed_dif/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/coral_disen…](https://en.papernotes.org/NeurIPS2025/image_generation/coral_disentangling_latent_representations_in_longtailed_dif/)
 
 **Graph Diffusion that can Insert and Delete**
 
@@ -1219,6 +1247,8 @@
 **ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering**
 
 - Paper: <https://arxiv.org/abs/2506.09050>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/alebench_a_ben…](https://papernotes.org/NeurIPS2025/image_generation/alebench_a_benchmark_for_longhorizon_objectivedriven_algorit/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/alebench_a_…](https://en.papernotes.org/NeurIPS2025/image_generation/alebench_a_benchmark_for_longhorizon_objectivedriven_algorit/)
 
 **FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency**
 
@@ -1229,6 +1259,8 @@
 **Dynamic Diffusion Schrödinger Bridge in Astrophysical Observational Inversions**
 
 - Paper: <https://arxiv.org/abs/2506.08065>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/physics/dynamic_diffusion_schrö…](https://papernotes.org/NeurIPS2025/physics/dynamic_diffusion_schrödinger_bridge_in_astrophysical_observational_inversions/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/physics/dynamic_diffusion_sc…](https://en.papernotes.org/NeurIPS2025/physics/dynamic_diffusion_schrödinger_bridge_in_astrophysical_observational_inversions/)
 
 **Real-Time Execution of Action Chunking Flow Policies**
 
@@ -1252,6 +1284,8 @@
 
 - Paper: <https://arxiv.org/abs/2506.02489>
 - Project: <https://grasp2grasp.github.io/>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/robotics/grasp2grasp_vision-bas…](https://papernotes.org/NeurIPS2025/robotics/grasp2grasp_vision-based_dexterous_grasp_translation_via_schrödinger_bridges/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/robotics/grasp2grasp_vision-…](https://en.papernotes.org/NeurIPS2025/robotics/grasp2grasp_vision-based_dexterous_grasp_translation_via_schrödinger_bridges/)
 
 **Janus-Pro-R1: Advancing Collaborative Visual Comprehension and Generation via Reinforcement Learning**
 
@@ -1295,10 +1329,14 @@
 **OmniSync: Towards Universal Lip Synchronization via Diffusion Transformers** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2505.21448>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/omnisync_towar…](https://papernotes.org/NeurIPS2025/image_generation/omnisync_towards_universal_lip_synchronization_via_diffusion/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/omnisync_to…](https://en.papernotes.org/NeurIPS2025/image_generation/omnisync_towards_universal_lip_synchronization_via_diffusion/)
 
 **Breaking AR's Sampling Bottleneck: Provable Acceleration via Diffusion Language Models**
 
 - Paper: <https://arxiv.org/abs/2505.21400>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/breaking_ars_s…](https://papernotes.org/NeurIPS2025/image_generation/breaking_ars_sampling_bottleneck_provable_acceleration_via_d/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/breaking_ar…](https://en.papernotes.org/NeurIPS2025/image_generation/breaking_ars_sampling_bottleneck_provable_acceleration_via_d/)
 
 **OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models**
 
@@ -1339,6 +1377,8 @@
 **Beyond Masked and Unmasked: Discrete Diffusion Models via Partial Masking**
 
 - Paper: <https://arxiv.org/abs/2505.18495>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/beyond_masked_…](https://papernotes.org/NeurIPS2025/image_generation/beyond_masked_and_unmasked_discrete_diffusion_models_via_par/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/beyond_mask…](https://en.papernotes.org/NeurIPS2025/image_generation/beyond_masked_and_unmasked_discrete_diffusion_models_via_par/)
 
 **Preconditioned Langevin Dynamics with Score-Based Generative Models for Infinite-Dimensional Linear Bayesian Inverse Problems** · ✨ Spotlight
 
@@ -1349,6 +1389,8 @@
 **Why Diffusion Models Don't Memorize: The Role of Implicit Dynamical Regularization in Training** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2505.17638>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/why_diffusion_…](https://papernotes.org/NeurIPS2025/image_generation/why_diffusion_models_dont_memorize_the_role_of_implicit_dynamical_regularization/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/why_diffusi…](https://en.papernotes.org/NeurIPS2025/image_generation/why_diffusion_models_dont_memorize_the_role_of_implicit_dynamical_regularization/)
 
 **When Are Concepts Erased From Diffusion Models?**
 
@@ -1359,6 +1401,8 @@
 **Conditional Panoramic Image Generation via Masked Autoregressive Modeling**
 
 - Paper: <https://arxiv.org/abs/2505.16862>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/conditional_pa…](https://papernotes.org/NeurIPS2025/image_generation/conditional_panoramic_image_generation_via_masked_autoregres/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/conditional…](https://en.papernotes.org/NeurIPS2025/image_generation/conditional_panoramic_image_generation_via_masked_autoregres/)
 
 **Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval**
 
@@ -1369,6 +1413,8 @@
 **Scaling Diffusion Transformers Efficiently via $μ$P**
 
 - Paper: <https://arxiv.org/abs/2505.15270>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/scaling_diffus…](https://papernotes.org/NeurIPS2025/image_generation/scaling_diffusion_transformers_efficiently_via_μp/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/scaling_dif…](https://en.papernotes.org/NeurIPS2025/image_generation/scaling_diffusion_transformers_efficiently_via_μp/)
 
 **Flattening Hierarchies with Policy Bootstrapping** · ✨ Spotlight
 
@@ -1413,11 +1459,14 @@
 
 - Paper: <https://arxiv.org/abs/2504.16064>
 - Project: <https://representationdiffusion.github.io>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/boosting_gener…](https://papernotes.org/NeurIPS2025/image_generation/boosting_generative_image_modeling_via_joint_imagefeature_sy/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/boosting_ge…](https://en.papernotes.org/NeurIPS2025/image_generation/boosting_generative_image_modeling_via_joint_imagefeature_sy/)
 
 **Emergence and Evolution of Interpretable Concepts in Diffusion Models**
 
 - Paper: <https://arxiv.org/abs/2504.15473>
 - Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/emergence_and_…](https://papernotes.org/NeurIPS2025/image_generation/emergence_and_evolution_of_interpretable_concepts_in_diffusi/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/emergence_a…](https://en.papernotes.org/NeurIPS2025/image_generation/emergence_and_evolution_of_interpretable_concepts_in_diffusi/)
 
 **Entropy Rectifying Guidance for Diffusion and Flow Models**
 
@@ -1428,6 +1477,8 @@
 **70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float (DFloat11)**
 
 - Paper: <https://arxiv.org/abs/2504.11651>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/70_size_100_ac…](https://papernotes.org/NeurIPS2025/image_generation/70_size_100_accuracy_lossless_llm_compression_for_efficient/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/70_size_100…](https://en.papernotes.org/NeurIPS2025/image_generation/70_size_100_accuracy_lossless_llm_compression_for_efficient/)
 
 **WMCopier: Forging Invisible Image Watermarks on Arbitrary Images**
 
@@ -1445,6 +1496,8 @@
 
 - Paper: <https://arxiv.org/abs/2503.11544>
 - Project: <https://parsa-ra.github.io/auggen/>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/image_generation/auggen_synthet…](https://papernotes.org/NeurIPS2025/image_generation/auggen_synthetic_augmentation_using_diffusion_models_can_imp/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/image_generation/auggen_synt…](https://en.papernotes.org/NeurIPS2025/image_generation/auggen_synthetic_augmentation_using_diffusion_models_can_imp/)
 
 **LinEAS: End-to-end Learning of Activation Steering with a Distributional Loss**
 
@@ -1629,6 +1682,8 @@
 
 - Paper: <https://arxiv.org/abs/2510.18828>
 - Code: <https://github.com/USC-Lira/Q3C>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/reinforcement_learning/actorfre…](https://papernotes.org/NeurIPS2025/reinforcement_learning/actorfree_continuous_control_via_structurally_maximizable_qf/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/reinforcement_learning/actor…](https://en.papernotes.org/NeurIPS2025/reinforcement_learning/actorfree_continuous_control_via_structurally_maximizable_qf/)
 
 **Knowledge-based Visual Question Answer with Multimodal Processing, Retrieval and Filtering**
 
@@ -1676,6 +1731,8 @@
 
 - Paper: <https://arxiv.org/abs/2507.06607>
 - Code: <https://github.com/microsoft/ArchScale>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/reinforcement_learning/decoderh…](https://papernotes.org/NeurIPS2025/reinforcement_learning/decoderhybriddecoder_architecture_for_efficient_reasoning_wi/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/reinforcement_learning/decod…](https://en.papernotes.org/NeurIPS2025/reinforcement_learning/decoderhybriddecoder_architecture_for_efficient_reasoning_wi/)
 
 **RePIC: Reinforced Post-Training for Personalizing Multi-Modal Language Models**
 
@@ -1716,16 +1773,22 @@
 
 - Paper: <https://arxiv.org/abs/2505.16994>
 - Code: <https://github.com/YRYangang/RRec>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/recommender/r2ec_towards_large_…](https://papernotes.org/NeurIPS2025/recommender/r2ec_towards_large_recommender_models_with_reasoning/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/recommender/r2ec_towards_lar…](https://en.papernotes.org/NeurIPS2025/recommender/r2ec_towards_large_recommender_models_with_reasoning/)
 
 **RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning**
 
 - Paper: <https://arxiv.org/abs/2505.15034>
 - Code: <https://github.com/kaiwenzha/rl-tango>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/reinforcement_learning/rl_tango…](https://papernotes.org/NeurIPS2025/reinforcement_learning/rl_tango_reinforcing_generator_and_verifier_together_for_lan/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/reinforcement_learning/rl_ta…](https://en.papernotes.org/NeurIPS2025/reinforcement_learning/rl_tango_reinforcing_generator_and_verifier_together_for_lan/)
 
 **$Q\sharp$: Provably Optimal Distributional RL for LLM Post-Training**
 
 - Paper: <https://arxiv.org/abs/2502.20548>
 - Code: <https://github.com/jinpz/q_sharp>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_nlp/qsharp_provably_optimal…](https://papernotes.org/NeurIPS2025/llm_nlp/qsharp_provably_optimal_distributional_rl_for_llm_post-training/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_nlp/qsharp_provably_opti…](https://en.papernotes.org/NeurIPS2025/llm_nlp/qsharp_provably_optimal_distributional_rl_for_llm_post-training/)
 
 **Enhancing Interpretability in Deep Reinforcement Learning through Semantic Clustering**
 
@@ -1898,10 +1961,14 @@
 **Adaptive Neighborhood-Constrained Q Learning for Offline Reinforcement Learning** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2511.02567>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/reinforcement_learning/adaptive…](https://papernotes.org/NeurIPS2025/reinforcement_learning/adaptive_neighborhoodconstrained_q_learning_for_offline_rein/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/reinforcement_learning/adapt…](https://en.papernotes.org/NeurIPS2025/reinforcement_learning/adaptive_neighborhoodconstrained_q_learning_for_offline_rein/)
 
 **Gradient-Variation Online Adaptivity for Accelerated Optimization with Hölder Smoothness**
 
 - Paper: <https://arxiv.org/abs/2511.02276>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/reinforcement_learning/gradient…](https://papernotes.org/NeurIPS2025/reinforcement_learning/gradient-variation_online_adaptivity_for_accelerated_optimization_with_hölder_sm/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/reinforcement_learning/gradi…](https://en.papernotes.org/NeurIPS2025/reinforcement_learning/gradient-variation_online_adaptivity_for_accelerated_optimization_with_hölder_sm/)
 
 **Learning Interactive World Model for Object-Centric Reinforcement Learning**
 
@@ -1954,6 +2021,8 @@
 **Computational Hardness of Reinforcement Learning with Partial $q^π$-Realizability**
 
 - Paper: <https://arxiv.org/abs/2510.21888>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/reinforcement_learning/computat…](https://papernotes.org/NeurIPS2025/reinforcement_learning/computational_hardness_of_reinforcement_learning_with_partial_qπ-realizability/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/reinforcement_learning/compu…](https://en.papernotes.org/NeurIPS2025/reinforcement_learning/computational_hardness_of_reinforcement_learning_with_partial_qπ-realizability/)
 
 **Scalable Neural Incentive Design with Parameterized Mean-Field Approximation**
 
@@ -2006,6 +2075,8 @@
 **CLAWS:Creativity detection for LLM-generated solutions using Attention Window of Sections**
 
 - Paper: <https://arxiv.org/abs/2510.17921>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/aigc_detection/clawscreativity_…](https://papernotes.org/NeurIPS2025/aigc_detection/clawscreativity_detection_for_llm-generated_solutions_using_attention_window_of_/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/aigc_detection/clawscreativi…](https://en.papernotes.org/NeurIPS2025/aigc_detection/clawscreativity_detection_for_llm-generated_solutions_using_attention_window_of_/)
 
 **Exploration via Feature Perturbation in Contextual Bandits** · ✨ Spotlight
 
@@ -2124,6 +2195,8 @@
 **A Generalized Bisimulation Metric of State Similarity between Markov Decision Processes: From Theoretical Propositions to Applications**
 
 - Paper: <https://arxiv.org/abs/2509.18714>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/reinforcement_learning/a_genera…](https://papernotes.org/NeurIPS2025/reinforcement_learning/a_generalized_bisimulation_metric_of_state_similarity_betwee/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/reinforcement_learning/a_gen…](https://en.papernotes.org/NeurIPS2025/reinforcement_learning/a_generalized_bisimulation_metric_of_state_similarity_betwee/)
 
 **Towards Provable Emergence of In-Context Reinforcement Learning**
 
@@ -2195,6 +2268,8 @@
 **Checklists Are Better Than Reward Models For Aligning Language Models**
 
 - Paper: <https://arxiv.org/abs/2507.18624>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/reinforcement_learning/checklis…](https://papernotes.org/NeurIPS2025/reinforcement_learning/checklists_are_better_than_reward_models_for_aligning_langua/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/reinforcement_learning/check…](https://en.papernotes.org/NeurIPS2025/reinforcement_learning/checklists_are_better_than_reward_models_for_aligning_langua/)
 
 **Generalized Linear Bandits: Almost Optimal Regret with One-Pass Update**
 
@@ -2322,6 +2397,7 @@
 **Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning**
 
 - Paper: <https://arxiv.org/abs/2506.01939>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/reinforcement_learning/beyond_t…](https://papernotes.org/NeurIPS2025/reinforcement_learning/beyond_the_8020_rule_highentropy_minority_tokens_drive_effec/)
 
 **Improved Regret Bounds for Gaussian Process Upper Confidence Bound in Bayesian Optimization**
 
@@ -2392,6 +2468,8 @@
 **Improved Regret and Contextual Linear Extension for Pandora's Box and Prophet Inequality**
 
 - Paper: <https://arxiv.org/abs/2505.18828>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/reinforcement_learning/improved…](https://papernotes.org/NeurIPS2025/reinforcement_learning/improved_regret_and_contextual_linear_extension_for_pandoras_box_and_prophet_ine/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/reinforcement_learning/impro…](https://en.papernotes.org/NeurIPS2025/reinforcement_learning/improved_regret_and_contextual_linear_extension_for_pandoras_box_and_prophet_ine/)
 
 **Hybrid Latent Reasoning via Reinforcement Learning**
 
@@ -2485,6 +2563,8 @@
 **Beyond $\tilde{O}(\sqrt{T})$ Constraint Violation for Online Convex Optimization with Adversarial Constraints**
 
 - Paper: <https://arxiv.org/abs/2505.06709>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/optimization/beyond_tildeosqrtt…](https://papernotes.org/NeurIPS2025/optimization/beyond_tildeosqrtt_constraint_violation_for_online_convex_optimization_with_adve/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/optimization/beyond_tildeosq…](https://en.papernotes.org/NeurIPS2025/optimization/beyond_tildeosqrtt_constraint_violation_for_online_convex_optimization_with_adve/)
 
 **Kimina Lean Server: A High-Performance Lean Server for Large-Scale Verification** · 🛠️ Workshop
 
@@ -2495,6 +2575,8 @@
 **NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation**
 
 - Paper: <https://arxiv.org/abs/2504.13055>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/reinforcement_learning/noisyrol…](https://papernotes.org/NeurIPS2025/reinforcement_learning/noisyrollout_reinforcing_visual_reasoning_with_data_augmenta/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/reinforcement_learning/noisy…](https://en.papernotes.org/NeurIPS2025/reinforcement_learning/noisyrollout_reinforcing_visual_reasoning_with_data_augmenta/)
 
 **ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning**
 
@@ -2535,6 +2617,8 @@
 **A Near-optimal, Scalable and Parallelizable Framework for Stochastic Bandits Robust to Adversarial Corruptions and Beyond**
 
 - Paper: <https://arxiv.org/abs/2502.07514>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/reinforcement_learning/a_nearop…](https://papernotes.org/NeurIPS2025/reinforcement_learning/a_nearoptimal_scalable_and_parallelizable_framework_for_stoc/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/reinforcement_learning/a_nea…](https://en.papernotes.org/NeurIPS2025/reinforcement_learning/a_nearoptimal_scalable_and_parallelizable_framework_for_stoc/)
 
 **Prompt Tuning Decision Transformers with Structured and Scalable Bandits**
 
@@ -2575,6 +2659,8 @@
 **A Unifying View of Linear Function Approximation in Off-Policy RL Through Matrix Splitting and Preconditioning** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2501.01774>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/reinforcement_learning/a_unifyi…](https://papernotes.org/NeurIPS2025/reinforcement_learning/a_unifying_view_of_linear_function_approximation_in_offpolic/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/reinforcement_learning/a_uni…](https://en.papernotes.org/NeurIPS2025/reinforcement_learning/a_unifying_view_of_linear_function_approximation_in_offpolic/)
 
 **Interactive and Hybrid Imitation Learning: Provably Beating Behavior Cloning**
 
@@ -2639,6 +2725,8 @@
 **A Differential and Pointwise Control Approach to Reinforcement Learning**
 
 - Paper: <https://arxiv.org/abs/2404.15617>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/reinforcement_learning/a_differ…](https://papernotes.org/NeurIPS2025/reinforcement_learning/a_differential_and_pointwise_control_approach_to_reinforceme/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/reinforcement_learning/a_dif…](https://en.papernotes.org/NeurIPS2025/reinforcement_learning/a_differential_and_pointwise_control_approach_to_reinforceme/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -2848,6 +2936,8 @@
 
 - Paper: <https://arxiv.org/abs/2506.11147>
 - Code: <https://github.com/Tang-xiaoxiao/3D-RAD>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/medical_imaging/3drad_a_compreh…](https://papernotes.org/NeurIPS2025/medical_imaging/3drad_a_comprehensive_3d_radiology_medvqa_dataset_with_multi/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/medical_imaging/3drad_a_comp…](https://en.papernotes.org/NeurIPS2025/medical_imaging/3drad_a_comprehensive_3d_radiology_medvqa_dataset_with_multi/)
 
 **DIsoN: Decentralized Isolation Networks for Out-of-Distribution Detection in Medical Imaging**
 
@@ -3110,6 +3200,8 @@
 **Dynamic causal discovery in Alzheimer's disease through latent pseudotime modelling** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2511.04619>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/medical_imaging/dynamic_causal_…](https://papernotes.org/NeurIPS2025/medical_imaging/dynamic_causal_discovery_in_alzheimers_disease_through_latent_pseudotime_modelli/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/medical_imaging/dynamic_caus…](https://en.papernotes.org/NeurIPS2025/medical_imaging/dynamic_causal_discovery_in_alzheimers_disease_through_latent_pseudotime_modelli/)
 
 **FAPEX: Fractional Amplitude-Phase Expressor for Robust Cross-Subject Seizure Prediction** · ✨ Spotlight · 📌 Poster
 
@@ -3244,6 +3336,8 @@
 **CARE-PD: A Multi-Site Anonymized Clinical Dataset for Parkinson's Disease Gait Assessment**
 
 - Paper: <https://arxiv.org/abs/2510.04312>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/medical_imaging/care-pd_a_multi…](https://papernotes.org/NeurIPS2025/medical_imaging/care-pd_a_multi-site_anonymized_clinical_dataset_for_parkinsons_disease_gait_ass/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/medical_imaging/care-pd_a_mu…](https://en.papernotes.org/NeurIPS2025/medical_imaging/care-pd_a_multi-site_anonymized_clinical_dataset_for_parkinsons_disease_gait_ass/)
 
 **H-DDx: A Hierarchical Evaluation Framework for Differential Diagnosis**
 
@@ -3442,6 +3536,8 @@
 **Manipulating 3D Molecules in a Fixed-Dimensional E(3)-Equivariant Latent Space**
 
 - Paper: <https://arxiv.org/abs/2506.00771>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/medical_imaging/manipulating_3d…](https://papernotes.org/NeurIPS2025/medical_imaging/manipulating_3d_molecules_in_a_fixed-dimensional_e3-equivariant_latent_space/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/medical_imaging/manipulating…](https://en.papernotes.org/NeurIPS2025/medical_imaging/manipulating_3d_molecules_in_a_fixed-dimensional_e3-equivariant_latent_space/)
 
 **EndoBench: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis**
 
@@ -3483,6 +3579,8 @@
 **PolyPose: Deformable 2D/3D Registration via Polyrigid Transformations**
 
 - Paper: <https://arxiv.org/abs/2505.19256>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/medical_imaging/polypose_deform…](https://papernotes.org/NeurIPS2025/medical_imaging/polypose_deformable_2d3d_registration_via_polyrigid_transformations/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/medical_imaging/polypose_def…](https://en.papernotes.org/NeurIPS2025/medical_imaging/polypose_deformable_2d3d_registration_via_polyrigid_transformations/)
 
 **Protein Design with Dynamic Protein Vocabulary** · ✨ Spotlight
 
@@ -3594,6 +3692,8 @@
 
 - Paper: <https://arxiv.org/abs/2512.01048>
 - Code: <https://github.com/Stanford-AIMI/TRoVe>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/trove_discoverin…](https://papernotes.org/NeurIPS2025/multimodal_vlm/trove_discovering_errorinducing_static_feature_biases_in_tem/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/trove_discove…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/trove_discovering_errorinducing_static_feature_biases_in_tem/)
 
 **Test-Time Spectrum-Aware Latent Steering for Zero-Shot Generalization in Vision-Language Models**
 
@@ -3627,6 +3727,8 @@
 
 - Paper: <https://arxiv.org/abs/2510.22127>
 - Code: <https://github.com/baowenxuan/Mint>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/mint_a_simple_te…](https://papernotes.org/NeurIPS2025/multimodal_vlm/mint_a_simple_testtime_adaptation_of_visionlanguage_models_a/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/mint_a_simple…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/mint_a_simple_testtime_adaptation_of_visionlanguage_models_a/)
 
 **MoniTor: Exploiting Large Language Models with Instruction for Online Video Anomaly Detection**
 
@@ -3702,6 +3804,8 @@
 
 - Paper: <https://arxiv.org/abs/2509.19003>
 - Code: <https://github.com/baaivision/CoS>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/unveiling_chain_…](https://papernotes.org/NeurIPS2025/multimodal_vlm/unveiling_chain_of_step_reasoning_for_visionlanguage_models/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/unveiling_cha…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/unveiling_chain_of_step_reasoning_for_visionlanguage_models/)
 
 **SD-VLM: Spatial Measuring and Understanding with Depth-Encoded Vision-Language Models**
 
@@ -3749,6 +3853,8 @@
 
 - Paper: <https://arxiv.org/abs/2505.22038>
 - Code: <https://github.com/EmbodiedCity/NeurIPS2025-Balanced-Token-Pruning>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/balanced_token_p…](https://papernotes.org/NeurIPS2025/multimodal_vlm/balanced_token_pruning_accelerating_vision_language_models_b/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/balanced_toke…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/balanced_token_pruning_accelerating_vision_language_models_b/)
 
 **Towards Comprehensive Scene Understanding: Integrating First and Third-Person Views for LVLMs** · ✨ Spotlight
 
@@ -3761,16 +3867,22 @@
 
 - Paper: <https://arxiv.org/abs/2505.20444>
 - Code: <https://github.com/hrlics/HoPE>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/hope_hybrid_of_p…](https://papernotes.org/NeurIPS2025/multimodal_vlm/hope_hybrid_of_position_embedding_for_long_context_visionlan/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/hope_hybrid_o…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/hope_hybrid_of_position_embedding_for_long_context_visionlan/)
 
 **FlowCut: Rethinking Redundancy via Information Flow for Efficient Vision-Language Models**
 
 - Paper: <https://arxiv.org/abs/2505.19536>
 - Code: <https://github.com/TungChintao/FlowCut>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/flowcut_rethinki…](https://papernotes.org/NeurIPS2025/multimodal_vlm/flowcut_rethinking_redundancy_via_information_flow_for_effic/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/flowcut_rethi…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/flowcut_rethinking_redundancy_via_information_flow_for_effic/)
 
 **Causal-LLaVA: Causal Disentanglement for Mitigating Hallucination in Multimodal Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2505.19474>
 - Code: <https://github.com/IgniSavium/Causal-LLaVA>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/causalllava_caus…](https://papernotes.org/NeurIPS2025/multimodal_vlm/causalllava_causal_disentanglement_for_mitigating_hallucinat/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/causalllava_c…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/causalllava_causal_disentanglement_for_mitigating_hallucinat/)
 
 **Are Vision Language Models Ready for Clinical Diagnosis? A 3D Medical Benchmark for Tumor-centric Visual Question Answering**
 
@@ -3783,6 +3895,8 @@
 
 - Paper: <https://arxiv.org/abs/2505.18411>
 - Code: <https://github.com/FRENKIE-CHIANG/DanmakuTPPBench>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/danmakutppbench_…](https://papernotes.org/NeurIPS2025/multimodal_vlm/danmakutppbench_a_multimodal_benchmark_for_temporal_point_pr/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/danmakutppben…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/danmakutppbench_a_multimodal_benchmark_for_temporal_point_pr/)
 
 **Breaking the Compression Ceiling: Data-Free Pipeline for Ultra-Efficient Delta Compression**
 
@@ -3795,6 +3909,8 @@
 
 - Paper: <https://arxiv.org/abs/2504.02821>
 - Code: <https://github.com/ExplainableML/sae-for-vlm>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/sparse_autoencod…](https://papernotes.org/NeurIPS2025/multimodal_vlm/sparse_autoencoders_learn_monosemantic_features_in_visionlan/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/sparse_autoen…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/sparse_autoencoders_learn_monosemantic_features_in_visionlan/)
 
 **Learning to Instruct for Visual Instruction Tuning**
 
@@ -3835,6 +3951,8 @@
 
 - Paper: <https://arxiv.org/abs/2502.20120>
 - Code: <https://github.com/njustkmg/NeurIPS25-AUG>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/rethinking_multi…](https://papernotes.org/NeurIPS2025/multimodal_vlm/rethinking_multimodal_learning_from_the_perspective_of_mitig/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/rethinking_mu…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/rethinking_multimodal_learning_from_the_perspective_of_mitig/)
 
 **RobustMerge: Parameter-Efficient Model Merging for MLLMs with Direction Robustness** · ✨ Spotlight
 
@@ -3854,11 +3972,15 @@
 
 - Paper: <https://arxiv.org/abs/2412.06474>
 - Code: <https://github.com/kigb/DropoutDecoding>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/enhancing_vision…](https://papernotes.org/NeurIPS2025/multimodal_vlm/enhancing_visionlanguage_model_reliability_with_uncertaintyg/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/enhancing_vis…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/enhancing_visionlanguage_model_reliability_with_uncertaintyg/)
 
 **PrefixKV: Adaptive Prefix KV Cache is What Vision Instruction-Following Models Need for Efficient Generation**
 
 - Paper: <https://arxiv.org/abs/2412.03409>
 - Code: <https://github.com/THU-MIG/PrefixKV>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/prefixkv_adaptiv…](https://papernotes.org/NeurIPS2025/multimodal_vlm/prefixkv_adaptive_prefix_kv_cache_is_what_vision_instruction/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/prefixkv_adap…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/prefixkv_adaptive_prefix_kv_cache_is_what_vision_instruction/)
 
 **CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models**
 
@@ -3936,10 +4058,14 @@
 **ACT as Human: Multimodal Large Language Model Data Annotation with Critical Thinking**
 
 - Paper: <https://arxiv.org/abs/2511.09833>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/act_as_human_mul…](https://papernotes.org/NeurIPS2025/multimodal_vlm/act_as_human_multimodal_large_language_model_data_annotation/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/act_as_human_…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/act_as_human_multimodal_large_language_model_data_annotation/)
 
 **Aligning by Misaligning: Boundary-aware Curriculum Learning for Multimodal Alignment**
 
 - Paper: <https://arxiv.org/abs/2511.08399>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/aligning_by_misa…](https://papernotes.org/NeurIPS2025/multimodal_vlm/aligning_by_misaligning_boundaryaware_curriculum_learning_fo/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/aligning_by_m…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/aligning_by_misaligning_boundaryaware_curriculum_learning_fo/)
 
 **SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards**
 
@@ -4010,6 +4136,8 @@
 **A Multimodal Benchmark for Framing of Oil & Gas Advertising and Potential Greenwashing Detection**
 
 - Paper: <https://arxiv.org/abs/2510.21679>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/a_multimodal_ben…](https://papernotes.org/NeurIPS2025/multimodal_vlm/a_multimodal_benchmark_for_framing_of_oil_gas_advertising_an/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/a_multimodal_…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/a_multimodal_benchmark_for_framing_of_oil_gas_advertising_an/)
 
 **PhysVLM-AVR: Active Visual Reasoning for Multimodal Large Language Models in Physical Environments**
 
@@ -4026,6 +4154,8 @@
 **CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder**
 
 - Paper: <https://arxiv.org/abs/2510.18583>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/covmatch_crossco…](https://papernotes.org/NeurIPS2025/multimodal_vlm/covmatch_crosscovariance_guided_multimodal_dataset_distillat/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/covmatch_cros…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/covmatch_crosscovariance_guided_multimodal_dataset_distillat/)
 
 **CoIDO: Efficient Data Selection for Visual Instruction Tuning via Coupled Importance-Diversity Optimization**
 
@@ -4083,6 +4213,8 @@
 **Don't Just Chase "Highlighted Tokens" in MLLMs: Revisiting Visual Holistic Context Retention**
 
 - Paper: <https://arxiv.org/abs/2510.02912>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/dont_just_chase_…](https://papernotes.org/NeurIPS2025/multimodal_vlm/dont_just_chase_highlighted_tokens_in_mllms_revisiting_visual_holistic_context_r/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/dont_just_cha…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/dont_just_chase_highlighted_tokens_in_mllms_revisiting_visual_holistic_context_r/)
 
 **Retrv-R1: A Reasoning-Driven MLLM Framework for Universal and Efficient Multimodal Retrieval**
 
@@ -4117,6 +4249,8 @@
 **See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model**
 
 - Paper: <https://arxiv.org/abs/2509.16087>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/seetrek_training…](https://papernotes.org/NeurIPS2025/multimodal_vlm/seetrek_training-free_spatial_prompting_for_multimodal_large_language_model/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/seetrek_train…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/seetrek_training-free_spatial_prompting_for_multimodal_large_language_model/)
 
 **Hierarchical Self-Attention: Generalizing Neural Attention Mechanics to Multi-Scale Problems**
 
@@ -4134,6 +4268,8 @@
 **GLSim: Detecting Object Hallucinations in LVLMs via Global-Local Similarity**
 
 - Paper: <https://arxiv.org/abs/2508.19972>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/glsim_detecting_…](https://papernotes.org/NeurIPS2025/multimodal_vlm/glsim_detecting_object_hallucinations_in_lvlms_via_globalloc/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/glsim_detecti…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/glsim_detecting_object_hallucinations_in_lvlms_via_globalloc/)
 
 **Learning to Steer: Input-dependent Steering for Multimodal LLMs**
 
@@ -4151,6 +4287,8 @@
 **The Illusion of Progress? A Critical Look at Test-Time Adaptation for Vision-Language Models**
 
 - Paper: <https://arxiv.org/abs/2506.24000>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/the_illusion_of_…](https://papernotes.org/NeurIPS2025/multimodal_vlm/the_illusion_of_progress_a_critical_look_at_testtime_adaptat/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/the_illusion_…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/the_illusion_of_progress_a_critical_look_at_testtime_adaptat/)
 
 **Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs**
 
@@ -4186,6 +4324,7 @@
 
 - Paper: <https://arxiv.org/abs/2506.17967>
 - Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/adapting_visionl…](https://papernotes.org/NeurIPS2025/multimodal_vlm/adapting_visionlanguage_models_for_evaluating_world_models/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/adapting_visi…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/adapting_visionlanguage_models_for_evaluating_world_models/)
 
 **GoalLadder: Incremental Goal Discovery with Vision-Language Models**
 
@@ -4196,10 +4335,14 @@
 **AdaLRS: Loss-Guided Adaptive Learning Rate Search for Efficient Foundation Model Pretraining**
 
 - Paper: <https://arxiv.org/abs/2506.13274>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/adalrs_lossguide…](https://papernotes.org/NeurIPS2025/multimodal_vlm/adalrs_lossguided_adaptive_learning_rate_search_for_efficien/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/adalrs_lossgu…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/adalrs_lossguided_adaptive_learning_rate_search_for_efficien/)
 
 **AntiGrounding: Lifting Robotic Actions into VLM Representation Space for Decision Making**
 
 - Paper: <https://arxiv.org/abs/2506.12374>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/antigrounding_li…](https://papernotes.org/NeurIPS2025/multimodal_vlm/antigrounding_lifting_robotic_actions_into_vlm_representatio/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/antigrounding…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/antigrounding_lifting_robotic_actions_into_vlm_representatio/)
 
 **BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**
 
@@ -4260,6 +4403,8 @@
 
 - Paper: <https://arxiv.org/abs/2505.24424>
 - Project: <https://clic-compositional-clip.github.io>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/advancing_compos…](https://papernotes.org/NeurIPS2025/multimodal_vlm/advancing_compositional_awareness_in_clip_with_efficient_fin/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/advancing_com…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/advancing_compositional_awareness_in_clip_with_efficient_fin/)
 
 **BioCLIP 2: Emergent Properties from Scaling Hierarchical Contrastive Learning** · ✨ Spotlight
 
@@ -4270,6 +4415,8 @@
 **Sherlock: Self-Correcting Reasoning in Vision-Language Models**
 
 - Paper: <https://arxiv.org/abs/2505.22651>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/sherlock_selfcor…](https://papernotes.org/NeurIPS2025/multimodal_vlm/sherlock_selfcorrecting_reasoning_in_visionlanguage_models/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/sherlock_self…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/sherlock_selfcorrecting_reasoning_in_visionlanguage_models/)
 
 **ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation**
 
@@ -4373,6 +4520,8 @@
 **MMLongBench: Benchmarking Long-Context Vision-Language Models Effectively and Thoroughly** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2505.10610>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/mmlongbench_benc…](https://papernotes.org/NeurIPS2025/multimodal_vlm/mmlongbench_benchmarking_longcontext_visionlanguage_models_e/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/mmlongbench_b…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/mmlongbench_benchmarking_longcontext_visionlanguage_models_e/)
 
 **RTV-Bench: Benchmarking MLLM Continuous Perception, Understanding and Reasoning through Real-Time Video**
 
@@ -4384,6 +4533,8 @@
 
 - Paper: <https://arxiv.org/abs/2504.13169>
 - Project: <https://reverse-vlm.github.io>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/generate_but_ver…](https://papernotes.org/NeurIPS2025/multimodal_vlm/generate_but_verify_reducing_hallucination_in_visionlanguage/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/generate_but_…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/generate_but_verify_reducing_hallucination_in_visionlanguage/)
 
 **On the Value of Cross-Modal Misalignment in Multimodal Representation Learning**
 
@@ -4400,6 +4551,8 @@
 **Praxis-VLM: Vision-Grounded Decision Making via Text-Driven Reinforcement Learning**
 
 - Paper: <https://arxiv.org/abs/2503.16965>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/praxisvlm_vision…](https://papernotes.org/NeurIPS2025/multimodal_vlm/praxisvlm_visiongrounded_decision_making_via_textdriven_rein/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/praxisvlm_vis…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/praxisvlm_visiongrounded_decision_making_via_textdriven_rein/)
 
 **Think or Not Think: A Study of Explicit Thinking in Rule-Based Visual Reinforcement Fine-Tuning** · ✨ Spotlight
 
@@ -4410,14 +4563,20 @@
 **A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**
 
 - Paper: <https://arxiv.org/abs/2503.10635>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/a_frustratingly_…](https://papernotes.org/NeurIPS2025/multimodal_vlm/a_frustratingly_simple_yet_highly_effective_attack_baseline/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/a_frustrating…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/a_frustratingly_simple_yet_highly_effective_attack_baseline/)
 
 **CAPability: A Comprehensive Visual Caption Benchmark for Evaluating Both Correctness and Thoroughness**
 
 - Paper: <https://arxiv.org/abs/2502.14914>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/capability_a_com…](https://papernotes.org/NeurIPS2025/multimodal_vlm/capability_a_comprehensive_visual_caption_benchmark_for_eval/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/capability_a_…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/capability_a_comprehensive_visual_caption_benchmark_for_eval/)
 
 **ADMN: A Layer-Wise Adaptive Multimodal Network for Dynamic Input Noise and Compute Resources**
 
 - Paper: <https://arxiv.org/abs/2502.07862>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/admn_a_layerwise…](https://papernotes.org/NeurIPS2025/multimodal_vlm/admn_a_layerwise_adaptive_multimodal_network_for_dynamic_inp/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/admn_a_layerw…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/admn_a_layerwise_adaptive_multimodal_network_for_dynamic_inp/)
 
 **VLA-Cache: Efficient Vision-Language-Action Manipulation via Adaptive Token Caching**
 
@@ -4453,6 +4612,8 @@
 **DOTA: Distributional Test-Time Adaptation of Vision-Language Models**
 
 - Paper: <https://arxiv.org/abs/2409.19375>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/dota_distributio…](https://papernotes.org/NeurIPS2025/multimodal_vlm/dota_distributional_testtime_adaptation_of_visionlanguage_mo/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/dota_distribu…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/dota_distributional_testtime_adaptation_of_visionlanguage_mo/)
 
 **AQuaMaM: An Autoregressive, Quaternion Manifold Model for Rapidly Estimating Complex SO(3) Distributions** · 🛠️ Workshop
 
@@ -4570,6 +4731,8 @@
 
 - Paper: <https://arxiv.org/abs/2510.10136>
 - Code: <https://github.com/lanchengzou/PermLLM>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/model_compression/permllm_learn…](https://papernotes.org/NeurIPS2025/model_compression/permllm_learnable_channel_permutation_for_nm_sparse_large_language_models/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/model_compression/permllm_le…](https://en.papernotes.org/NeurIPS2025/model_compression/permllm_learnable_channel_permutation_for_nm_sparse_large_language_models/)
 
 **A Granular Study of Safety Pretraining under Model Abliteration**
 
@@ -4625,6 +4788,8 @@
 
 - Paper: <https://arxiv.org/abs/2508.05164>
 - Code: <https://github.com/JackieWang9811/S2M-Former>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/model_compression/s2m-former_sp…](https://papernotes.org/NeurIPS2025/model_compression/s2m-former_spiking_symmetric_mixing_branchformer_for_brain_auditory_attention_de/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/model_compression/s2m-former…](https://en.papernotes.org/NeurIPS2025/model_compression/s2m-former_spiking_symmetric_mixing_branchformer_for_brain_auditory_attention_de/)
 
 **RAT: Bridging RNN Efficiency and Attention Accuracy via Chunk-based Sequence Modeling**
 
@@ -4658,6 +4823,8 @@
 
 - Paper: <https://arxiv.org/abs/2505.24680>
 - Code: <https://github.com/chenxinrui-tsinghua/LinearPatch>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/model_compression/a_simple_line…](https://papernotes.org/NeurIPS2025/model_compression/a_simple_linear_patch_revives_layerpruned_large_language_mod/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/model_compression/a_simple_l…](https://en.papernotes.org/NeurIPS2025/model_compression/a_simple_linear_patch_revives_layerpruned_large_language_mod/)
 
 **Hyperbolic Dataset Distillation**
 
@@ -4670,6 +4837,8 @@
 
 - Paper: <https://arxiv.org/abs/2505.24550>
 - Code: <https://github.com/AI9Stars/AStar-Thought>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/model_compression/a-thought_eff…](https://papernotes.org/NeurIPS2025/model_compression/a-thought_efficient_reasoning_via_bidirectional_compression_for_low-resource_set/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/model_compression/a-thought_…](https://en.papernotes.org/NeurIPS2025/model_compression/a-thought_efficient_reasoning_via_bidirectional_compression_for_low-resource_set/)
 
 **Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference**
 
@@ -4710,6 +4879,8 @@
 
 - Paper: <https://arxiv.org/abs/2505.12781>
 - Code: <https://github.com/CURRENTF/LowRankClone>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/model_compression/a_token_is_wo…](https://papernotes.org/NeurIPS2025/model_compression/a_token_is_worth_over_1000_tokens_efficient_knowledge_distillation_through_low-r/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/model_compression/a_token_is…](https://en.papernotes.org/NeurIPS2025/model_compression/a_token_is_worth_over_1000_tokens_efficient_knowledge_distillation_through_low-r/)
 
 **MINGLE: Mixture of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging**
 
@@ -4855,6 +5026,8 @@
 **CAS-Spec: Cascade Adaptive Self-Speculative Decoding for On-the-Fly Lossless Inference Acceleration of LLMs** · 📌 Poster
 
 - Paper: <https://arxiv.org/abs/2510.26843>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/model_compression/casspec_casca…](https://papernotes.org/NeurIPS2025/model_compression/casspec_cascade_adaptive_selfspeculative_decoding_for_onthef/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/model_compression/casspec_ca…](https://en.papernotes.org/NeurIPS2025/model_compression/casspec_cascade_adaptive_selfspeculative_decoding_for_onthef/)
 
 **The Structure of Relation Decoding Linear Operators in Large Language Models** · ✨ Spotlight
 
@@ -4944,6 +5117,7 @@
 
 - Paper: <https://arxiv.org/abs/2510.14560>
 - Project: <https://zhangyl4.github.io/publications/eyes-wide-open/>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/model_compression/eyes_wide_ope…](https://papernotes.org/NeurIPS2025/model_compression/eyes_wide_open_ego_proactive_videollm_for_streaming_video/)
 
 **Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**
 
@@ -4991,6 +5165,8 @@
 
 - Paper: <https://arxiv.org/abs/2509.17513>
 - Project: <https://mediax-sjtu.github.io/4DGCPro>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/model_compression/4dgcpro_effic…](https://papernotes.org/NeurIPS2025/model_compression/4dgcpro_efficient_hierarchical_4d_gaussian_compression_for_p/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/model_compression/4dgcpro_ef…](https://en.papernotes.org/NeurIPS2025/model_compression/4dgcpro_efficient_hierarchical_4d_gaussian_compression_for_p/)
 
 **DP-LLM: Runtime Model Adaptation with Dynamic Layer-wise Precision Assignment**
 
@@ -5060,6 +5236,8 @@
 **Benford's Curse: Tracing Digit Bias to Numerical Hallucination in LLMs**
 
 - Paper: <https://arxiv.org/abs/2506.01734>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/model_compression/benfords_curs…](https://papernotes.org/NeurIPS2025/model_compression/benfords_curse_tracing_digit_bias_to_numerical_hallucination_in_llms/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/model_compression/benfords_c…](https://en.papernotes.org/NeurIPS2025/model_compression/benfords_curse_tracing_digit_bias_to_numerical_hallucination_in_llms/)
 
 **On the Hardness of Approximating Distributions with Tractable Probabilistic Models**
 
@@ -5118,6 +5296,8 @@
 **Adaptive Prediction-Powered AutoEval with Reliability and Efficiency Guarantees** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2505.18659>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/model_compression/adaptive_pred…](https://papernotes.org/NeurIPS2025/model_compression/adaptive_predictionpowered_autoeval_with_reliability_and_eff/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/model_compression/adaptive_p…](https://en.papernotes.org/NeurIPS2025/model_compression/adaptive_predictionpowered_autoeval_with_reliability_and_eff/)
 
 **KTAE: A Model-Free Algorithm to Key-Tokens Advantage Estimation in Mathematical Reasoning** · 📌 Poster
 
@@ -5231,6 +5411,8 @@
 **Twilight: Adaptive Attention Sparsity with Hierarchical Top-$p$ Pruning** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2502.02770>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/model_compression/twilight_adap…](https://papernotes.org/NeurIPS2025/model_compression/twilight_adaptive_attention_sparsity_with_hierarchical_top-p_pruning/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/model_compression/twilight_a…](https://en.papernotes.org/NeurIPS2025/model_compression/twilight_adaptive_attention_sparsity_with_hierarchical_top-p_pruning/)
 
 **ParetoQ: Improving Scaling Laws in Extremely Low-bit LLM Quantization**
 
@@ -5247,6 +5429,8 @@
 **ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference**
 
 - Paper: <https://arxiv.org/abs/2502.00299>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/model_compression/chunkkv_seman…](https://papernotes.org/NeurIPS2025/model_compression/chunkkv_semanticpreserving_kv_cache_compression_for_efficien/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/model_compression/chunkkv_se…](https://en.papernotes.org/NeurIPS2025/model_compression/chunkkv_semanticpreserving_kv_cache_compression_for_efficien/)
 
 **A Partition Cover Approach to Tokenization**
 
@@ -5441,6 +5625,8 @@
 **A Unified Stability Analysis of SAM vs SGD: Role of Data Coherence and Emergence of Simplicity Bias**
 
 - Paper: <https://arxiv.org/abs/2511.17378>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/optimization/a_unified_stabilit…](https://papernotes.org/NeurIPS2025/optimization/a_unified_stability_analysis_of_sam_vs_sgd_role_of_data_cohe/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/optimization/a_unified_stabi…](https://en.papernotes.org/NeurIPS2025/optimization/a_unified_stability_analysis_of_sam_vs_sgd_role_of_data_cohe/)
 
 **Natural gradient descent for improving variational inference based classification of radio galaxies** · 🛠️ Workshop
 
@@ -5498,6 +5684,8 @@
 **Extragradient Method for $(L_0, L_1)$-Lipschitz Root-finding Problems**
 
 - Paper: <https://arxiv.org/abs/2510.22421>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/optimization/extragradient_meth…](https://papernotes.org/NeurIPS2025/optimization/extragradient_method_for_l_0_l_1-lipschitz_root-finding_problems/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/optimization/extragradient_m…](https://en.papernotes.org/NeurIPS2025/optimization/extragradient_method_for_l_0_l_1-lipschitz_root-finding_problems/)
 
 **Probing Neural Combinatorial Optimization Models** · ✨ Spotlight
 
@@ -5586,6 +5774,8 @@
 
 - Paper: <https://arxiv.org/abs/2510.15444>
 - Project: <https://wnjxyk.github.io/RPC>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/optimization/a_theoretical_stud…](https://papernotes.org/NeurIPS2025/optimization/a_theoretical_study_on_bridging_internal_probability_and_sel/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/optimization/a_theoretical_s…](https://en.papernotes.org/NeurIPS2025/optimization/a_theoretical_study_on_bridging_internal_probability_and_sel/)
 
 **Learning at the Speed of Physics: Equilibrium Propagation on Oscillator Ising Machines**
 
@@ -5673,6 +5863,8 @@
 **Adaptive Algorithms with Sharp Convergence Rates for Stochastic Hierarchical Optimization**
 
 - Paper: <https://arxiv.org/abs/2509.15399>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/optimization/adaptive_algorithm…](https://papernotes.org/NeurIPS2025/optimization/adaptive_algorithms_with_sharp_convergence_rates_for_stochas/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/optimization/adaptive_algori…](https://en.papernotes.org/NeurIPS2025/optimization/adaptive_algorithms_with_sharp_convergence_rates_for_stochas/)
 
 **Verbalized Algorithms** · 🛠️ Workshop
 
@@ -5761,6 +5953,8 @@
 **Purifying Shampoo: Investigating Shampoo's Heuristics by Decomposing its Preconditioner**
 
 - Paper: <https://arxiv.org/abs/2506.03595>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/optimization/purifying_shampoo_…](https://papernotes.org/NeurIPS2025/optimization/purifying_shampoo_investigating_shampoos_heuristics_by_decomposing_its_precondit/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/optimization/purifying_shamp…](https://en.papernotes.org/NeurIPS2025/optimization/purifying_shampoo_investigating_shampoos_heuristics_by_decomposing_its_precondit/)
 
 **From Average-Iterate to Last-Iterate Convergence in Games: A Reduction and Its Applications**
 
@@ -5806,6 +6000,8 @@
 **In Search of Adam's Secret Sauce**
 
 - Paper: <https://arxiv.org/abs/2505.21829>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/optimization/in_search_of_adams…](https://papernotes.org/NeurIPS2025/optimization/in_search_of_adams_secret_sauce/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/optimization/in_search_of_ad…](https://en.papernotes.org/NeurIPS2025/optimization/in_search_of_adams_secret_sauce/)
 
 **MESS+: Dynamically Learned Inference-Time LLM Routing in Model Zoos with Service Level Guarantees**
 
@@ -6154,6 +6350,8 @@
 **Walking the Schrödinger Bridge: A Direct Trajectory for Text-to-3D Generation**
 
 - Paper: <https://arxiv.org/abs/2511.05609>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/3d_vision/walking_the_schröding…](https://papernotes.org/NeurIPS2025/3d_vision/walking_the_schrödinger_bridge_a_direct_trajectory_for_text-to-3d_generation/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/3d_vision/walking_the_schröd…](https://en.papernotes.org/NeurIPS2025/3d_vision/walking_the_schrödinger_bridge_a_direct_trajectory_for_text-to-3d_generation/)
 
 **How Many Tokens Do 3D Point Cloud Transformer Architectures Really Need?**
 
@@ -6165,6 +6363,8 @@
 **Neural Green's Functions**
 
 - Paper: <https://arxiv.org/abs/2511.01924>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/3d_vision/neural_greens_functions](https://papernotes.org/NeurIPS2025/3d_vision/neural_greens_functions/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/3d_vision/neural_greens_func…](https://en.papernotes.org/NeurIPS2025/3d_vision/neural_greens_functions/)
 
 **GauDP: Reinventing Multi-Agent Collaboration through Gaussian-Image Synergy in Diffusion Policies**
 
@@ -6588,6 +6788,8 @@
 **D$^2$USt3R: Enhancing 3D Reconstruction for Dynamic Scenes**
 
 - Paper: <https://arxiv.org/abs/2504.06264>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/3d_vision/d2ust3r_enhancing_3d_…](https://papernotes.org/NeurIPS2025/3d_vision/d2ust3r_enhancing_3d_reconstruction_for_dynamic_scenes/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/3d_vision/d2ust3r_enhancing_…](https://en.papernotes.org/NeurIPS2025/3d_vision/d2ust3r_enhancing_3d_reconstruction_for_dynamic_scenes/)
 
 **Segment then Splat: Unified 3D Open-Vocabulary Segmentation via Gaussian Splatting**
 
@@ -6702,6 +6904,8 @@
 
 - Paper: <https://arxiv.org/abs/2510.21323>
 - Code: <https://github.com/ssfgunner/VL-SAE>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/interpretability/vlsae_interpre…](https://papernotes.org/NeurIPS2025/interpretability/vlsae_interpreting_and_enhancing_visionlanguage_alignment_wi/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/interpretability/vlsae_inter…](https://en.papernotes.org/NeurIPS2025/interpretability/vlsae_interpreting_and_enhancing_visionlanguage_alignment_wi/)
 
 **H-SPLID: HSIC-based Saliency Preserving Latent Information Decomposition**
 
@@ -6874,6 +7078,8 @@
 
 - Paper: <https://arxiv.org/abs/2511.00962>
 - Project: <https://rathgrith.github.io/Unified_Frame_VAA/>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/interpretability/a_unified_reas…](https://papernotes.org/NeurIPS2025/interpretability/a_unified_reasoning_framework_for_holistic_zeroshot_video_an/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/interpretability/a_unified_r…](https://en.papernotes.org/NeurIPS2025/interpretability/a_unified_reasoning_framework_for_holistic_zeroshot_video_an/)
 
 **SpEx: A Spectral Approach to Explainable Clustering**
 
@@ -7041,6 +7247,8 @@
 
 - Paper: <https://arxiv.org/abs/2506.04723>
 - Project: <https://sparkle-reasoning.github.io/>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/interpretability/beyond_accurac…](https://papernotes.org/NeurIPS2025/interpretability/beyond_accuracy_dissecting_mathematical_reasoning_for_llms_u/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/interpretability/beyond_accu…](https://en.papernotes.org/NeurIPS2025/interpretability/beyond_accuracy_dissecting_mathematical_reasoning_for_llms_u/)
 
 **Self-Supervised Contrastive Learning is Approximately Supervised Contrastive Learning**
 
@@ -7068,6 +7276,8 @@
 **Global Minimizers of $\ell^p$-Regularized Objectives Yield the Sparsest ReLU Neural Networks**
 
 - Paper: <https://arxiv.org/abs/2505.21791>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/model_compression/global_minimi…](https://papernotes.org/NeurIPS2025/model_compression/global_minimizers_of_ellp-regularized_objectives_yield_the_sparsest_relu_neural_/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/model_compression/global_min…](https://en.papernotes.org/NeurIPS2025/model_compression/global_minimizers_of_ellp-regularized_objectives_yield_the_sparsest_relu_neural_/)
 
 **Born a Transformer -- Always a Transformer? On the Effect of Pretraining on Architectural Abilities**
 
@@ -7285,6 +7495,8 @@
 
 - Paper: <https://arxiv.org/abs/2506.12104>
 - Code: <https://github.com/SaFoLab-WISC/DRIFT>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_agent/drift_dynamic_rulebas…](https://papernotes.org/NeurIPS2025/llm_agent/drift_dynamic_rulebased_defense_with_injection_isolation_for/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_agent/drift_dynamic_rule…](https://en.papernotes.org/NeurIPS2025/llm_agent/drift_dynamic_rulebased_defense_with_injection_isolation_for/)
 
 **Contextual Integrity in LLMs via Reasoning and Reinforcement Learning**
 
@@ -7457,6 +7669,8 @@
 **Enhancing CLIP Robustness via Cross-Modality Alignment** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2510.24038>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_safety/enhancing_clip_robus…](https://papernotes.org/NeurIPS2025/llm_safety/enhancing_clip_robustness_via_crossmodality_alignment/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_safety/enhancing_clip_ro…](https://en.papernotes.org/NeurIPS2025/llm_safety/enhancing_clip_robustness_via_crossmodality_alignment/)
 
 **On the Sample Complexity of Differentially Private Policy Optimization**
 
@@ -7498,6 +7712,8 @@
 
 - Paper: <https://arxiv.org/abs/2510.08132>
 - Project: <https://kodaikawamura.github.io/Domain_Unlearning/>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/multimodal_vlm/approximate_doma…](https://papernotes.org/NeurIPS2025/multimodal_vlm/approximate_domain_unlearning_for_visionlanguage_models/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/multimodal_vlm/approximate_d…](https://en.papernotes.org/NeurIPS2025/multimodal_vlm/approximate_domain_unlearning_for_visionlanguage_models/)
 
 **SIMU: Selective Influence Machine Unlearning** · 🛠️ Workshop
 
@@ -7670,6 +7886,8 @@
 **AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents**
 
 - Paper: <https://arxiv.org/abs/2503.09780>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_agent/agentdam_privacy_leak…](https://papernotes.org/NeurIPS2025/llm_agent/agentdam_privacy_leakage_evaluation_for_autonomous_web_agent/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_agent/agentdam_privacy_l…](https://en.papernotes.org/NeurIPS2025/llm_agent/agentdam_privacy_leakage_evaluation_for_autonomous_web_agent/)
 
 **Probabilistic Reasoning with LLMs for k-anonymity Estimation**
 
@@ -7680,6 +7898,8 @@
 **LLM Strategic Reasoning: Agentic Study through Behavioral Game Theory**
 
 - Paper: <https://arxiv.org/abs/2502.20432>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_safety/llm_strategic_reason…](https://papernotes.org/NeurIPS2025/llm_safety/llm_strategic_reasoning_agentic_study_through_behavioral_gam/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_safety/llm_strategic_rea…](https://en.papernotes.org/NeurIPS2025/llm_safety/llm_strategic_reasoning_agentic_study_through_behavioral_gam/)
 
 **Enhancing Sample Selection Against Label Noise by Cutting Mislabeled Easy Examples**
 
@@ -7714,6 +7934,8 @@
 **A Reliable Cryptographic Framework for Empirical Machine Unlearning Evaluation**
 
 - Paper: <https://arxiv.org/abs/2404.11577>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_safety/a_reliable_cryptogra…](https://papernotes.org/NeurIPS2025/llm_safety/a_reliable_cryptographic_framework_for_empirical_machine_unl/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_safety/a_reliable_crypto…](https://en.papernotes.org/NeurIPS2025/llm_safety/a_reliable_cryptographic_framework_for_empirical_machine_unl/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -7741,6 +7963,8 @@
 
 - Paper: <https://arxiv.org/abs/2510.22048>
 - Code: <https://github.com/MOSSLab-MIT/pfdelta>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_evaluation/pfδ_a_benchmark_…](https://papernotes.org/NeurIPS2025/llm_evaluation/pfδ_a_benchmark_dataset_for_power_flow_under_load_generation_and_topology_variat/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_evaluation/pfδ_a_benchma…](https://en.papernotes.org/NeurIPS2025/llm_evaluation/pfδ_a_benchmark_dataset_for_power_flow_under_load_generation_and_topology_variat/)
 
 **Cost-Sensitive Freeze-thaw Bayesian Optimization for Efficient Hyperparameter Tuning**
 
@@ -7795,6 +8019,8 @@
 
 - Paper: <https://arxiv.org/abs/2509.19674>
 - Code: <https://github.com/zhoujiahuan1991/NeurIPS2025-C2Prompt>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_nlp/c2prompt_class-aware_cl…](https://papernotes.org/NeurIPS2025/llm_nlp/c2prompt_class-aware_client_knowledge_interaction_for_federated_continual_learni/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_nlp/c2prompt_class-aware…](https://en.papernotes.org/NeurIPS2025/llm_nlp/c2prompt_class-aware_client_knowledge_interaction_for_federated_continual_learni/)
 
 **Can Large Language Models Master Complex Card Games?**
 
@@ -7862,6 +8088,8 @@
 
 - Paper: <https://arxiv.org/abs/2502.04242>
 - Code: <https://github.com/zqy0126/OTQMS>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_evaluation/a_highdimensiona…](https://papernotes.org/NeurIPS2025/llm_evaluation/a_highdimensional_statistical_method_for_optimizing_transfer/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_evaluation/a_highdimensi…](https://en.papernotes.org/NeurIPS2025/llm_evaluation/a_highdimensional_statistical_method_for_optimizing_transfer/)
 
 **Benchmarking Large Language Models for Zero-shot and Few-shot Phishing URL Detection** · 🛠️ Workshop
 
@@ -8005,6 +8233,8 @@
 
 - Paper: <https://arxiv.org/abs/2509.26631>
 - Project: <https://sime-completion.github.io>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_evaluation/learning_general…](https://papernotes.org/NeurIPS2025/llm_evaluation/learning_generalizable_shape_completion_with_sim3_equivariance/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_evaluation/learning_gene…](https://en.papernotes.org/NeurIPS2025/llm_evaluation/learning_generalizable_shape_completion_with_sim3_equivariance/)
 
 **PARROT: A Benchmark for Evaluating LLMs in Cross-System SQL Translation**
 
@@ -8141,6 +8371,8 @@
 **LCDB 1.1: A Database Illustrating Learning Curves Are More Ill-Behaved Than Previously Thought**
 
 - Paper: <https://arxiv.org/abs/2505.15657>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_evaluation/lcdb_11_a_databa…](https://papernotes.org/NeurIPS2025/llm_evaluation/lcdb_11_a_database_illustrating_learning_curves_are_more_ill-behaved_than_previo/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_evaluation/lcdb_11_a_dat…](https://en.papernotes.org/NeurIPS2025/llm_evaluation/lcdb_11_a_database_illustrating_learning_curves_are_more_ill-behaved_than_previo/)
 
 **Turbocharging Gaussian Process Inference with Approximate Sketch-and-Project**
 
@@ -8226,6 +8458,8 @@
 
 - Paper: <https://arxiv.org/abs/2511.09904>
 - Code: <https://github.com/TeunvdWeij/ctrl-alt-deceit>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/ai_safety/ctrl-alt-deceit_sabot…](https://papernotes.org/NeurIPS2025/ai_safety/ctrl-alt-deceit_sabotage_evaluations_for_automated_ai_rd/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/ai_safety/ctrl-alt-deceit_sa…](https://en.papernotes.org/NeurIPS2025/ai_safety/ctrl-alt-deceit_sabotage_evaluations_for_automated_ai_rd/)
 
 **DictPFL: Efficient and Private Federated Learning on Encrypted Gradients**
 
@@ -8372,6 +8606,8 @@
 **Mitigating Privacy-Utility Trade-off in Decentralized Federated Learning via $f$-Differential Privacy** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2510.19934>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/ai_safety/mitigating_privacy-ut…](https://papernotes.org/NeurIPS2025/ai_safety/mitigating_privacy-utility_trade-off_in_decentralized_federated_learning_via_f-d/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/ai_safety/mitigating_privacy…](https://en.papernotes.org/NeurIPS2025/ai_safety/mitigating_privacy-utility_trade-off_in_decentralized_federated_learning_via_f-d/)
 
 **Environment Inference for Learning Generalizable Dynamical System** · ✨ Spotlight
 
@@ -8424,6 +8660,8 @@
 **Benchmarking is Broken -- Don't Let AI be its Own Judge** · 📌 Poster
 
 - Paper: <https://arxiv.org/abs/2510.07575>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_evaluation/benchmarking_is_…](https://papernotes.org/NeurIPS2025/llm_evaluation/benchmarking_is_broken_--_dont_let_ai_be_its_own_judge/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_evaluation/benchmarking_…](https://en.papernotes.org/NeurIPS2025/llm_evaluation/benchmarking_is_broken_--_dont_let_ai_be_its_own_judge/)
 
 **Multi-Class Support Vector Machine with Differential Privacy**
 
@@ -8506,6 +8744,8 @@
 **AI Should Sense Better, Not Just Scale Bigger: Adaptive Sensing as a Paradigm Shift**
 
 - Paper: <https://arxiv.org/abs/2507.07820>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/ai_safety/ai_should_sense_bette…](https://papernotes.org/NeurIPS2025/ai_safety/ai_should_sense_better_not_just_scale_bigger_adaptive_sensin/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/ai_safety/ai_should_sense_be…](https://en.papernotes.org/NeurIPS2025/ai_safety/ai_should_sense_better_not_just_scale_bigger_adaptive_sensin/)
 
 **Unifying Re-Identification, Attribute Inference, and Data Reconstruction Risks in Differential Privacy**
 
@@ -8612,6 +8852,8 @@
 **It's complicated. The relationship of algorithmic fairness and non-discrimination provisions for high-risk systems in the EU AI Act** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2501.12962>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/ai_safety/its_complicated_the_r…](https://papernotes.org/NeurIPS2025/ai_safety/its_complicated_the_relationship_of_algorithmic_fairness_and_non-discrimination_/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/ai_safety/its_complicated_th…](https://en.papernotes.org/NeurIPS2025/ai_safety/its_complicated_the_relationship_of_algorithmic_fairness_and_non-discrimination_/)
 
 **Boosting Adversarial Transferability with Spatial Adversarial Alignment**
 
@@ -8622,6 +8864,8 @@
 **Machine Unlearning Doesn't Do What You Think: Lessons for Generative AI Policy and Research** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2412.06966>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/ai_safety/machine_unlearning_do…](https://papernotes.org/NeurIPS2025/ai_safety/machine_unlearning_doesnt_do_what_you_think_lessons_for_generative_ai_policy_and/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/ai_safety/machine_unlearning…](https://en.papernotes.org/NeurIPS2025/ai_safety/machine_unlearning_doesnt_do_what_you_think_lessons_for_generative_ai_policy_and/)
 
 **Efficient Fairness-Performance Pareto Front Computation**
 
@@ -8638,8 +8882,8 @@
 **Impact of Dataset Properties on Membership Inference Vulnerability of Deep Transfer Learning**
 
 - Paper: <https://arxiv.org/abs/2402.06674>
-- Notes (Chinese): [papernotes.org/NeurIPS2025/ai_safety/impact_of_dataset_pro…](https://papernotes.org/NeurIPS2025/ai_safety/impact_of_dataset_properties_on_membership_inference_vulnerability_of_deep_trans/)
-- Notes (English): [en.papernotes.org/NeurIPS2025/ai_safety/impact_of_dataset_…](https://en.papernotes.org/NeurIPS2025/ai_safety/impact_of_dataset_properties_on_membership_inference_vulnerability_of_deep_trans/)
+- Notes (Chinese): [papernotes.org/NeurIPS2025/ai_safety/impact_of_dataset_pro…](https://papernotes.org/NeurIPS2025/ai_safety/impact_of_dataset_properties_on_membership_inference/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/ai_safety/impact_of_dataset_…](https://en.papernotes.org/NeurIPS2025/ai_safety/impact_of_dataset_properties_on_membership_inference/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -8681,6 +8925,8 @@
 
 - Paper: <https://arxiv.org/abs/2506.18896>
 - Code: <https://github.com/Gen-Verse/ReasonFlux>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_reasoning/reasonfluxprm_tra…](https://papernotes.org/NeurIPS2025/llm_reasoning/reasonfluxprm_trajectoryaware_prms_for_long_chainofthought_r/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_reasoning/reasonfluxprm_…](https://en.papernotes.org/NeurIPS2025/llm_reasoning/reasonfluxprm_trajectoryaware_prms_for_long_chainofthought_r/)
 
 **Two-Stage Learning of Stabilizing Neural Controllers via Zubov Sampling and Iterative Domain Expansion**
 
@@ -8701,6 +8947,8 @@
 - Paper: <https://arxiv.org/abs/2505.12891>
 - Code: <https://github.com/sylvain-wei/TIME>
 - Project: <https://sylvain-wei.github.io/TIME/>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_reasoning/time_a_multilevel…](https://papernotes.org/NeurIPS2025/llm_reasoning/time_a_multilevel_benchmark_for_temporal_reasoning_of_llms_i/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_reasoning/time_a_multile…](https://en.papernotes.org/NeurIPS2025/llm_reasoning/time_a_multilevel_benchmark_for_temporal_reasoning_of_llms_i/)
 
 **WebThinker: Empowering Large Reasoning Models with Deep Research Capability**
 
@@ -8713,6 +8961,8 @@
 
 - Paper: <https://arxiv.org/abs/2504.15275>
 - Code: <https://github.com/CJReinforce/PURE>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_reasoning/stop_summation_mi…](https://papernotes.org/NeurIPS2025/llm_reasoning/stop_summation_minform_credit_assignment_is_all_process_rewa/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_reasoning/stop_summation…](https://en.papernotes.org/NeurIPS2025/llm_reasoning/stop_summation_minform_credit_assignment_is_all_process_rewa/)
 
 **SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning**
 
@@ -8858,6 +9108,8 @@
 **Know What You Don't Know: Uncertainty Calibration of Process Reward Models**
 
 - Paper: <https://arxiv.org/abs/2506.09338>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_reasoning/know_what_you_don…](https://papernotes.org/NeurIPS2025/llm_reasoning/know_what_you_dont_know_uncertainty_calibration_of_process_reward_models/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_reasoning/know_what_you_…](https://en.papernotes.org/NeurIPS2025/llm_reasoning/know_what_you_dont_know_uncertainty_calibration_of_process_reward_models/)
 
 **The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity**
 
@@ -8898,6 +9150,8 @@
 **CoT Red-Handed: Stress Testing Chain-of-Thought Monitoring**
 
 - Paper: <https://arxiv.org/abs/2505.23575>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_reasoning/cot_redhanded_str…](https://papernotes.org/NeurIPS2025/llm_reasoning/cot_redhanded_stress_testing_chainofthought_monitoring/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_reasoning/cot_redhanded_…](https://en.papernotes.org/NeurIPS2025/llm_reasoning/cot_redhanded_stress_testing_chainofthought_monitoring/)
 
 **On Learning Verifiers and Implications to Chain-of-Thought Reasoning**
 
@@ -8908,10 +9162,14 @@
 **Let Me Think! A Long Chain-of-Thought Can Be Worth Exponentially Many Short Ones**
 
 - Paper: <https://arxiv.org/abs/2505.21825>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_reasoning/let_me_think_a_lo…](https://papernotes.org/NeurIPS2025/llm_reasoning/let_me_think_a_long_chainofthought_can_be_worth_exponentiall/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_reasoning/let_me_think_a…](https://en.papernotes.org/NeurIPS2025/llm_reasoning/let_me_think_a_long_chainofthought_can_be_worth_exponentiall/)
 
 **Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations**
 
 - Paper: <https://arxiv.org/abs/2505.21318>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_reasoning/beyond_chemical_q…](https://papernotes.org/NeurIPS2025/llm_reasoning/beyond_chemical_qa_evaluating_llms_chemical_reasoning_with_modular_chemical_oper/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_reasoning/beyond_chemica…](https://en.papernotes.org/NeurIPS2025/llm_reasoning/beyond_chemical_qa_evaluating_llms_chemical_reasoning_with_modular_chemical_oper/)
 
 **ARM: Adaptive Reasoning Model** · ✨ Spotlight
 
@@ -8946,6 +9204,8 @@
 **Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought**
 
 - Paper: <https://arxiv.org/abs/2505.15510>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_reasoning/visual_thoughts_a…](https://papernotes.org/NeurIPS2025/llm_reasoning/visual_thoughts_a_unified_perspective_of_understanding_multi/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_reasoning/visual_thought…](https://en.papernotes.org/NeurIPS2025/llm_reasoning/visual_thoughts_a_unified_perspective_of_understanding_multi/)
 
 **Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**
 
@@ -9028,6 +9288,8 @@
 **Atom of Thoughts for Markov LLM Test-Time Scaling**
 
 - Paper: <https://arxiv.org/abs/2502.12018>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_reasoning/atom_of_thoughts_…](https://papernotes.org/NeurIPS2025/llm_reasoning/atom_of_thoughts_for_markov_llm_testtime_scaling/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_reasoning/atom_of_though…](https://en.papernotes.org/NeurIPS2025/llm_reasoning/atom_of_thoughts_for_markov_llm_testtime_scaling/)
 
 **Unlocking Multimodal Mathematical Reasoning via Process Reward Model**
 
@@ -9038,6 +9300,8 @@
 **Provable Scaling Laws for the Test-Time Compute of Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2411.19477>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_reasoning/provable_scaling_…](https://papernotes.org/NeurIPS2025/llm_reasoning/provable_scaling_laws_for_the_testtime_compute_of_large_lang/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_reasoning/provable_scali…](https://en.papernotes.org/NeurIPS2025/llm_reasoning/provable_scaling_laws_for_the_testtime_compute_of_large_lang/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -9051,6 +9315,8 @@
 
 - Paper: <https://arxiv.org/abs/2512.10359>
 - Code: <https://github.com/fansunqi/VideoTool>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/video_understanding/star_tool_v…](https://papernotes.org/NeurIPS2025/video_understanding/star_tool_video_qa/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/video_understanding/star_too…](https://en.papernotes.org/NeurIPS2025/video_understanding/star_tool_video_qa/)
 
 **Less Is More, but Where? Dynamic Token Compression via LLM-Guided Keyframe Prior**
 
@@ -9091,6 +9357,8 @@
 
 - Paper: <https://arxiv.org/abs/2510.17218>
 - Code: <https://github.com/Zhuo-Cao/QV-M2>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/video_understanding/when_one_mo…](https://papernotes.org/NeurIPS2025/video_understanding/when_one_moment_isnt_enough_multi-moment_retrieval_with_cross-moment_interaction/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/video_understanding/when_one…](https://en.papernotes.org/NeurIPS2025/video_understanding/when_one_moment_isnt_enough_multi-moment_retrieval_with_cross-moment_interaction/)
 
 **Structured Sparse Transition Matrices to Enable State Tracking in State-Space Models** · ✨ Spotlight
 
@@ -9103,11 +9371,15 @@
 
 - Paper: <https://arxiv.org/abs/2509.18056>
 - Code: <https://github.com/HVision-NKU/TempSamp-R1>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/video_understanding/tempsampr1_…](https://papernotes.org/NeurIPS2025/video_understanding/tempsampr1_effective_temporal_sampling_with_reinforcement_fi/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/video_understanding/tempsamp…](https://en.papernotes.org/NeurIPS2025/video_understanding/tempsampr1_effective_temporal_sampling_with_reinforcement_fi/)
 
 **PixFoundation 2.0: Do Video Multi-Modal LLMs Use Motion in Visual Grounding?**
 
 - Paper: <https://arxiv.org/abs/2509.02807>
 - Code: <https://github.com/MSiam/PixFoundation-2>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/video_understanding/pixfoundati…](https://papernotes.org/NeurIPS2025/video_understanding/pixfoundation_20_do_video_multi-modal_llms_use_motion_in_visual_grounding/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/video_understanding/pixfound…](https://en.papernotes.org/NeurIPS2025/video_understanding/pixfoundation_20_do_video_multi-modal_llms_use_motion_in_visual_grounding/)
 
 **Steering When Necessary: Flexible Steering Large Language Models with Backtracking**
 
@@ -9134,6 +9406,8 @@
 
 - Paper: <https://arxiv.org/abs/2503.11187>
 - Code: <https://github.com/LunarShen/FastVID>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/video_understanding/fastvid_dyn…](https://papernotes.org/NeurIPS2025/video_understanding/fastvid_dynamic_density_pruning_for_fast_video_large_languag/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/video_understanding/fastvid_…](https://en.papernotes.org/NeurIPS2025/video_understanding/fastvid_dynamic_density_pruning_for_fast_video_large_languag/)
 
 **Open-World Drone Active Tracking with Goal-Centered Rewards**
 
@@ -9225,6 +9499,8 @@
 
 - Paper: <https://arxiv.org/abs/2510.26027>
 - Project: <https://alirasekh.github.io/STAVEQ2/>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/video_understanding/enhancing_t…](https://papernotes.org/NeurIPS2025/video_understanding/enhancing_temporal_understanding_in_videollms_through_stacke/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/video_understanding/enhancin…](https://en.papernotes.org/NeurIPS2025/video_understanding/enhancing_temporal_understanding_in_videollms_through_stacke/)
 
 **Neural Stochastic Flows: Solver-Free Modelling and Inference for SDE Solutions** · 📌 Poster
 
@@ -9247,6 +9523,8 @@
 **Empower Words: DualGround for Structured Phrase and Sentence-Level Temporal Grounding**
 
 - Paper: <https://arxiv.org/abs/2510.20244>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/video_understanding/empower_wor…](https://papernotes.org/NeurIPS2025/video_understanding/empower_words_dualground_for_structured_phrase_and_sentencel/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/video_understanding/empower_…](https://en.papernotes.org/NeurIPS2025/video_understanding/empower_words_dualground_for_structured_phrase_and_sentencel/)
 
 **Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding** · ✨ Spotlight
 
@@ -9313,6 +9591,8 @@
 **AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented Efficient Long Video Understanding**
 
 - Paper: <https://arxiv.org/abs/2506.13589>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/video_understanding/adavideorag…](https://papernotes.org/NeurIPS2025/video_understanding/adavideorag_omnicontextual_adaptive_retrievalaugmented_effic/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/video_understanding/adavideo…](https://en.papernotes.org/NeurIPS2025/video_understanding/adavideorag_omnicontextual_adaptive_retrievalaugmented_effic/)
 
 **KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills**
 
@@ -9385,6 +9665,8 @@
 **A Little Depth Goes a Long Way: The Expressive Power of Log-Depth Transformers**
 
 - Paper: <https://arxiv.org/abs/2503.03961>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/video_understanding/a_little_de…](https://papernotes.org/NeurIPS2025/video_understanding/a_little_depth_goes_a_long_way_the_expressive_power_of_logde/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/video_understanding/a_little…](https://en.papernotes.org/NeurIPS2025/video_understanding/a_little_depth_goes_a_long_way_the_expressive_power_of_logde/)
 
 **MimeQA: Towards Socially-Intelligent Nonverbal Foundation Models**
 
@@ -9493,6 +9775,8 @@
 
 - Paper: <https://arxiv.org/abs/2502.04077>
 - Code: <https://github.com/MIRALab-USTC/LLM-AttentionPredictor>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/time_series/attentionpredictor_…](https://papernotes.org/NeurIPS2025/time_series/attentionpredictor_temporal_patterns_matter_for_kv_cache_com/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/time_series/attentionpredict…](https://en.papernotes.org/NeurIPS2025/time_series/attentionpredictor_temporal_patterns_matter_for_kv_cache_com/)
 
 **Diffusion Transformers as Open-World Spatiotemporal Foundation Models**
 
@@ -9576,6 +9860,8 @@
 **Abstain Mask Retain Core: Time Series Prediction by Adaptive Masking Loss with Representation Consistency** · ✨ Spotlight · 📌 Poster
 
 - Paper: <https://arxiv.org/abs/2510.19980>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/time_series/abstain_mask_retain…](https://papernotes.org/NeurIPS2025/time_series/abstain_mask_retain_core_time_series_prediction_by_adaptive/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/time_series/abstain_mask_ret…](https://en.papernotes.org/NeurIPS2025/time_series/abstain_mask_retain_core_time_series_prediction_by_adaptive/)
 
 **Simple and Efficient Heterogeneous Temporal Graph Neural Network**
 
@@ -9785,6 +10071,8 @@
 
 - Paper: <https://arxiv.org/abs/2510.23569>
 - Code: <https://github.com/InternRobotics/EgoThinker>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/robotics/egothinker_egocentric_…](https://papernotes.org/NeurIPS2025/robotics/egothinker_egocentric_reasoning/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/robotics/egothinker_egocentr…](https://en.papernotes.org/NeurIPS2025/robotics/egothinker_egocentric_reasoning/)
 
 **EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**
 
@@ -10045,10 +10333,14 @@
 **MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**
 
 - Paper: <https://arxiv.org/abs/2505.20148>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/robotics/mineanybuild_benchmark…](https://papernotes.org/NeurIPS2025/robotics/mineanybuild_benchmarking_spatial_planning_for_openworld_ai/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/robotics/mineanybuild_benchm…](https://en.papernotes.org/NeurIPS2025/robotics/mineanybuild_benchmarking_spatial_planning_for_openworld_ai/)
 
 **A Snapshot of Influence: A Local Data Attribution Framework for Online Reinforcement Learning** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2505.19281>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/robotics/a_snapshot_of_influenc…](https://papernotes.org/NeurIPS2025/robotics/a_snapshot_of_influence_a_local_data_attribution_framework_f/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/robotics/a_snapshot_of_influ…](https://en.papernotes.org/NeurIPS2025/robotics/a_snapshot_of_influence_a_local_data_attribution_framework_f/)
 
 **Task-Optimized Convolutional Recurrent Networks Align with Tactile Processing in the Rodent Brain** · 🎤 Oral
 
@@ -10071,6 +10363,8 @@
 **MIP against Agent: Malicious Image Patches Hijacking Multimodal OS Agents**
 
 - Paper: <https://arxiv.org/abs/2503.10809>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/robotics/mip_against_agent_mali…](https://papernotes.org/NeurIPS2025/robotics/mip_against_agent_malicious_image_patches_hijacking_multimod/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/robotics/mip_against_agent_m…](https://en.papernotes.org/NeurIPS2025/robotics/mip_against_agent_malicious_image_patches_hijacking_multimod/)
 
 **AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling** · ✨ Spotlight
 
@@ -10170,6 +10464,8 @@
 
 - Paper: <https://arxiv.org/abs/2504.06426>
 - Code: <https://github.com/ZimpleX/SMoRE-LLM>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/graph_learning/smore_structural…](https://papernotes.org/NeurIPS2025/graph_learning/smore_structural_mixture_of_residual_experts_for_parameter-efficient_llm_fine-tu/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/graph_learning/smore_structu…](https://en.papernotes.org/NeurIPS2025/graph_learning/smore_structural_mixture_of_residual_experts_for_parameter-efficient_llm_fine-tu/)
 
 **Mixture of Scope Experts at Test: Generalizing Deeper Graph Neural Networks with Shallow Variants**
 
@@ -10199,6 +10495,8 @@
 **Agint: Agentic Graph Compilation for Software Engineering Agents**
 
 - Paper: <https://arxiv.org/abs/2511.19635>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/graph_learning/agint_agentic_gr…](https://papernotes.org/NeurIPS2025/graph_learning/agint_agentic_graph_compilation_for_software_engineering_age/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/graph_learning/agint_agentic…](https://en.papernotes.org/NeurIPS2025/graph_learning/agint_agentic_graph_compilation_for_software_engineering_age/)
 
 **Solar-GECO: Perovskite Solar Cell Property Prediction with Geometric-Aware Co-Attention** · 🛠️ Workshop
 
@@ -10476,6 +10774,8 @@
 
 - Paper: <https://arxiv.org/abs/2505.17685>
 - Code: <https://github.com/MIV-XJTU/FSDrive>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/autonomous_driving/futuresightd…](https://papernotes.org/NeurIPS2025/autonomous_driving/futuresightdrive_thinking_visually_with_spatiotemporal_cot_f/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/autonomous_driving/futuresig…](https://en.papernotes.org/NeurIPS2025/autonomous_driving/futuresightdrive_thinking_visually_with_spatiotemporal_cot_f/)
 
 **Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**
 
@@ -10514,6 +10814,8 @@
 **3D-Agent:Tri-Modal Multi-Agent Collaboration for Scalable 3D Object Annotation**
 
 - Paper: <https://arxiv.org/abs/2601.04404>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/3d_vision/3d-agenttri-modal_mul…](https://papernotes.org/NeurIPS2025/3d_vision/3d-agenttri-modal_multi-agent_collaboration_for_scalable_3d_object_annotation/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/3d_vision/3d-agenttri-modal_…](https://en.papernotes.org/NeurIPS2025/3d_vision/3d-agenttri-modal_multi-agent_collaboration_for_scalable_3d_object_annotation/)
 
 **LabelAny3D: Label Any Object 3D in the Wild**
 
@@ -10847,6 +11149,8 @@
 
 - Paper: <https://arxiv.org/abs/2502.01051>
 - Code: <https://github.com/Kwai-Kolors/LPO>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_alignment/diffusion_model_a…](https://papernotes.org/NeurIPS2025/llm_alignment/diffusion_model_as_a_noiseaware_latent_reward_model_for_step/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_alignment/diffusion_mode…](https://en.papernotes.org/NeurIPS2025/llm_alignment/diffusion_model_as_a_noiseaware_latent_reward_model_for_step/)
 
 **Towards Understanding Safety Alignment: A Mechanistic Perspective from Safety Neurons**
 
@@ -10858,6 +11162,8 @@
 **LongVPO: From Anchored Cues to Self-Reasoning for Long-Form Video Preference Optimization**
 
 - Paper: <https://arxiv.org/abs/2602.02341>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_alignment/longvpo_from_anch…](https://papernotes.org/NeurIPS2025/llm_alignment/longvpo_from_anchored_cues_to_selfreasoning_for_longform_vid/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_alignment/longvpo_from_a…](https://en.papernotes.org/NeurIPS2025/llm_alignment/longvpo_from_anchored_cues_to_selfreasoning_for_longform_vid/)
 
 **Jailbreak-Zero: A Path to Pareto Optimal Red Teaming for Large Language Models**
 
@@ -10904,6 +11210,8 @@
 **DP$^2$O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution**
 
 - Paper: <https://arxiv.org/abs/2510.18851>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_alignment/dp2o-sr_direct_pe…](https://papernotes.org/NeurIPS2025/llm_alignment/dp2o-sr_direct_perceptual_preference_optimization_for_real-world_image_super-res/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_alignment/dp2o-sr_direct…](https://en.papernotes.org/NeurIPS2025/llm_alignment/dp2o-sr_direct_perceptual_preference_optimization_for_real-world_image_super-res/)
 
 **ORPO-Distill: Mixed-Policy Preference Optimization for Cross-Architecture LLM Distillation** · 🛠️ Workshop
 
@@ -10944,10 +11252,14 @@
 **DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO**
 
 - Paper: <https://arxiv.org/abs/2506.07464>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_alignment/deepvideor1_video…](https://papernotes.org/NeurIPS2025/llm_alignment/deepvideor1_video_reinforcement_finetuning_via_difficultyawa/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_alignment/deepvideor1_vi…](https://en.papernotes.org/NeurIPS2025/llm_alignment/deepvideor1_video_reinforcement_finetuning_via_difficultyawa/)
 
 **DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2506.03517>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_alignment/densedpo_finegrai…](https://papernotes.org/NeurIPS2025/llm_alignment/densedpo_finegrained_temporal_preference_optimization_for_vi/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_alignment/densedpo_fineg…](https://en.papernotes.org/NeurIPS2025/llm_alignment/densedpo_finegrained_temporal_preference_optimization_for_vi/)
 
 **Alignment of large language models with constrained learning**
 
@@ -11112,6 +11424,8 @@
 
 - Paper: <https://arxiv.org/abs/2501.01957>
 - Code: <https://github.com/VITA-MLLM/VITA>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/audio_speech/vita-15_towards_gp…](https://papernotes.org/NeurIPS2025/audio_speech/vita-15_towards_gpt-4o_level_real-time_vision_and_speech_interaction/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/audio_speech/vita-15_towards…](https://en.papernotes.org/NeurIPS2025/audio_speech/vita-15_towards_gpt-4o_level_real-time_vision_and_speech_interaction/)
 
 **Generating Physically Sound Designs from Text and a Set of Physical Constraints**
 
@@ -11122,6 +11436,8 @@
 **Physics of Language Models: Part 4.1, Architecture Design and the Magic of Canon Layers**
 
 - Paper: <https://arxiv.org/abs/2512.17351>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/audio_speech/physics_of_languag…](https://papernotes.org/NeurIPS2025/audio_speech/physics_of_language_models_part_41_architecture_design_and_the_magic_of_canon_la/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/audio_speech/physics_of_lang…](https://en.papernotes.org/NeurIPS2025/audio_speech/physics_of_language_models_part_41_architecture_design_and_the_magic_of_canon_la/)
 
 **LUMIA: A Handheld Vision-to-Music System for Real-Time, Embodied Composition**
 
@@ -11150,6 +11466,8 @@
 **AdaptDel: Adaptable Deletion Rate Randomized Smoothing for Certified Robustness**
 
 - Paper: <https://arxiv.org/abs/2511.09316>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/audio_speech/adaptdel_adaptable…](https://papernotes.org/NeurIPS2025/audio_speech/adaptdel_adaptable_deletion_rate_randomized_smoothing_for_ce/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/audio_speech/adaptdel_adapta…](https://en.papernotes.org/NeurIPS2025/audio_speech/adaptdel_adaptable_deletion_rate_randomized_smoothing_for_ce/)
 
 **Slimmable NAM: Neural Amp Models with adjustable runtime computational cost** · 🛠️ Workshop
 
@@ -11191,6 +11509,8 @@
 **Benchmarking Egocentric Multimodal Goal Inference for Assistive Wearable Agents** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2510.22443>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/audio_speech/benchmarking_egoce…](https://papernotes.org/NeurIPS2025/audio_speech/benchmarking_egocentric_multimodal_goal_inference_for_assist/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/audio_speech/benchmarking_eg…](https://en.papernotes.org/NeurIPS2025/audio_speech/benchmarking_egocentric_multimodal_goal_inference_for_assist/)
 
 **SHAP Meets Tensor Networks: Provably Tractable Explanations with Parallelism**
 
@@ -11255,6 +11575,8 @@
 **A TRIANGLE Enables Multimodal Alignment Beyond Cosine Similarity**
 
 - Paper: <https://arxiv.org/abs/2509.24734>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/audio_speech/a_triangle_enables…](https://papernotes.org/NeurIPS2025/audio_speech/a_triangle_enables_multimodal_alignment_beyond_cosine_simila/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/audio_speech/a_triangle_enab…](https://en.papernotes.org/NeurIPS2025/audio_speech/a_triangle_enables_multimodal_alignment_beyond_cosine_simila/)
 
 **Accelerate Creation of Product Claims Using Generative AI** · 🛠️ Workshop
 
@@ -11302,10 +11624,14 @@
 **A Controllable Examination for Long-Context Language Models** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2506.02921>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/audio_speech/a_controllable_exa…](https://papernotes.org/NeurIPS2025/audio_speech/a_controllable_examination_for_longcontext_language_models/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/audio_speech/a_controllable_…](https://en.papernotes.org/NeurIPS2025/audio_speech/a_controllable_examination_for_longcontext_language_models/)
 
 **$\texttt{AVROBUSTBENCH}$: Benchmarking the Robustness of Audio-Visual Recognition Models at Test-Time**
 
 - Paper: <https://arxiv.org/abs/2506.00358>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/audio_speech/textttavrobustbenc…](https://papernotes.org/NeurIPS2025/audio_speech/textttavrobustbench_benchmarking_the_robustness_of_audio-visual_recognition_mode/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/audio_speech/textttavrobustb…](https://en.papernotes.org/NeurIPS2025/audio_speech/textttavrobustbench_benchmarking_the_robustness_of_audio-visual_recognition_mode/)
 
 **AudSemThinker: Enhancing Audio-Language Models through Reasoning over Semantics of Sound**
 
@@ -11328,6 +11654,8 @@
 **A Multi-Task Benchmark for Abusive Language Detection in Low-Resource Settings**
 
 - Paper: <https://arxiv.org/abs/2505.12116>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/audio_speech/a_multitask_benchm…](https://papernotes.org/NeurIPS2025/audio_speech/a_multitask_benchmark_for_abusive_language_detection_in_lowr/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/audio_speech/a_multitask_ben…](https://en.papernotes.org/NeurIPS2025/audio_speech/a_multitask_benchmark_for_abusive_language_detection_in_lowr/)
 
 **Seeing Sound, Hearing Sight: Uncovering Modality Bias and Conflict of AI models in Sound Localization** · ✨ Spotlight
 
@@ -11349,6 +11677,8 @@
 **Data-Juicer 2.0: Cloud-Scale Adaptive Data Processing for and with Foundation Models** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2501.14755>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/audio_speech/data-juicer_20_clo…](https://papernotes.org/NeurIPS2025/audio_speech/data-juicer_20_cloud-scale_adaptive_data_processing_for_and_with_foundation_mode/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/audio_speech/data-juicer_20_…](https://en.papernotes.org/NeurIPS2025/audio_speech/data-juicer_20_cloud-scale_adaptive_data_processing_for_and_with_foundation_mode/)
 
 **Unifying Symbolic Music Arrangement: Track-Aware Reconstruction and Structured Tokenization**
 
@@ -11704,6 +12034,8 @@
 **Retrospective In-Context Learning for Temporal Credit Assignment with Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2602.17497>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_pretraining/retrospective_i…](https://papernotes.org/NeurIPS2025/llm_pretraining/retrospective_incontext_learning_for_temporal_credit_assignm/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_pretraining/retrospectiv…](https://en.papernotes.org/NeurIPS2025/llm_pretraining/retrospective_incontext_learning_for_temporal_credit_assignm/)
 
 **An Empirical Investigation of Neural ODEs and Symbolic Regression for Dynamical Systems** · 🛠️ Workshop
 
@@ -11732,6 +12064,8 @@
 **Language Model Behavioral Phases are Consistent Across Architecture, Training Data, and Scale**
 
 - Paper: <https://arxiv.org/abs/2510.24963>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_pretraining/language_model_…](https://papernotes.org/NeurIPS2025/llm_pretraining/language_model_behavioral_phases_are_consistent_across_archi/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_pretraining/language_mod…](https://en.papernotes.org/NeurIPS2025/llm_pretraining/language_model_behavioral_phases_are_consistent_across_archi/)
 
 **Disaggregation Reveals Hidden Training Dynamics: The Case of Agreement Attraction** · 🛠️ Workshop
 
@@ -11990,21 +12324,29 @@
 
 - Paper: <https://arxiv.org/abs/2506.00641>
 - Code: <https://github.com/Astarojth/AgentAuditor>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_agent/agentauditor_humanlev…](https://papernotes.org/NeurIPS2025/llm_agent/agentauditor_humanlevel_safety_and_security_evaluation_for_l/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_agent/agentauditor_human…](https://en.papernotes.org/NeurIPS2025/llm_agent/agentauditor_humanlevel_safety_and_security_evaluation_for_l/)
 
 **Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding**
 
 - Paper: <https://arxiv.org/abs/2505.18079>
 - Code: <https://github.com/microsoft/DeepVideoDiscovery>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_agent/deep_video_discovery_…](https://papernotes.org/NeurIPS2025/llm_agent/deep_video_discovery_agentic_search_with_tool_use_for_longfo/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_agent/deep_video_discove…](https://en.papernotes.org/NeurIPS2025/llm_agent/deep_video_discovery_agentic_search_with_tool_use_for_longfo/)
 
 **Distilling LLM Agent into Small Models with Retrieval and Code Tools** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2505.17612>
 - Code: <https://github.com/Nardien/agent-distillation>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_agent/distilling_llm_agent_…](https://papernotes.org/NeurIPS2025/llm_agent/distilling_llm_agent_into_small_models_with_retrieval_and_co/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_agent/distilling_llm_age…](https://en.papernotes.org/NeurIPS2025/llm_agent/distilling_llm_agent_into_small_models_with_retrieval_and_co/)
 
 **R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization**
 
 - Paper: <https://arxiv.org/abs/2505.15155>
 - Code: <https://github.com/microsoft/RD-Agent>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_agent/rd-agent-quant_a_mult…](https://papernotes.org/NeurIPS2025/llm_agent/rd-agent-quant_a_multi-agent_framework_for_data-centric_factors_and_model_joint_/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_agent/rd-agent-quant_a_m…](https://en.papernotes.org/NeurIPS2025/llm_agent/rd-agent-quant_a_multi-agent_framework_for_data-centric_factors_and_model_joint_/)
 
 **ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions**
 
@@ -12055,6 +12397,8 @@
 **It's LIT! Reliability-Optimized LLMs with Inspectable Tools** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2511.14903>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_agent/its_lit_reliability-o…](https://papernotes.org/NeurIPS2025/llm_agent/its_lit_reliability-optimized_llms_with_inspectable_tools/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_agent/its_lit_reliabilit…](https://en.papernotes.org/NeurIPS2025/llm_agent/its_lit_reliability-optimized_llms_with_inspectable_tools/)
 
 **Enhancing Demand-Oriented Regionalization with Agentic AI and Local Heterogeneous Data for Adaptation Planning** · 🛠️ Workshop
 
@@ -12149,10 +12493,14 @@
 **BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent**
 
 - Paper: <https://arxiv.org/abs/2509.15566>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_agent/btlui_blinkthinklink_…](https://papernotes.org/NeurIPS2025/llm_agent/btlui_blinkthinklink_reasoning_model_for_gui_agent/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_agent/btlui_blinkthinkli…](https://en.papernotes.org/NeurIPS2025/llm_agent/btlui_blinkthinklink_reasoning_model_for_gui_agent/)
 
 **AgentTTS: Large Language Model Agent for Test-time Compute-optimal Scaling Strategy in Complex Tasks**
 
 - Paper: <https://arxiv.org/abs/2508.00890>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_agent/agenttts_large_langua…](https://papernotes.org/NeurIPS2025/llm_agent/agenttts_large_language_model_agent_for_testtime_computeopti/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_agent/agenttts_large_lan…](https://en.papernotes.org/NeurIPS2025/llm_agent/agenttts_large_language_model_agent_for_testtime_computeopti/)
 
 **Ground-Compose-Reinforce: Grounding Language in Agentic Behaviours using Limited Data**
 
@@ -12199,6 +12547,8 @@
 **Group-in-Group Policy Optimization for LLM Agent Training**
 
 - Paper: <https://arxiv.org/abs/2505.10978>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_agent/groupingroup_policy_o…](https://papernotes.org/NeurIPS2025/llm_agent/groupingroup_policy_optimization_for_llm_agent_training/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_agent/groupingroup_polic…](https://en.papernotes.org/NeurIPS2025/llm_agent/groupingroup_policy_optimization_for_llm_agent_training/)
 
 **MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?**
 
@@ -12466,6 +12816,8 @@
 **Don't be lazy: CompleteP enables compute-efficient deep transformers**
 
 - Paper: <https://arxiv.org/abs/2505.01618>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_nlp/dont_be_lazy_completep_…](https://papernotes.org/NeurIPS2025/llm_nlp/dont_be_lazy_completep_enables_compute-efficient_deep_transformers/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_nlp/dont_be_lazy_complet…](https://en.papernotes.org/NeurIPS2025/llm_nlp/dont_be_lazy_completep_enables_compute-efficient_deep_transformers/)
 
 **CAT: Circular-Convolutional Attention for Sub-Quadratic Transformers** · 📌 Poster
 
@@ -12537,6 +12889,8 @@
 **Mozart: Modularized and Efficient MoE Training on 3.5D Wafer-Scale Chiplet Architectures** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2603.07006>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_efficiency/mozart_modulariz…](https://papernotes.org/NeurIPS2025/llm_efficiency/mozart_modularized_and_efficient_moe_training_on_35d_wafer-scale_chiplet_archite/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_efficiency/mozart_modula…](https://en.papernotes.org/NeurIPS2025/llm_efficiency/mozart_modularized_and_efficient_moe_training_on_35d_wafer-scale_chiplet_archite/)
 
 **ZeroS: Zero-Sum Linear Attention for Efficient Transformers**
 
@@ -12578,6 +12932,7 @@
 
 - Paper: <https://arxiv.org/abs/2510.12966>
 - Notes (Chinese): [papernotes.org/NeurIPS2025/llm_efficiency/3model_speculati…](https://papernotes.org/NeurIPS2025/llm_efficiency/3model_speculative_decoding/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_efficiency/3model_specul…](https://en.papernotes.org/NeurIPS2025/llm_efficiency/3model_speculative_decoding/)
 
 **Silent Tokens, Loud Effects: Padding in LLMs** · 🛠️ Workshop
 
@@ -12606,6 +12961,8 @@
 **A unified framework for establishing the universal approximation of transformer-type architectures**
 
 - Paper: <https://arxiv.org/abs/2506.23551>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_efficiency/a_unified_framew…](https://papernotes.org/NeurIPS2025/llm_efficiency/a_unified_framework_for_establishing_the_universal_approxima/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_efficiency/a_unified_fra…](https://en.papernotes.org/NeurIPS2025/llm_efficiency/a_unified_framework_for_establishing_the_universal_approxima/)
 
 **Constant Bit-size Transformers Are Turing Complete**
 
@@ -12640,6 +12997,8 @@
 **MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2505.19645>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/llm_efficiency/moesd_unveil_spe…](https://papernotes.org/NeurIPS2025/llm_efficiency/moesd_unveil_speculative_decodings_potential_for_accelerating_sparse_moe/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/llm_efficiency/moesd_unveil_…](https://en.papernotes.org/NeurIPS2025/llm_efficiency/moesd_unveil_speculative_decodings_potential_for_accelerating_sparse_moe/)
 
 **The emergence of sparse attention: impact of data distribution and benefits of repetition**
 
@@ -12747,6 +13106,8 @@
 **RMIT-ADM+S at the MMU-RAG NeurIPS 2025 Competition**
 
 - Paper: <https://arxiv.org/abs/2602.20735>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/information_retrieval/rmit-adms…](https://papernotes.org/NeurIPS2025/information_retrieval/rmit-adms_at_the_mmu-rag_neurips_2025_competition/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/information_retrieval/rmit-a…](https://en.papernotes.org/NeurIPS2025/information_retrieval/rmit-adms_at_the_mmu-rag_neurips_2025_competition/)
 
 **DICE: Discrete Interpretable Comparative Evaluation with Probabilistic Scoring for Retrieval-Augmented Generation**
 
@@ -12818,6 +13179,8 @@
 **Generalized Contrastive Learning for Universal Multimodal Retrieval**
 
 - Paper: <https://arxiv.org/abs/2509.25638>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/information_retrieval/generaliz…](https://papernotes.org/NeurIPS2025/information_retrieval/generalized_contrastive_learning_for_universal_multimodal_re/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/information_retrieval/genera…](https://en.papernotes.org/NeurIPS2025/information_retrieval/generalized_contrastive_learning_for_universal_multimodal_re/)
 
 **Hierarchical Retrieval: The Geometry and a Pretrain-Finetune Recipe**
 
@@ -12828,6 +13191,8 @@
 **The Transparent Earth: A Multimodal Foundation Model for the Earth's Subsurface** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2509.02783>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/information_retrieval/the_trans…](https://papernotes.org/NeurIPS2025/information_retrieval/the_transparent_earth_a_multimodal_foundation_model_for_the_earths_subsurface/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/information_retrieval/the_tr…](https://en.papernotes.org/NeurIPS2025/information_retrieval/the_transparent_earth_a_multimodal_foundation_model_for_the_earths_subsurface/)
 
 **MuRating: A High Quality Data Selecting Approach to Multilingual Large Language Model Pretraining** · 📌 Poster
 
@@ -12858,6 +13223,8 @@
 
 - Paper: <https://arxiv.org/abs/2505.16470>
 - Project: <https://mmdocrag.github.io/MMDocRAG/>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/information_retrieval/benchmark…](https://papernotes.org/NeurIPS2025/information_retrieval/benchmarking_retrievalaugmented_multimodal_generation_for_do/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/information_retrieval/benchm…](https://en.papernotes.org/NeurIPS2025/information_retrieval/benchmarking_retrievalaugmented_multimodal_generation_for_do/)
 
 **Is PRM Necessary? Problem-Solving RL Implicitly Induces PRM Capability in LLMs**
 
@@ -12898,6 +13265,8 @@
 **The Narrow Gate: Localized Image-Text Communication in Native Multimodal Models**
 
 - Paper: <https://arxiv.org/abs/2412.06646>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/information_retrieval/the_narro…](https://papernotes.org/NeurIPS2025/information_retrieval/the_narrow_gate_localized_imagetext_communication_in_native/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/information_retrieval/the_na…](https://en.papernotes.org/NeurIPS2025/information_retrieval/the_narrow_gate_localized_imagetext_communication_in_native/)
 
 **Reliable Decision Making via Calibration Oriented Retrieval Augmented Generation**
 
@@ -12992,6 +13361,8 @@
 **Connecting Jensen-Shannon and Kullback-Leibler Divergences: A New Bound for Representation Learning**
 
 - Paper: <https://arxiv.org/abs/2510.20644>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/self_supervised/connecting_jens…](https://papernotes.org/NeurIPS2025/self_supervised/connecting_jensenshannon_and_kullbackleibler_divergences_a_n/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/self_supervised/connecting_j…](https://en.papernotes.org/NeurIPS2025/self_supervised/connecting_jensenshannon_and_kullbackleibler_divergences_a_n/)
 
 **SEAL: Semantic-Aware Hierarchical Learning for Generalized Category Discovery**
 
@@ -13339,6 +13710,8 @@
 **MMPB: It's Time for Multi-Modal Personalization**
 
 - Paper: <https://arxiv.org/abs/2509.22820>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/recommender/mmpb_its_time_for_m…](https://papernotes.org/NeurIPS2025/recommender/mmpb_its_time_for_multi-modal_personalization/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/recommender/mmpb_its_time_fo…](https://en.papernotes.org/NeurIPS2025/recommender/mmpb_its_time_for_multi-modal_personalization/)
 
 **The More You Automate, the Less You See: Hidden Pitfalls of AI Scientist Systems** · ✨ Spotlight
 
@@ -13552,6 +13925,8 @@
 **A Regularized Newton Method for Nonconvex Optimization with Global and Local Complexity Guarantees**
 
 - Paper: <https://arxiv.org/abs/2502.04799>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/scientific_computing/a_regulari…](https://papernotes.org/NeurIPS2025/scientific_computing/a_regularized_newton_method_for_nonconvex_optimization_with/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/scientific_computing/a_regul…](https://en.papernotes.org/NeurIPS2025/scientific_computing/a_regularized_newton_method_for_nonconvex_optimization_with/)
 
 **DeltaPhi: Physical States Residual Learning for Neural Operators in Data-Limited PDE Solving**
 
@@ -13698,6 +14073,8 @@
 **A Self-Improving Coding Agent**
 
 - Paper: <https://arxiv.org/abs/2504.15228>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/code_intelligence/a_selfimprovi…](https://papernotes.org/NeurIPS2025/code_intelligence/a_selfimproving_coding_agent/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/code_intelligence/a_selfimpr…](https://en.papernotes.org/NeurIPS2025/code_intelligence/a_selfimproving_coding_agent/)
 
 **Searching Latent Program Spaces** · ✨ Spotlight
 
@@ -13724,6 +14101,8 @@
 
 - Paper: <https://arxiv.org/abs/2508.04016>
 - Code: <https://github.com/wlfeng0509/s2q-vdit>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/video_generation/s2q-vdit_accur…](https://papernotes.org/NeurIPS2025/video_generation/s2q-vdit_accurate_quantized_video_diffusion_transformer_with_salient_data_and_sp/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/video_generation/s2q-vdit_ac…](https://en.papernotes.org/NeurIPS2025/video_generation/s2q-vdit_accurate_quantized_video_diffusion_transformer_with_salient_data_and_sp/)
 
 **VORTA: Efficient Video Diffusion via Routing Sparse Attention**
 
@@ -13750,6 +14129,8 @@
 
 - Paper: <https://arxiv.org/abs/2505.12667>
 - Code: <https://github.com/Sugewud/Safe-Sora>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/video_generation/safesora_safe_…](https://papernotes.org/NeurIPS2025/video_generation/safesora_safe_texttovideo_generation_via_graphical_watermark/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/video_generation/safesora_sa…](https://en.papernotes.org/NeurIPS2025/video_generation/safesora_safe_texttovideo_generation_via_graphical_watermark/)
 
 **Video Diffusion Models Excel at Tracking Similar-Looking Objects Without Supervision**
 
@@ -13768,6 +14149,8 @@
 
 - Paper: <https://arxiv.org/abs/2511.23428>
 - Project: <https://compvis.github.io/DisMo>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/video_generation/dismo_disentan…](https://papernotes.org/NeurIPS2025/video_generation/dismo_disentangled_motion_representations_for_openworld_moti/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/video_generation/dismo_disen…](https://en.papernotes.org/NeurIPS2025/video_generation/dismo_disentangled_motion_representations_for_openworld_moti/)
 
 **PoseCrafter: Extreme Pose Estimation with Hybrid Video Synthesis**
 
@@ -13785,6 +14168,8 @@
 
 - Paper: <https://arxiv.org/abs/2509.20358>
 - Project: <https://cwchenwang.github.io/physctrl>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/video_generation/physctrl_gener…](https://papernotes.org/NeurIPS2025/video_generation/physctrl_generative_physics_for_controllable_and_physicsgrou/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/video_generation/physctrl_ge…](https://en.papernotes.org/NeurIPS2025/video_generation/physctrl_generative_physics_for_controllable_and_physicsgrou/)
 
 **Video Killed the Energy Budget: Characterizing the Latency and Power Regimes of Open Text-to-Video Models** · 🎤 Oral · 🛠️ Workshop
 
@@ -13807,14 +14192,20 @@
 **Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**
 
 - Paper: <https://arxiv.org/abs/2506.19852>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/video_generation/radial_attenti…](https://papernotes.org/NeurIPS2025/video_generation/radial_attention_onlog_n_sparse_attention_with_energy_decay_for_long_video_gener/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/video_generation/radial_atte…](https://en.papernotes.org/NeurIPS2025/video_generation/radial_attention_onlog_n_sparse_attention_with_energy_decay_for_long_video_gener/)
 
 **Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation**
 
 - Paper: <https://arxiv.org/abs/2506.09350>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/video_generation/autoregressive…](https://papernotes.org/NeurIPS2025/video_generation/autoregressive_adversarial_posttraining_for_realtime_interac/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/video_generation/autoregress…](https://en.papernotes.org/NeurIPS2025/video_generation/autoregressive_adversarial_posttraining_for_realtime_interac/)
 
 **MagCache: Fast Video Generation with Magnitude-Aware Cache**
 
 - Paper: <https://arxiv.org/abs/2506.09045>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/video_generation/magcache_fast_…](https://papernotes.org/NeurIPS2025/video_generation/magcache_fast_video_generation_with_magnitudeaware_cache/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/video_generation/magcache_fa…](https://en.papernotes.org/NeurIPS2025/video_generation/magcache_fast_video_generation_with_magnitudeaware_cache/)
 
 **Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion** · ✨ Spotlight
 
@@ -13827,6 +14218,7 @@
 
 - Paper: <https://arxiv.org/abs/2506.00329>
 - Notes (Chinese): [papernotes.org/NeurIPS2025/video_generation/foresight_adap…](https://papernotes.org/NeurIPS2025/video_generation/foresight_adaptive_layer_reuse_for_accelerated_and_highquali/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/video_generation/foresight_a…](https://en.papernotes.org/NeurIPS2025/video_generation/foresight_adaptive_layer_reuse_for_accelerated_and_highquali/)
 
 **Photography Perspective Composition: Towards Aesthetic Perspective Recommendation**
 
@@ -13936,6 +14328,8 @@
 **It's Hard to Be Normal: The Impact of Noise on Structure-agnostic Estimation**
 
 - Paper: <https://arxiv.org/abs/2507.02275>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/causal_inference/its_hard_to_be…](https://papernotes.org/NeurIPS2025/causal_inference/its_hard_to_be_normal_the_impact_of_noise_on_structure-agnostic_estimation/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/causal_inference/its_hard_to…](https://en.papernotes.org/NeurIPS2025/causal_inference/its_hard_to_be_normal_the_impact_of_noise_on_structure-agnostic_estimation/)
 
 **Performative Validity of Recourse Explanations**
 
@@ -14141,6 +14535,8 @@
 **Don't Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation**
 
 - Paper: <https://arxiv.org/abs/2510.26200>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/social_computing/dont_let_it_fa…](https://papernotes.org/NeurIPS2025/social_computing/dont_let_it_fade_preserving_edits_in_diffusion_language_mode/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/social_computing/dont_let_it…](https://en.papernotes.org/NeurIPS2025/social_computing/dont_let_it_fade_preserving_edits_in_diffusion_language_mode/)
 
 **Policy-as-Prompt: Turning AI Governance Rules into Guardrails for AI Agents** · 🛠️ Workshop
 
@@ -14187,6 +14583,8 @@
 **Any Large Language Model Can Be a Reliable Judge: Debiasing with a Reasoning-based Bias Detector**
 
 - Paper: <https://arxiv.org/abs/2505.17100>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/social_computing/any_large_lang…](https://papernotes.org/NeurIPS2025/social_computing/any_large_language_model_can_be_a_reliable_judge_debiasing_w/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/social_computing/any_large_l…](https://en.papernotes.org/NeurIPS2025/social_computing/any_large_language_model_can_be_a_reliable_judge_debiasing_w/)
 
 **Concept-Level Explainability for Auditing & Steering LLM Responses**
 
@@ -14250,6 +14648,8 @@
 **BEDLAM2.0: Synthetic Humans and Cameras in Motion** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2511.14394>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/human_understanding/bedlam20_sy…](https://papernotes.org/NeurIPS2025/human_understanding/bedlam20_synthetic_humans_and_cameras_in_motion/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/human_understanding/bedlam20…](https://en.papernotes.org/NeurIPS2025/human_understanding/bedlam20_synthetic_humans_and_cameras_in_motion/)
 
 **Part-Aware Bottom-Up Group Reasoning for Fine-Grained Social Interaction Detection**
 
@@ -14351,6 +14751,8 @@
 
 - Paper: <https://arxiv.org/abs/2509.16691>
 - Code: <https://github.com/FireRedTeam/InstanceAssemble>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/object_detection/instanceassemb…](https://papernotes.org/NeurIPS2025/object_detection/instanceassemble_layoutaware_image_generation_via_instance_a/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/object_detection/instanceass…](https://en.papernotes.org/NeurIPS2025/object_detection/instanceassemble_layoutaware_image_generation_via_instance_a/)
 
 **MSTAR: Box-free Multi-query Scene Text Retrieval with Attention Recycling**
 
@@ -14413,6 +14815,8 @@
 
 - Paper: <https://arxiv.org/abs/2503.09271>
 - Project: <https://aimagelab.github.io/DitHub/>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/object_detection/dithub_a_modul…](https://papernotes.org/NeurIPS2025/object_detection/dithub_a_modular_framework_for_incremental_openvocabulary_ob/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/object_detection/dithub_a_mo…](https://en.papernotes.org/NeurIPS2025/object_detection/dithub_a_modular_framework_for_incremental_openvocabulary_ob/)
 
 **FlexEvent: Towards Flexible Event-Frame Object Detection at Varying Operational Frequencies**
 
@@ -14635,6 +15039,8 @@
 
 - Paper: <https://arxiv.org/abs/2503.19331>
 - Code: <https://github.com/chaudatascience/cha_mae_vit>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/remote_sensing/chamaevit_unifyi…](https://papernotes.org/NeurIPS2025/remote_sensing/chamaevit_unifying_channelaware_masked_autoencoders_and_mult/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/remote_sensing/chamaevit_uni…](https://en.papernotes.org/NeurIPS2025/remote_sensing/chamaevit_unifying_channelaware_masked_autoencoders_and_mult/)
 
 **EcoCast: A Spatio-Temporal Model for Continual Biodiversity and Climate Risk Forecasting** · 🛠️ Workshop
 
@@ -14820,6 +15226,8 @@
 **AC-LoRA: (Almost) Training-Free Access Control-Aware Multi-Modal LLMs**
 
 - Paper: <https://arxiv.org/abs/2505.11557>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/dialogue/aclora_almost_training…](https://papernotes.org/NeurIPS2025/dialogue/aclora_almost_trainingfree_access_controlaware_multimodal_ll/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/dialogue/aclora_almost_train…](https://en.papernotes.org/NeurIPS2025/dialogue/aclora_almost_trainingfree_access_controlaware_multimodal_ll/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -14852,6 +15260,8 @@
 **A Probabilistic U-Net Approach to Downscaling Climate Simulations**
 
 - Paper: <https://arxiv.org/abs/2511.03197>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/earth_science/a_probabilistic_u…](https://papernotes.org/NeurIPS2025/earth_science/a_probabilistic_unet_approach_to_downscaling_climate_simulat/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/earth_science/a_probabilisti…](https://en.papernotes.org/NeurIPS2025/earth_science/a_probabilistic_unet_approach_to_downscaling_climate_simulat/)
 
 **Adaptive Online Emulation for Accelerating Complex Physical Simulations** · 🛠️ Workshop
 
@@ -14926,6 +15336,8 @@
 
 - Paper: <https://arxiv.org/abs/2510.20414>
 - Code: <https://github.com/undes1red/IFNMTPP>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/others/addressing_mark_imbalanc…](https://papernotes.org/NeurIPS2025/others/addressing_mark_imbalance_in_integrationfree_neural_marked_t/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/others/addressing_mark_imbal…](https://en.papernotes.org/NeurIPS2025/others/addressing_mark_imbalance_in_integrationfree_neural_marked_t/)
 
 **Reliable Active Learning from Unreliable Labels via Neural Collapse Geometry** · 🛠️ Workshop
 
@@ -14938,6 +15350,8 @@
 
 - Paper: <https://arxiv.org/abs/2506.22565>
 - Code: <https://github.com/facebookresearch/adjoint_samplers>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/others/adjoint_schrödinger_brid…](https://papernotes.org/NeurIPS2025/others/adjoint_schrödinger_bridge_sampler/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/others/adjoint_schrödinger_b…](https://en.papernotes.org/NeurIPS2025/others/adjoint_schrödinger_bridge_sampler/)
 
 **Semi-supervised Graph Anomaly Detection via Robust Homophily Learning**
 
@@ -14957,6 +15371,8 @@
 
 - Paper: <https://arxiv.org/abs/2505.11197>
 - Code: <https://github.com/zhenyiizhang/CytoBridge-NeurIPS>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/others/modeling_cell_dynamics_a…](https://papernotes.org/NeurIPS2025/others/modeling_cell_dynamics_and_interactions_with_unbalanced_mean_field_schrödinger_b/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/others/modeling_cell_dynamic…](https://en.papernotes.org/NeurIPS2025/others/modeling_cell_dynamics_and_interactions_with_unbalanced_mean_field_schrödinger_b/)
 
 **Learning Dense Hand Contact Estimation from Imbalanced Data**
 
@@ -15002,6 +15418,8 @@
 **A Sustainable AI Economy Needs Data Deals That Work for Generators** · 📌 Poster
 
 - Paper: <https://arxiv.org/abs/2601.09966>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/others/a_sustainable_ai_economy…](https://papernotes.org/NeurIPS2025/others/a_sustainable_ai_economy_needs_data_deals_that_work_for_gene/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/others/a_sustainable_ai_econ…](https://en.papernotes.org/NeurIPS2025/others/a_sustainable_ai_economy_needs_data_deals_that_work_for_gene/)
 
 **Neural Network for Simulating Radio Emission from Extensive Air Showers**
 
@@ -15454,6 +15872,8 @@
 
 - Paper: <https://arxiv.org/abs/2506.08015>
 - Project: <https://4dgt.github.io>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/others/4dgt_learning_a_4d_gauss…](https://papernotes.org/NeurIPS2025/others/4dgt_learning_a_4d_gaussian_transformer_using_realworld_mono/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/others/4dgt_learning_a_4d_ga…](https://en.papernotes.org/NeurIPS2025/others/4dgt_learning_a_4d_gaussian_transformer_using_realworld_mono/)
 
 **Neural Collapse in Cumulative Link Models for Ordinal Regression: An Analysis with Unconstrained Feature Model**
 
@@ -15536,6 +15956,8 @@
 **A Unified Framework for Variable Selection in Model-Based Clustering with Missing Not at Random**
 
 - Paper: <https://arxiv.org/abs/2505.19093>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/others/a_unified_framework_for_…](https://papernotes.org/NeurIPS2025/others/a_unified_framework_for_variable_selection_in_modelbased_clu/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/others/a_unified_framework_f…](https://en.papernotes.org/NeurIPS2025/others/a_unified_framework_for_variable_selection_in_modelbased_clu/)
 
 **Faithful Group Shapley Value**
 
@@ -15564,6 +15986,8 @@
 **Learning non-equilibrium diffusions with Schrödinger bridges: from exactly solvable to simulation-free**
 
 - Paper: <https://arxiv.org/abs/2505.16644>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/others/learning_non-equilibrium…](https://papernotes.org/NeurIPS2025/others/learning_non-equilibrium_diffusions_with_schrödinger_bridges_from_exactly_solvab/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/others/learning_non-equilibr…](https://en.papernotes.org/NeurIPS2025/others/learning_non-equilibrium_diffusions_with_schrödinger_bridges_from_exactly_solvab/)
 
 **Deep Learning for Continuous-Time Stochastic Control with Jumps**
 
@@ -15581,6 +16005,7 @@
 
 - Paper: <https://arxiv.org/abs/2505.14996>
 - Notes (Chinese): [papernotes.org/NeurIPS2025/others/maszero_designing_multia…](https://papernotes.org/NeurIPS2025/others/maszero_designing_multiagent_systems_with_zero_supervision/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/others/maszero_designing_mul…](https://en.papernotes.org/NeurIPS2025/others/maszero_designing_multiagent_systems_with_zero_supervision/)
 
 **Learning (Approximately) Equivariant Networks via Constrained Optimization** · 🎤 Oral
 
@@ -15603,6 +16028,8 @@
 **A Generalized Label Shift Perspective for Cross-Domain Gaze Estimation**
 
 - Paper: <https://arxiv.org/abs/2505.13043>
+- Notes (Chinese): [papernotes.org/NeurIPS2025/others/a_generalized_label_shif…](https://papernotes.org/NeurIPS2025/others/a_generalized_label_shift_perspective_for_crossdomain_gaze_e/)
+- Notes (English): [en.papernotes.org/NeurIPS2025/others/a_generalized_label_s…](https://en.papernotes.org/NeurIPS2025/others/a_generalized_label_shift_perspective_for_crossdomain_gaze_e/)
 
 **Plasticity as the Mirror of Empowerment**
 

@@ -277,6 +277,8 @@
 **Don&#39;t Act Blindly: Robust GUI Automation via Action-Effect Verification and Self-Correction**
 
 - Paper: <https://arxiv.org/abs/2604.05477>
+- Notes (Chinese): [papernotes.org/ACL2026/multimodal_vlm/don39t_act_blindly_r…](https://papernotes.org/ACL2026/multimodal_vlm/don39t_act_blindly_robust_gui_automation_via_action-effect_verification_and_self/)
+- Notes (English): [en.papernotes.org/ACL2026/multimodal_vlm/don39t_act_blindl…](https://en.papernotes.org/ACL2026/multimodal_vlm/don39t_act_blindly_robust_gui_automation_via_action-effect_verification_and_self/)
 
 **Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning**
 
@@ -342,6 +344,8 @@
 **When Slower Isn&#39;t Truer: Inverse Scaling Law of Truthfulness in Multimodal Reasoning**
 
 - Paper: <https://arxiv.org/abs/2505.20214>
+- Notes (Chinese): [papernotes.org/ACL2026/multimodal_vlm/when_slower_isn39t_t…](https://papernotes.org/ACL2026/multimodal_vlm/when_slower_isn39t_truer_inverse_scaling_law_of_truthfulness_in_multimodal_reaso/)
+- Notes (English): [en.papernotes.org/ACL2026/multimodal_vlm/when_slower_isn39…](https://en.papernotes.org/ACL2026/multimodal_vlm/when_slower_isn39t_truer_inverse_scaling_law_of_truthfulness_in_multimodal_reaso/)
 
 **Position: Multimodal Large Language Models Can Significantly Advance Scientific Reasoning** · 📖 Findings
 
@@ -620,6 +624,8 @@
 **It&#39;s High Time: A Survey of Temporal Question Answering**
 
 - Paper: <https://arxiv.org/abs/2505.20243>
+- Notes (Chinese): [papernotes.org/ACL2026/llm_nlp/it39s_high_time_a_survey_of…](https://papernotes.org/ACL2026/llm_nlp/it39s_high_time_a_survey_of_temporal_question_answering/)
+- Notes (English): [en.papernotes.org/ACL2026/llm_nlp/it39s_high_time_a_survey…](https://en.papernotes.org/ACL2026/llm_nlp/it39s_high_time_a_survey_of_temporal_question_answering/)
 
 **CRAFT: Training-Free Cascaded Retrieval for Tabular QA**
 
@@ -825,6 +831,8 @@
 
 - Paper: <https://arxiv.org/abs/2604.10923>
 - Project: <https://buaa-irip-llm.github.io/Mem2Evolve>
+- Notes (Chinese): [papernotes.org/ACL2026/model_compression/mem2evolve_toward…](https://papernotes.org/ACL2026/model_compression/mem2evolve_towards_self-evolving_agents_via_co-evolutionary_capability_expansion/)
+- Notes (English): [en.papernotes.org/ACL2026/model_compression/mem2evolve_tow…](https://en.papernotes.org/ACL2026/model_compression/mem2evolve_towards_self-evolving_agents_via_co-evolutionary_capability_expansion/)
 
 **Reason Only When Needed: Efficient Generative Reward Modeling via Model-Internal Uncertainty** · 📖 Findings
 
@@ -989,6 +997,8 @@
 
 - Paper: <https://arxiv.org/abs/2604.05995>
 - Code: <https://github.com/XiaojieGu/SA-MCQ>
+- Notes (Chinese): [papernotes.org/ACL2026/llm_nlp/the_model_agreed_but_didn39…](https://papernotes.org/ACL2026/llm_nlp/the_model_agreed_but_didn39t_learn_diagnosing_surface_compliance_in_large_langua/)
+- Notes (English): [en.papernotes.org/ACL2026/llm_nlp/the_model_agreed_but_did…](https://en.papernotes.org/ACL2026/llm_nlp/the_model_agreed_but_didn39t_learn_diagnosing_surface_compliance_in_large_langua/)
 
 **Dr. Assistant: Enhancing Clinical Diagnostic Inquiry via Structured Diagnostic Reasoning Data and Reinforcement Learning** · 📖 Findings
 
@@ -1104,6 +1114,8 @@
 **&#34;Excuse me, may I say something...&#34; CoLabScience, A Proactive AI Assistant for Biomedical Discovery and LLM-Expert Collaborations**
 
 - Paper: <https://arxiv.org/abs/2604.15588>
+- Notes (Chinese): [papernotes.org/ACL2026/medical_imaging/34excuse_me_may_i_s…](https://papernotes.org/ACL2026/medical_imaging/34excuse_me_may_i_say_something34_colabscience_a_proactive_ai_assistant_for_biom/)
+- Notes (English): [en.papernotes.org/ACL2026/medical_imaging/34excuse_me_may_…](https://en.papernotes.org/ACL2026/medical_imaging/34excuse_me_may_i_say_something34_colabscience_a_proactive_ai_assistant_for_biom/)
 
 **MADE: A Living Benchmark for Multi-Label Text Classification with Uncertainty Quantification of Medical Device Adverse Events**
 
@@ -1144,6 +1156,8 @@
 **Tree-of-Evidence: Efficient &#34;System 2&#34; Search for Faithful Multimodal Grounding** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2604.07692>
+- Notes (Chinese): [papernotes.org/ACL2026/multimodal_vlm/tree-of-evidence_eff…](https://papernotes.org/ACL2026/multimodal_vlm/tree-of-evidence_efficient_34system_234_search_for_faithful_multimodal_grounding/)
+- Notes (English): [en.papernotes.org/ACL2026/multimodal_vlm/tree-of-evidence_…](https://en.papernotes.org/ACL2026/multimodal_vlm/tree-of-evidence_efficient_34system_234_search_for_faithful_multimodal_grounding/)
 
 **Efficient and Effective Internal Memory Retrieval for LLM-Based Healthcare Prediction** · 📖 Findings
 
@@ -1638,6 +1652,8 @@
 **Min-$k$ Sampling: Decoupling Truncation from Temperature Scaling via Relative Logit Dynamics**
 
 - Paper: <https://arxiv.org/abs/2604.11012>
+- Notes (Chinese): [papernotes.org/ACL2026/llm_evaluation/min-k_sampling_decou…](https://papernotes.org/ACL2026/llm_evaluation/min-k_sampling_decoupling_truncation_from_temperature_scaling_via_relative_logit/)
+- Notes (English): [en.papernotes.org/ACL2026/llm_evaluation/min-k_sampling_de…](https://en.papernotes.org/ACL2026/llm_evaluation/min-k_sampling_decoupling_truncation_from_temperature_scaling_via_relative_logit/)
 
 **ODUTQA-MDC: A Task for Open-Domain Underspecified Tabular QA with Multi-turn Dialogue-based Clarification**
 
@@ -1732,6 +1748,8 @@
 **RoleConflictBench: A Benchmark of Role Conflict Scenarios for Evaluating LLMs&#39; Contextual Sensitivity** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2509.25897>
+- Notes (Chinese): [papernotes.org/ACL2026/llm_evaluation/roleconflictbench_a_…](https://papernotes.org/ACL2026/llm_evaluation/roleconflictbench_a_benchmark_of_role_conflict_scenarios_for_evaluating_llms39_c/)
+- Notes (English): [en.papernotes.org/ACL2026/llm_evaluation/roleconflictbench…](https://en.papernotes.org/ACL2026/llm_evaluation/roleconflictbench_a_benchmark_of_role_conflict_scenarios_for_evaluating_llms39_c/)
 
 **Attribution, Citation, and Quotation: A Survey of Evidence-based Text Generation with Large Language Models**
 
@@ -1874,6 +1892,8 @@
 
 - Paper: <https://arxiv.org/abs/2510.07248>
 - Code: <https://github.com/holi-lab/PA-Tool>
+- Notes (Chinese): [papernotes.org/ACL2026/llm_nlp/don39t_adapt_small_language…](https://papernotes.org/ACL2026/llm_nlp/don39t_adapt_small_language_models_for_tools_adapt_tool_schemas_to_the_models/)
+- Notes (English): [en.papernotes.org/ACL2026/llm_nlp/don39t_adapt_small_langu…](https://en.papernotes.org/ACL2026/llm_nlp/don39t_adapt_small_language_models_for_tools_adapt_tool_schemas_to_the_models/)
 
 **SecureVibeBench: Evaluating Secure Coding Capabilities of Code Agents with Realistic Vulnerability Scenarios**
 
@@ -2075,6 +2095,8 @@
 **When Bigger Isn&#39;t Better: A Comprehensive Fairness Evaluation of Political Bias in Multi-News Summarisation**
 
 - Paper: <https://arxiv.org/abs/2604.21309>
+- Notes (Chinese): [papernotes.org/ACL2026/ai_safety/when_bigger_isn39t_better…](https://papernotes.org/ACL2026/ai_safety/when_bigger_isn39t_better_a_comprehensive_fairness_evaluation_of_political_bias_/)
+- Notes (English): [en.papernotes.org/ACL2026/ai_safety/when_bigger_isn39t_bet…](https://en.papernotes.org/ACL2026/ai_safety/when_bigger_isn39t_better_a_comprehensive_fairness_evaluation_of_political_bias_/)
 
 **CI-Work: Benchmarking Contextual Integrity in Enterprise LLM Agents** · 🏭 Industry
 
@@ -2277,6 +2299,8 @@
 **A Computational Method for Measuring &#34;Open Codes&#34; in Qualitative Analysis** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2411.12142>
+- Notes (Chinese): [papernotes.org/ACL2026/model_compression/a_computational_m…](https://papernotes.org/ACL2026/model_compression/a_computational_method_for_measuring_34open_codes34_in_qualitative_analysis/)
+- Notes (English): [en.papernotes.org/ACL2026/model_compression/a_computationa…](https://en.papernotes.org/ACL2026/model_compression/a_computational_method_for_measuring_34open_codes34_in_qualitative_analysis/)
 
 **Topic-Based Watermarks for Large Language Models** · 📖 Findings
 
@@ -2530,6 +2554,8 @@
 
 - Paper: <https://arxiv.org/abs/2604.16042>
 - Code: <https://github.com/PKU-PILLAR-Group/Survey-Intrinsic-Interpretability-of-LLMs>
+- Notes (Chinese): [papernotes.org/ACL2026/interpretability/towards_intrinsic_…](https://papernotes.org/ACL2026/interpretability/towards_intrinsic_interpretability_of_large_language_modelsa_survey_of_design_pr/)
+- Notes (English): [en.papernotes.org/ACL2026/interpretability/towards_intrins…](https://en.papernotes.org/ACL2026/interpretability/towards_intrinsic_interpretability_of_large_language_modelsa_survey_of_design_pr/)
 
 **IDEA: An Interpretable and Editable Decision-Making Framework for LLMs via Verbal-to-Numeric Calibration**
 
@@ -2633,10 +2659,14 @@
 **CoSToM:Causal-oriented Steering for Intrinsic Theory-of-Mind Alignment in Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2604.10031>
+- Notes (Chinese): [papernotes.org/ACL2026/llm_nlp/costomcausal-oriented_steer…](https://papernotes.org/ACL2026/llm_nlp/costomcausal-oriented_steering_for_intrinsic_theory-of-mind_alignment_in_large_l/)
+- Notes (English): [en.papernotes.org/ACL2026/llm_nlp/costomcausal-oriented_st…](https://en.papernotes.org/ACL2026/llm_nlp/costomcausal-oriented_steering_for_intrinsic_theory-of-mind_alignment_in_large_l/)
 
 **What&#39;s Missing in Screen-to-Action? Towards a UI-in-the-Loop Paradigm for Multimodal GUI Reasoning** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2604.06995>
+- Notes (Chinese): [papernotes.org/ACL2026/multimodal_vlm/what39s_missing_in_s…](https://papernotes.org/ACL2026/multimodal_vlm/what39s_missing_in_screen-to-action_towards_a_ui-in-the-loop_paradigm_for_multim/)
+- Notes (English): [en.papernotes.org/ACL2026/multimodal_vlm/what39s_missing_i…](https://en.papernotes.org/ACL2026/multimodal_vlm/what39s_missing_in_screen-to-action_towards_a_ui-in-the-loop_paradigm_for_multim/)
 
 **StructKV: Preserving the Structural Skeleton for Scalable Long-Context Inference** · 📖 Findings
 
@@ -2760,6 +2790,8 @@
 
 - Paper: <https://arxiv.org/abs/2602.18899>
 - Code: <https://github.com/juice500ml/phonetic-arithmetic>
+- Notes (Chinese): [papernotes.org/ACL2026/self_supervised/bd-tp_self-supervis…](https://papernotes.org/ACL2026/self_supervised/bd-tp_self-supervised_speech_models_discover_phonological_vector_arithmetic/)
+- Notes (English): [en.papernotes.org/ACL2026/self_supervised/bd-tp_self-super…](https://en.papernotes.org/ACL2026/self_supervised/bd-tp_self-supervised_speech_models_discover_phonological_vector_arithmetic/)
 
 **Alexandria: A Multi-Domain Dialectal Arabic Machine Translation Dataset for Culturally Inclusive and Linguistically Diverse LLMs**
 
@@ -2793,6 +2825,8 @@
 
 - Paper: <https://arxiv.org/abs/2511.20697>
 - Code: <https://github.com/Congren-Dai/MSU-Bench>
+- Notes (Chinese): [papernotes.org/ACL2026/audio_speech/musical_score_understa…](https://papernotes.org/ACL2026/audio_speech/musical_score_understanding_benchmark_evaluating_large_language_models39_compreh/)
+- Notes (English): [en.papernotes.org/ACL2026/audio_speech/musical_score_under…](https://en.papernotes.org/ACL2026/audio_speech/musical_score_understanding_benchmark_evaluating_large_language_models39_compreh/)
 
 **An Exploration of Mamba for Speech Self-Supervised Models**
 
@@ -2914,6 +2948,8 @@
 **Are they lovers or friends? Evaluating LLMs&#39; Social Reasoning in English and Korean Dialogues**
 
 - Paper: <https://arxiv.org/abs/2510.19028>
+- Notes (Chinese): [papernotes.org/ACL2026/llm_evaluation/are_they_lovers_or_f…](https://papernotes.org/ACL2026/llm_evaluation/are_they_lovers_or_friends_evaluating_llms39_social_reasoning_in_english_and_kor/)
+- Notes (English): [en.papernotes.org/ACL2026/llm_evaluation/are_they_lovers_o…](https://en.papernotes.org/ACL2026/llm_evaluation/are_they_lovers_or_friends_evaluating_llms39_social_reasoning_in_english_and_kor/)
 
 **Pseudo2Real: Task Arithmetic for Pseudo-Label Correction in Automatic Speech Recognition** · 📖 Findings
 
@@ -3059,6 +3095,8 @@
 **Adam&#39;s Law: Textual Frequency Law on Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2604.02176>
+- Notes (Chinese): [papernotes.org/ACL2026/llm_nlp/adam39s_law_textual_frequen…](https://papernotes.org/ACL2026/llm_nlp/adam39s_law_textual_frequency_law_on_large_language_models/)
+- Notes (English): [en.papernotes.org/ACL2026/llm_nlp/adam39s_law_textual_freq…](https://en.papernotes.org/ACL2026/llm_nlp/adam39s_law_textual_frequency_law_on_large_language_models/)
 
 **Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality**
 
@@ -3215,6 +3253,8 @@
 **Think in Sentences: Explicit Sentence Boundaries Enhance Language Model&#39;s Capabilities**
 
 - Paper: <https://arxiv.org/abs/2604.10135>
+- Notes (Chinese): [papernotes.org/ACL2026/llm_nlp/think_in_sentences_explicit…](https://papernotes.org/ACL2026/llm_nlp/think_in_sentences_explicit_sentence_boundaries_enhance_language_model39s_capabi/)
+- Notes (English): [en.papernotes.org/ACL2026/llm_nlp/think_in_sentences_expli…](https://en.papernotes.org/ACL2026/llm_nlp/think_in_sentences_explicit_sentence_boundaries_enhance_language_model39s_capabi/)
 
 **One Persona, Many Cues, Different Results: How Sociodemographic Cues Impact LLM Personalization**
 
@@ -3265,6 +3305,8 @@
 
 - Paper: <https://arxiv.org/abs/2604.14564>
 - Code: <https://github.com/TsinghuaC3I/MARTI>
+- Notes (Chinese): [papernotes.org/ACL2026/code_intelligence/mars2_scaling_mul…](https://papernotes.org/ACL2026/code_intelligence/mars2_scaling_multi-agent_tree_search_via_reinforcement_learning_for_code_genera/)
+- Notes (English): [en.papernotes.org/ACL2026/code_intelligence/mars2_scaling_…](https://en.papernotes.org/ACL2026/code_intelligence/mars2_scaling_multi-agent_tree_search_via_reinforcement_learning_for_code_genera/)
 
 **ReFEree: Reference-Free and Fine-Grained Method for Evaluating Factual Consistency in Real-World Code Summarization**
 
@@ -3357,6 +3399,8 @@
 **CodeWiki: Evaluating AI&#39;s Ability to Generate Holistic Documentation for Large-Scale Codebases**
 
 - Paper: <https://arxiv.org/abs/2510.24428>
+- Notes (Chinese): [papernotes.org/ACL2026/code_intelligence/codewiki_evaluati…](https://papernotes.org/ACL2026/code_intelligence/codewiki_evaluating_ai39s_ability_to_generate_holistic_documentation_for_large-s/)
+- Notes (English): [en.papernotes.org/ACL2026/code_intelligence/codewiki_evalu…](https://en.papernotes.org/ACL2026/code_intelligence/codewiki_evaluating_ai39s_ability_to_generate_holistic_documentation_for_large-s/)
 
 **CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment**
 
@@ -3379,6 +3423,8 @@
 **A Study of LLMs&#39; Preferences for Libraries and Programming Languages** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2503.17181>
+- Notes (Chinese): [papernotes.org/ACL2026/llm_nlp/a_study_of_llms39_preferenc…](https://papernotes.org/ACL2026/llm_nlp/a_study_of_llms39_preferences_for_libraries_and_programming_languages/)
+- Notes (English): [en.papernotes.org/ACL2026/llm_nlp/a_study_of_llms39_prefer…](https://en.papernotes.org/ACL2026/llm_nlp/a_study_of_llms39_preferences_for_libraries_and_programming_languages/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -3446,6 +3492,8 @@
 **What Makes an Ideal Quote? Recommending &#34;Unexpected yet Rational&#34; Quotations via Novelty**
 
 - Paper: <https://arxiv.org/abs/2602.22220>
+- Notes (Chinese): [papernotes.org/ACL2026/recommender/what_makes_an_ideal_quo…](https://papernotes.org/ACL2026/recommender/what_makes_an_ideal_quote_recommending_34unexpected_yet_rational34_quotations_vi/)
+- Notes (English): [en.papernotes.org/ACL2026/recommender/what_makes_an_ideal_…](https://en.papernotes.org/ACL2026/recommender/what_makes_an_ideal_quote_recommending_34unexpected_yet_rational34_quotations_vi/)
 
 **Learning to Retrieve User History and Generate User Profiles for Personalized Persuasiveness Prediction** · 📖 Findings
 
@@ -3750,6 +3798,8 @@
 **Persona-E$^2$: A Human-Grounded Dataset for Personality-Shaped Emotional Responses to Textual Events**
 
 - Paper: <https://arxiv.org/abs/2604.09162>
+- Notes (Chinese): [papernotes.org/ACL2026/social_computing/persona-e2_a_human…](https://papernotes.org/ACL2026/social_computing/persona-e2_a_human-grounded_dataset_for_personality-shaped_emotional_responses_t/)
+- Notes (English): [en.papernotes.org/ACL2026/social_computing/persona-e2_a_hu…](https://en.papernotes.org/ACL2026/social_computing/persona-e2_a_human-grounded_dataset_for_personality-shaped_emotional_responses_t/)
 
 **On the Step Length Confounding in LLM Reasoning Data Selection** · 📖 Findings
 
