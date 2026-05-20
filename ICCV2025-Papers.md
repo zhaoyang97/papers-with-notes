@@ -77,8 +77,8 @@
 
 - Paper: <https://arxiv.org/abs/2508.17239>
 - Code: <https://github.com/KenAdamsJoseph/PersPose>
-- Notes (Chinese): [papernotes.org/ICCV2025/human_understanding/perspose_3d_hu…](https://papernotes.org/ICCV2025/human_understanding/perspose_3d_human_pose_estimation_with_perspective_encoding_and_perspective_rota/)
-- Notes (English): [en.papernotes.org/ICCV2025/human_understanding/perspose_3d…](https://en.papernotes.org/ICCV2025/human_understanding/perspose_3d_human_pose_estimation_with_perspective_encoding_and_perspective_rota/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/perspose_3d_human_pose_e…](https://papernotes.org/ICCV2025/3d_vision/perspose_3d_human_pose_estimation_with_perspective_encoding_and_perspective_rota/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/perspose_3d_human_pos…](https://en.papernotes.org/ICCV2025/3d_vision/perspose_3d_human_pose_estimation_with_perspective_encoding_and_perspective_rota/)
 
 **UST-SSM: Unified Spatio-Temporal State Space Models for Point Cloud Video Modeling**
 
@@ -119,8 +119,8 @@
 
 - Paper: <https://arxiv.org/abs/2507.18331>
 - Code: <https://github.com/RM-Zhang/SGCDet>
-- Notes (Chinese): [papernotes.org/ICCV2025/object_detection/boosting_multi-vi…](https://papernotes.org/ICCV2025/object_detection/boosting_multi-view_indoor_3d_object_detection_via_adaptive_3d_volume/)
-- Notes (English): [en.papernotes.org/ICCV2025/object_detection/boosting_multi…](https://en.papernotes.org/ICCV2025/object_detection/boosting_multi-view_indoor_3d_object_detection_via_adaptive_3d_volume/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/boosting_multiview_indoo…](https://papernotes.org/ICCV2025/3d_vision/boosting_multiview_indoor_3d_object_detection_via_adaptive_3/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/boosting_multiview_in…](https://en.papernotes.org/ICCV2025/3d_vision/boosting_multiview_indoor_3d_object_detection_via_adaptive_3/)
 
 **Monocular Semantic Scene Completion via Masked Recurrent Networks**
 
@@ -201,8 +201,8 @@
 
 - Paper: <https://arxiv.org/abs/2503.08407>
 - Code: <https://github.com/Ethan16162/WildSeg3D>
-- Notes (Chinese): [papernotes.org/ICCV2025/segmentation/wildseg3d_segment_any…](https://papernotes.org/ICCV2025/segmentation/wildseg3d_segment_any_3d_objects_in_the_wild_from_2d_images/)
-- Notes (English): [en.papernotes.org/ICCV2025/segmentation/wildseg3d_segment_…](https://en.papernotes.org/ICCV2025/segmentation/wildseg3d_segment_any_3d_objects_in_the_wild_from_2d_images/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/wildseg3d_segment_any_3d…](https://papernotes.org/ICCV2025/3d_vision/wildseg3d_segment_any_3d_objects_in_the_wild_from_2d_images/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/wildseg3d_segment_any…](https://en.papernotes.org/ICCV2025/3d_vision/wildseg3d_segment_any_3d_objects_in_the_wild_from_2d_images/)
 
 **S3R-GS: Streamlining the Pipeline for Large-Scale Street Scene Reconstruction**
 
@@ -215,15 +215,15 @@
 
 - Paper: <https://arxiv.org/abs/2503.08101>
 - Code: <https://github.com/iseri27/tg_gbc>
-- Notes (Chinese): [papernotes.org/ICCV2025/object_detection/accelerate_3d_obj…](https://papernotes.org/ICCV2025/object_detection/accelerate_3d_object_detection_models_via_zero-shot_attention_key_pruning/)
-- Notes (English): [en.papernotes.org/ICCV2025/object_detection/accelerate_3d_…](https://en.papernotes.org/ICCV2025/object_detection/accelerate_3d_object_detection_models_via_zero-shot_attention_key_pruning/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/accelerate_3d_object_det…](https://papernotes.org/ICCV2025/3d_vision/accelerate_3d_object_detection_models_via_zero-shot_attention_key_pruning/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/accelerate_3d_object_…](https://en.papernotes.org/ICCV2025/3d_vision/accelerate_3d_object_detection_models_via_zero-shot_attention_key_pruning/)
 
 **BUFFER-X: Towards Zero-Shot Point Cloud Registration in Diverse Scenes**
 
 - Paper: <https://arxiv.org/abs/2503.07940>
 - Code: <https://github.com/MIT-SPARK/BUFFER-X>
-- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/buffer-x_towards_zero-sh…](https://papernotes.org/ICCV2025/3d_vision/buffer-x_towards_zero-shot_point_cloud_registration_in_diverse_scenes/)
-- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/buffer-x_towards_zero…](https://en.papernotes.org/ICCV2025/3d_vision/buffer-x_towards_zero-shot_point_cloud_registration_in_diverse_scenes/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/bufferx_towards_zeroshot…](https://papernotes.org/ICCV2025/3d_vision/bufferx_towards_zeroshot_point_cloud_registration_in_diverse/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/bufferx_towards_zeros…](https://en.papernotes.org/ICCV2025/3d_vision/bufferx_towards_zeroshot_point_cloud_registration_in_diverse/)
 
 **Not All Frame Features Are Equal: Video-to-4D Generation via Decoupling Dynamic-Static Features**
 
@@ -347,8 +347,8 @@
 
 - Paper: <https://arxiv.org/abs/2509.19939>
 - Project: <https://chojinie.github.io/project_AJAHR/>
-- Notes (Chinese): [papernotes.org/ICCV2025/human_understanding/ajahr_amputate…](https://papernotes.org/ICCV2025/human_understanding/ajahr_amputated_joint_aware_3d_human_mesh_recovery/)
-- Notes (English): [en.papernotes.org/ICCV2025/human_understanding/ajahr_amput…](https://en.papernotes.org/ICCV2025/human_understanding/ajahr_amputated_joint_aware_3d_human_mesh_recovery/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/ajahr_amputated_joint_aw…](https://papernotes.org/ICCV2025/3d_vision/ajahr_amputated_joint_aware_3d_human_mesh_recovery/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/ajahr_amputated_joint…](https://en.papernotes.org/ICCV2025/3d_vision/ajahr_amputated_joint_aware_3d_human_mesh_recovery/)
 
 **EmbodiedSplat: Personalized Real-to-Sim-to-Real Navigation with Gaussian Splats from a Mobile Device**
 
@@ -389,8 +389,8 @@
 
 - Paper: <https://arxiv.org/abs/2508.21257>
 - Project: <https://PHD-Pose.github.io>
-- Notes (Chinese): [papernotes.org/ICCV2025/human_understanding/phd_personaliz…](https://papernotes.org/ICCV2025/human_understanding/phd_personalized_3d_human_body_fitting_with_point_diffusion/)
-- Notes (English): [en.papernotes.org/ICCV2025/human_understanding/phd_persona…](https://en.papernotes.org/ICCV2025/human_understanding/phd_personalized_3d_human_body_fitting_with_point_diffusion/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/phd_personalized_3d_huma…](https://papernotes.org/ICCV2025/3d_vision/phd_personalized_3d_human_body_fitting_with_point_diffusion/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/phd_personalized_3d_h…](https://en.papernotes.org/ICCV2025/3d_vision/phd_personalized_3d_human_body_fitting_with_point_diffusion/)
 
 **Multi-View 3D Point Tracking**
 
@@ -415,8 +415,8 @@
 
 - Paper: <https://arxiv.org/abs/2508.17230>
 - Project: <https://4d-visual-pretraining.github.io/>
-- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/4d_visual_pre-training_f…](https://papernotes.org/ICCV2025/3d_vision/4d_visual_pre-training_for_robot_learning/)
-- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/4d_visual_pre-trainin…](https://en.papernotes.org/ICCV2025/3d_vision/4d_visual_pre-training_for_robot_learning/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/4d_visual_pretraining_fo…](https://papernotes.org/ICCV2025/3d_vision/4d_visual_pretraining_for_robot_learning/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/4d_visual_pretraining…](https://en.papernotes.org/ICCV2025/3d_vision/4d_visual_pretraining_for_robot_learning/)
 
 **ATLAS: Decoupling Skeletal and Shape Parameters for Expressive Parametric Human Modeling**
 
@@ -619,8 +619,8 @@
 **3D Test-time Adaptation via Graph Spectral Driven Point Shift**
 
 - Paper: <https://arxiv.org/abs/2507.18225>
-- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/3d_test-time_adaptation_…](https://papernotes.org/ICCV2025/3d_vision/3d_test-time_adaptation_via_graph_spectral_driven_point_shift/)
-- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/3d_test-time_adaptati…](https://en.papernotes.org/ICCV2025/3d_vision/3d_test-time_adaptation_via_graph_spectral_driven_point_shift/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/3d_testtime_adaptation_v…](https://papernotes.org/ICCV2025/3d_vision/3d_testtime_adaptation_via_graph_spectral_driven_point_shift/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/3d_testtime_adaptatio…](https://en.papernotes.org/ICCV2025/3d_vision/3d_testtime_adaptation_via_graph_spectral_driven_point_shift/)
 
 **BokehDiff: Neural Lens Blur with One-Step Diffusion**
 
@@ -884,14 +884,14 @@
 **AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**
 
 - Paper: <https://arxiv.org/abs/2505.24877>
-- Notes (Chinese): [papernotes.org/ICCV2025/human_understanding/adahuman_anima…](https://papernotes.org/ICCV2025/human_understanding/adahuman_animatable_detailed_3d_human_generation_with_compositional_multiview_di/)
-- Notes (English): [en.papernotes.org/ICCV2025/human_understanding/adahuman_an…](https://en.papernotes.org/ICCV2025/human_understanding/adahuman_animatable_detailed_3d_human_generation_with_compositional_multiview_di/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/adahuman_animatable_deta…](https://papernotes.org/ICCV2025/3d_vision/adahuman_animatable_detailed_3d_human_generation_with_compositional_multiview_di/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/adahuman_animatable_d…](https://en.papernotes.org/ICCV2025/3d_vision/adahuman_animatable_detailed_3d_human_generation_with_compositional_multiview_di/)
 
 **Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation**
 
 - Paper: <https://arxiv.org/abs/2505.24431>
 - Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/bridging_3d_anomaly_loca…](https://papernotes.org/ICCV2025/3d_vision/bridging_3d_anomaly_localization_and_repair_via_high-qualit/)
-- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/bridging_3d_anomaly_l…](https://en.papernotes.org/ICCV2025/3d_vision/bridging_3d_anomaly_localization_and_repair_via_high-qualit/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/bridging_3d_anomaly_l…](https://en.papernotes.org/ICCV2025/3d_vision/bridging_3d_anomaly_localization_and_repair_via_high-quality_continuous_geometri/)
 
 **SpatialSplat: Efficient Semantic 3D from Sparse Unposed Images**
 
@@ -1023,8 +1023,8 @@
 **Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**
 
 - Paper: <https://arxiv.org/abs/2504.07961>
-- Notes (Chinese): [papernotes.org/ICCV2025/video_generation/geo4d_leveraging_…](https://papernotes.org/ICCV2025/video_generation/geo4d_leveraging_video_generators_for_geometric_4d_scene_reconstruction/)
-- Notes (English): [en.papernotes.org/ICCV2025/video_generation/geo4d_leveragi…](https://en.papernotes.org/ICCV2025/video_generation/geo4d_leveraging_video_generators_for_geometric_4d_scene_reconstruction/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/geo4d_leveraging_video_g…](https://papernotes.org/ICCV2025/3d_vision/geo4d_leveraging_video_generators_for_geometric_4d_scene_reconstruction/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/geo4d_leveraging_vide…](https://en.papernotes.org/ICCV2025/3d_vision/geo4d_leveraging_video_generators_for_geometric_4d_scene_reconstruction/)
 
 **BoxDreamer: Dreaming Box Corners for Generalizable Object Pose Estimation**
 
@@ -1198,8 +1198,8 @@
 **HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding**
 
 - Paper: <https://arxiv.org/abs/2503.12955>
-- Notes (Chinese): [papernotes.org/ICCV2025/human_understanding/his-gpt_toward…](https://papernotes.org/ICCV2025/human_understanding/his-gpt_towards_3d_human-in-scene_multimodal_understanding/)
-- Notes (English): [en.papernotes.org/ICCV2025/human_understanding/his-gpt_tow…](https://en.papernotes.org/ICCV2025/human_understanding/his-gpt_towards_3d_human-in-scene_multimodal_understanding/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/his-gpt_towards_3d_human…](https://papernotes.org/ICCV2025/3d_vision/his-gpt_towards_3d_human-in-scene_multimodal_understanding/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/his-gpt_towards_3d_hu…](https://en.papernotes.org/ICCV2025/3d_vision/his-gpt_towards_3d_human-in-scene_multimodal_understanding/)
 
 **AR-1-to-3: Single Image to Consistent 3D Object Generation via Next-View Prediction**
 
@@ -1216,8 +1216,8 @@
 **Bring Your Rear Cameras for Egocentric 3D Human Pose Estimation**
 
 - Paper: <https://arxiv.org/abs/2503.11652>
-- Notes (Chinese): [papernotes.org/ICCV2025/human_understanding/bring_your_rea…](https://papernotes.org/ICCV2025/human_understanding/bring_your_rear_cameras_for_egocentric_3d_human_pose_estimation/)
-- Notes (English): [en.papernotes.org/ICCV2025/human_understanding/bring_your_…](https://en.papernotes.org/ICCV2025/human_understanding/bring_your_rear_cameras_for_egocentric_3d_human_pose_estimation/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/bring_your_rear_cameras_…](https://papernotes.org/ICCV2025/3d_vision/bring_your_rear_cameras_for_egocentric_3d_human_pose_estimation/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/bring_your_rear_camer…](https://en.papernotes.org/ICCV2025/3d_vision/bring_your_rear_cameras_for_egocentric_3d_human_pose_estimation/)
 
 **Seeing and Seeing Through the Glass: Real and Synthetic Data for Multi-Layer Depth Estimation**
 
@@ -1304,8 +1304,8 @@
 **Fish2Mesh Transformer: 3D Human Mesh Recovery from Egocentric Vision**
 
 - Paper: <https://arxiv.org/abs/2503.06089>
-- Notes (Chinese): [papernotes.org/ICCV2025/human_understanding/fish2mesh_tran…](https://papernotes.org/ICCV2025/human_understanding/fish2mesh_transformer_3d_human_mesh_recovery_from_egocentric_vision/)
-- Notes (English): [en.papernotes.org/ICCV2025/human_understanding/fish2mesh_t…](https://en.papernotes.org/ICCV2025/human_understanding/fish2mesh_transformer_3d_human_mesh_recovery_from_egocentric_vision/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/fish2mesh_transformer_3d…](https://papernotes.org/ICCV2025/3d_vision/fish2mesh_transformer_3d_human_mesh_recovery_from_egocentric_vision/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/fish2mesh_transformer…](https://en.papernotes.org/ICCV2025/3d_vision/fish2mesh_transformer_3d_human_mesh_recovery_from_egocentric_vision/)
 
 **Stereo Any Video: Temporally Consistent Stereo Matching**
 
@@ -1488,8 +1488,8 @@
 **TriDi: Trilateral Diffusion of 3D Humans, Objects, and Interactions**
 
 - Paper: <https://arxiv.org/abs/2412.06334>
-- Notes (Chinese): [papernotes.org/ICCV2025/human_understanding/tridi_trilater…](https://papernotes.org/ICCV2025/human_understanding/tridi_trilateral_diffusion_of_3d_humans_objects_and_interactions/)
-- Notes (English): [en.papernotes.org/ICCV2025/human_understanding/tridi_trila…](https://en.papernotes.org/ICCV2025/human_understanding/tridi_trilateral_diffusion_of_3d_humans_objects_and_interactions/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/tridi_trilateral_diffusi…](https://papernotes.org/ICCV2025/3d_vision/tridi_trilateral_diffusion_of_3d_humans_objects_and_interactions/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/tridi_trilateral_diff…](https://en.papernotes.org/ICCV2025/3d_vision/tridi_trilateral_diffusion_of_3d_humans_objects_and_interactions/)
 
 **Momentum-GS: Momentum Gaussian Self-Distillation for High-Quality Large Scene Reconstruction**
 
@@ -1542,8 +1542,8 @@
 **Diorama: Unleashing Zero-shot Single-view 3D Indoor Scene Modeling**
 
 - Paper: <https://arxiv.org/abs/2411.19492>
-- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/diorama_unleashing_zero-…](https://papernotes.org/ICCV2025/3d_vision/diorama_unleashing_zero-shot_single-view_3d_indoor_scene_modeling/)
-- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/diorama_unleashing_ze…](https://en.papernotes.org/ICCV2025/3d_vision/diorama_unleashing_zero-shot_single-view_3d_indoor_scene_modeling/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/diorama_unleashing_zeros…](https://papernotes.org/ICCV2025/3d_vision/diorama_unleashing_zeroshot_singleview_3d_indoor_scene_model/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/diorama_unleashing_ze…](https://en.papernotes.org/ICCV2025/3d_vision/diorama_unleashing_zeroshot_singleview_3d_indoor_scene_model/)
 
 **PersonaCraft: Personalized and Controllable Full-Body Multi-Human Scene Generation Using Occlusion-Aware 3D-Conditioned Diffusion**
 
@@ -1670,8 +1670,8 @@
 **3DGS-LM: Faster Gaussian-Splatting Optimization with Levenberg-Marquardt**
 
 - Paper: <https://arxiv.org/abs/2409.12892>
-- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/3dgs-lm_faster_gaussian-…](https://papernotes.org/ICCV2025/3d_vision/3dgs-lm_faster_gaussian-splatting_optimization_with_levenberg-marquardt/)
-- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/3dgs-lm_faster_gaussi…](https://en.papernotes.org/ICCV2025/3d_vision/3dgs-lm_faster_gaussian-splatting_optimization_with_levenberg-marquardt/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/3dgslm_faster_gaussiansp…](https://papernotes.org/ICCV2025/3d_vision/3dgslm_faster_gaussiansplatting_optimization_with_levenbergm/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/3dgslm_faster_gaussia…](https://en.papernotes.org/ICCV2025/3d_vision/3dgslm_faster_gaussiansplatting_optimization_with_levenbergm/)
 
 **GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting**
 
@@ -1712,7 +1712,7 @@
 
 - Paper: <https://arxiv.org/abs/2406.00093>
 - Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/bootstrap3d_improving_mu…](https://papernotes.org/ICCV2025/3d_vision/bootstrap3d_improving_multi-view_diffusion_model_with_synthetic_data/)
-- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/bootstrap3d_improving…](https://en.papernotes.org/ICCV2025/3d_vision/bootstrap3d_improving_multi-view_diffusion_model_with_synthetic_data/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/bootstrap3d_improving…](https://en.papernotes.org/ICCV2025/3d_vision/bootstrap3d_improving_multiview_diffusion_model_with_synthet/)
 
 **EvaGaussians: Event Stream Assisted Gaussian Splatting from Blurry Images**
 
@@ -2125,8 +2125,8 @@
 
 - Paper: <https://arxiv.org/abs/2507.07317>
 - Code: <https://github.com/SherryXTChen/ADIEE>
-- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/adiee_automatic_d…](https://papernotes.org/ICCV2025/image_generation/adiee_automatic_dataset_creation_and_scorer_for_instruction-guided_image_editing/)
-- Notes (English): [en.papernotes.org/ICCV2025/image_generation/adiee_automati…](https://en.papernotes.org/ICCV2025/image_generation/adiee_automatic_dataset_creation_and_scorer_for_instruction-guided_image_editing/)
+- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/adiee_automatic_d…](https://papernotes.org/ICCV2025/image_generation/adiee_automatic_dataset_creation_and_scorer_for_instruction_guided_image_editing_evaluation/)
+- Notes (English): [en.papernotes.org/ICCV2025/image_generation/adiee_automati…](https://en.papernotes.org/ICCV2025/image_generation/adiee_automatic_dataset_creation_and_scorer_for_instruction_guided_image_editing_evaluation/)
 
 **Structure-Guided Diffusion Models for High-Fidelity Portrait Shadow Removal**
 
@@ -2609,8 +2609,8 @@
 **PolarAnything: Diffusion-based Polarimetric Image Synthesis**
 
 - Paper: <https://arxiv.org/abs/2507.17268>
-- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/polaranything_diffusion-…](https://papernotes.org/ICCV2025/3d_vision/polaranything_diffusion-based_polarimetric_image_synthesis/)
-- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/polaranything_diffusi…](https://en.papernotes.org/ICCV2025/3d_vision/polaranything_diffusion-based_polarimetric_image_synthesis/)
+- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/polaranything_dif…](https://papernotes.org/ICCV2025/image_generation/polaranything_diffusion-based_polarimetric_image_synthesis/)
+- Notes (English): [en.papernotes.org/ICCV2025/image_generation/polaranything_…](https://en.papernotes.org/ICCV2025/image_generation/polaranything_diffusion-based_polarimetric_image_synthesis/)
 
 **CHORDS: Diffusion Sampling Accelerator with Multi-core Hierarchical ODE Solvers**
 
@@ -2769,8 +2769,8 @@
 
 - Paper: <https://arxiv.org/abs/2506.02095>
 - Project: <https://cyclereward.github.io/>
-- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/cycle_consistency…](https://papernotes.org/ICCV2025/image_generation/cycle_consistency_as_reward_learning_image-text_alignment_without_human_preferen/)
-- Notes (English): [en.papernotes.org/ICCV2025/image_generation/cycle_consiste…](https://en.papernotes.org/ICCV2025/image_generation/cycle_consistency_as_reward_learning_image-text_alignment_without_human_preferen/)
+- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/cycle_consistency…](https://papernotes.org/ICCV2025/image_generation/cycle_consistency_as_reward_learning_imagetext_alignment_wit/)
+- Notes (English): [en.papernotes.org/ICCV2025/image_generation/cycle_consiste…](https://en.papernotes.org/ICCV2025/image_generation/cycle_consistency_as_reward_learning_imagetext_alignment_wit/)
 
 **TaxaDiffusion: Progressively Trained Diffusion Model for Fine-Grained Species Generation**
 
@@ -3233,8 +3233,8 @@
 **Addressing Text Embedding Leakage in Diffusion-based Image Editing**
 
 - Paper: <https://arxiv.org/abs/2412.04715>
-- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/addressing_text_e…](https://papernotes.org/ICCV2025/image_generation/addressing_text_embedding_leakage_in_diffusion-based_image_editing/)
-- Notes (English): [en.papernotes.org/ICCV2025/image_generation/addressing_tex…](https://en.papernotes.org/ICCV2025/image_generation/addressing_text_embedding_leakage_in_diffusion-based_image_editing/)
+- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/addressing_text_e…](https://papernotes.org/ICCV2025/image_generation/addressing_text_embedding_leakage_in_diffusion_based_image_editing/)
+- Notes (English): [en.papernotes.org/ICCV2025/image_generation/addressing_tex…](https://en.papernotes.org/ICCV2025/image_generation/addressing_text_embedding_leakage_in_diffusion_based_image_editing/)
 
 **Pinco: Position-induced Consistent Adapter for Diffusion Transformer in Foreground-conditioned Inpainting**
 
@@ -3310,7 +3310,7 @@
 **Bridging the Skeleton-Text Modality Gap: Diffusion-Powered Modality Alignment for Zero-shot Skeleton-based Action Recognition**
 
 - Paper: <https://arxiv.org/abs/2411.10745>
-- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/bridging_the_skel…](https://papernotes.org/ICCV2025/image_generation/bridging_the_skeleton-text_modality_gap_diffusion-powered_modality_alignment_for/)
+- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/bridging_the_skel…](https://papernotes.org/ICCV2025/image_generation/bridging_the_skeleton_text_modality_gap_diffusion_powered_modality_alignment_for/)
 - Notes (English): [en.papernotes.org/ICCV2025/image_generation/bridging_the_s…](https://en.papernotes.org/ICCV2025/image_generation/bridging_the_skeleton-text_modality_gap_diffusion-powered_modality_alignment_for/)
 
 **Golden Noise for Diffusion Models: A Learning Framework**
@@ -3589,13 +3589,13 @@
 
 **Addressing Text Embedding Leakage in Diffusion-based Image Editing**
 
-- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/addressing_text_e…](https://papernotes.org/ICCV2025/image_generation/addressing_text_embedding_leakage_in_diffusion-based_image_editing/)
-- Notes (English): [en.papernotes.org/ICCV2025/image_generation/addressing_tex…](https://en.papernotes.org/ICCV2025/image_generation/addressing_text_embedding_leakage_in_diffusion-based_image_editing/)
+- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/addressing_text_e…](https://papernotes.org/ICCV2025/image_generation/addressing_text_embedding_leakage_in_diffusion_based_image_editing/)
+- Notes (English): [en.papernotes.org/ICCV2025/image_generation/addressing_tex…](https://en.papernotes.org/ICCV2025/image_generation/addressing_text_embedding_leakage_in_diffusion_based_image_editing/)
 
 **ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation**
 
-- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/adiee_automatic_d…](https://papernotes.org/ICCV2025/image_generation/adiee_automatic_dataset_creation_and_scorer_for_instruction-guided_image_editing/)
-- Notes (English): [en.papernotes.org/ICCV2025/image_generation/adiee_automati…](https://en.papernotes.org/ICCV2025/image_generation/adiee_automatic_dataset_creation_and_scorer_for_instruction-guided_image_editing/)
+- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/adiee_automatic_d…](https://papernotes.org/ICCV2025/image_generation/adiee_automatic_dataset_creation_and_scorer_for_instruction_guided_image_editing_evaluation/)
+- Notes (English): [en.papernotes.org/ICCV2025/image_generation/adiee_automati…](https://en.papernotes.org/ICCV2025/image_generation/adiee_automatic_dataset_creation_and_scorer_for_instruction_guided_image_editing_evaluation/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -3637,7 +3637,7 @@
 
 - Paper: <https://arxiv.org/abs/2508.03284>
 - Code: <https://github.com/Fugtemypt123/ToolVQA-release>
-- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/toolvqa_a_dataset_f…](https://papernotes.org/ICCV2025/multimodal_vlm/toolvqa_a_dataset_for_multi-step_reasoning_vqa_with_external_tools/)
+- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/toolvqa_a_dataset_f…](https://papernotes.org/ICCV2025/multimodal_vlm/toolvqa_a_dataset_for_multistep_reasoning_vqa_with_external/)
 - Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/toolvqa_a_datase…](https://en.papernotes.org/ICCV2025/multimodal_vlm/toolvqa_a_dataset_for_multi-step_reasoning_vqa_with_external_tools/)
 
 **Causal Disentanglement and Cross-Modal Alignment for Enhanced Few-Shot Learning**
@@ -3658,8 +3658,8 @@
 
 - Paper: <https://arxiv.org/abs/2508.00053>
 - Code: <https://github.com/jiezhu23/QME_ICCV25>
-- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/a_quality-guided_mi…](https://papernotes.org/ICCV2025/multimodal_vlm/a_quality-guided_mixture_of_score-fusion_experts_framework_for_human_recognition/)
-- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/a_quality-guided…](https://en.papernotes.org/ICCV2025/multimodal_vlm/a_quality-guided_mixture_of_score-fusion_experts_framework_for_human_recognition/)
+- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/a_qualityguided_mix…](https://papernotes.org/ICCV2025/multimodal_vlm/a_qualityguided_mixture_of_scorefusion_experts_framework_for/)
+- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/a_qualityguided_…](https://en.papernotes.org/ICCV2025/multimodal_vlm/a_qualityguided_mixture_of_scorefusion_experts_framework_for/)
 
 **Bidirectional Likelihood Estimation with Multi-Modal Large Language Models for Text-Video Retrieval**
 
@@ -3684,8 +3684,8 @@
 
 - Paper: <https://arxiv.org/abs/2507.12455>
 - Code: <https://github.com/pspdada/SENTINEL>
-- Notes (Chinese): [papernotes.org/ICCV2025/human_understanding/mitigating_obj…](https://papernotes.org/ICCV2025/human_understanding/mitigating_object_hallucinations_via_sentence-level_early_intervention/)
-- Notes (English): [en.papernotes.org/ICCV2025/human_understanding/mitigating_…](https://en.papernotes.org/ICCV2025/human_understanding/mitigating_object_hallucinations_via_sentence-level_early_intervention/)
+- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/mitigating_object_h…](https://papernotes.org/ICCV2025/multimodal_vlm/mitigating_object_hallucinations_via_sentence-level_early_intervention/)
+- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/mitigating_objec…](https://en.papernotes.org/ICCV2025/multimodal_vlm/mitigating_object_hallucinations_via_sentence-level_early_intervention/)
 
 **ViewSRD: 3D Visual Grounding via Structured Multi-View Decomposition**
 
@@ -3920,8 +3920,8 @@
 **Controlling Multimodal LLMs via Reward-guided Decoding**
 
 - Paper: <https://arxiv.org/abs/2508.11616>
-- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/controlling_multimo…](https://papernotes.org/ICCV2025/multimodal_vlm/controlling_multimodal_llms_via_reward-guided_decoding/)
-- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/controlling_mult…](https://en.papernotes.org/ICCV2025/multimodal_vlm/controlling_multimodal_llms_via_reward-guided_decoding/)
+- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/controlling_multimo…](https://papernotes.org/ICCV2025/multimodal_vlm/controlling_multimodal_llms_via_rewardguided_decoding/)
+- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/controlling_mult…](https://en.papernotes.org/ICCV2025/multimodal_vlm/controlling_multimodal_llms_via_rewardguided_decoding/)
 
 **DocThinker: Explainable Multimodal Large Language Models with Rule-based Reinforcement Learning for Document Understanding**
 
@@ -4159,8 +4159,8 @@
 **AirCache: Activating Inter-modal Relevancy KV Cache Compression for Efficient Large Vision-Language Model Inference**
 
 - Paper: <https://arxiv.org/abs/2503.23956>
-- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/aircache_activating…](https://papernotes.org/ICCV2025/multimodal_vlm/aircache_activating_inter-modal_relevancy_kv_cache_compression_for_efficient_lar/)
-- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/aircache_activat…](https://en.papernotes.org/ICCV2025/multimodal_vlm/aircache_activating_inter-modal_relevancy_kv_cache_compression_for_efficient_lar/)
+- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/aircache_activating…](https://papernotes.org/ICCV2025/multimodal_vlm/aircache_activating_inter_modal_relevancy_kv_cache_compression_for_efficient_large_vision_language_model/)
+- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/aircache_activat…](https://en.papernotes.org/ICCV2025/multimodal_vlm/aircache_activating_inter_modal_relevancy_kv_cache_compression_for_efficient_large_vision_language_model/)
 
 **STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?**
 
@@ -4416,8 +4416,8 @@
 **Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension**
 
 - Paper: <https://arxiv.org/abs/2412.03704>
-- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/scaling_inference-t…](https://papernotes.org/ICCV2025/multimodal_vlm/scaling_inference-time_search_with_vision_value_model_for_improved_visual_compre/)
-- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/scaling_inferenc…](https://en.papernotes.org/ICCV2025/multimodal_vlm/scaling_inference-time_search_with_vision_value_model_for_improved_visual_compre/)
+- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/scaling_inferenceti…](https://papernotes.org/ICCV2025/multimodal_vlm/scaling_inferencetime_search_with_vision_value_model_for_imp/)
+- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/scaling_inferenc…](https://en.papernotes.org/ICCV2025/multimodal_vlm/scaling_inferencetime_search_with_vision_value_model_for_imp/)
 
 **AdvDreamer Unveils: Are Vision-Language Models Truly Ready for Real-World 3D Variations?**
 
@@ -4445,8 +4445,8 @@
 **MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding**
 
 - Paper: <https://arxiv.org/abs/2411.17762>
-- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/muse-vl_modeling_un…](https://papernotes.org/ICCV2025/multimodal_vlm/muse-vl_modeling_unified_vlm_through_semantic_discrete_encoding/)
-- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/muse-vl_modeling…](https://en.papernotes.org/ICCV2025/multimodal_vlm/muse-vl_modeling_unified_vlm_through_semantic_discrete_encoding/)
+- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/musevl_modeling_uni…](https://papernotes.org/ICCV2025/multimodal_vlm/musevl_modeling_unified_vlm_through_semantic_discrete_encodi/)
+- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/musevl_modeling_…](https://en.papernotes.org/ICCV2025/multimodal_vlm/musevl_modeling_unified_vlm_through_semantic_discrete_encodi/)
 
 **FREE-Merging: Fourier Transform for Efficient Model Merging**
 
@@ -4493,8 +4493,8 @@
 **IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves**
 
 - Paper: <https://arxiv.org/abs/2411.00827>
-- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/ideator_jailbreakin…](https://papernotes.org/ICCV2025/multimodal_vlm/ideator_jailbreaking_and_benchmarking_large_vision-language_models_using_themsel/)
-- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/ideator_jailbrea…](https://en.papernotes.org/ICCV2025/multimodal_vlm/ideator_jailbreaking_and_benchmarking_large_vision-language_models_using_themsel/)
+- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/ideator_jailbreakin…](https://papernotes.org/ICCV2025/multimodal_vlm/ideator_jailbreaking_and_benchmarking_large_visionlanguage_m/)
+- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/ideator_jailbrea…](https://en.papernotes.org/ICCV2025/multimodal_vlm/ideator_jailbreaking_and_benchmarking_large_visionlanguage_m/)
 
 **LLaVA-KD: A Framework of Distilling Multimodal Large Language Models**
 
@@ -4675,8 +4675,8 @@
 
 **Ask and Remember: A Questions-Only Replay Strategy for Continual Visual Question Answering**
 
-- Notes (Chinese): [papernotes.org/ICCV2025/ai_safety/ask_and_remember_a_quest…](https://papernotes.org/ICCV2025/ai_safety/ask_and_remember_a_questions-only_replay_strategy_for_continual_visual_question_/)
-- Notes (English): [en.papernotes.org/ICCV2025/ai_safety/ask_and_remember_a_qu…](https://en.papernotes.org/ICCV2025/ai_safety/ask_and_remember_a_questions-only_replay_strategy_for_continual_visual_question_/)
+- Notes (Chinese): [papernotes.org/ICCV2025/ai_safety/ask_and_remember_a_quest…](https://papernotes.org/ICCV2025/ai_safety/ask_and_remember_a_questions_only_replay_strategy_for_continual_visual_question_answering/)
+- Notes (English): [en.papernotes.org/ICCV2025/ai_safety/ask_and_remember_a_qu…](https://en.papernotes.org/ICCV2025/ai_safety/ask_and_remember_a_questions_only_replay_strategy_for_continual_visual_question_answering/)
 
 **AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models**
 
@@ -4685,18 +4685,18 @@
 
 **AirCache: Activating Inter-modal Relevancy KV Cache Compression for Efficient Large Vision-Language Model Inference**
 
-- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/aircache_activating…](https://papernotes.org/ICCV2025/multimodal_vlm/aircache_activating_inter-modal_relevancy_kv_cache_compression_for_efficient_lar/)
-- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/aircache_activat…](https://en.papernotes.org/ICCV2025/multimodal_vlm/aircache_activating_inter-modal_relevancy_kv_cache_compression_for_efficient_lar/)
+- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/aircache_activating…](https://papernotes.org/ICCV2025/multimodal_vlm/aircache_activating_inter_modal_relevancy_kv_cache_compression_for_efficient_large_vision_language_model/)
+- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/aircache_activat…](https://en.papernotes.org/ICCV2025/multimodal_vlm/aircache_activating_inter_modal_relevancy_kv_cache_compression_for_efficient_large_vision_language_model/)
 
 **4D-Bench: Benchmarking Multi-modal Large Language Models for 4D Object Understanding**
 
-- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/4d-bench_bench…](https://papernotes.org/ICCV2025/video_understanding/4d-bench_benchmarking_multi-modal_large_language_models_for_4d_object_understand/)
-- Notes (English): [en.papernotes.org/ICCV2025/video_understanding/4d-bench_be…](https://en.papernotes.org/ICCV2025/video_understanding/4d-bench_benchmarking_multi-modal_large_language_models_for_4d_object_understand/)
+- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/4dbench_benchm…](https://papernotes.org/ICCV2025/video_understanding/4dbench_benchmarking_multimodal_large_language_models_for_4d/)
+- Notes (English): [en.papernotes.org/ICCV2025/video_understanding/4dbench_ben…](https://en.papernotes.org/ICCV2025/video_understanding/4dbench_benchmarking_multimodal_large_language_models_for_4d/)
 
 **AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning**
 
-- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/aim_adaptive_i…](https://papernotes.org/ICCV2025/video_understanding/aim_adaptive_inference_multimodal_llms_token_merging_pruning/)
-- Notes (English): [en.papernotes.org/ICCV2025/video_understanding/aim_adaptiv…](https://en.papernotes.org/ICCV2025/video_understanding/aim_adaptive_inference_multimodal_llms_token_merging_pruning/)
+- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/aim_adaptive_i…](https://papernotes.org/ICCV2025/video_understanding/aim_adaptive_inference_of_multi_modal_llms_via_token_merging_and_pruning/)
+- Notes (English): [en.papernotes.org/ICCV2025/video_understanding/aim_adaptiv…](https://en.papernotes.org/ICCV2025/video_understanding/aim_adaptive_inference_of_multi_modal_llms_via_token_merging_and_pruning/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -4773,8 +4773,8 @@
 
 - Paper: <https://arxiv.org/abs/2507.01367>
 - Code: <https://github.com/TRLou/PGA>
-- Notes (Chinese): [papernotes.org/ICCV2025/autonomous_driving/3d_gaussian_spl…](https://papernotes.org/ICCV2025/autonomous_driving/3d_gaussian_splatting_driven_multi-view_robust_physical_adversarial_camouflage_g/)
-- Notes (English): [en.papernotes.org/ICCV2025/autonomous_driving/3d_gaussian_…](https://en.papernotes.org/ICCV2025/autonomous_driving/3d_gaussian_splatting_driven_multi-view_robust_physical_adversarial_camouflage_g/)
+- Notes (Chinese): [papernotes.org/ICCV2025/autonomous_driving/3d_gaussian_spl…](https://papernotes.org/ICCV2025/autonomous_driving/3d_gaussian_splatting_driven_multiview_robust_physical_adver/)
+- Notes (English): [en.papernotes.org/ICCV2025/autonomous_driving/3d_gaussian_…](https://en.papernotes.org/ICCV2025/autonomous_driving/3d_gaussian_splatting_driven_multiview_robust_physical_adver/)
 
 **RTMap: Real-Time Recursive Mapping with Change Detection and Localization**
 
@@ -5283,8 +5283,8 @@
 **6DOPE-GS: Online 6D Object Pose Estimation using Gaussian Splatting**
 
 - Paper: <https://arxiv.org/abs/2412.01543>
-- Notes (Chinese): [papernotes.org/ICCV2025/autonomous_driving/6dope-gs_online…](https://papernotes.org/ICCV2025/autonomous_driving/6dope-gs_online_6d_object_pose_estimation_using_gaussian_splatting/)
-- Notes (English): [en.papernotes.org/ICCV2025/autonomous_driving/6dope-gs_onl…](https://en.papernotes.org/ICCV2025/autonomous_driving/6dope-gs_online_6d_object_pose_estimation_using_gaussian_splatting/)
+- Notes (Chinese): [papernotes.org/ICCV2025/autonomous_driving/6dopegs_online_…](https://papernotes.org/ICCV2025/autonomous_driving/6dopegs_online_6d_object_pose_estimation_using_gaussian_spla/)
+- Notes (English): [en.papernotes.org/ICCV2025/autonomous_driving/6dopegs_onli…](https://en.papernotes.org/ICCV2025/autonomous_driving/6dopegs_online_6d_object_pose_estimation_using_gaussian_spla/)
 
 **Counting Stacked Objects**
 
@@ -5315,7 +5315,7 @@
 
 - Paper: <https://arxiv.org/abs/2411.07725>
 - Notes (Chinese): [papernotes.org/ICCV2025/autonomous_driving/alocc_adaptive_…](https://papernotes.org/ICCV2025/autonomous_driving/alocc_adaptive_lifting-based_3d_semantic_occupancy_and_cost_volume-based_flow_pr/)
-- Notes (English): [en.papernotes.org/ICCV2025/autonomous_driving/alocc_adapti…](https://en.papernotes.org/ICCV2025/autonomous_driving/alocc_adaptive_lifting-based_3d_semantic_occupancy_and_cost_volume-based_flow_pr/)
+- Notes (English): [en.papernotes.org/ICCV2025/autonomous_driving/alocc_adapti…](https://en.papernotes.org/ICCV2025/autonomous_driving/alocc_adaptive_liftingbased_3d_semantic_occupancy_and_cost_v/)
 
 **GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**
 
@@ -5446,8 +5446,8 @@
 
 - Paper: <https://arxiv.org/abs/2508.01152>
 - Code: <https://github.com/XinyuYanTJU/LawDIS>
-- Notes (Chinese): [papernotes.org/ICCV2025/segmentation/lawdis_language-windo…](https://papernotes.org/ICCV2025/segmentation/lawdis_language-window-based_controllable_dichotomous_image_segmentati/)
-- Notes (English): [en.papernotes.org/ICCV2025/segmentation/lawdis_language-wi…](https://en.papernotes.org/ICCV2025/segmentation/lawdis_language-window-based_controllable_dichotomous_image_segmentati/)
+- Notes (Chinese): [papernotes.org/ICCV2025/segmentation/lawdis_language-windo…](https://papernotes.org/ICCV2025/segmentation/lawdis_language-window-based_controllable_dichotomous_image_segmentation/)
+- Notes (English): [en.papernotes.org/ICCV2025/segmentation/lawdis_language-wi…](https://en.papernotes.org/ICCV2025/segmentation/lawdis_language-window-based_controllable_dichotomous_image_segmentation/)
 
 **Ensemble Foreground Management for Unsupervised Object Discovery**
 
@@ -5479,8 +5479,8 @@
 
 - Paper: <https://arxiv.org/abs/2507.12857>
 - Code: <https://github.com/HuangShiqi128/SCORE>
-- Notes (Chinese): [papernotes.org/ICCV2025/segmentation/score_scene_context_m…](https://papernotes.org/ICCV2025/segmentation/score_scene_context_matters_in_open-vocabulary_remote_sensing_instance_segmentat/)
-- Notes (English): [en.papernotes.org/ICCV2025/segmentation/score_scene_contex…](https://en.papernotes.org/ICCV2025/segmentation/score_scene_context_matters_in_open-vocabulary_remote_sensing_instance_segmentat/)
+- Notes (Chinese): [papernotes.org/ICCV2025/segmentation/score_scene_context_m…](https://papernotes.org/ICCV2025/segmentation/score_scene_context_matters_in_openvocabulary_remote_sensing/)
+- Notes (English): [en.papernotes.org/ICCV2025/segmentation/score_scene_contex…](https://en.papernotes.org/ICCV2025/segmentation/score_scene_context_matters_in_openvocabulary_remote_sensing/)
 
 **DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy**
 
@@ -5832,8 +5832,8 @@
 
 - Paper: <https://arxiv.org/abs/2412.17377>
 - Project: <https://physicalmotionrestoration.github.io/>
-- Notes (Chinese): [papernotes.org/ICCV2025/segmentation/a_plug-and-play_physi…](https://papernotes.org/ICCV2025/segmentation/a_plug-and-play_physical_motion_restoration_approach_for_in-the-wild_high-diffic/)
-- Notes (English): [en.papernotes.org/ICCV2025/segmentation/a_plug-and-play_ph…](https://en.papernotes.org/ICCV2025/segmentation/a_plug-and-play_physical_motion_restoration_approach_for_in-the-wild_high-diffic/)
+- Notes (Chinese): [papernotes.org/ICCV2025/segmentation/a_plugandplay_physica…](https://papernotes.org/ICCV2025/segmentation/a_plugandplay_physical_motion_restoration_approach_for_inthe/)
+- Notes (English): [en.papernotes.org/ICCV2025/segmentation/a_plugandplay_phys…](https://en.papernotes.org/ICCV2025/segmentation/a_plugandplay_physical_motion_restoration_approach_for_inthe/)
 
 **ObjectRelator: Enabling Cross-View Object Relation Understanding Across Ego-Centric and Exo-Centric Perspectives**
 
@@ -6212,8 +6212,8 @@
 **CryoFastAR: Fast Cryo-EM Ab initio Reconstruction Made Easy**
 
 - Paper: <https://arxiv.org/abs/2506.05864>
-- Notes (Chinese): [papernotes.org/ICCV2025/medical_imaging/cryofastar_fast_cr…](https://papernotes.org/ICCV2025/medical_imaging/cryofastar_fast_cryo-em_ab_initio_reconstruction_made_easy/)
-- Notes (English): [en.papernotes.org/ICCV2025/medical_imaging/cryofastar_fast…](https://en.papernotes.org/ICCV2025/medical_imaging/cryofastar_fast_cryo-em_ab_initio_reconstruction_made_easy/)
+- Notes (Chinese): [papernotes.org/ICCV2025/medical_imaging/cryofastar_fast_cr…](https://papernotes.org/ICCV2025/medical_imaging/cryofastar_fast_cryoem_ab_initio_reconstruction_made_easy/)
+- Notes (English): [en.papernotes.org/ICCV2025/medical_imaging/cryofastar_fast…](https://en.papernotes.org/ICCV2025/medical_imaging/cryofastar_fast_cryoem_ab_initio_reconstruction_made_easy/)
 
 **ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**
 
@@ -6296,8 +6296,8 @@
 **An OpenMind for 3D Medical Vision Self-supervised Learning**
 
 - Paper: <https://arxiv.org/abs/2412.17041>
-- Notes (Chinese): [papernotes.org/ICCV2025/medical_imaging/an_openmind_for_3d…](https://papernotes.org/ICCV2025/medical_imaging/an_openmind_for_3d_medical_vision_self-supervised_learning/)
-- Notes (English): [en.papernotes.org/ICCV2025/medical_imaging/an_openmind_for…](https://en.papernotes.org/ICCV2025/medical_imaging/an_openmind_for_3d_medical_vision_self-supervised_learning/)
+- Notes (Chinese): [papernotes.org/ICCV2025/medical_imaging/an_openmind_for_3d…](https://papernotes.org/ICCV2025/medical_imaging/an_openmind_for_3d_medical_vision_selfsupervised_learning/)
+- Notes (English): [en.papernotes.org/ICCV2025/medical_imaging/an_openmind_for…](https://en.papernotes.org/ICCV2025/medical_imaging/an_openmind_for_3d_medical_vision_selfsupervised_learning/)
 
 **MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance**
 
@@ -6732,8 +6732,8 @@
 **DOLLAR: Few-Step Video Generation via Distillation and Latent Reward Optimization**
 
 - Paper: <https://arxiv.org/abs/2412.15689>
-- Notes (Chinese): [papernotes.org/ICCV2025/video_generation/dollar_few-step_v…](https://papernotes.org/ICCV2025/video_generation/dollar_few-step_video_generation_via_distillation_and_latent_reward_optimization/)
-- Notes (English): [en.papernotes.org/ICCV2025/video_generation/dollar_few-ste…](https://en.papernotes.org/ICCV2025/video_generation/dollar_few-step_video_generation_via_distillation_and_latent_reward_optimization/)
+- Notes (Chinese): [papernotes.org/ICCV2025/video_generation/dollar_fewstep_vi…](https://papernotes.org/ICCV2025/video_generation/dollar_fewstep_video_generation_via_distillation_and_latent/)
+- Notes (English): [en.papernotes.org/ICCV2025/video_generation/dollar_fewstep…](https://en.papernotes.org/ICCV2025/video_generation/dollar_fewstep_video_generation_via_distillation_and_latent/)
 
 **Prompt-A-Video: Prompt Your Video Diffusion Model via Preference-Aligned LLM**
 
@@ -6941,15 +6941,15 @@
 
 - Paper: <https://arxiv.org/abs/2412.03248>
 - Code: <https://github.com/LaVi-Lab/AIM>
-- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/aim_adaptive_i…](https://papernotes.org/ICCV2025/video_understanding/aim_adaptive_inference_multimodal_llms_token_merging_pruning/)
-- Notes (English): [en.papernotes.org/ICCV2025/video_understanding/aim_adaptiv…](https://en.papernotes.org/ICCV2025/video_understanding/aim_adaptive_inference_multimodal_llms_token_merging_pruning/)
+- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/aim_adaptive_i…](https://papernotes.org/ICCV2025/video_understanding/aim_adaptive_inference_of_multi_modal_llms_via_token_merging_and_pruning/)
+- Notes (English): [en.papernotes.org/ICCV2025/video_understanding/aim_adaptiv…](https://en.papernotes.org/ICCV2025/video_understanding/aim_adaptive_inference_of_multi_modal_llms_via_token_merging_and_pruning/)
 
 **Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections**
 
 - Paper: <https://arxiv.org/abs/2411.14796>
 - Code: <https://github.com/6UOOON9/Hyper-GCN>
-- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/adaptive_hyper…](https://papernotes.org/ICCV2025/video_understanding/adaptive_hyper-graph_convolution_network_for_skeleton-based_human_action_recogni/)
-- Notes (English): [en.papernotes.org/ICCV2025/video_understanding/adaptive_hy…](https://en.papernotes.org/ICCV2025/video_understanding/adaptive_hyper-graph_convolution_network_for_skeleton-based_human_action_recogni/)
+- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/adaptive_hyper…](https://papernotes.org/ICCV2025/video_understanding/adaptive_hyper_graph_convolution_network_skeleton_action_recognition/)
+- Notes (English): [en.papernotes.org/ICCV2025/video_understanding/adaptive_hy…](https://en.papernotes.org/ICCV2025/video_understanding/adaptive_hyper_graph_convolution_network_skeleton_action_recognition/)
 
 **BlinkTrack: Feature Tracking over 80 FPS via Events and Images**
 
@@ -7115,8 +7115,8 @@
 
 - Paper: <https://arxiv.org/abs/2506.07310>
 - Project: <https://alltracker.github.io>
-- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/alltracker_efficient_den…](https://papernotes.org/ICCV2025/3d_vision/alltracker_efficient_dense_point_tracking_at_high_resolution/)
-- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/alltracker_efficient_…](https://en.papernotes.org/ICCV2025/3d_vision/alltracker_efficient_dense_point_tracking_at_high_resolution/)
+- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/alltracker_eff…](https://papernotes.org/ICCV2025/video_understanding/alltracker_efficient_dense_point_tracking_at_high_resolution/)
+- Notes (English): [en.papernotes.org/ICCV2025/video_understanding/alltracker_…](https://en.papernotes.org/ICCV2025/video_understanding/alltracker_efficient_dense_point_tracking_at_high_resolution/)
 
 **From Trial to Triumph: Advancing Long Video Understanding via Visual Context Sample Scaling and Self-reward Alignment**
 
@@ -7131,8 +7131,8 @@
 **4D-Bench: Benchmarking Multi-modal Large Language Models for 4D Object Understanding**
 
 - Paper: <https://arxiv.org/abs/2503.17827>
-- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/4d-bench_bench…](https://papernotes.org/ICCV2025/video_understanding/4d-bench_benchmarking_multi-modal_large_language_models_for_4d_object_understand/)
-- Notes (English): [en.papernotes.org/ICCV2025/video_understanding/4d-bench_be…](https://en.papernotes.org/ICCV2025/video_understanding/4d-bench_benchmarking_multi-modal_large_language_models_for_4d_object_understand/)
+- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/4dbench_benchm…](https://papernotes.org/ICCV2025/video_understanding/4dbench_benchmarking_multimodal_large_language_models_for_4d/)
+- Notes (English): [en.papernotes.org/ICCV2025/video_understanding/4dbench_ben…](https://en.papernotes.org/ICCV2025/video_understanding/4dbench_benchmarking_multimodal_large_language_models_for_4d/)
 
 **Multi-modal Multi-platform Person Re-Identification: Benchmark and Method**
 
@@ -7259,8 +7259,8 @@
 
 **Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections**
 
-- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/adaptive_hyper…](https://papernotes.org/ICCV2025/video_understanding/adaptive_hyper-graph_convolution_network_for_skeleton-based_human_action_recogni/)
-- Notes (English): [en.papernotes.org/ICCV2025/video_understanding/adaptive_hy…](https://en.papernotes.org/ICCV2025/video_understanding/adaptive_hyper-graph_convolution_network_for_skeleton-based_human_action_recogni/)
+- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/adaptive_hyper…](https://papernotes.org/ICCV2025/video_understanding/adaptive_hyper_graph_convolution_network_skeleton_action_recognition/)
+- Notes (English): [en.papernotes.org/ICCV2025/video_understanding/adaptive_hy…](https://en.papernotes.org/ICCV2025/video_understanding/adaptive_hyper_graph_convolution_network_skeleton_action_recognition/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -7452,8 +7452,8 @@
 **CarGait: Cross-Attention based Re-ranking for Gait recognition**
 
 - Paper: <https://arxiv.org/abs/2503.03501>
-- Notes (Chinese): [papernotes.org/ICCV2025/human_understanding/cargait_cross-…](https://papernotes.org/ICCV2025/human_understanding/cargait_cross-attention_based_re-ranking_for_gait_recognition/)
-- Notes (English): [en.papernotes.org/ICCV2025/human_understanding/cargait_cro…](https://en.papernotes.org/ICCV2025/human_understanding/cargait_cross-attention_based_re-ranking_for_gait_recognition/)
+- Notes (Chinese): [papernotes.org/ICCV2025/human_understanding/cargait_cross_…](https://papernotes.org/ICCV2025/human_understanding/cargait_cross_attention_based_re_ranking_for_gait_recognition/)
+- Notes (English): [en.papernotes.org/ICCV2025/human_understanding/cargait_cro…](https://en.papernotes.org/ICCV2025/human_understanding/cargait_cross_attention_based_re_ranking_for_gait_recognition/)
 
 **Avat3r: Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars**
 
@@ -7854,8 +7854,8 @@
 **B-VLLM: A Vision Large Language Model with Balanced Spatio-Temporal Tokens**
 
 - Paper: <https://arxiv.org/abs/2412.09919>
-- Notes (Chinese): [papernotes.org/ICCV2025/model_compression/b-vllm_a_vision_…](https://papernotes.org/ICCV2025/model_compression/b-vllm_a_vision_large_language_model_with_balanced_spatio-temporal_tokens/)
-- Notes (English): [en.papernotes.org/ICCV2025/model_compression/b-vllm_a_visi…](https://en.papernotes.org/ICCV2025/model_compression/b-vllm_a_vision_large_language_model_with_balanced_spatio-temporal_tokens/)
+- Notes (Chinese): [papernotes.org/ICCV2025/model_compression/b_vllm_a_vision_…](https://papernotes.org/ICCV2025/model_compression/b_vllm_a_vision_large_language_model_with_balanced_spatio_temporal_tokens/)
+- Notes (English): [en.papernotes.org/ICCV2025/model_compression/b_vllm_a_visi…](https://en.papernotes.org/ICCV2025/model_compression/b_vllm_a_vision_large_language_model_with_balanced_spatio_temporal_tokens/)
 
 **VQ-SGen: A Vector Quantized Stroke Representation for Creative Sketch Generation**
 
@@ -7873,15 +7873,15 @@
 
 - Paper: <https://openaccess.thecvf.com/content/ICCV2025/html/Deng_ArgMatch_Adaptive_Refinement_Gathering_for_Efficient_Dense_Matching_ICCV_2025_paper.html>
 - Code: <https://github.com/ACuOoOoO/argmatch>
-- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/argmatch_adaptive_refine…](https://papernotes.org/ICCV2025/3d_vision/argmatch_adaptive_refinement_gathering_for_efficient_dense_matching/)
-- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/argmatch_adaptive_ref…](https://en.papernotes.org/ICCV2025/3d_vision/argmatch_adaptive_refinement_gathering_for_efficient_dense_matching/)
+- Notes (Chinese): [papernotes.org/ICCV2025/model_compression/argmatch_adaptiv…](https://papernotes.org/ICCV2025/model_compression/argmatch_adaptive_refinement_gathering_for_efficient_dense_matching/)
+- Notes (English): [en.papernotes.org/ICCV2025/model_compression/argmatch_adap…](https://en.papernotes.org/ICCV2025/model_compression/argmatch_adaptive_refinement_gathering_for_efficient_dense_matching/)
 
 **Any-SSR: How Recursive Least Squares Works in Continual Learning of Large Language Model**
 
 - Paper: <https://openaccess.thecvf.com/content/ICCV2025/html/Tong_Any-SSR_How_Recursive_Least_Squares_Works_in_Continual_Learning_of_ICCV_2025_paper.html>
 - Code: <https://github.com/ZHUANGHP/Any-SSR>
-- Notes (Chinese): [papernotes.org/ICCV2025/llm_nlp/any-ssr_how_recursive_leas…](https://papernotes.org/ICCV2025/llm_nlp/any-ssr_how_recursive_least_squares_works_in_continual_learning_of_large_languag/)
-- Notes (English): [en.papernotes.org/ICCV2025/llm_nlp/any-ssr_how_recursive_l…](https://en.papernotes.org/ICCV2025/llm_nlp/any-ssr_how_recursive_least_squares_works_in_continual_learning_of_large_languag/)
+- Notes (Chinese): [papernotes.org/ICCV2025/llm_nlp/any_ssr_how_recursive_leas…](https://papernotes.org/ICCV2025/llm_nlp/any_ssr_how_recursive_least_squares_works_in_continual_learning_of_large_language_models/)
+- Notes (English): [en.papernotes.org/ICCV2025/llm_nlp/any_ssr_how_recursive_l…](https://en.papernotes.org/ICCV2025/llm_nlp/any_ssr_how_recursive_least_squares_works_in_continual_learning_of_large_language_models/)
 
 **WINS: Winograd Structured Pruning for Fast Winograd Convolution**
 
@@ -7935,8 +7935,8 @@
 
 **Aligning Information Capacity Between Vision and Language via Dense-to-Sparse Feature Distillation for Image-Text Matching**
 
-- Notes (Chinese): [papernotes.org/ICCV2025/information_retrieval/aligning_inf…](https://papernotes.org/ICCV2025/information_retrieval/aligning_information_capacity_between_vision_and_language_via_dense-to-sparse_fe/)
-- Notes (English): [en.papernotes.org/ICCV2025/information_retrieval/aligning_…](https://en.papernotes.org/ICCV2025/information_retrieval/aligning_information_capacity_between_vision_and_language_via_dense-to-sparse_fe/)
+- Notes (Chinese): [papernotes.org/ICCV2025/information_retrieval/aligning_inf…](https://papernotes.org/ICCV2025/information_retrieval/aligning_information_capacity_between_vision_and_language_via_dense_to_sparse_feature_distillation/)
+- Notes (English): [en.papernotes.org/ICCV2025/information_retrieval/aligning_…](https://en.papernotes.org/ICCV2025/information_retrieval/aligning_information_capacity_between_vision_and_language_via_dense_to_sparse_feature_distillation/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -8560,8 +8560,8 @@
 **A Conditional Probability Framework for Compositional Zero-shot Learning**
 
 - Paper: <https://arxiv.org/abs/2507.17377>
-- Notes (Chinese): [papernotes.org/ICCV2025/llm_evaluation/a_conditional_proba…](https://papernotes.org/ICCV2025/llm_evaluation/a_conditional_probability_framework_for_compositional_zero-shot_learning/)
-- Notes (English): [en.papernotes.org/ICCV2025/llm_evaluation/a_conditional_pr…](https://en.papernotes.org/ICCV2025/llm_evaluation/a_conditional_probability_framework_for_compositional_zero-shot_learning/)
+- Notes (Chinese): [papernotes.org/ICCV2025/llm_evaluation/a_conditional_proba…](https://papernotes.org/ICCV2025/llm_evaluation/a_conditional_probability_framework_for_compositional_zerosh/)
+- Notes (English): [en.papernotes.org/ICCV2025/llm_evaluation/a_conditional_pr…](https://en.papernotes.org/ICCV2025/llm_evaluation/a_conditional_probability_framework_for_compositional_zerosh/)
 
 **PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing**
 
@@ -8723,8 +8723,8 @@
 
 - Paper: <https://arxiv.org/abs/2502.01289>
 - Code: <https://github.com/tnurbek/blindfed>
-- Notes (Chinese): [papernotes.org/ICCV2025/ai_safety/a_framework_for_double-b…](https://papernotes.org/ICCV2025/ai_safety/a_framework_for_double-blind_federated_adaptation_of_foundation_models/)
-- Notes (English): [en.papernotes.org/ICCV2025/ai_safety/a_framework_for_doubl…](https://en.papernotes.org/ICCV2025/ai_safety/a_framework_for_double-blind_federated_adaptation_of_foundation_models/)
+- Notes (Chinese): [papernotes.org/ICCV2025/ai_safety/a_framework_for_doublebl…](https://papernotes.org/ICCV2025/ai_safety/a_framework_for_doubleblind_federated_adaptation_of_foundati/)
+- Notes (English): [en.papernotes.org/ICCV2025/ai_safety/a_framework_for_doubl…](https://en.papernotes.org/ICCV2025/ai_safety/a_framework_for_doubleblind_federated_adaptation_of_foundati/)
 
 **Vulnerability-Aware Spatio-Temporal Learning for Generalizable Deepfake Video Detection**
 
@@ -8804,8 +8804,8 @@
 **Ask and Remember: A Questions-Only Replay Strategy for Continual Visual Question Answering**
 
 - Paper: <https://arxiv.org/abs/2502.04469>
-- Notes (Chinese): [papernotes.org/ICCV2025/ai_safety/ask_and_remember_a_quest…](https://papernotes.org/ICCV2025/ai_safety/ask_and_remember_a_questions-only_replay_strategy_for_continual_visual_question_/)
-- Notes (English): [en.papernotes.org/ICCV2025/ai_safety/ask_and_remember_a_qu…](https://en.papernotes.org/ICCV2025/ai_safety/ask_and_remember_a_questions-only_replay_strategy_for_continual_visual_question_/)
+- Notes (Chinese): [papernotes.org/ICCV2025/ai_safety/ask_and_remember_a_quest…](https://papernotes.org/ICCV2025/ai_safety/ask_and_remember_a_questions_only_replay_strategy_for_continual_visual_question_answering/)
+- Notes (English): [en.papernotes.org/ICCV2025/ai_safety/ask_and_remember_a_qu…](https://en.papernotes.org/ICCV2025/ai_safety/ask_and_remember_a_questions_only_replay_strategy_for_continual_visual_question_answering/)
 
 **Semantic Alignment and Reinforcement for Data-Free Quantization of Vision Transformers**
 
@@ -9104,15 +9104,15 @@
 
 - Paper: <https://arxiv.org/abs/2510.10100>
 - Code: <https://github.com/krumpguo/FedCoPL>
-- Notes (Chinese): [papernotes.org/ICCV2025/optimization/cooperative_pseudo_la…](https://papernotes.org/ICCV2025/optimization/cooperative_pseudo_labeling_for_unsupervised_federated_classification/)
-- Notes (English): [en.papernotes.org/ICCV2025/optimization/cooperative_pseudo…](https://en.papernotes.org/ICCV2025/optimization/cooperative_pseudo_labeling_for_unsupervised_federated_classification/)
+- Notes (Chinese): [papernotes.org/ICCV2025/llm_safety/cooperative_pseudo_labe…](https://papernotes.org/ICCV2025/llm_safety/cooperative_pseudo_labeling_for_unsupervised_federated_classification/)
+- Notes (English): [en.papernotes.org/ICCV2025/llm_safety/cooperative_pseudo_l…](https://en.papernotes.org/ICCV2025/llm_safety/cooperative_pseudo_labeling_for_unsupervised_federated_classification/)
 
 **Latte: Collaborative Test-Time Adaptation of Vision-Language Models in Federated Learning**
 
 - Paper: <https://arxiv.org/abs/2507.21494>
 - Code: <https://github.com/baowenxuan/Latte>
-- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/latte_collaborative…](https://papernotes.org/ICCV2025/multimodal_vlm/latte_collaborative_test-time_adaptation_of_vision-language_models_in_federated_/)
-- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/latte_collaborat…](https://en.papernotes.org/ICCV2025/multimodal_vlm/latte_collaborative_test-time_adaptation_of_vision-language_models_in_federated_/)
+- Notes (Chinese): [papernotes.org/ICCV2025/llm_safety/latte_collaborative_tes…](https://papernotes.org/ICCV2025/llm_safety/latte_collaborative_test-time_adaptation_of_vision-language_models_in_federated_/)
+- Notes (English): [en.papernotes.org/ICCV2025/llm_safety/latte_collaborative_…](https://en.papernotes.org/ICCV2025/llm_safety/latte_collaborative_test-time_adaptation_of_vision-language_models_in_federated_/)
 
 **Asynchronous Event Error-Minimizing Noise for Safeguarding Event Dataset**
 
@@ -9125,8 +9125,8 @@
 
 - Paper: <https://arxiv.org/abs/2504.20860>
 - Code: <https://github.com/mainaksingha01/FedMVP>
-- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/fedmvp_federated_mu…](https://papernotes.org/ICCV2025/multimodal_vlm/fedmvp_federated_multimodal_visual_prompt_tuning_for_vision-language_models/)
-- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/fedmvp_federated…](https://en.papernotes.org/ICCV2025/multimodal_vlm/fedmvp_federated_multimodal_visual_prompt_tuning_for_vision-language_models/)
+- Notes (Chinese): [papernotes.org/ICCV2025/llm_safety/fedmvp_federated_multim…](https://papernotes.org/ICCV2025/llm_safety/fedmvp_federated_multimodal_visual_prompt_tuning_for_vision-language_models/)
+- Notes (English): [en.papernotes.org/ICCV2025/llm_safety/fedmvp_federated_mul…](https://en.papernotes.org/ICCV2025/llm_safety/fedmvp_federated_multimodal_visual_prompt_tuning_for_vision-language_models/)
 
 **Forgetting Through Transforming: Enabling Federated Unlearning via Class-Aware Representation Transformation**
 
@@ -9144,8 +9144,8 @@
 **SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders**
 
 - Paper: <https://arxiv.org/abs/2503.14530>
-- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/sauce_selective_con…](https://papernotes.org/ICCV2025/multimodal_vlm/sauce_selective_concept_unlearning_in_vision-language_models_with_sparse_autoenc/)
-- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/sauce_selective_…](https://en.papernotes.org/ICCV2025/multimodal_vlm/sauce_selective_concept_unlearning_in_vision-language_models_with_sparse_autoenc/)
+- Notes (Chinese): [papernotes.org/ICCV2025/llm_safety/sauce_selective_concept…](https://papernotes.org/ICCV2025/llm_safety/sauce_selective_concept_unlearning_in_vision-language_models_with_sparse_autoenc/)
+- Notes (English): [en.papernotes.org/ICCV2025/llm_safety/sauce_selective_conc…](https://en.papernotes.org/ICCV2025/llm_safety/sauce_selective_concept_unlearning_in_vision-language_models_with_sparse_autoenc/)
 
 **Oasis: One Image is All You Need for Multimodal Instruction Data Synthesis**
 
@@ -9160,8 +9160,8 @@
 **MUNBa: Machine Unlearning via Nash Bargaining**
 
 - Paper: <https://arxiv.org/abs/2411.15537>
-- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/munba_machine_unl…](https://papernotes.org/ICCV2025/image_generation/munba_machine_unlearning_via_nash_bargaining/)
-- Notes (English): [en.papernotes.org/ICCV2025/image_generation/munba_machine_…](https://en.papernotes.org/ICCV2025/image_generation/munba_machine_unlearning_via_nash_bargaining/)
+- Notes (Chinese): [papernotes.org/ICCV2025/llm_safety/munba_machine_unlearnin…](https://papernotes.org/ICCV2025/llm_safety/munba_machine_unlearning_via_nash_bargaining/)
+- Notes (English): [en.papernotes.org/ICCV2025/llm_safety/munba_machine_unlear…](https://en.papernotes.org/ICCV2025/llm_safety/munba_machine_unlearning_via_nash_bargaining/)
 
 **Geminio: Language-Guided Gradient Inversion Attacks in Federated Learning**
 
@@ -9514,8 +9514,8 @@
 **ACE-G: Improving Generalization of Scene Coordinate Regression Through Query Pre-Training**
 
 - Paper: <https://arxiv.org/abs/2510.11605>
-- Notes (Chinese): [papernotes.org/ICCV2025/llm_pretraining/ace-g_improving_ge…](https://papernotes.org/ICCV2025/llm_pretraining/ace-g_improving_generalization_of_scene_coordinate_regression_through_query_pre-/)
-- Notes (English): [en.papernotes.org/ICCV2025/llm_pretraining/ace-g_improving…](https://en.papernotes.org/ICCV2025/llm_pretraining/ace-g_improving_generalization_of_scene_coordinate_regression_through_query_pre-/)
+- Notes (Chinese): [papernotes.org/ICCV2025/llm_pretraining/aceg_improving_gen…](https://papernotes.org/ICCV2025/llm_pretraining/aceg_improving_generalization_of_scene_coordinate_regression/)
+- Notes (English): [en.papernotes.org/ICCV2025/llm_pretraining/aceg_improving_…](https://en.papernotes.org/ICCV2025/llm_pretraining/aceg_improving_generalization_of_scene_coordinate_regression/)
 
 **ConstStyle: Robust Domain Generalization with Unified Style Transformation**
 
@@ -9635,14 +9635,14 @@
 
 - Paper: <https://arxiv.org/abs/2501.00958>
 - Project: <https://multimodal-interleaved-textbook.github.io>
-- Notes (Chinese): [papernotes.org/ICCV2025/audio_speech/25_years_in_class_a_m…](https://papernotes.org/ICCV2025/audio_speech/25_years_in_class_a_multimodal_textbook_for_vision-language_pretraining/)
-- Notes (English): [en.papernotes.org/ICCV2025/audio_speech/25_years_in_class_…](https://en.papernotes.org/ICCV2025/audio_speech/25_years_in_class_a_multimodal_textbook_for_vision-language_pretraining/)
+- Notes (Chinese): [papernotes.org/ICCV2025/audio_speech/25_years_in_class_a_m…](https://papernotes.org/ICCV2025/audio_speech/25_years_in_class_a_multimodal_textbook_for_visionlanguage_p/)
+- Notes (English): [en.papernotes.org/ICCV2025/audio_speech/25_years_in_class_…](https://en.papernotes.org/ICCV2025/audio_speech/25_years_in_class_a_multimodal_textbook_for_visionlanguage_p/)
 
 **Lyra: An Efficient and Speech-Centric Framework for Omni-Cognition**
 
 - Paper: <https://arxiv.org/abs/2412.09501>
-- Notes (Chinese): [papernotes.org/ICCV2025/audio_speech/lyra_an_efficient_and…](https://papernotes.org/ICCV2025/audio_speech/lyra_an_efficient_and_speech-centric_framework_for_omni-cognition/)
-- Notes (English): [en.papernotes.org/ICCV2025/audio_speech/lyra_an_efficient_…](https://en.papernotes.org/ICCV2025/audio_speech/lyra_an_efficient_and_speech-centric_framework_for_omni-cognition/)
+- Notes (Chinese): [papernotes.org/ICCV2025/audio_speech/lyra_an_efficient_and…](https://papernotes.org/ICCV2025/audio_speech/lyra_an_efficient_and_speechcentric_framework_for_omnicognit/)
+- Notes (English): [en.papernotes.org/ICCV2025/audio_speech/lyra_an_efficient_…](https://en.papernotes.org/ICCV2025/audio_speech/lyra_an_efficient_and_speechcentric_framework_for_omnicognit/)
 
 **Everything is a Video: Unifying Modalities through Next-Frame Prediction**
 
@@ -9849,8 +9849,8 @@
 **Aligning Information Capacity Between Vision and Language via Dense-to-Sparse Feature Distillation for Image-Text Matching**
 
 - Paper: <https://arxiv.org/abs/2503.14953>
-- Notes (Chinese): [papernotes.org/ICCV2025/information_retrieval/aligning_inf…](https://papernotes.org/ICCV2025/information_retrieval/aligning_information_capacity_between_vision_and_language_via_dense-to-sparse_fe/)
-- Notes (English): [en.papernotes.org/ICCV2025/information_retrieval/aligning_…](https://en.papernotes.org/ICCV2025/information_retrieval/aligning_information_capacity_between_vision_and_language_via_dense-to-sparse_fe/)
+- Notes (Chinese): [papernotes.org/ICCV2025/information_retrieval/aligning_inf…](https://papernotes.org/ICCV2025/information_retrieval/aligning_information_capacity_between_vision_and_language_via_dense_to_sparse_feature_distillation/)
+- Notes (English): [en.papernotes.org/ICCV2025/information_retrieval/aligning_…](https://en.papernotes.org/ICCV2025/information_retrieval/aligning_information_capacity_between_vision_and_language_via_dense_to_sparse_feature_distillation/)
 
 **Integrating Visual Interpretation and Linguistic Reasoning for Geometric Problem Solving**
 
@@ -10122,13 +10122,13 @@
 
 **Any-SSR: How Recursive Least Squares Works in Continual Learning of Large Language Models**
 
-- Notes (Chinese): [papernotes.org/ICCV2025/llm_nlp/any-ssr_how_recursive_leas…](https://papernotes.org/ICCV2025/llm_nlp/any-ssr_how_recursive_least_squares_works_in_continual_learning_of_large_languag/)
-- Notes (English): [en.papernotes.org/ICCV2025/llm_nlp/any-ssr_how_recursive_l…](https://en.papernotes.org/ICCV2025/llm_nlp/any-ssr_how_recursive_least_squares_works_in_continual_learning_of_large_languag/)
+- Notes (Chinese): [papernotes.org/ICCV2025/llm_nlp/any_ssr_how_recursive_leas…](https://papernotes.org/ICCV2025/llm_nlp/any_ssr_how_recursive_least_squares_works_in_continual_learning_of_large_language_models/)
+- Notes (English): [en.papernotes.org/ICCV2025/llm_nlp/any_ssr_how_recursive_l…](https://en.papernotes.org/ICCV2025/llm_nlp/any_ssr_how_recursive_least_squares_works_in_continual_learning_of_large_language_models/)
 
 **B-VLLM: A Vision Large Language Model with Balanced Spatio-Temporal Tokens**
 
-- Notes (Chinese): [papernotes.org/ICCV2025/model_compression/b-vllm_a_vision_…](https://papernotes.org/ICCV2025/model_compression/b-vllm_a_vision_large_language_model_with_balanced_spatio-temporal_tokens/)
-- Notes (English): [en.papernotes.org/ICCV2025/model_compression/b-vllm_a_visi…](https://en.papernotes.org/ICCV2025/model_compression/b-vllm_a_vision_large_language_model_with_balanced_spatio-temporal_tokens/)
+- Notes (Chinese): [papernotes.org/ICCV2025/model_compression/b_vllm_a_vision_…](https://papernotes.org/ICCV2025/model_compression/b_vllm_a_vision_large_language_model_with_balanced_spatio_temporal_tokens/)
+- Notes (English): [en.papernotes.org/ICCV2025/model_compression/b_vllm_a_visi…](https://en.papernotes.org/ICCV2025/model_compression/b_vllm_a_vision_large_language_model_with_balanced_spatio_temporal_tokens/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -10171,8 +10171,8 @@
 **Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion**
 
 - Paper: <https://arxiv.org/abs/2504.05164>
-- Notes (Chinese): [papernotes.org/ICCV2025/llm_nlp/balancing_task-invariant_i…](https://papernotes.org/ICCV2025/llm_nlp/balancing_task-invariant_interaction_and_task-specific_adaptation_for_unified_im/)
-- Notes (English): [en.papernotes.org/ICCV2025/llm_nlp/balancing_task-invarian…](https://en.papernotes.org/ICCV2025/llm_nlp/balancing_task-invariant_interaction_and_task-specific_adaptation_for_unified_im/)
+- Notes (Chinese): [papernotes.org/ICCV2025/nlp_understanding/balancing_task-i…](https://papernotes.org/ICCV2025/nlp_understanding/balancing_task-invariant_interaction_and_task-specific_adaptation_for_unified_im/)
+- Notes (English): [en.papernotes.org/ICCV2025/nlp_understanding/balancing_tas…](https://en.papernotes.org/ICCV2025/nlp_understanding/balancing_task-invariant_interaction_and_task-specific_adaptation_for_unified_im/)
 
 **Towards Comprehensive Lecture Slides Understanding: Large-scale Dataset and Effective Method**
 
@@ -10242,8 +10242,8 @@
 
 - Paper: <https://arxiv.org/abs/2508.03256>
 - Code: <https://github.com/dailenson/DiffBrush>
-- Notes (Chinese): [papernotes.org/ICCV2025/llm_nlp/beyond_isolated_words_diff…](https://papernotes.org/ICCV2025/llm_nlp/beyond_isolated_words_diffusion_brush_for_handwritten_text-line_generation/)
-- Notes (English): [en.papernotes.org/ICCV2025/llm_nlp/beyond_isolated_words_d…](https://en.papernotes.org/ICCV2025/llm_nlp/beyond_isolated_words_diffusion_brush_for_handwritten_text-line_generation/)
+- Notes (Chinese): [papernotes.org/ICCV2025/nlp_generation/beyond_isolated_wor…](https://papernotes.org/ICCV2025/nlp_generation/beyond_isolated_words_diffusion_brush_for_handwritten_text-line_generation/)
+- Notes (English): [en.papernotes.org/ICCV2025/nlp_generation/beyond_isolated_…](https://en.papernotes.org/ICCV2025/nlp_generation/beyond_isolated_words_diffusion_brush_for_handwritten_text-line_generation/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -10667,8 +10667,8 @@
 
 **3DGS-LM: Faster Gaussian-Splatting Optimization with Levenberg-Marquardt**
 
-- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/3dgs-lm_faster_gaussian-…](https://papernotes.org/ICCV2025/3d_vision/3dgs-lm_faster_gaussian-splatting_optimization_with_levenberg-marquardt/)
-- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/3dgs-lm_faster_gaussi…](https://en.papernotes.org/ICCV2025/3d_vision/3dgs-lm_faster_gaussian-splatting_optimization_with_levenberg-marquardt/)
+- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/3dgslm_faster_gaussiansp…](https://papernotes.org/ICCV2025/3d_vision/3dgslm_faster_gaussiansplatting_optimization_with_levenbergm/)
+- Notes (English): [en.papernotes.org/ICCV2025/3d_vision/3dgslm_faster_gaussia…](https://en.papernotes.org/ICCV2025/3d_vision/3dgslm_faster_gaussiansplatting_optimization_with_levenbergm/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 

@@ -19,17 +19,17 @@
 | 会议 | 文件 | 论文️| 中文笔记 | 英文笔记 |
 |---|---|---:|---:|---:|
 | ICML 2026 | [ICML2026-Papers.md](ICML2026-Papers.md) | 410 | 410 | 410 |
-| ACL 2026 | [ACL2026-Papers.md](ACL2026-Papers.md) | 680 | 680 | 680 |
+| ACL 2026 | [ACL2026-Papers.md](ACL2026-Papers.md) | 1,168 | 1,168 | 680 |
 | CVPR 2026 | [CVPR2026-Papers.md](CVPR2026-Papers.md) | 1,626 | 1,626 | 1,625 |
 | ICLR 2026 | [ICLR2026-Papers.md](ICLR2026-Papers.md) | 1,518 | 1,515 | 1,515 |
-| AAAI 2026 | [AAAI2026-Papers.md](AAAI2026-Papers.md) | 1,381 | 1,367 | 1,367 |
-| NeurIPS 2025 | [NeurIPS2025-Papers.md](NeurIPS2025-Papers.md) | 2,526 | 2,522 | 2,485 |
+| AAAI 2026 | [AAAI2026-Papers.md](AAAI2026-Papers.md) | 1,381 | 1,372 | 1,367 |
+| NeurIPS 2025 | [NeurIPS2025-Papers.md](NeurIPS2025-Papers.md) | 2,526 | 2,523 | 2,485 |
 | ICCV 2025 | [ICCV2025-Papers.md](ICCV2025-Papers.md) | 1,805 | 1,308 | 1,292 |
 | ICML 2025 | [ICML2025-Papers.md](ICML2025-Papers.md) | 1,061 | 1,061 | 0 |
 | ACL 2025 | [ACL2025-Papers.md](ACL2025-Papers.md) | 2,394 | 1,865 | 0 |
 | CVPR 2025 | [CVPR2025-Papers.md](CVPR2025-Papers.md) | 3,130 | 1,850 | 0 |
 | ECCV 2024 | [ECCV2024-Papers.md](ECCV2024-Papers.md) | 956 | 956 | 0 |
-| **合计** | | **17,487** | **15,160** | **9,374** |
+| **合计** | | **17,975** | **15,654** | **9,374** |
 
 ## 📐 页面结构
 
