@@ -21,43 +21,43 @@
 
 ## 📑 Topic Index
 
-### Visual Perception · 339 papers
+### Visual Perception · 352 papers
 
-[🧊 3D Vision **147**](#3d_vision) · [📹 Video Understanding **46**](#video_understanding) · [✂️ Segmentation **45**](#segmentation) · [🧑 Human Understanding **43**](#human_understanding) · [🖼️ Image Restoration **35**](#image_restoration) · [🎯 Object Detection **17**](#object_detection) · [🛰️ Remote Sensing **6**](#remote_sensing)
+[🧊 3D Vision **153**](#3d_vision) · [🧑 Human Understanding **51**](#human_understanding) · [✂️ Segmentation **44**](#segmentation) · [📹 Video Understanding **40**](#video_understanding) · [🖼️ Image Restoration **35**](#image_restoration) · [🎯 Object Detection **23**](#object_detection) · [🛰️ Remote Sensing **6**](#remote_sensing)
 
-### Generation & Multimodal · 200 papers
+### Generation & Multimodal · 195 papers
 
-[🎨 Image Generation **99**](#image_generation) · [🧩 Multimodal VLM **79**](#multimodal_vlm) · [🎬 Video Generation **12**](#video_generation) · [🎵 Audio & Speech **10**](#audio_speech)
+[🎨 Image Generation **99**](#image_generation) · [🧩 Multimodal VLM **74**](#multimodal_vlm) · [🎬 Video Generation **13**](#video_generation) · [🎵 Audio & Speech **9**](#audio_speech)
+
+### Foundations & Theory · 68 papers
+
+[📦 Model Compression **31**](#model_compression) · [🔄 Self-Supervised Learning **23**](#self_supervised) · [🔗 Causal Inference **4**](#causal_inference) · [🔬 Interpretability **3**](#interpretability) · [📐 Optimization & Theory **3**](#optimization) · [🕸️ Graph Learning **2**](#graph_learning) · [📈 Time Series **2**](#time_series)
 
 ### Decision & Embodied · 66 papers
 
-[🚗 Autonomous Driving **50**](#autonomous_driving) · [🤖 Robotics & Embodied AI **14**](#robotics) · [🎮 Reinforcement Learning **2**](#reinforcement_learning)
+[🚗 Autonomous Driving **48**](#autonomous_driving) · [🤖 Robotics & Embodied AI **17**](#robotics) · [🎮 Reinforcement Learning **1**](#reinforcement_learning)
 
-### Foundations & Theory · 58 papers
+### Science & Cross-Disciplinary · 42 papers
 
-[📦 Model Compression **28**](#model_compression) · [🔄 Self-Supervised Learning **18**](#self_supervised) · [🔗 Causal Inference **4**](#causal_inference) · [📐 Optimization & Theory **3**](#optimization) · [🕸️ Graph Learning **2**](#graph_learning) · [🔬 Interpretability **2**](#interpretability) · [📈 Time Series **1**](#time_series)
+[🏥 Medical Imaging **22**](#medical_imaging) · [🛡️ AI Safety **14**](#ai_safety) · [📡 Signal & Communications **2**](#signal_comm) · [👥 Social Computing **2**](#social_computing) · [⚛️ Physics & Scientific Computing **1**](#physics) · [🧬 Computational Biology **1**](#computational_biology)
 
-### LLM · 51 papers
+### LLM · 39 papers
 
-[💬 LLM / NLP **26**](#llm_nlp) · [📊 LLM Evaluation **11**](#llm_evaluation) · [📚 LLM Pretraining **7**](#llm_pretraining) · [🦾 LLM Agent **3**](#llm_agent) · [💡 LLM Reasoning **2**](#llm_reasoning) · [⚡ LLM Efficiency **1**](#llm_efficiency) · [🔒 LLM Safety **1**](#llm_safety)
+[💬 LLM / NLP **21**](#llm_nlp) · [📚 LLM Pretraining **8**](#llm_pretraining) · [💡 LLM Reasoning **5**](#llm_reasoning) · [🦾 LLM Agent **3**](#llm_agent) · [⚡ LLM Efficiency **1**](#llm_efficiency) · [🔒 LLM Safety **1**](#llm_safety)
 
-### Science & Cross-Disciplinary · 41 papers
+### NLP Applications · 4 papers
 
-[🏥 Medical Imaging **24**](#medical_imaging) · [🛡️ AI Safety **11**](#ai_safety) · [📡 Signal & Communications **3**](#signal_comm) · [👥 Social Computing **2**](#social_computing) · [⚛️ Physics **1**](#physics)
+[🗣️ Dialogue Systems **2**](#dialogue) · [✍️ NLP Generation **1**](#nlp_generation) · [📖 NLP Understanding **1**](#nlp_understanding)
 
-### NLP Applications · 5 papers
+### Others · 190 papers
 
-[🗣️ Dialogue Systems **2**](#dialogue) · [✍️ NLP Generation **1**](#nlp_generation) · [🔍 Information Retrieval / RAG **1**](#information_retrieval) · [📖 NLP Understanding **1**](#nlp_understanding)
-
-### Others · 196 papers
-
-[📂 Others **196**](#others)
+[📂 Others **190**](#others)
 
 ---
 
 <a id="3d_vision"></a>
 
-## 🧊 3D Vision · `3d_vision` · 147 papers
+## 🧊 3D Vision · `3d_vision` · 153 papers
 
 **FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally**
 
@@ -75,7 +75,7 @@
 
 - Paper: <https://arxiv.org/abs/2407.10084v1>
 - Code: <https://github.com/ChengShiest/Part2Object>
-- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/part2object_hierarchical…](https://papernotes.org/ECCV2024/3d_vision/part2object_hierarchical_unsupervised_3d_instance_segmentation/)
+- Notes (Chinese): [papernotes.org/ECCV2024/segmentation/part2object_hierarchi…](https://papernotes.org/ECCV2024/segmentation/part2object_hierarchical_unsupervised_3d_instance_segmentation/)
 
 **CanonicalFusion: Generating Drivable 3D Human Avatars from Multiple Images**
 
@@ -114,6 +114,11 @@
 
 - Paper: <https://arxiv.org/abs/2409.05867v1>
 - Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/flash_cache_reducing_bia…](https://papernotes.org/ECCV2024/3d_vision/flash_cache_reducing_bias_in_radiance_cache_based_inverse_rendering/)
+
+**LiDAR-Event Stereo Fusion with Hallucinations**
+
+- Paper: <https://arxiv.org/abs/2408.04633>
+- Notes (Chinese): [papernotes.org/ECCV2024/autonomous_driving/lidar-event_ste…](https://papernotes.org/ECCV2024/autonomous_driving/lidar-event_stereo_fusion_with_hallucinations/)
 
 **Improving 2D Feature Representations by 3D-Aware Fine-Tuning**
 
@@ -286,7 +291,7 @@
 **Diffusion Model Is a Good Pose Estimator from 3D RF-Vision**
 
 - Paper: <https://arxiv.org/abs/2403.16198v2>
-- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/diffusion_model_is_a_goo…](https://papernotes.org/ECCV2024/3d_vision/diffusion_model_is_a_good_pose_estimator_from_3d_rf-vision/)
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/diffusion_mode…](https://papernotes.org/ECCV2024/human_understanding/diffusion_model_is_a_good_pose_estimator_from_3d_rf-vision/)
 
 **CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-Aware 3D Gaussian Field**
 
@@ -368,6 +373,10 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/3d_congealing_3d-aware_i…](https://papernotes.org/ECCV2024/3d_vision/3d_congealing_3d-aware_image_alignment_in_the_wild/)
 
+**SpectraM-PS: Spectrally Multiplexed Photometric Stereo Under Unknown Spectral Composition**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/others/spectram-ps_spectrally_mult…](https://papernotes.org/ECCV2024/others/spectram-ps_spectrally_multiplexed_photometric_stereo_under_unknown_spectral_com/)
+
 **SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/splatfields_neural_gauss…](https://papernotes.org/ECCV2024/3d_vision/splatfields_neural_gaussian_splats_for_sparse_3d_and_4d_reconstruction/)
@@ -424,6 +433,10 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/nucraft_crafting_high_re…](https://papernotes.org/ECCV2024/3d_vision/nucraft_crafting_high_resolution_3d_semantic_occupancy_for_unified_3d_scene_unde/)
 
+**LiDAR-Event Stereo Fusion with Hallucinations**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/autonomous_driving/lidar-event_ste…](https://papernotes.org/ECCV2024/autonomous_driving/lidar-event_stereo_fusion_with_hallucinations/)
+
 **HAC: Hash-Grid Assisted Context for 3D Gaussian Splatting Compression**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/hac_hash-grid_assisted_c…](https://papernotes.org/ECCV2024/3d_vision/hac_hash-grid_assisted_context_for_3d_gaussian_splatting_compression/)
@@ -435,6 +448,10 @@
 **GVGEN: Text-to-3D Generation with Volumetric Representation**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/gvgen_text-to-3d_generat…](https://papernotes.org/ECCV2024/3d_vision/gvgen_text-to-3d_generation_with_volumetric_representation/)
+
+**Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/model_compression/bidirectional_st…](https://papernotes.org/ECCV2024/model_compression/bidirectional_stereo_image_compression_with_cross-dimensional_entropy_model/)
 
 **GPSFormer: A Global Perception and Local Structure Fitting-Based Transformer for Point Cloud Understanding**
 
@@ -487,6 +504,10 @@
 **TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/tracknerf_bundle_adjusti…](https://papernotes.org/ECCV2024/3d_vision/tracknerf_bundle_adjusting_nerf_from_sparse_and_noisy_views_via_feature_tracks/)
+
+**MERLiN: Single-Shot Material Estimation and Relighting for Photometric Stereo**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/merlin_single-shot_…](https://papernotes.org/ECCV2024/llm_evaluation/merlin_single-shot_material_estimation_and_relighting_for_photometric_stereo/)
 
 **Explicitly Guided Information Interaction Network for Cross-Modal Point Cloud Completion**
 
@@ -555,6 +576,10 @@
 **Compress3D: A Compressed Latent Space for 3D Generation from a Single Image**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/compress3d_a_compressed_…](https://papernotes.org/ECCV2024/3d_vision/compress3d_a_compressed_latent_space_for_3d_generation_from_a_single_image/)
+
+**NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/neusdfusion_a_spa…](https://papernotes.org/ECCV2024/image_generation/neusdfusion_a_spatial-aware_generative_model_for_3d_shape_completion_reconstruct/)
 
 **SEDiff: Structure Extraction for Domain Adaptive Depth Estimation via Denoising Diffusion Models**
 
@@ -908,7 +933,7 @@
 **Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation**
 
 - Paper: <https://arxiv.org/abs/2403.16990>
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/be_yourself_bound…](https://papernotes.org/ECCV2024/object_detection/be_yourself_bounded_attention_for_multisubject_texttoimage_g/)
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/be_yourself_bound…](https://papernotes.org/ECCV2024/image_generation/be_yourself_bounded_attention_for_multisubject_texttoimage_g/)
 
 **ReNoise: Real Image Inversion Through Iterative Noising**
 
@@ -943,7 +968,7 @@
 **DreamDrone: Text-to-Image Diffusion Models Are Zero-Shot Perpetual View Generators**
 
 - Paper: <https://arxiv.org/abs/2312.08746>
-- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/dreamdrone_text-to-image…](https://papernotes.org/ECCV2024/3d_vision/dreamdrone_text-to-image_diffusion_models_are_zero-shot_perpetual_view_generator/)
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/dreamdrone_text-t…](https://papernotes.org/ECCV2024/image_generation/dreamdrone_text-to-image_diffusion_models_are_zero-shot_perpetual_view_generator/)
 
 **LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning**
 
@@ -955,6 +980,11 @@
 
 - Paper: <https://arxiv.org/abs/2312.02256>
 - Notes (Chinese): [papernotes.org/ECCV2024/image_generation/emdm_efficient_mo…](https://papernotes.org/ECCV2024/image_generation/emdm_efficient_motion_diffusion_model_for_fast_and_high-quality_motion_generatio/)
+
+**TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering**
+
+- Paper: <https://arxiv.org/abs/2311.16465>
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/textdiffuser-2_un…](https://papernotes.org/ECCV2024/image_generation/textdiffuser-2_unleashing_the_power_of_language_models_for_text_rendering/)
 
 **ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs**
 
@@ -987,6 +1017,10 @@
 **Linearly Controllable GAN: Unsupervised Feature Categorization and Decomposition for Image Generation and Manipulation**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/image_generation/linearly_controll…](https://papernotes.org/ECCV2024/image_generation/linearly_controllable_gan_unsupervised_feature_categorization_and_decomposition_/)
+
+**TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/textdiffuser-2_un…](https://papernotes.org/ECCV2024/image_generation/textdiffuser-2_unleashing_the_power_of_language_models_for_text_rendering/)
 
 **FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models**
 
@@ -1022,7 +1056,7 @@
 
 **DreamDrone: Text-to-Image Diffusion Models Are Zero-Shot Perpetual View Generators**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/dreamdrone_text-to-image…](https://papernotes.org/ECCV2024/3d_vision/dreamdrone_text-to-image_diffusion_models_are_zero-shot_perpetual_view_generator/)
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/dreamdrone_text-t…](https://papernotes.org/ECCV2024/image_generation/dreamdrone_text-to-image_diffusion_models_are_zero-shot_perpetual_view_generator/)
 
 **EBDM: Exemplar-Guided Image Translation with Brownian-Bridge Diffusion Models**
 
@@ -1042,7 +1076,7 @@
 
 **Be Yourself: Bounded Attention for Multi-subject Text-to-Image Generation**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/be_yourself_bound…](https://papernotes.org/ECCV2024/object_detection/be_yourself_bounded_attention_for_multisubject_texttoimage_g/)
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/be_yourself_bound…](https://papernotes.org/ECCV2024/image_generation/be_yourself_bounded_attention_for_multisubject_texttoimage_g/)
 
 **LCM-Lookahead for Encoder-Based Text-to-Image Personalization**
 
@@ -1100,17 +1134,13 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/image_generation/regiondrag_fast_r…](https://papernotes.org/ECCV2024/image_generation/regiondrag_fast_region-based_image_editing_with_diffusion_models/)
 
-**NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/neusdfusion_a_spa…](https://papernotes.org/ECCV2024/image_generation/neusdfusion_a_spatial-aware_generative_model_for_3d_shape_completion_reconstruct/)
-
 **L-DiffER: Single Image Reflection Removal with Language-Based Diffusion Model**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/image_generation/l-differ_single_i…](https://papernotes.org/ECCV2024/image_generation/l-differ_single_image_reflection_removal_with_language-based_diffusion_model/)
 
 **BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/segmentation/brushnet_a_plug-and-p…](https://papernotes.org/ECCV2024/segmentation/brushnet_a_plug-and-play_image_inpainting_model_with_decomposed_dual-branch_diff/)
+- Notes (Chinese): [papernotes.org/ECCV2024/image_restoration/brushnet_a_plug-…](https://papernotes.org/ECCV2024/image_restoration/brushnet_a_plug-and-play_image_inpainting_model_with_decomposed_dual-branch_diff/)
 
 **Realistic Human Motion Generation with Cross-Diffusion Models**
 
@@ -1127,10 +1157,6 @@
 **Enhancing Diffusion Models with Text-Encoder Reinforcement Learning**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/image_generation/enhancing_diffusi…](https://papernotes.org/ECCV2024/image_generation/enhancing_diffusion_models_with_text-encoder_reinforcement_learning/)
-
-**Local Action-Guided Motion Diffusion Model for Text-to-Motion Generation**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/local_action-guid…](https://papernotes.org/ECCV2024/image_generation/local_action-guided_motion_diffusion_model_for_text-to-motion_generation/)
 
 **Source Prompt Disentangled Inversion for Boosting Image Editability with Diffusion Models**
 
@@ -1168,9 +1194,9 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/image_generation/diff-tracker_text…](https://papernotes.org/ECCV2024/image_generation/diff-tracker_text-to-image_diffusion_models_are_unsupervised_trackers/)
 
-**Probabilistic Weather Forecasting with Deterministic Guidance-Based Diffusion Model**
+**Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/probabilistic_wea…](https://papernotes.org/ECCV2024/image_generation/probabilistic_weather_forecasting_with_deterministic_guidance-based_diffusion_mo/)
+- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/open-vocabulary_3d_seman…](https://papernotes.org/ECCV2024/3d_vision/open-vocabulary_3d_semantic_segmentation_with_text-to-image_diffusion_models/)
 
 **DreamDiffusion: High-Quality EEG-to-Image Generation with Temporal Masked Signal Modeling and CLIP Alignment**
 
@@ -1178,7 +1204,7 @@
 
 **UDiffText: A Unified Framework for High-Quality Text Synthesis in Arbitrary Images via Character-Aware Diffusion Models**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/segmentation/udifftext_a_unified_f…](https://papernotes.org/ECCV2024/segmentation/udifftext_a_unified_framework_for_high-quality_text_synthesis_in_arbitrary_image/)
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/udifftext_a_unifi…](https://papernotes.org/ECCV2024/image_generation/udifftext_a_unified_framework_for_high-quality_text_synthesis_in_arbitrary_image/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -1186,7 +1212,7 @@
 
 <a id="multimodal_vlm"></a>
 
-## 🧩 Multimodal VLM · `multimodal_vlm` · 79 papers
+## 🧩 Multimodal VLM · `multimodal_vlm` · 74 papers
 
 **Robust Calibration of Large Vision-Language Adapters**
 
@@ -1215,7 +1241,7 @@
 **A Multimodal Benchmark Dataset and Model for Crop Disease Diagnosis**
 
 - Paper: <https://arxiv.org/abs/2503.06973>
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/a_multimodal_benc…](https://papernotes.org/ECCV2024/object_detection/a_multimodal_benchmark_dataset_and_model_for_crop_disease_di/)
+- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/a_multimodal_benchm…](https://papernotes.org/ECCV2024/multimodal_vlm/a_multimodal_benchmark_dataset_and_model_for_crop_disease_di/)
 
 **The Hard Positive Truth About Vision-Language Compositionality**
 
@@ -1267,11 +1293,6 @@
 - Paper: <https://arxiv.org/abs/2407.13442v1>
 - Project: <https://beafbench.github.io/>
 - Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/beaf_observing_befo…](https://papernotes.org/ECCV2024/multimodal_vlm/beaf_observing_beforeafter_changes_to_evaluate_hallucination/)
-
-**NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2407.12366>
-- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/navgpt-2_unleashing…](https://papernotes.org/ECCV2024/multimodal_vlm/navgpt-2_unleashing_navigational_reasoning_capability_for_large_vision-language_/)
 
 **Quantized Prompt for Efficient Generalization of Vision-Language Models**
 
@@ -1384,11 +1405,6 @@
 - Paper: <https://arxiv.org/abs/2401.09340>
 - Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/sceneverse_scaling_3d_vi…](https://papernotes.org/ECCV2024/3d_vision/sceneverse_scaling_3d_vision-language_learning_for_grounded_scene_understanding/)
 
-**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**
-
-- Paper: <https://arxiv.org/abs/2312.14457>
-- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/quar-vla_vision-lan…](https://papernotes.org/ECCV2024/multimodal_vlm/quar-vla_vision-language-action_model_for_quadruped_robots/)
-
 **Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models**
 
 - Paper: <https://arxiv.org/abs/2312.06109>
@@ -1427,10 +1443,6 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/merlin_empowering_m…](https://papernotes.org/ECCV2024/multimodal_vlm/merlin_empowering_multimodal_llms_with_foresight_minds/)
 
-**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/quar-vla_vision-lan…](https://papernotes.org/ECCV2024/multimodal_vlm/quar-vla_vision-language-action_model_for_quadruped_robots/)
-
 **Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/groma_localized_vis…](https://papernotes.org/ECCV2024/multimodal_vlm/groma_localized_visual_tokenization_for_grounding_multimodal_large_language_mode/)
@@ -1439,10 +1451,6 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/loa-trans_enhancing…](https://papernotes.org/ECCV2024/multimodal_vlm/loa-trans_enhancing_visual_grounding_by_location-aware_transformers/)
 
-**NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/navgpt-2_unleashing…](https://papernotes.org/ECCV2024/multimodal_vlm/navgpt-2_unleashing_navigational_reasoning_capability_for_large_vision-language_/)
-
 **MATHVERSE: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/mathverse_does_your…](https://papernotes.org/ECCV2024/multimodal_vlm/mathverse_does_your_multi-modal_llm_truly_see_the_diagrams_in_visual_math_proble/)
@@ -1450,10 +1458,6 @@
 **UniCode: Learning a Unified Codebook for Multimodal Large Language Models**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/unicode_learning_a_…](https://papernotes.org/ECCV2024/multimodal_vlm/unicode_learning_a_unified_codebook_for_multimodal_large_language_models/)
-
-**ScanReason: Empowering 3D Visual Grounding with Reasoning Capabilities**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/scanreason_empowering_3d…](https://papernotes.org/ECCV2024/3d_vision/scanreason_empowering_3d_visual_grounding_with_reasoning_capabilities/)
 
 **SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding**
 
@@ -1559,9 +1563,236 @@
 
 ---
 
+<a id="human_understanding"></a>
+
+## 🧑 Human Understanding · `human_understanding` · 51 papers
+
+**Generalizable Facial Expression Recognition**
+
+- Paper: <https://arxiv.org/abs/2408.10614v1>
+- Code: <https://github.com/zyh-uaiaaaa/Generalizable-FER>
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/generalizable_…](https://papernotes.org/ECCV2024/human_understanding/generalizable_facial_expression_recognition/)
+
+**ScanTalk: 3D Talking Heads from Unregistered Scans**
+
+- Paper: <https://arxiv.org/abs/2403.10942v3>
+- Code: <https://github.com/miccunifi/ScanTalk>
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/scantalk_3d_ta…](https://papernotes.org/ECCV2024/human_understanding/scantalk_3d_talking_heads_from_unregistered_scans/)
+
+**HUMOS: Human Motion Model Conditioned on Body Shape**
+
+- Paper: <https://arxiv.org/abs/2409.03944v2>
+- Project: <https://CarstenEpic.github.io/humos/>
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/humos_human_mo…](https://papernotes.org/ECCV2024/human_understanding/humos_human_motion_model_conditioned_on_body_shape/)
+
+**ADen: Adaptive Density Representations for Sparse-view Camera Pose Estimation**
+
+- Paper: <https://arxiv.org/abs/2408.09042>
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/aden_adaptive_…](https://papernotes.org/ECCV2024/human_understanding/aden_adaptive_density_representations_for_sparseview_camera/)
+
+**MIGS: Multi-Identity Gaussian Splatting via Tensor Decomposition**
+
+- Paper: <https://arxiv.org/abs/2407.07284v2>
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/migs_multi-ide…](https://papernotes.org/ECCV2024/human_understanding/migs_multi-identity_gaussian_splatting_via_tensor_decomposition/)
+
+**How Video Meetings Change Your Expression**
+
+- Paper: <https://arxiv.org/abs/2406.00955v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/how_video_meet…](https://papernotes.org/ECCV2024/human_understanding/how_video_meetings_change_your_expression/)
+
+**TELA: Text to Layer-Wise 3D Clothed Human Generation**
+
+- Paper: <https://arxiv.org/abs/2404.16748v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/tela_text_to_l…](https://papernotes.org/ECCV2024/human_understanding/tela_text_to_layer-wise_3d_clothed_human_generation/)
+
+**WordRobe: Text-Guided Generation of Textured 3D Garments**
+
+- Paper: <https://arxiv.org/abs/2403.17541>
+- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/wordrobe_text-guided_gen…](https://papernotes.org/ECCV2024/3d_vision/wordrobe_text-guided_generation_of_textured_3d_garments/)
+
+**CoMo: Controllable Motion Generation Through Language Guided Pose Code Editing**
+
+- Paper: <https://arxiv.org/abs/2403.13900v2>
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/como_controlla…](https://papernotes.org/ECCV2024/human_understanding/como_controllable_motion_generation_through_language_guided_pose_code_editing/)
+
+**Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment**
+
+- Paper: <https://arxiv.org/abs/2403.12965v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/wear-any-way_m…](https://papernotes.org/ECCV2024/human_understanding/wear-any-way_manipulable_virtual_try-on_via_sparse_correspondence_alignment/)
+
+**A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars**
+
+- Paper: <https://arxiv.org/abs/2401.04730>
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/a_simple_basel…](https://papernotes.org/ECCV2024/human_understanding/a_simple_baseline_for_spoken_language_to_sign_language_trans/)
+
+**3D Hand Pose Estimation in Everyday Egocentric Images**
+
+- Paper: <https://arxiv.org/abs/2312.06583>
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/3d_hand_pose_e…](https://papernotes.org/ECCV2024/human_understanding/3d_hand_pose_estimation_in_everyday_egocentric_images/)
+
+**MANIKIN: Biomechanically Accurate Neural Inverse Kinematics for Human Motion Estimation**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/manikin_biomec…](https://papernotes.org/ECCV2024/human_understanding/manikin_biomechanically_accurate_neural_inverse_kinematics_for_human_motion_esti/)
+
+**EgoPoser: Robust Real-Time Egocentric Pose Estimation from Sparse and Intermittent Observations Everywhere**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/egoposer_robus…](https://papernotes.org/ECCV2024/video_understanding/egoposer_robust_real-time_egocentric_pose_estimation_from_sparse_and_intermitten/)
+
+**SignAvatars: A Large-Scale 3D Sign Language Holistic Motion Dataset and Benchmark**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/signavatars_a_large-scal…](https://papernotes.org/ECCV2024/3d_vision/signavatars_a_large-scale_3d_sign_language_holistic_motion_dataset_and_benchmark/)
+
+**EvSign: Sign Language Recognition and Translation with Streaming Events**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/evsign_sign_languag…](https://papernotes.org/ECCV2024/llm_evaluation/evsign_sign_language_recognition_and_translation_with_streaming_events/)
+
+**TF-FAS: Twofold-Element Fine-Grained Semantic Guidance for Generalizable Face Anti-spoofing**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/tf-fas_twofold…](https://papernotes.org/ECCV2024/human_understanding/tf-fas_twofold-element_fine-grained_semantic_guidance_for_generalizable_face_ant/)
+
+**FreeMotion: A Unified Framework for Number-Free Text-to-Motion Synthesis**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/freemotion_a_u…](https://papernotes.org/ECCV2024/human_understanding/freemotion_a_unified_framework_for_number-free_text-to-motion_synthesis/)
+
+**Bridging the Gap Between Human Motion and Action Semantics via Kinematic Phrases**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/bridging_the_g…](https://papernotes.org/ECCV2024/human_understanding/bridging_the_gap_between_human_motion_and_action_semantics_via_kinematic_phrases/)
+
+**ReLoo: Reconstructing Humans Dressed in Loose Garments from Monocular Video in the Wild**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/reloo_reconstr…](https://papernotes.org/ECCV2024/human_understanding/reloo_reconstructing_humans_dressed_in_loose_garments_from_monocular_video_in_th/)
+
+**Modeling and Driving Human Body Soundfields Through Acoustic Primitives**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/modeling_and_d…](https://papernotes.org/ECCV2024/human_understanding/modeling_and_driving_human_body_soundfields_through_acoustic_primitives/)
+
+**U-COPE: Taking a Further Step to Universal 9D Category-Level Object Pose Estimation**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/u-cope_taking_…](https://papernotes.org/ECCV2024/human_understanding/u-cope_taking_a_further_step_to_universal_9d_category-level_object_pose_estimati/)
+
+**Bridging the Gap: Studio-Like Avatar Creation from a Monocular Phone Capture**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/bridging_the_gap_…](https://papernotes.org/ECCV2024/image_generation/bridging_the_gap_studio-like_avatar_creation_from_a_monocular_phone_capture/)
+
+**Occlusion Handling in 3D Human Pose Estimation with Perturbed Positional Encoding**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/occlusion_hand…](https://papernotes.org/ECCV2024/human_understanding/occlusion_handling_in_3d_human_pose_estimation_with_perturbed_positional_encodin/)
+
+**Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/avatar_fingerp…](https://papernotes.org/ECCV2024/human_understanding/avatar_fingerprinting_for_authorized_use_of_synthetic_talking-head_videos/)
+
+**Event-Based Head Pose Estimation: Benchmark and Method**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/event-based_he…](https://papernotes.org/ECCV2024/human_understanding/event-based_head_pose_estimation_benchmark_and_method/)
+
+**UPose3D: Uncertainty-Aware 3D Human Pose Estimation with Cross-view and Temporal Cues**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/upose3d_uncert…](https://papernotes.org/ECCV2024/human_understanding/upose3d_uncertainty-aware_3d_human_pose_estimation_with_cross-view_and_temporal_/)
+
+**PoseSOR: Human Pose Can Guide Our Attention**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/posesor_human_…](https://papernotes.org/ECCV2024/human_understanding/posesor_human_pose_can_guide_our_attention/)
+
+**Facial Affective Behavior Analysis with Instruction Tuning**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/facial_affecti…](https://papernotes.org/ECCV2024/human_understanding/facial_affective_behavior_analysis_with_instruction_tuning/)
+
+**Multi-memory Matching for Unsupervised Visible-Infrared Person Re-identification**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/multi-memory_m…](https://papernotes.org/ECCV2024/human_understanding/multi-memory_matching_for_unsupervised_visible-infrared_person_re-identification/)
+
+**WorldPose: A World Cup Dataset for Global 3D Human Pose Estimation**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/worldpose_a_wo…](https://papernotes.org/ECCV2024/human_understanding/worldpose_a_world_cup_dataset_for_global_3d_human_pose_estimation/)
+
+**RePOSE: 3D Human Pose Estimation via Spatio-Temporal Depth Relational Consistency**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/repose_3d_huma…](https://papernotes.org/ECCV2024/human_understanding/repose_3d_human_pose_estimation_via_spatio-temporal_depth_relational_consistency/)
+
+**Audio-Driven Talking Face Generation with Stabilized Synchronization Loss**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/audio-driven_t…](https://papernotes.org/ECCV2024/human_understanding/audio-driven_talking_face_generation_with_stabilized_synchronization_loss/)
+
+**3DGazeNet: Generalizing 3D Gaze Estimation with Weak-Supervision from Synthetic Views**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/3dgazenet_gene…](https://papernotes.org/ECCV2024/human_understanding/3dgazenet_generalizing_3d_gaze_estimation_with_weak-supervision_from_synthetic_v/)
+
+**Learning Semantic Latent Directions for Accurate and Controllable Human Motion Prediction**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/learning_semantic…](https://papernotes.org/ECCV2024/image_generation/learning_semantic_latent_directions_for_accurate_and_controllable_human_motion_p/)
+
+**Towards Unified Representation of Invariant-Specific Features in Missing Modality Face Anti-spoofing**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/towards_unifie…](https://papernotes.org/ECCV2024/human_understanding/towards_unified_representation_of_invariant-specific_features_in_missing_modalit/)
+
+**De-confounded Gaze Estimation**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/de-confounded_…](https://papernotes.org/ECCV2024/human_understanding/de-confounded_gaze_estimation/)
+
+**SCAPE: A Simple and Strong Category-Agnostic Pose Estimator**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/scape_a_simple…](https://papernotes.org/ECCV2024/human_understanding/scape_a_simple_and_strong_category-agnostic_pose_estimator/)
+
+**Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/benchmarks_and…](https://papernotes.org/ECCV2024/video_understanding/benchmarks_and_challenges_in_pose_estimation_for_egocentric_hand_interactions_wi/)
+
+**Local Action-Guided Motion Diffusion Model for Text-to-Motion Generation**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/local_action-guid…](https://papernotes.org/ECCV2024/image_generation/local_action-guided_motion_diffusion_model_for_text-to-motion_generation/)
+
+**LaPose: Laplacian Mixture Shape Modeling for RGB-Based Category-Level Object Pose Estimation**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/lapose_laplaci…](https://papernotes.org/ECCV2024/human_understanding/lapose_laplacian_mixture_shape_modeling_for_rgb-based_category-level_object_pose/)
+
+**FoundPose: Unseen Object Pose Estimation with Foundation Features**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/foundpose_unse…](https://papernotes.org/ECCV2024/human_understanding/foundpose_unseen_object_pose_estimation_with_foundation_features/)
+
+**3DSA: Multi-view 3D Human Pose Estimation With 3D Space Attention Mechanisms**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/3dsa_multi-vie…](https://papernotes.org/ECCV2024/human_understanding/3dsa_multi-view_3d_human_pose_estimation_with_3d_space_attention_mechanisms/)
+
+**Toward Tiny and High-Quality Facial Makeup with Data Amplify Learning**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/toward_tiny_and_h…](https://papernotes.org/ECCV2024/image_generation/toward_tiny_and_high-quality_facial_makeup_with_data_amplify_learning/)
+
+**Plan, Posture and Go: Towards Open-Vocabulary Text-to-Motion Generation**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_pretraining/plan_posture_and_g…](https://papernotes.org/ECCV2024/llm_pretraining/plan_posture_and_go_towards_open-vocabulary_text-to-motion_generation/)
+
+**GS-Pose: Category-Level Object Pose Estimation via Geometric and Semantic Correspondence**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/gs-pose_catego…](https://papernotes.org/ECCV2024/human_understanding/gs-pose_category-level_object_pose_estimation_via_geometric_and_semantic_corresp/)
+
+**Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/remote_sensing/cross-platform_vide…](https://papernotes.org/ECCV2024/remote_sensing/cross-platform_video_person_reid_a_new_benchmark_dataset_and_adaptation_approach/)
+
+**LiveHPS++: Robust and Coherent Motion Capture in Dynamic Free Environment**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/autonomous_driving/livehps_robust_…](https://papernotes.org/ECCV2024/autonomous_driving/livehps_robust_and_coherent_motion_capture_in_dynamic_free_environment/)
+
+**Human Motion Forecasting in Dynamic Domain Shifts: A Homeostatic Continual Test-Time Adaptation Framework**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/human_motion_f…](https://papernotes.org/ECCV2024/human_understanding/human_motion_forecasting_in_dynamic_domain_shifts_a_homeostatic_continual_test-t/)
+
+**Cut Out the Middleman: Revisiting Pose-Based Gait Recognition**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/cut_out_the_mi…](https://papernotes.org/ECCV2024/human_understanding/cut_out_the_middleman_revisiting_pose-based_gait_recognition/)
+
+**HPE-Li: WiFi-Enabled Lightweight Dual Selective Kernel Convolution for Human Pose Estimation**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/hpe-li_wifi-en…](https://papernotes.org/ECCV2024/human_understanding/hpe-li_wifi-enabled_lightweight_dual_selective_kernel_convolution_for_human_pose/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
 <a id="autonomous_driving"></a>
 
-## 🚗 Autonomous Driving · `autonomous_driving` · 50 papers
+## 🚗 Autonomous Driving · `autonomous_driving` · 48 papers
 
 **SeFlow: A Self-supervised Scene Flow Method in Autonomous Driving**
 
@@ -1592,11 +1823,6 @@
 - Paper: <https://arxiv.org/abs/2311.07152v1>
 - Code: <https://github.com/HuangJunJie2017/BEVDet>
 - Notes (Chinese): [papernotes.org/ECCV2024/autonomous_driving/detecting_as_la…](https://papernotes.org/ECCV2024/autonomous_driving/detecting_as_labeling_rethinking_lidar-camera_fusion_in_3d_object_detection/)
-
-**LiDAR-Event Stereo Fusion with Hallucinations**
-
-- Paper: <https://arxiv.org/abs/2408.04633>
-- Notes (Chinese): [papernotes.org/ECCV2024/autonomous_driving/lidar-event_ste…](https://papernotes.org/ECCV2024/autonomous_driving/lidar-event_stereo_fusion_with_hallucinations/)
 
 **Navigation Instruction Generation with BEV Perception and Large Language Models**
 
@@ -1697,10 +1923,6 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/autonomous_driving/sfpnet_sparse_f…](https://papernotes.org/ECCV2024/autonomous_driving/sfpnet_sparse_focal_point_network_for_semantic_segmentation_on_general_lidar_poi/)
 
-**LiDAR-Event Stereo Fusion with Hallucinations**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/autonomous_driving/lidar-event_ste…](https://papernotes.org/ECCV2024/autonomous_driving/lidar-event_stereo_fusion_with_hallucinations/)
-
 **RAPiD-Seg: Range-Aware Pointwise Distance Distribution Networks for 3D LiDAR Segmentation**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/autonomous_driving/rapid-seg_range…](https://papernotes.org/ECCV2024/autonomous_driving/rapid-seg_range-aware_pointwise_distance_distribution_networks_for_3d_lidar_segm/)
@@ -1793,228 +2015,9 @@
 
 ---
 
-<a id="video_understanding"></a>
-
-## 📹 Video Understanding · `video_understanding` · 46 papers
-
-**Towards Model-Agnostic Dataset Condensation by Heterogeneous Models**
-
-- Paper: <https://arxiv.org/abs/2409.14538v1>
-- Code: <https://github.com/KHU-AGI/HMDC>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/towards_model-…](https://papernotes.org/ECCV2024/video_understanding/towards_model-agnostic_dataset_condensation_by_heterogeneous_models/)
-
-**SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders**
-
-- Paper: <https://arxiv.org/abs/2407.13460v1>
-- Code: <https://github.com/pha123661/SA-DVAE>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/sa-dvae_improv…](https://papernotes.org/ECCV2024/video_understanding/sa-dvae_improving_zero-shot_skeleton-based_action_recognition_by_disentangled_va/)
-
-**Referring Atomic Video Action Recognition**
-
-- Paper: <https://arxiv.org/abs/2407.01872v2>
-- Code: <https://github.com/KPeng9510/RAVAR>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/referring_atom…](https://papernotes.org/ECCV2024/video_understanding/referring_atomic_video_action_recognition/)
-
-**Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance**
-
-- Paper: <https://arxiv.org/abs/2403.05231v2>
-- Code: <https://github.com/LitingLin/LoRAT>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/tracking_meets…](https://papernotes.org/ECCV2024/video_understanding/tracking_meets_lora_faster_training_larger_model_stronger_performance/)
-
-**Self-supervised Any-Point Tracking by Contrastive Random Walks**
-
-- Paper: <https://arxiv.org/abs/2409.16288v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/self-supervise…](https://papernotes.org/ECCV2024/video_understanding/self-supervised_any-point_tracking_by_contrastive_random_walks/)
-
-**AMEGO: Active Memory from Long EGOcentric Videos**
-
-- Paper: <https://arxiv.org/abs/2409.10917v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/amego_active_m…](https://papernotes.org/ECCV2024/video_understanding/amego_active_memory_from_long_egocentric_videos/)
-
-**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**
-
-- Paper: <https://arxiv.org/abs/2409.07239>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/pite_pixel-tem…](https://papernotes.org/ECCV2024/video_understanding/pite_pixel-temporal_alignment_for_large_video-language_model/)
-
-**Data Collection-Free Masked Video Modeling**
-
-- Paper: <https://arxiv.org/abs/2409.06665v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/data_collectio…](https://papernotes.org/ECCV2024/video_understanding/data_collection-free_masked_video_modeling/)
-
-**GazeXplain: Learning to Predict Natural Language Explanations of Visual Scanpaths**
-
-- Paper: <https://arxiv.org/abs/2408.02788v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/others/gazexplain_learning_to_pred…](https://papernotes.org/ECCV2024/others/gazexplain_learning_to_predict_natural_language_explanations_of_visual_scanpaths/)
-
-**Text-Guided Video Masked Autoencoder**
-
-- Paper: <https://arxiv.org/abs/2408.00759v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/text-guided_vi…](https://papernotes.org/ECCV2024/video_understanding/text-guided_video_masked_autoencoder/)
-
-**Adapt2Reward: Adapting Video-Language Models to Generalizable Robotic Rewards via Failure Prompts**
-
-- Paper: <https://arxiv.org/abs/2407.14872>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/adapt2reward_a…](https://papernotes.org/ECCV2024/video_understanding/adapt2reward_adapting_videolanguage_models_to_generalizable/)
-
-**Rethinking Video-Text Understanding: Retrieval from Counterfactually Augmented Data**
-
-- Paper: <https://arxiv.org/abs/2407.13094v1>
-- Project: <https://feint6k.github.io>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/rethinking_vid…](https://papernotes.org/ECCV2024/video_understanding/rethinking_video-text_understanding_retrieval_from_counterfactually_augmented_da/)
-
-**ActionSwitch: Class-Agnostic Detection of Simultaneous Actions in Streaming Videos**
-
-- Paper: <https://arxiv.org/abs/2407.12987v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/actionswitch_c…](https://papernotes.org/ECCV2024/video_understanding/actionswitch_class-agnostic_detection_of_simultaneous_actions_in_streaming_video/)
-
-**Goldfish: Vision-Language Understanding of Arbitrarily Long Videos**
-
-- Paper: <https://arxiv.org/abs/2407.12679v1>
-- Project: <https://vision-cair.github.io/Goldfish_website/>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/goldfish_visio…](https://papernotes.org/ECCV2024/video_understanding/goldfish_vision-language_understanding_of_arbitrarily_long_videos/)
-
-**VideoMamba: Spatio-Temporal Selective State Space Model**
-
-- Paper: <https://arxiv.org/abs/2407.08476v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/videomamba_spa…](https://papernotes.org/ECCV2024/video_understanding/videomamba_spatio-temporal_selective_state_space_model/)
-
-**R²-Tuning: Efficient Image-to-Video Transfer Learning for Video Temporal Grounding**
-
-- Paper: <https://arxiv.org/abs/2404.00801>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/r2tuning_effic…](https://papernotes.org/ECCV2024/video_understanding/r2tuning_efficient_imagetovideo_transfer_learning_for_video/)
-
-**MapTracker: Tracking with Strided Memory Fusion for Consistent Vector HD Mapping**
-
-- Paper: <https://arxiv.org/abs/2403.15951>
-- Notes (Chinese): [papernotes.org/ECCV2024/autonomous_driving/maptracker_trac…](https://papernotes.org/ECCV2024/autonomous_driving/maptracker_tracking_with_strided_memory_fusion_for_consistent_vector_hd_mapping/)
-
-**CrossGLG: LLM Guides One-Shot Skeleton-Based 3D Action Recognition in a Cross-Level Manner**
-
-- Paper: <https://arxiv.org/abs/2403.10082v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/crossglg_llm_g…](https://papernotes.org/ECCV2024/video_understanding/crossglg_llm_guides_one-shot_skeleton-based_3d_action_recognition_in_a_cross-lev/)
-
-**On the Utility of 3D Hand Poses for Action Recognition**
-
-- Paper: <https://arxiv.org/abs/2403.09805>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/on_the_utility…](https://papernotes.org/ECCV2024/video_understanding/on_the_utility_of_3d_hand_poses_for_action_recognition/)
-
-**Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance**
-
-- Paper: <https://arxiv.org/abs/2403.05231>
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/tracking_meets…](https://papernotes.org/ECCV2024/video_understanding/tracking_meets_lora_faster_training_larger_model_stronger_performance/)
-
-**🐱 FunQA: Towards Surprising Video Comprehension**
-
-- Paper: <https://arxiv.org/abs/2306.14899v2>
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/funqa_towards_surprising_v…](https://papernotes.org/ECCV2024/llm_nlp/funqa_towards_surprising_video_comprehension/)
-
-**LayeredFlow: A Real-World Benchmark for Non-Lambertian Multi-layer Optical Flow**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/layeredflow_a_…](https://papernotes.org/ECCV2024/video_understanding/layeredflow_a_real-world_benchmark_for_non-lambertian_multi-layer_optical_flow/)
-
-**Efficient Few-Shot Action Recognition via Multi-level Post-reasoning**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/efficient_few-…](https://papernotes.org/ECCV2024/video_understanding/efficient_few-shot_action_recognition_via_multi-level_post-reasoning/)
-
-**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/pite_pixel-tem…](https://papernotes.org/ECCV2024/video_understanding/pite_pixel-temporal_alignment_for_large_video-language_model/)
-
-**TimeCraft: Navigate Weakly-Supervised Temporal Grounded Video Question Answering via Bi-directional Reasoning**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/timecraft_navi…](https://papernotes.org/ECCV2024/video_understanding/timecraft_navigate_weakly-supervised_temporal_grounded_video_question_answering_/)
-
-**OneTrack: Demystifying the Conflict Between Detection and Tracking in End-to-End 3D Trackers**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/onetrack_demys…](https://papernotes.org/ECCV2024/video_understanding/onetrack_demystifying_the_conflict_between_detection_and_tracking_in_end-to-end_/)
-
-**SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/sea-raft_simpl…](https://papernotes.org/ECCV2024/video_understanding/sea-raft_simple_efficient_accurate_raft_for_optical_flow/)
-
-**FinePseudo: Improving Pseudo-labelling Through Temporal-Alignablity for Semi-supervised Fine-Grained Action Recognition**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/finepseudo_imp…](https://papernotes.org/ECCV2024/video_understanding/finepseudo_improving_pseudo-labelling_through_temporal-alignablity_for_semi-supe/)
-
-**Local All-Pair Correspondence for Point Tracking**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/local_all-pair…](https://papernotes.org/ECCV2024/video_understanding/local_all-pair_correspondence_for_point_tracking/)
-
-**Optimizing Factorized Encoder Models: Time and Memory Reduction for Scalable and Efficient Action Recognition**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/optimizing_fac…](https://papernotes.org/ECCV2024/video_understanding/optimizing_factorized_encoder_models_time_and_memory_reduction_for_scalable_and_/)
-
-**Vamos: Versatile Action Models for Video Understanding**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/vamos_versatil…](https://papernotes.org/ECCV2024/video_understanding/vamos_versatile_action_models_for_video_understanding/)
-
-**Boosting 3D Single Object Tracking with 2D Matching Distillation and 3D Pre-training**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/boosting_3d_si…](https://papernotes.org/ECCV2024/video_understanding/boosting_3d_single_object_tracking_with_2d_matching_distillation_and_3d_pre-trai/)
-
-**IAM-VFI : Interpolate Any Motion for Video Frame Interpolation with Motion Complexity Map**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/iam-vfi_interp…](https://papernotes.org/ECCV2024/video_understanding/iam-vfi_interpolate_any_motion_for_video_frame_interpolation_with_motion_complex/)
-
-**Bayesian Evidential Deep Learning for Online Action Detection**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/bayesian_evide…](https://papernotes.org/ECCV2024/video_understanding/bayesian_evidential_deep_learning_for_online_action_detection/)
-
-**TAPTR: Tracking Any Point with Transformers as Detection**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/taptr_tracking_an…](https://papernotes.org/ECCV2024/object_detection/taptr_tracking_any_point_with_transformers_as_detection/)
-
-**Masked Video and Body-Worn IMU Autoencoder for Egocentric Action Recognition**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/masked_video_a…](https://papernotes.org/ECCV2024/video_understanding/masked_video_and_body-worn_imu_autoencoder_for_egocentric_action_recognition/)
-
-**SHINE: Saliency-Aware Hierarchical Negative Ranking for Compositional Temporal Grounding**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/shine_saliency-aw…](https://papernotes.org/ECCV2024/object_detection/shine_saliency-aware_hierarchical_negative_ranking_for_compositional_temporal_gr/)
-
-**Classification Matters: Improving Video Action Detection with Class-Specific Attention**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/classification…](https://papernotes.org/ECCV2024/video_understanding/classification_matters_improving_video_action_detection_with_class-specific_atte/)
-
-**Leveraging Temporal Contextualization for Video Action Recognition**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/leveraging_tem…](https://papernotes.org/ECCV2024/video_understanding/leveraging_temporal_contextualization_for_video_action_recognition/)
-
-**SemTrack: A Large-Scale Dataset for Semantic Tracking in the Wild**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/semtrack_a_lar…](https://papernotes.org/ECCV2024/video_understanding/semtrack_a_large-scale_dataset_for_semantic_tracking_in_the_wild/)
-
-**VideoMamba: State Space Model for Efficient Video Understanding**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/videomamba_sta…](https://papernotes.org/ECCV2024/video_understanding/videomamba_state_space_model_for_efficient_video_understanding/)
-
-**Idempotent Unsupervised Representation Learning for Skeleton-Based Action Recognition**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/idempotent_unsupe…](https://papernotes.org/ECCV2024/image_generation/idempotent_unsupervised_representation_learning_for_skeleton-based_action_recogn/)
-
-**DINO-Tracker: Taming DINO for Self-supervised Point Tracking in a Single Video**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/dino-tracker_t…](https://papernotes.org/ECCV2024/video_understanding/dino-tracker_taming_dino_for_self-supervised_point_tracking_in_a_single_video/)
-
-**SLAck: Semantic, Location, and Appearance Aware Open-Vocabulary Tracking**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/slack_semantic…](https://papernotes.org/ECCV2024/video_understanding/slack_semantic_location_and_appearance_aware_open-vocabulary_tracking/)
-
-**Exploring the Feature Extraction and Relation Modeling For Light-Weight Transformer Tracking**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/exploring_the_…](https://papernotes.org/ECCV2024/video_understanding/exploring_the_feature_extraction_and_relation_modeling_for_light-weight_transfor/)
-
-**Occluded Gait Recognition with Mixture of Experts: An Action Detection Perspective**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/occluded_gait_…](https://papernotes.org/ECCV2024/video_understanding/occluded_gait_recognition_with_mixture_of_experts_an_action_detection_perspectiv/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
 <a id="segmentation"></a>
 
-## ✂️ Segmentation · `segmentation` · 45 papers
+## ✂️ Segmentation · `segmentation` · 44 papers
 
 **VISA: Reasoning Video Object Segmentation via Large Language Models**
 
@@ -2026,7 +2029,7 @@
 
 - Paper: <https://arxiv.org/abs/2407.10083v1>
 - Code: <https://github.com/ChengShiest/Plain-Det>
-- Notes (Chinese): [papernotes.org/ECCV2024/segmentation/plain-det_a_plain_mul…](https://papernotes.org/ECCV2024/segmentation/plain-det_a_plain_multi-dataset_object_detector/)
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/plain-det_a_plain…](https://papernotes.org/ECCV2024/object_detection/plain-det_a_plain_multi-dataset_object_detector/)
 
 **Occlusion-Aware Seamless Segmentation**
 
@@ -2202,10 +2205,6 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/segmentation/frest_feature_restora…](https://papernotes.org/ECCV2024/segmentation/frest_feature_restoration_for_semantic_segmentation_under_multiple_adverse_condi/)
 
-**Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/open-vocabulary_3d_seman…](https://papernotes.org/ECCV2024/3d_vision/open-vocabulary_3d_semantic_segmentation_with_text-to-image_diffusion_models/)
-
 **Representing Topological Self-similarity Using Fractal Feature Maps for Accurate Segmentation of Tubular Structures**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/segmentation/representing_topologi…](https://papernotes.org/ECCV2024/segmentation/representing_topological_self-similarity_using_fractal_feature_maps_for_accurate/)
@@ -2218,197 +2217,191 @@
 
 ---
 
-<a id="human_understanding"></a>
+<a id="video_understanding"></a>
 
-## 🧑 Human Understanding · `human_understanding` · 43 papers
+## 📹 Video Understanding · `video_understanding` · 40 papers
 
-**Generalizable Facial Expression Recognition**
+**SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders**
 
-- Paper: <https://arxiv.org/abs/2408.10614v1>
-- Code: <https://github.com/zyh-uaiaaaa/Generalizable-FER>
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/generalizable_…](https://papernotes.org/ECCV2024/human_understanding/generalizable_facial_expression_recognition/)
+- Paper: <https://arxiv.org/abs/2407.13460v1>
+- Code: <https://github.com/pha123661/SA-DVAE>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/sa-dvae_improv…](https://papernotes.org/ECCV2024/video_understanding/sa-dvae_improving_zero-shot_skeleton-based_action_recognition_by_disentangled_va/)
 
-**ScanTalk: 3D Talking Heads from Unregistered Scans**
+**Referring Atomic Video Action Recognition**
 
-- Paper: <https://arxiv.org/abs/2403.10942v3>
-- Code: <https://github.com/miccunifi/ScanTalk>
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/scantalk_3d_ta…](https://papernotes.org/ECCV2024/human_understanding/scantalk_3d_talking_heads_from_unregistered_scans/)
+- Paper: <https://arxiv.org/abs/2407.01872v2>
+- Code: <https://github.com/KPeng9510/RAVAR>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/referring_atom…](https://papernotes.org/ECCV2024/video_understanding/referring_atomic_video_action_recognition/)
 
-**HUMOS: Human Motion Model Conditioned on Body Shape**
+**Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance**
 
-- Paper: <https://arxiv.org/abs/2409.03944v2>
-- Project: <https://CarstenEpic.github.io/humos/>
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/humos_human_mo…](https://papernotes.org/ECCV2024/human_understanding/humos_human_motion_model_conditioned_on_body_shape/)
+- Paper: <https://arxiv.org/abs/2403.05231v2>
+- Code: <https://github.com/LitingLin/LoRAT>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/tracking_meets…](https://papernotes.org/ECCV2024/video_understanding/tracking_meets_lora_faster_training_larger_model_stronger_performance/)
 
-**ADen: Adaptive Density Representations for Sparse-view Camera Pose Estimation**
+**Self-supervised Any-Point Tracking by Contrastive Random Walks**
 
-- Paper: <https://arxiv.org/abs/2408.09042>
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/aden_adaptive_…](https://papernotes.org/ECCV2024/human_understanding/aden_adaptive_density_representations_for_sparseview_camera/)
+- Paper: <https://arxiv.org/abs/2409.16288v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/self-supervise…](https://papernotes.org/ECCV2024/video_understanding/self-supervised_any-point_tracking_by_contrastive_random_walks/)
 
-**MIGS: Multi-Identity Gaussian Splatting via Tensor Decomposition**
+**AMEGO: Active Memory from Long EGOcentric Videos**
 
-- Paper: <https://arxiv.org/abs/2407.07284v2>
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/migs_multi-ide…](https://papernotes.org/ECCV2024/human_understanding/migs_multi-identity_gaussian_splatting_via_tensor_decomposition/)
+- Paper: <https://arxiv.org/abs/2409.10917v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/amego_active_m…](https://papernotes.org/ECCV2024/video_understanding/amego_active_memory_from_long_egocentric_videos/)
 
-**AdaDistill: Adaptive Knowledge Distillation for Deep Face Recognition**
+**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**
 
-- Paper: <https://arxiv.org/abs/2407.01332>
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/adadistill_ada…](https://papernotes.org/ECCV2024/human_understanding/adadistill_adaptive_knowledge_distillation_for_deep_face_rec/)
+- Paper: <https://arxiv.org/abs/2409.07239>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/pite_pixel-tem…](https://papernotes.org/ECCV2024/video_understanding/pite_pixel-temporal_alignment_for_large_video-language_model/)
 
-**How Video Meetings Change Your Expression**
+**Data Collection-Free Masked Video Modeling**
 
-- Paper: <https://arxiv.org/abs/2406.00955v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/how_video_meet…](https://papernotes.org/ECCV2024/human_understanding/how_video_meetings_change_your_expression/)
+- Paper: <https://arxiv.org/abs/2409.06665v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/data_collectio…](https://papernotes.org/ECCV2024/video_understanding/data_collection-free_masked_video_modeling/)
 
-**TELA: Text to Layer-Wise 3D Clothed Human Generation**
+**Text-Guided Video Masked Autoencoder**
 
-- Paper: <https://arxiv.org/abs/2404.16748v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/tela_text_to_l…](https://papernotes.org/ECCV2024/human_understanding/tela_text_to_layer-wise_3d_clothed_human_generation/)
+- Paper: <https://arxiv.org/abs/2408.00759v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/text-guided_vi…](https://papernotes.org/ECCV2024/video_understanding/text-guided_video_masked_autoencoder/)
 
-**WordRobe: Text-Guided Generation of Textured 3D Garments**
+**Adapt2Reward: Adapting Video-Language Models to Generalizable Robotic Rewards via Failure Prompts**
 
-- Paper: <https://arxiv.org/abs/2403.17541>
-- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/wordrobe_text-guided_gen…](https://papernotes.org/ECCV2024/3d_vision/wordrobe_text-guided_generation_of_textured_3d_garments/)
+- Paper: <https://arxiv.org/abs/2407.14872>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/adapt2reward_a…](https://papernotes.org/ECCV2024/video_understanding/adapt2reward_adapting_videolanguage_models_to_generalizable/)
 
-**CoMo: Controllable Motion Generation Through Language Guided Pose Code Editing**
+**Rethinking Video-Text Understanding: Retrieval from Counterfactually Augmented Data**
 
-- Paper: <https://arxiv.org/abs/2403.13900v2>
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/como_controlla…](https://papernotes.org/ECCV2024/human_understanding/como_controllable_motion_generation_through_language_guided_pose_code_editing/)
+- Paper: <https://arxiv.org/abs/2407.13094v1>
+- Project: <https://feint6k.github.io>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/rethinking_vid…](https://papernotes.org/ECCV2024/video_understanding/rethinking_video-text_understanding_retrieval_from_counterfactually_augmented_da/)
 
-**Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment**
+**ActionSwitch: Class-Agnostic Detection of Simultaneous Actions in Streaming Videos**
 
-- Paper: <https://arxiv.org/abs/2403.12965v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/wear-any-way_m…](https://papernotes.org/ECCV2024/human_understanding/wear-any-way_manipulable_virtual_try-on_via_sparse_correspondence_alignment/)
+- Paper: <https://arxiv.org/abs/2407.12987v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/actionswitch_c…](https://papernotes.org/ECCV2024/video_understanding/actionswitch_class-agnostic_detection_of_simultaneous_actions_in_streaming_video/)
 
-**A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars**
+**Goldfish: Vision-Language Understanding of Arbitrarily Long Videos**
 
-- Paper: <https://arxiv.org/abs/2401.04730>
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/a_simple_basel…](https://papernotes.org/ECCV2024/human_understanding/a_simple_baseline_for_spoken_language_to_sign_language_trans/)
+- Paper: <https://arxiv.org/abs/2407.12679v1>
+- Project: <https://vision-cair.github.io/Goldfish_website/>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/goldfish_visio…](https://papernotes.org/ECCV2024/video_understanding/goldfish_vision-language_understanding_of_arbitrarily_long_videos/)
 
-**3D Hand Pose Estimation in Everyday Egocentric Images**
+**VideoMamba: Spatio-Temporal Selective State Space Model**
 
-- Paper: <https://arxiv.org/abs/2312.06583>
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/3d_hand_pose_e…](https://papernotes.org/ECCV2024/human_understanding/3d_hand_pose_estimation_in_everyday_egocentric_images/)
+- Paper: <https://arxiv.org/abs/2407.08476v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/videomamba_spa…](https://papernotes.org/ECCV2024/video_understanding/videomamba_spatio-temporal_selective_state_space_model/)
 
-**MANIKIN: Biomechanically Accurate Neural Inverse Kinematics for Human Motion Estimation**
+**R²-Tuning: Efficient Image-to-Video Transfer Learning for Video Temporal Grounding**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/manikin_biomec…](https://papernotes.org/ECCV2024/human_understanding/manikin_biomechanically_accurate_neural_inverse_kinematics_for_human_motion_esti/)
+- Paper: <https://arxiv.org/abs/2404.00801>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/r2tuning_effic…](https://papernotes.org/ECCV2024/video_understanding/r2tuning_efficient_imagetovideo_transfer_learning_for_video/)
 
-**EgoPoser: Robust Real-Time Egocentric Pose Estimation from Sparse and Intermittent Observations Everywhere**
+**CrossGLG: LLM Guides One-Shot Skeleton-Based 3D Action Recognition in a Cross-Level Manner**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/egoposer_robus…](https://papernotes.org/ECCV2024/video_understanding/egoposer_robust_real-time_egocentric_pose_estimation_from_sparse_and_intermitten/)
+- Paper: <https://arxiv.org/abs/2403.10082v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/crossglg_llm_g…](https://papernotes.org/ECCV2024/video_understanding/crossglg_llm_guides_one-shot_skeleton-based_3d_action_recognition_in_a_cross-lev/)
 
-**Bridging the Gap Between Human Motion and Action Semantics via Kinematic Phrases**
+**On the Utility of 3D Hand Poses for Action Recognition**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/bridging_the_g…](https://papernotes.org/ECCV2024/human_understanding/bridging_the_gap_between_human_motion_and_action_semantics_via_kinematic_phrases/)
+- Paper: <https://arxiv.org/abs/2403.09805>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/on_the_utility…](https://papernotes.org/ECCV2024/video_understanding/on_the_utility_of_3d_hand_poses_for_action_recognition/)
 
-**ReLoo: Reconstructing Humans Dressed in Loose Garments from Monocular Video in the Wild**
+**🐱 FunQA: Towards Surprising Video Comprehension**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/reloo_reconstructing_hum…](https://papernotes.org/ECCV2024/3d_vision/reloo_reconstructing_humans_dressed_in_loose_garments_from_monocular_video_in_th/)
+- Paper: <https://arxiv.org/abs/2306.14899v2>
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/funqa_towards_surprising_v…](https://papernotes.org/ECCV2024/llm_nlp/funqa_towards_surprising_video_comprehension/)
 
-**Modeling and Driving Human Body Soundfields Through Acoustic Primitives**
+**LayeredFlow: A Real-World Benchmark for Non-Lambertian Multi-layer Optical Flow**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/modeling_and_d…](https://papernotes.org/ECCV2024/human_understanding/modeling_and_driving_human_body_soundfields_through_acoustic_primitives/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/layeredflow_a_…](https://papernotes.org/ECCV2024/video_understanding/layeredflow_a_real-world_benchmark_for_non-lambertian_multi-layer_optical_flow/)
 
-**U-COPE: Taking a Further Step to Universal 9D Category-Level Object Pose Estimation**
+**Efficient Few-Shot Action Recognition via Multi-level Post-reasoning**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/u-cope_taking_…](https://papernotes.org/ECCV2024/human_understanding/u-cope_taking_a_further_step_to_universal_9d_category-level_object_pose_estimati/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/efficient_few-…](https://papernotes.org/ECCV2024/video_understanding/efficient_few-shot_action_recognition_via_multi-level_post-reasoning/)
 
-**Bridging the Gap: Studio-Like Avatar Creation from a Monocular Phone Capture**
+**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/bridging_the_gap_…](https://papernotes.org/ECCV2024/image_generation/bridging_the_gap_studio-like_avatar_creation_from_a_monocular_phone_capture/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/pite_pixel-tem…](https://papernotes.org/ECCV2024/video_understanding/pite_pixel-temporal_alignment_for_large_video-language_model/)
 
-**Occlusion Handling in 3D Human Pose Estimation with Perturbed Positional Encoding**
+**TimeCraft: Navigate Weakly-Supervised Temporal Grounded Video Question Answering via Bi-directional Reasoning**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/occlusion_hand…](https://papernotes.org/ECCV2024/human_understanding/occlusion_handling_in_3d_human_pose_estimation_with_perturbed_positional_encodin/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/timecraft_navi…](https://papernotes.org/ECCV2024/video_understanding/timecraft_navigate_weakly-supervised_temporal_grounded_video_question_answering_/)
 
-**Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos**
+**SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/avatar_fingerp…](https://papernotes.org/ECCV2024/human_understanding/avatar_fingerprinting_for_authorized_use_of_synthetic_talking-head_videos/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/sea-raft_simpl…](https://papernotes.org/ECCV2024/video_understanding/sea-raft_simple_efficient_accurate_raft_for_optical_flow/)
 
-**Event-Based Head Pose Estimation: Benchmark and Method**
+**FinePseudo: Improving Pseudo-labelling Through Temporal-Alignablity for Semi-supervised Fine-Grained Action Recognition**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/event-based_he…](https://papernotes.org/ECCV2024/human_understanding/event-based_head_pose_estimation_benchmark_and_method/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/finepseudo_imp…](https://papernotes.org/ECCV2024/video_understanding/finepseudo_improving_pseudo-labelling_through_temporal-alignablity_for_semi-supe/)
 
-**UPose3D: Uncertainty-Aware 3D Human Pose Estimation with Cross-view and Temporal Cues**
+**Local All-Pair Correspondence for Point Tracking**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/upose3d_uncert…](https://papernotes.org/ECCV2024/human_understanding/upose3d_uncertainty-aware_3d_human_pose_estimation_with_cross-view_and_temporal_/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/local_all-pair…](https://papernotes.org/ECCV2024/video_understanding/local_all-pair_correspondence_for_point_tracking/)
 
-**PoseSOR: Human Pose Can Guide Our Attention**
+**Optimizing Factorized Encoder Models: Time and Memory Reduction for Scalable and Efficient Action Recognition**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/posesor_human_…](https://papernotes.org/ECCV2024/human_understanding/posesor_human_pose_can_guide_our_attention/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/optimizing_fac…](https://papernotes.org/ECCV2024/video_understanding/optimizing_factorized_encoder_models_time_and_memory_reduction_for_scalable_and_/)
 
-**Facial Affective Behavior Analysis with Instruction Tuning**
+**Vamos: Versatile Action Models for Video Understanding**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/facial_affecti…](https://papernotes.org/ECCV2024/human_understanding/facial_affective_behavior_analysis_with_instruction_tuning/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/vamos_versatil…](https://papernotes.org/ECCV2024/video_understanding/vamos_versatile_action_models_for_video_understanding/)
 
-**Multi-memory Matching for Unsupervised Visible-Infrared Person Re-identification**
+**Boosting 3D Single Object Tracking with 2D Matching Distillation and 3D Pre-training**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/multi-memory_m…](https://papernotes.org/ECCV2024/human_understanding/multi-memory_matching_for_unsupervised_visible-infrared_person_re-identification/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/boosting_3d_si…](https://papernotes.org/ECCV2024/video_understanding/boosting_3d_single_object_tracking_with_2d_matching_distillation_and_3d_pre-trai/)
 
-**WorldPose: A World Cup Dataset for Global 3D Human Pose Estimation**
+**IAM-VFI : Interpolate Any Motion for Video Frame Interpolation with Motion Complexity Map**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/worldpose_a_wo…](https://papernotes.org/ECCV2024/human_understanding/worldpose_a_world_cup_dataset_for_global_3d_human_pose_estimation/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/iam-vfi_interp…](https://papernotes.org/ECCV2024/video_understanding/iam-vfi_interpolate_any_motion_for_video_frame_interpolation_with_motion_complex/)
 
-**RePOSE: 3D Human Pose Estimation via Spatio-Temporal Depth Relational Consistency**
+**Bayesian Evidential Deep Learning for Online Action Detection**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/repose_3d_huma…](https://papernotes.org/ECCV2024/human_understanding/repose_3d_human_pose_estimation_via_spatio-temporal_depth_relational_consistency/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/bayesian_evide…](https://papernotes.org/ECCV2024/video_understanding/bayesian_evidential_deep_learning_for_online_action_detection/)
 
-**Audio-Driven Talking Face Generation with Stabilized Synchronization Loss**
+**Masked Video and Body-Worn IMU Autoencoder for Egocentric Action Recognition**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/audio-driven_t…](https://papernotes.org/ECCV2024/human_understanding/audio-driven_talking_face_generation_with_stabilized_synchronization_loss/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/masked_video_a…](https://papernotes.org/ECCV2024/video_understanding/masked_video_and_body-worn_imu_autoencoder_for_egocentric_action_recognition/)
 
-**Learning Semantic Latent Directions for Accurate and Controllable Human Motion Prediction**
+**SHINE: Saliency-Aware Hierarchical Negative Ranking for Compositional Temporal Grounding**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/learning_semantic…](https://papernotes.org/ECCV2024/image_generation/learning_semantic_latent_directions_for_accurate_and_controllable_human_motion_p/)
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/shine_saliency-aw…](https://papernotes.org/ECCV2024/object_detection/shine_saliency-aware_hierarchical_negative_ranking_for_compositional_temporal_gr/)
 
-**SCAPE: A Simple and Strong Category-Agnostic Pose Estimator**
+**Classification Matters: Improving Video Action Detection with Class-Specific Attention**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/scape_a_simple…](https://papernotes.org/ECCV2024/human_understanding/scape_a_simple_and_strong_category-agnostic_pose_estimator/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/classification…](https://papernotes.org/ECCV2024/video_understanding/classification_matters_improving_video_action_detection_with_class-specific_atte/)
 
-**Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects**
+**Leveraging Temporal Contextualization for Video Action Recognition**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/benchmarks_and…](https://papernotes.org/ECCV2024/video_understanding/benchmarks_and_challenges_in_pose_estimation_for_egocentric_hand_interactions_wi/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/leveraging_tem…](https://papernotes.org/ECCV2024/video_understanding/leveraging_temporal_contextualization_for_video_action_recognition/)
 
-**LaPose: Laplacian Mixture Shape Modeling for RGB-Based Category-Level Object Pose Estimation**
+**VideoMamba: State Space Model for Efficient Video Understanding**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/lapose_laplaci…](https://papernotes.org/ECCV2024/human_understanding/lapose_laplacian_mixture_shape_modeling_for_rgb-based_category-level_object_pose/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/videomamba_sta…](https://papernotes.org/ECCV2024/video_understanding/videomamba_state_space_model_for_efficient_video_understanding/)
 
-**FoundPose: Unseen Object Pose Estimation with Foundation Features**
+**Idempotent Unsupervised Representation Learning for Skeleton-Based Action Recognition**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/foundpose_unse…](https://papernotes.org/ECCV2024/human_understanding/foundpose_unseen_object_pose_estimation_with_foundation_features/)
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/idempotent_unsupe…](https://papernotes.org/ECCV2024/image_generation/idempotent_unsupervised_representation_learning_for_skeleton-based_action_recogn/)
 
-**3DSA: Multi-view 3D Human Pose Estimation With 3D Space Attention Mechanisms**
+**DINO-Tracker: Taming DINO for Self-supervised Point Tracking in a Single Video**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/3dsa_multi-vie…](https://papernotes.org/ECCV2024/human_understanding/3dsa_multi-view_3d_human_pose_estimation_with_3d_space_attention_mechanisms/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/dino-tracker_t…](https://papernotes.org/ECCV2024/video_understanding/dino-tracker_taming_dino_for_self-supervised_point_tracking_in_a_single_video/)
 
-**Toward Tiny and High-Quality Facial Makeup with Data Amplify Learning**
+**Cross-Domain Learning for Video Anomaly Detection with Limited Supervision**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/toward_tiny_and_h…](https://papernotes.org/ECCV2024/image_generation/toward_tiny_and_high-quality_facial_makeup_with_data_amplify_learning/)
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_pretraining/cross-domain_learn…](https://papernotes.org/ECCV2024/llm_pretraining/cross-domain_learning_for_video_anomaly_detection_with_limited_supervision/)
 
-**GS-Pose: Category-Level Object Pose Estimation via Geometric and Semantic Correspondence**
+**Interleaving One-Class and Weakly-Supervised Models with Adaptive Thresholding for Unsupervised Video Anomaly Detection**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/gs-pose_catego…](https://papernotes.org/ECCV2024/human_understanding/gs-pose_category-level_object_pose_estimation_via_geometric_and_semantic_corresp/)
+- Notes (Chinese): [papernotes.org/ECCV2024/others/interleaving_one-class_and_…](https://papernotes.org/ECCV2024/others/interleaving_one-class_and_weakly-supervised_models_with_adaptive_thresholding_f/)
 
-**Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach**
+**Learning Anomalies with Normality Prior for Unsupervised Video Anomaly Detection**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/remote_sensing/cross-platform_vide…](https://papernotes.org/ECCV2024/remote_sensing/cross-platform_video_person_reid_a_new_benchmark_dataset_and_adaptation_approach/)
+- Notes (Chinese): [papernotes.org/ECCV2024/others/learning_anomalies_with_nor…](https://papernotes.org/ECCV2024/others/learning_anomalies_with_normality_prior_for_unsupervised_video_anomaly_detection/)
 
-**LiveHPS++: Robust and Coherent Motion Capture in Dynamic Free Environment**
+**Occluded Gait Recognition with Mixture of Experts: An Action Detection Perspective**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/autonomous_driving/livehps_robust_…](https://papernotes.org/ECCV2024/autonomous_driving/livehps_robust_and_coherent_motion_capture_in_dynamic_free_environment/)
-
-**Human Motion Forecasting in Dynamic Domain Shifts: A Homeostatic Continual Test-Time Adaptation Framework**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/human_motion_f…](https://papernotes.org/ECCV2024/human_understanding/human_motion_forecasting_in_dynamic_domain_shifts_a_homeostatic_continual_test-t/)
-
-**Cut Out the Middleman: Revisiting Pose-Based Gait Recognition**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/cut_out_the_mi…](https://papernotes.org/ECCV2024/human_understanding/cut_out_the_middleman_revisiting_pose-based_gait_recognition/)
-
-**HPE-Li: WiFi-Enabled Lightweight Dual Selective Kernel Convolution for Human Pose Estimation**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/hpe-li_wifi-en…](https://papernotes.org/ECCV2024/human_understanding/hpe-li_wifi-enabled_lightweight_dual_selective_kernel_convolution_for_human_pose/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/occluded_gait_…](https://papernotes.org/ECCV2024/video_understanding/occluded_gait_recognition_with_mixture_of_experts_an_action_detection_perspectiv/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -2575,7 +2568,13 @@
 
 <a id="model_compression"></a>
 
-## 📦 Model Compression · `model_compression` · 28 papers
+## 📦 Model Compression · `model_compression` · 31 papers
+
+**Towards Model-Agnostic Dataset Condensation by Heterogeneous Models**
+
+- Paper: <https://arxiv.org/abs/2409.14538v1>
+- Code: <https://github.com/KHU-AGI/HMDC>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/towards_model-…](https://papernotes.org/ECCV2024/video_understanding/towards_model-agnostic_dataset_condensation_by_heterogeneous_models/)
 
 **Token Compensator: Altering Inference Cost of Vision Transformer Without Re-tuning**
 
@@ -2609,10 +2608,20 @@
 - Paper: <https://arxiv.org/abs/2407.08256>
 - Notes (Chinese): [papernotes.org/ECCV2024/model_compression/adaptive_compres…](https://papernotes.org/ECCV2024/model_compression/adaptive_compressed_sensing_with_diffusionbased_posterior_sa/)
 
+**AdaDistill: Adaptive Knowledge Distillation for Deep Face Recognition**
+
+- Paper: <https://arxiv.org/abs/2407.01332>
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/adadistill_ada…](https://papernotes.org/ECCV2024/human_understanding/adadistill_adaptive_knowledge_distillation_for_deep_face_rec/)
+
 **Is Retain Set All You Need in Machine Unlearning? Restoring Performance of Unlearned Models with Out-of-Distribution Images**
 
 - Paper: <https://arxiv.org/abs/2404.12922v1>
 - Notes (Chinese): [papernotes.org/ECCV2024/model_compression/is_retain_set_al…](https://papernotes.org/ECCV2024/model_compression/is_retain_set_all_you_need_in_machine_unlearning_restoring_performance_of_unlear/)
+
+**Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance**
+
+- Paper: <https://arxiv.org/abs/2403.05231>
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/tracking_meets…](https://papernotes.org/ECCV2024/video_understanding/tracking_meets_lora_faster_training_larger_model_stronger_performance/)
 
 **Simple Unsupervised Knowledge Distillation With Space Similarity**
 
@@ -2633,10 +2642,6 @@
 **LiFT: A Surprisingly Simple Lightweight Feature Transform for Dense ViT Descriptors**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/segmentation/lift_a_surprisingly_s…](https://papernotes.org/ECCV2024/segmentation/lift_a_surprisingly_simple_lightweight_feature_transform_for_dense_vit_descripto/)
-
-**Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/model_compression/bidirectional_st…](https://papernotes.org/ECCV2024/model_compression/bidirectional_stereo_image_compression_with_cross-dimensional_entropy_model/)
 
 **PQ-SAM: Post-training Quantization for Segment Anything Model**
 
@@ -2674,6 +2679,10 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/model_compression/improving_knowle…](https://papernotes.org/ECCV2024/model_compression/improving_knowledge_distillation_via_regularizing_feature_direction_and_norm/)
 
+**Leveraging Hierarchical Feature Sharing for Efficient Dataset Condensation**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/model_compression/leveraging_hiera…](https://papernotes.org/ECCV2024/model_compression/leveraging_hierarchical_feature_sharing_for_efficient_dataset_condensation/)
+
 **AnimatableDreamer: Text-Guided Non-rigid 3D Model Generation and Reconstruction with Canonical Score Distillation**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/animatabledreamer_text-g…](https://papernotes.org/ECCV2024/3d_vision/animatabledreamer_text-guided_non-rigid_3d_model_generation_and_reconstruction_w/)
@@ -2692,7 +2701,7 @@
 
 **AdaLog: Post-training Quantization for Vision Transformers with Adaptive Logarithm Quantizer**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/segmentation/adalog_post-training_…](https://papernotes.org/ECCV2024/segmentation/adalog_post-training_quantization_for_vision_transformers_with_adaptive_logarith/)
+- Notes (Chinese): [papernotes.org/ECCV2024/model_compression/adalog_post-trai…](https://papernotes.org/ECCV2024/model_compression/adalog_post-training_quantization_for_vision_transformers_with_adaptive_logarith/)
 
 **Isomorphic Pruning for Vision Models**
 
@@ -2702,122 +2711,220 @@
 
 ---
 
-<a id="llm_nlp"></a>
+<a id="self_supervised"></a>
 
-## 💬 LLM / NLP · `llm_nlp` · 26 papers
+## 🔄 Self-Supervised Learning · `self_supervised` · 23 papers
 
-**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**
+**COHO: Context-Sensitive City-Scale Hierarchical Urban Layout Generation**
 
-- Paper: <https://arxiv.org/abs/2410.08192>
-- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/hybridbooth_hybri…](https://papernotes.org/ECCV2024/image_generation/hybridbooth_hybrid_prompt_inversion_for_efficient_subject-driven_generation/)
+- Paper: <https://arxiv.org/abs/2407.11294v1>
+- Code: <https://github.com/Arking1995/COHO>
+- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/coho_context-sensi…](https://papernotes.org/ECCV2024/self_supervised/coho_context-sensitive_city-scale_hierarchical_urban_layout_generation/)
 
-**ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**
+**Exemplar-Free Continual Representation Learning via Learnable Drift Compensation**
 
-- Paper: <https://arxiv.org/abs/2408.04102>
-- Notes (Chinese): [papernotes.org/ECCV2024/information_retrieval/artvlm_attri…](https://papernotes.org/ECCV2024/information_retrieval/artvlm_attribute_recognition_through_vision-based_prefix_language_modeling/)
+- Paper: <https://arxiv.org/abs/2407.08536v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/exemplar-free_cont…](https://papernotes.org/ECCV2024/self_supervised/exemplar-free_continual_representation_learning_via_learnable_drift_compensation/)
 
-**Cultural Value Differences of LLMs: Prompt, Language, and Model Size**
+**Rethinking Unsupervised Outlier Detection via Multiple Thresholding**
 
-- Paper: <https://arxiv.org/abs/2407.16891>
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/cultural_value_differences…](https://papernotes.org/ECCV2024/llm_nlp/cultural_value_differences_llms/)
-
-**AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection**
-
-- Paper: <https://arxiv.org/abs/2407.15795>
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/adaclip_adapting_clip_with…](https://papernotes.org/ECCV2024/llm_nlp/adaclip_adapting_clip_with_hybrid_learnable_prompts_for_zero/)
-
-**VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding**
-
-- Paper: <https://arxiv.org/abs/2407.12594>
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/visfocus_prompt-gui…](https://papernotes.org/ECCV2024/llm_evaluation/visfocus_prompt-guided_vision_encoders_for_ocr-free_dense_document_understanding/)
+- Paper: <https://arxiv.org/abs/2407.05382v2>
+- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/rethinking_unsuper…](https://papernotes.org/ECCV2024/self_supervised/rethinking_unsupervised_outlier_detection_via_multiple_thresholding/)
 
 **Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs**
 
 - Paper: <https://arxiv.org/abs/2403.11755>
 - Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/meta-prompting_for_…](https://papernotes.org/ECCV2024/multimodal_vlm/meta-prompting_for_automating_zero-shot_visual_recognition_with_llms/)
 
-**FreestyleRet: Retrieving Images from Style-Diversified Queries**
+**Adaptive Multi-head Contrastive Learning**
 
-- Paper: <https://arxiv.org/abs/2312.02428v2>
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/freestyleret_retrieving_im…](https://papernotes.org/ECCV2024/llm_nlp/freestyleret_retrieving_images_from_style-diversified_queries/)
+- Paper: <https://arxiv.org/abs/2310.05615>
+- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/adaptive_multihead…](https://papernotes.org/ECCV2024/self_supervised/adaptive_multihead_contrastive_learning/)
 
-**TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering**
+**4D Contrastive Superflows are Dense 3D Representation Learners**
 
-- Paper: <https://arxiv.org/abs/2311.16465>
-- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/textdiffuser-2_un…](https://papernotes.org/ECCV2024/image_generation/textdiffuser-2_unleashing_the_power_of_language_models_for_text_rendering/)
-
-**ControlLLM: Augment Language Models with Tools by Searching on Graphs**
-
-- Paper: <https://arxiv.org/abs/2310.17796>
-- Notes (Chinese): [papernotes.org/ECCV2024/audio_speech/controlllm_augment_la…](https://papernotes.org/ECCV2024/audio_speech/controlllm_augment_language_models_with_tools_by_searching_on_graphs/)
-
-**PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/promptiqa_boosting_the_per…](https://papernotes.org/ECCV2024/llm_nlp/promptiqa_boosting_the_performance_and_generalization_for_no-reference_image_qua/)
+- Notes (Chinese): [papernotes.org/ECCV2024/autonomous_driving/4d_contrastive_…](https://papernotes.org/ECCV2024/autonomous_driving/4d_contrastive_superflows_are_dense_3d_representation_learners/)
 
 **Meta-prompting for Automating Zero-Shot Visual Recognition with LLMs**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/meta-prompting_for_…](https://papernotes.org/ECCV2024/multimodal_vlm/meta-prompting_for_automating_zero-shot_visual_recognition_with_llms/)
 
-**Soft Prompt Generation for Domain Generalization**
+**MarineInst: A Foundation Model for Marine Image Analysis with Instance Visual Description**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/soft_prompt_gener…](https://papernotes.org/ECCV2024/image_generation/soft_prompt_generation_for_domain_generalization/)
+- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/marineinst_a_found…](https://papernotes.org/ECCV2024/self_supervised/marineinst_a_foundation_model_for_marine_image_analysis_with_instance_visual_des/)
 
 **PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/promptccd_learning…](https://papernotes.org/ECCV2024/self_supervised/promptccd_learning_gaussian_mixture_prompt_pool_for_continual_category_discovery/)
 
-**TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering**
+**ViC-MAE: Self-supervised Representation Learning from Images and Video with Contrastive Masked Autoencoders**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/textdiffuser-2_un…](https://papernotes.org/ECCV2024/image_generation/textdiffuser-2_unleashing_the_power_of_language_models_for_text_rendering/)
+- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/vic-mae_self-super…](https://papernotes.org/ECCV2024/self_supervised/vic-mae_self-supervised_representation_learning_from_images_and_video_with_contr/)
 
-**VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding**
+**Revisiting Supervision for Continual Representation Learning**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/visfocus_prompt-gui…](https://papernotes.org/ECCV2024/llm_evaluation/visfocus_prompt-guided_vision_encoders_for_ocr-free_dense_document_understanding/)
+- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/revisiting_supervi…](https://papernotes.org/ECCV2024/self_supervised/revisiting_supervision_for_continual_representation_learning/)
 
-**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**
+**Self-supervised Video Copy Localization with Regional Token Representation**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/hybridbooth_hybri…](https://papernotes.org/ECCV2024/image_generation/hybridbooth_hybrid_prompt_inversion_for_efficient_subject-driven_generation/)
-
-**Grounding Language Models for Visual Entity Recognition**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/information_retrieval/grounding_la…](https://papernotes.org/ECCV2024/information_retrieval/grounding_language_models_for_visual_entity_recognition/)
-
-**ControlLLM: Augment Language Models with Tools by Searching on Graphs**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/audio_speech/controlllm_augment_la…](https://papernotes.org/ECCV2024/audio_speech/controlllm_augment_language_models_with_tools_by_searching_on_graphs/)
-
-**APL: Anchor-Based Prompt Learning for One-Stage Weakly Supervised Referring Expression Comprehension**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/apl_anchor-based_prompt_le…](https://papernotes.org/ECCV2024/llm_nlp/apl_anchor-based_prompt_learning_for_one-stage_weakly_supervised_referring_expre/)
-
-**Prompting Language-Informed Distribution for Compositional Zero-Shot Learning**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_pretraining/prompting_language…](https://papernotes.org/ECCV2024/llm_pretraining/prompting_language-informed_distribution_for_compositional_zero-shot_learning/)
+- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/self-supervised_vi…](https://papernotes.org/ECCV2024/self_supervised/self-supervised_video_copy_localization_with_regional_token_representation/)
 
 **Towards Open-Ended Visual Recognition with Large Language Models**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/information_retrieval/towards_open…](https://papernotes.org/ECCV2024/information_retrieval/towards_open-ended_visual_recognition_with_large_language_models/)
 
-**Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in Instructional Videos**
+**InfMAE: A Foundation Model in the Infrared Modality**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/propose_assess_search_harn…](https://papernotes.org/ECCV2024/llm_nlp/propose_assess_search_harnessing_llms_for_goal-oriented_planning_in_instructiona/)
+- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/infmae_a_foundatio…](https://papernotes.org/ECCV2024/self_supervised/infmae_a_foundation_model_in_the_infrared_modality/)
 
-**OpenKD: Opening Prompt Diversity for Zero- and Few-Shot Keypoint Detection**
+**CLAP: Isolating Content from Style Through Contrastive Learning with Augmented Prompts**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/openkd_opening_pr…](https://papernotes.org/ECCV2024/object_detection/openkd_opening_prompt_diversity_for_zero-_and_few-shot_keypoint_detection/)
+- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/clap_isolating_cont…](https://papernotes.org/ECCV2024/multimodal_vlm/clap_isolating_content_from_style_through_contrastive_learning_with_augmented_pr/)
 
-**The Fabrication of Reality and Fantasy: Scene Generation with LLM-Assisted Prompt Interpretation**
+**Pose-Aware Self-supervised Learning with Viewpoint Trajectory Regularization**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/the_fabrication_o…](https://papernotes.org/ECCV2024/image_generation/the_fabrication_of_reality_and_fantasy_scene_generation_with_llm-assisted_prompt/)
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/pose-aware_sel…](https://papernotes.org/ECCV2024/human_understanding/pose-aware_self-supervised_learning_with_viewpoint_trajectory_regularization/)
 
-**Stripe Observation Guided Inference Cost-Free Attention Mechanism**
+**Efficient Image Pre-training with Siamese Cropped Masked Autoencoders**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/stripe_observation_guided_…](https://papernotes.org/ECCV2024/llm_nlp/stripe_observation_guided_inference_cost-free_attention_mechanism/)
+- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/efficient_image_pr…](https://papernotes.org/ECCV2024/self_supervised/efficient_image_pre-training_with_siamese_cropped_masked_autoencoders/)
 
-**Reprojection Errors as Prompts for Efficient Scene Coordinate Regression**
+**OmniSat: Self-supervised Modality Fusion for Earth Observation**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/reprojection_errors_as_pro…](https://papernotes.org/ECCV2024/llm_nlp/reprojection_errors_as_prompts_for_efficient_scene_coordinate_regression/)
+- Notes (Chinese): [papernotes.org/ECCV2024/time_series/omnisat_self-supervise…](https://papernotes.org/ECCV2024/time_series/omnisat_self-supervised_modality_fusion_for_earth_observation/)
+
+**STSP: Spatial-Temporal Subspace Projection for Video Class-Incremental Learning**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/others/stsp_spatial-temporal_subsp…](https://papernotes.org/ECCV2024/others/stsp_spatial-temporal_subspace_projection_for_video_class-incremental_learning/)
+
+**Semantically Guided Representation Learning For Action Anticipation**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/time_series/semantically_guided_re…](https://papernotes.org/ECCV2024/time_series/semantically_guided_representation_learning_for_action_anticipation/)
+
+**VideoClusterNet: Self-supervised and Adaptive Face Clustering for Videos**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/videoclusterne…](https://papernotes.org/ECCV2024/human_understanding/videoclusternet_self-supervised_and_adaptive_face_clustering_for_videos/)
+
+**Confidence Self-calibration for Multi-label Class-Incremental Learning**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/graph_learning/confidence_self-cal…](https://papernotes.org/ECCV2024/graph_learning/confidence_self-calibration_for_multi-label_class-incremental_learning/)
+
+**WeCromCL: Weakly Supervised Cross-Modality Contrastive Learning for Transcription-Only Supervised Text Spotting**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/wecromcl_weakly_su…](https://papernotes.org/ECCV2024/self_supervised/wecromcl_weakly_supervised_cross-modality_contrastive_learning_for_transcription/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
+<a id="object_detection"></a>
+
+## 🎯 Object Detection · `object_detection` · 23 papers
+
+**Responsible Visual Editing**
+
+- Paper: <https://arxiv.org/abs/2404.05580v1>
+- Code: <https://github.com/kodenii/Responsible-Visual-Editing>
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/responsible_visua…](https://papernotes.org/ECCV2024/object_detection/responsible_visual_editing/)
+
+**YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information**
+
+- Paper: <https://arxiv.org/abs/2402.13616v2>
+- Code: <https://github.com/WongKinYiu/yolov9>
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/yolov9_learning_w…](https://papernotes.org/ECCV2024/object_detection/yolov9_learning_what_you_want_to_learn_using_programmable_gradient_information/)
+
+**Walker: Self-supervised Multiple Object Tracking by Walking on Temporal Appearance Graphs**
+
+- Paper: <https://arxiv.org/abs/2409.17221v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/walker_self-super…](https://papernotes.org/ECCV2024/object_detection/walker_self-supervised_multiple_object_tracking_by_walking_on_temporal_appearanc/)
+
+**Can OOD Object Detectors Learn from Foundation Models?**
+
+- Paper: <https://arxiv.org/abs/2409.05162v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/can_ood_object_de…](https://papernotes.org/ECCV2024/object_detection/can_ood_object_detectors_learn_from_foundation_models/)
+
+**AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection**
+
+- Paper: <https://arxiv.org/abs/2407.15795>
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/adaclip_adapting_clip_with…](https://papernotes.org/ECCV2024/llm_nlp/adaclip_adapting_clip_with_hybrid_learnable_prompts_for_zero/)
+
+**Projecting Points to Axes: Oriented Object Detection via Point-Axis Representation**
+
+- Paper: <https://arxiv.org/abs/2407.08489v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/projecting_points…](https://papernotes.org/ECCV2024/object_detection/projecting_points_to_axes_oriented_object_detection_via_point-axis_representatio/)
+
+**Nonverbal Interaction Detection**
+
+- Paper: <https://arxiv.org/abs/2407.08133v2>
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/nonverbal_interac…](https://papernotes.org/ECCV2024/object_detection/nonverbal_interaction_detection/)
+
+**Zero-Shot Object Counting with Good Exemplars (VA-Count)**
+
+- Paper: <https://arxiv.org/abs/2407.04948>
+- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/zero-shot_object_co…](https://papernotes.org/ECCV2024/multimodal_vlm/zero-shot_object_counting_with_good_exemplars/)
+
+**Portrait4D-V2: Pseudo Multi-view Data Creates Better 4D Head Synthesizer**
+
+- Paper: <https://arxiv.org/abs/2403.13570v2>
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/portrait4d-v2_pse…](https://papernotes.org/ECCV2024/object_detection/portrait4d-v2_pseudo_multi-view_data_creates_better_4d_head_synthesizer/)
+
+**Adaptive Bounding Box Uncertainties via Two-Step Conformal Prediction**
+
+- Paper: <https://arxiv.org/abs/2403.07263>
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/adaptive_bounding…](https://papernotes.org/ECCV2024/object_detection/adaptive_bounding_box_uncertainties_via_twostep_conformal_pr/)
+
+**Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection**
+
+- Paper: <https://arxiv.org/abs/2401.03145>
+- Notes (Chinese): [papernotes.org/ECCV2024/others/self-supervised_feature_ada…](https://papernotes.org/ECCV2024/others/self-supervised_feature_adaptation_for_3d_industrial_anomaly_detection/)
+
+**BAM-DETR: Boundary-Aligned Moment Detection Transformer for Temporal Sentence Grounding in Videos**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/bam-detr_boundary…](https://papernotes.org/ECCV2024/object_detection/bam-detr_boundary-aligned_moment_detection_transformer_for_temporal_sentence_gro/)
+
+**Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/others/self-supervised_feature_ada…](https://papernotes.org/ECCV2024/others/self-supervised_feature_adaptation_for_3d_industrial_anomaly_detection/)
+
+**Zero-Shot Object Counting with Good Exemplars**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/zero-shot_object_co…](https://papernotes.org/ECCV2024/multimodal_vlm/zero-shot_object_counting_with_good_exemplars/)
+
+**Adaptive Multi-task Learning for Few-Shot Object Detection**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/adaptive_multi-ta…](https://papernotes.org/ECCV2024/object_detection/adaptive_multi-task_learning_for_few-shot_object_detection/)
+
+**MutDet: Mutually Optimizing Pre-training for Remote Sensing Object Detection**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/mutdet_mutually_o…](https://papernotes.org/ECCV2024/object_detection/mutdet_mutually_optimizing_pre-training_for_remote_sensing_object_detection/)
+
+**Bridge Past and Future: Overcoming Information Asymmetry in Incremental Object Detection**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/bridge_past_and_f…](https://papernotes.org/ECCV2024/object_detection/bridge_past_and_future_overcoming_information_asymmetry_in_incremental_object_de/)
+
+**On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/on_calibration_of…](https://papernotes.org/ECCV2024/object_detection/on_calibration_of_object_detectors_pitfalls_evaluation_and_baselines/)
+
+**LaMI-DETR: Open-Vocabulary Detection with Language Model Instruction**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/lami-detr_open-vo…](https://papernotes.org/ECCV2024/object_detection/lami-detr_open-vocabulary_detection_with_language_model_instruction/)
+
+**Weak-to-Strong Compositional Learning from Generative Models for Language-Based Object Detection**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/weak-to-strong_co…](https://papernotes.org/ECCV2024/object_detection/weak-to-strong_compositional_learning_from_generative_models_for_language-based_/)
+
+**Shifted Autoencoders for Point Annotation Restoration in Object Counting**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/others/shifted_autoencoders_for_po…](https://papernotes.org/ECCV2024/others/shifted_autoencoders_for_point_annotation_restoration_in_object_counting/)
+
+**DSPDet3D: 3D Small Object Detection with Dynamic Spatial Pruning**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/dspdet3d_3d_small…](https://papernotes.org/ECCV2024/object_detection/dspdet3d_3d_small_object_detection_with_dynamic_spatial_pruning/)
+
+**Rectify the Regression Bias in Long-Tailed Object Detection**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/rectify_the_regre…](https://papernotes.org/ECCV2024/object_detection/rectify_the_regression_bias_in_long-tailed_object_detection/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -2825,7 +2932,7 @@
 
 <a id="medical_imaging"></a>
 
-## 🏥 Medical Imaging · `medical_imaging` · 24 papers
+## 🏥 Medical Imaging · `medical_imaging` · 22 papers
 
 **Topology-Preserving Downsampling of Binary Images**
 
@@ -2836,11 +2943,6 @@
 
 - Paper: <https://arxiv.org/abs/2407.14434v2>
 - Notes (Chinese): [papernotes.org/ECCV2024/medical_imaging/co-synthesis_of_hi…](https://papernotes.org/ECCV2024/medical_imaging/co-synthesis_of_histopathology_nuclei_image-label_pairs_using_a_context-conditio/)
-
-**Pathology-knowledge Enhanced Multi-instance Prompt Learning for Few-shot Whole Slide Image Classification**
-
-- Paper: <https://arxiv.org/abs/2407.10814>
-- Notes (Chinese): [papernotes.org/ECCV2024/medical_imaging/pathology-knowledg…](https://papernotes.org/ECCV2024/medical_imaging/pathology-knowledge_enhanced_multi-instance_prompt_learning_for_few-shot_whole_s/)
 
 **GTP-4o: Modality-prompted Heterogeneous Graph Learning for Omni-modal Biomedical Representation**
 
@@ -2897,10 +2999,6 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/medical_imaging/i-medsam_implicit_…](https://papernotes.org/ECCV2024/medical_imaging/i-medsam_implicit_medical_image_segmentation_with_segment_anything/)
 
-**Pathology-Knowledge Enhanced Multi-instance Prompt Learning for Few-Shot Whole Slide Image Classification**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/medical_imaging/pathology-knowledg…](https://papernotes.org/ECCV2024/medical_imaging/pathology-knowledge_enhanced_multi-instance_prompt_learning_for_few-shot_whole_s/)
-
 **Improving Medical Multi-modal Contrastive Learning with Expert Annotations**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/medical_imaging/improving_medical_…](https://papernotes.org/ECCV2024/medical_imaging/improving_medical_multi-modal_contrastive_learning_with_expert_annotations/)
@@ -2937,173 +3035,100 @@
 
 ---
 
-<a id="self_supervised"></a>
+<a id="llm_nlp"></a>
 
-## 🔄 Self-Supervised Learning · `self_supervised` · 18 papers
+## 💬 LLM / NLP · `llm_nlp` · 21 papers
 
-**COHO: Context-Sensitive City-Scale Hierarchical Urban Layout Generation**
+**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**
 
-- Paper: <https://arxiv.org/abs/2407.11294v1>
-- Code: <https://github.com/Arking1995/COHO>
-- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/coho_context-sensi…](https://papernotes.org/ECCV2024/self_supervised/coho_context-sensitive_city-scale_hierarchical_urban_layout_generation/)
+- Paper: <https://arxiv.org/abs/2410.08192>
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/hybridbooth_hybri…](https://papernotes.org/ECCV2024/image_generation/hybridbooth_hybrid_prompt_inversion_for_efficient_subject-driven_generation/)
 
-**Exemplar-Free Continual Representation Learning via Learnable Drift Compensation**
+**ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**
 
-- Paper: <https://arxiv.org/abs/2407.08536v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/exemplar-free_cont…](https://papernotes.org/ECCV2024/self_supervised/exemplar-free_continual_representation_learning_via_learnable_drift_compensation/)
+- Paper: <https://arxiv.org/abs/2408.04102>
+- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/artvlm_attribute_re…](https://papernotes.org/ECCV2024/multimodal_vlm/artvlm_attribute_recognition_through_vision-based_prefix_language_modeling/)
 
-**Rethinking Unsupervised Outlier Detection via Multiple Thresholding**
+**Cultural Value Differences of LLMs: Prompt, Language, and Model Size**
 
-- Paper: <https://arxiv.org/abs/2407.05382v2>
-- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/rethinking_unsuper…](https://papernotes.org/ECCV2024/self_supervised/rethinking_unsupervised_outlier_detection_via_multiple_thresholding/)
+- Paper: <https://arxiv.org/abs/2407.16891>
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/cultural_value_differences…](https://papernotes.org/ECCV2024/llm_nlp/cultural_value_differences_llms/)
 
-**FlowCon: Out-of-Distribution Detection Using Flow-Based Contrastive Learning**
+**VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding**
 
-- Paper: <https://arxiv.org/abs/2407.03489v2>
-- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/flowcon_out-of-dis…](https://papernotes.org/ECCV2024/self_supervised/flowcon_out-of-distribution_detection_using_flow-based_contrastive_learning/)
+- Paper: <https://arxiv.org/abs/2407.12594>
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/visfocus_prompt-gui…](https://papernotes.org/ECCV2024/llm_evaluation/visfocus_prompt-guided_vision_encoders_for_ocr-free_dense_document_understanding/)
 
-**Adaptive Multi-head Contrastive Learning**
+**Pathology-knowledge Enhanced Multi-instance Prompt Learning for Few-shot Whole Slide Image Classification**
 
-- Paper: <https://arxiv.org/abs/2310.05615>
-- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/adaptive_multihead…](https://papernotes.org/ECCV2024/self_supervised/adaptive_multihead_contrastive_learning/)
+- Paper: <https://arxiv.org/abs/2407.10814>
+- Notes (Chinese): [papernotes.org/ECCV2024/medical_imaging/pathology-knowledg…](https://papernotes.org/ECCV2024/medical_imaging/pathology-knowledge_enhanced_multi-instance_prompt_learning_for_few-shot_whole_s/)
 
-**4D Contrastive Superflows are Dense 3D Representation Learners**
+**FreestyleRet: Retrieving Images from Style-Diversified Queries**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/autonomous_driving/4d_contrastive_…](https://papernotes.org/ECCV2024/autonomous_driving/4d_contrastive_superflows_are_dense_3d_representation_learners/)
+- Paper: <https://arxiv.org/abs/2312.02428v2>
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/freestyleret_retrieving_im…](https://papernotes.org/ECCV2024/llm_nlp/freestyleret_retrieving_images_from_style-diversified_queries/)
 
-**MarineInst: A Foundation Model for Marine Image Analysis with Instance Visual Description**
+**ControlLLM: Augment Language Models with Tools by Searching on Graphs**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/marineinst_a_found…](https://papernotes.org/ECCV2024/self_supervised/marineinst_a_foundation_model_for_marine_image_analysis_with_instance_visual_des/)
+- Paper: <https://arxiv.org/abs/2310.17796>
+- Notes (Chinese): [papernotes.org/ECCV2024/audio_speech/controlllm_augment_la…](https://papernotes.org/ECCV2024/audio_speech/controlllm_augment_language_models_with_tools_by_searching_on_graphs/)
 
-**ViC-MAE: Self-supervised Representation Learning from Images and Video with Contrastive Masked Autoencoders**
+**PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/vic-mae_self-super…](https://papernotes.org/ECCV2024/self_supervised/vic-mae_self-supervised_representation_learning_from_images_and_video_with_contr/)
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/promptiqa_boosting_the_per…](https://papernotes.org/ECCV2024/llm_nlp/promptiqa_boosting_the_performance_and_generalization_for_no-reference_image_qua/)
 
-**Revisiting Supervision for Continual Representation Learning**
+**Soft Prompt Generation for Domain Generalization**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/revisiting_supervi…](https://papernotes.org/ECCV2024/self_supervised/revisiting_supervision_for_continual_representation_learning/)
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/soft_prompt_gener…](https://papernotes.org/ECCV2024/image_generation/soft_prompt_generation_for_domain_generalization/)
 
-**Self-supervised Video Copy Localization with Regional Token Representation**
+**VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/self-supervised_vi…](https://papernotes.org/ECCV2024/self_supervised/self-supervised_video_copy_localization_with_regional_token_representation/)
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/visfocus_prompt-gui…](https://papernotes.org/ECCV2024/llm_evaluation/visfocus_prompt-guided_vision_encoders_for_ocr-free_dense_document_understanding/)
 
-**InfMAE: A Foundation Model in the Infrared Modality**
+**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/infmae_a_foundatio…](https://papernotes.org/ECCV2024/self_supervised/infmae_a_foundation_model_in_the_infrared_modality/)
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/hybridbooth_hybri…](https://papernotes.org/ECCV2024/image_generation/hybridbooth_hybrid_prompt_inversion_for_efficient_subject-driven_generation/)
 
-**CLAP: Isolating Content from Style Through Contrastive Learning with Augmented Prompts**
+**Pathology-Knowledge Enhanced Multi-instance Prompt Learning for Few-Shot Whole Slide Image Classification**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/clap_isolating_cont…](https://papernotes.org/ECCV2024/multimodal_vlm/clap_isolating_content_from_style_through_contrastive_learning_with_augmented_pr/)
+- Notes (Chinese): [papernotes.org/ECCV2024/medical_imaging/pathology-knowledg…](https://papernotes.org/ECCV2024/medical_imaging/pathology-knowledge_enhanced_multi-instance_prompt_learning_for_few-shot_whole_s/)
 
-**Pose-Aware Self-supervised Learning with Viewpoint Trajectory Regularization**
+**Grounding Language Models for Visual Entity Recognition**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/pose-aware_sel…](https://papernotes.org/ECCV2024/human_understanding/pose-aware_self-supervised_learning_with_viewpoint_trajectory_regularization/)
+- Notes (Chinese): [papernotes.org/ECCV2024/information_retrieval/grounding_la…](https://papernotes.org/ECCV2024/information_retrieval/grounding_language_models_for_visual_entity_recognition/)
 
-**Efficient Image Pre-training with Siamese Cropped Masked Autoencoders**
+**ControlLLM: Augment Language Models with Tools by Searching on Graphs**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/efficient_image_pr…](https://papernotes.org/ECCV2024/self_supervised/efficient_image_pre-training_with_siamese_cropped_masked_autoencoders/)
+- Notes (Chinese): [papernotes.org/ECCV2024/audio_speech/controlllm_augment_la…](https://papernotes.org/ECCV2024/audio_speech/controlllm_augment_language_models_with_tools_by_searching_on_graphs/)
 
-**OmniSat: Self-supervised Modality Fusion for Earth Observation**
+**APL: Anchor-Based Prompt Learning for One-Stage Weakly Supervised Referring Expression Comprehension**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/time_series/omnisat_self-supervise…](https://papernotes.org/ECCV2024/time_series/omnisat_self-supervised_modality_fusion_for_earth_observation/)
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/apl_anchor-based_prompt_le…](https://papernotes.org/ECCV2024/llm_nlp/apl_anchor-based_prompt_learning_for_one-stage_weakly_supervised_referring_expre/)
 
-**Semantically Guided Representation Learning For Action Anticipation**
+**Prompting Language-Informed Distribution for Compositional Zero-Shot Learning**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/time_series/semantically_guided_re…](https://papernotes.org/ECCV2024/time_series/semantically_guided_representation_learning_for_action_anticipation/)
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_pretraining/prompting_language…](https://papernotes.org/ECCV2024/llm_pretraining/prompting_language-informed_distribution_for_compositional_zero-shot_learning/)
 
-**VideoClusterNet: Self-supervised and Adaptive Face Clustering for Videos**
+**Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in Instructional Videos**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/videoclusterne…](https://papernotes.org/ECCV2024/human_understanding/videoclusternet_self-supervised_and_adaptive_face_clustering_for_videos/)
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/propose_assess_search_harn…](https://papernotes.org/ECCV2024/llm_nlp/propose_assess_search_harnessing_llms_for_goal-oriented_planning_in_instructiona/)
 
-**WeCromCL: Weakly Supervised Cross-Modality Contrastive Learning for Transcription-Only Supervised Text Spotting**
+**OpenKD: Opening Prompt Diversity for Zero- and Few-Shot Keypoint Detection**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/wecromcl_weakly_su…](https://papernotes.org/ECCV2024/self_supervised/wecromcl_weakly_supervised_cross-modality_contrastive_learning_for_transcription/)
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/openkd_opening_pr…](https://papernotes.org/ECCV2024/object_detection/openkd_opening_prompt_diversity_for_zero-_and_few-shot_keypoint_detection/)
 
-<p align="right"><a href="#top">⬆ Back to top</a></p>
+**The Fabrication of Reality and Fantasy: Scene Generation with LLM-Assisted Prompt Interpretation**
 
----
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/the_fabrication_o…](https://papernotes.org/ECCV2024/image_generation/the_fabrication_of_reality_and_fantasy_scene_generation_with_llm-assisted_prompt/)
 
-<a id="object_detection"></a>
+**Stripe Observation Guided Inference Cost-Free Attention Mechanism**
 
-## 🎯 Object Detection · `object_detection` · 17 papers
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/stripe_observation_guided_…](https://papernotes.org/ECCV2024/llm_nlp/stripe_observation_guided_inference_cost-free_attention_mechanism/)
 
-**Responsible Visual Editing**
+**Reprojection Errors as Prompts for Efficient Scene Coordinate Regression**
 
-- Paper: <https://arxiv.org/abs/2404.05580v1>
-- Code: <https://github.com/kodenii/Responsible-Visual-Editing>
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/responsible_visua…](https://papernotes.org/ECCV2024/object_detection/responsible_visual_editing/)
-
-**YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information**
-
-- Paper: <https://arxiv.org/abs/2402.13616v2>
-- Code: <https://github.com/WongKinYiu/yolov9>
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/yolov9_learning_w…](https://papernotes.org/ECCV2024/object_detection/yolov9_learning_what_you_want_to_learn_using_programmable_gradient_information/)
-
-**Walker: Self-supervised Multiple Object Tracking by Walking on Temporal Appearance Graphs**
-
-- Paper: <https://arxiv.org/abs/2409.17221v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/walker_self-super…](https://papernotes.org/ECCV2024/object_detection/walker_self-supervised_multiple_object_tracking_by_walking_on_temporal_appearanc/)
-
-**Can OOD Object Detectors Learn from Foundation Models?**
-
-- Paper: <https://arxiv.org/abs/2409.05162v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/can_ood_object_de…](https://papernotes.org/ECCV2024/object_detection/can_ood_object_detectors_learn_from_foundation_models/)
-
-**Projecting Points to Axes: Oriented Object Detection via Point-Axis Representation**
-
-- Paper: <https://arxiv.org/abs/2407.08489v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/projecting_points…](https://papernotes.org/ECCV2024/object_detection/projecting_points_to_axes_oriented_object_detection_via_point-axis_representatio/)
-
-**Nonverbal Interaction Detection**
-
-- Paper: <https://arxiv.org/abs/2407.08133v2>
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/nonverbal_interac…](https://papernotes.org/ECCV2024/object_detection/nonverbal_interaction_detection/)
-
-**Portrait4D-V2: Pseudo Multi-view Data Creates Better 4D Head Synthesizer**
-
-- Paper: <https://arxiv.org/abs/2403.13570v2>
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/portrait4d-v2_pse…](https://papernotes.org/ECCV2024/object_detection/portrait4d-v2_pseudo_multi-view_data_creates_better_4d_head_synthesizer/)
-
-**Adaptive Bounding Box Uncertainties via Two-Step Conformal Prediction**
-
-- Paper: <https://arxiv.org/abs/2403.07263>
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/adaptive_bounding…](https://papernotes.org/ECCV2024/object_detection/adaptive_bounding_box_uncertainties_via_twostep_conformal_pr/)
-
-**BAM-DETR: Boundary-Aligned Moment Detection Transformer for Temporal Sentence Grounding in Videos**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/bam-detr_boundary…](https://papernotes.org/ECCV2024/object_detection/bam-detr_boundary-aligned_moment_detection_transformer_for_temporal_sentence_gro/)
-
-**Adaptive Multi-task Learning for Few-Shot Object Detection**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/adaptive_multi-ta…](https://papernotes.org/ECCV2024/object_detection/adaptive_multi-task_learning_for_few-shot_object_detection/)
-
-**MutDet: Mutually Optimizing Pre-training for Remote Sensing Object Detection**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/mutdet_mutually_o…](https://papernotes.org/ECCV2024/object_detection/mutdet_mutually_optimizing_pre-training_for_remote_sensing_object_detection/)
-
-**Bridge Past and Future: Overcoming Information Asymmetry in Incremental Object Detection**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/bridge_past_and_f…](https://papernotes.org/ECCV2024/object_detection/bridge_past_and_future_overcoming_information_asymmetry_in_incremental_object_de/)
-
-**On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/on_calibration_of…](https://papernotes.org/ECCV2024/object_detection/on_calibration_of_object_detectors_pitfalls_evaluation_and_baselines/)
-
-**LaMI-DETR: Open-Vocabulary Detection with Language Model Instruction**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/lami-detr_open-vo…](https://papernotes.org/ECCV2024/object_detection/lami-detr_open-vocabulary_detection_with_language_model_instruction/)
-
-**Weak-to-Strong Compositional Learning from Generative Models for Language-Based Object Detection**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/weak-to-strong_co…](https://papernotes.org/ECCV2024/object_detection/weak-to-strong_compositional_learning_from_generative_models_for_language-based_/)
-
-**DSPDet3D: 3D Small Object Detection with Dynamic Spatial Pruning**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/dspdet3d_3d_small_object…](https://papernotes.org/ECCV2024/3d_vision/dspdet3d_3d_small_object_detection_with_dynamic_spatial_pruning/)
-
-**Rectify the Regression Bias in Long-Tailed Object Detection**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/rectify_the_regre…](https://papernotes.org/ECCV2024/object_detection/rectify_the_regression_bias_in_long-tailed_object_detection/)
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/reprojection_errors_as_pro…](https://papernotes.org/ECCV2024/llm_nlp/reprojection_errors_as_prompts_for_efficient_scene_coordinate_regression/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -3111,7 +3136,7 @@
 
 <a id="robotics"></a>
 
-## 🤖 Robotics & Embodied AI · `robotics` · 14 papers
+## 🤖 Robotics & Embodied AI · `robotics` · 17 papers
 
 **ReALFRED: An Embodied Instruction Following Benchmark in Photo-Realistic Environments**
 
@@ -3139,10 +3164,24 @@
 - Paper: <https://arxiv.org/abs/2403.11650>
 - Notes (Chinese): [papernotes.org/ECCV2024/robotics/prioritized_semantic_lear…](https://papernotes.org/ECCV2024/robotics/prioritized_semantic_learning_for_zero-shot_instance_navigation/)
 
+**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**
+
+- Paper: <https://arxiv.org/abs/2312.14457>
+- Notes (Chinese): [papernotes.org/ECCV2024/robotics/quar-vla_vision-language-…](https://papernotes.org/ECCV2024/robotics/quar-vla_vision-language-action_model_for_quadruped_robots/)
+
 **Octopus: Embodied Vision-Language Programmer from Environmental Feedback**
 
 - Paper: <https://arxiv.org/abs/2310.08588>
 - Notes (Chinese): [papernotes.org/ECCV2024/reinforcement_learning/octopus_emb…](https://papernotes.org/ECCV2024/reinforcement_learning/octopus_embodied_vision-language_programmer_from_environmental_feedback/)
+
+**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**
+
+- Paper: <https://arxiv.org/abs/2310.08588v2>
+- Notes (Chinese): [papernotes.org/ECCV2024/reinforcement_learning/octopus_emb…](https://papernotes.org/ECCV2024/reinforcement_learning/octopus_embodied_vision-language_programmer_from_environmental_feedback/)
+
+**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/robotics/quar-vla_vision-language-…](https://papernotes.org/ECCV2024/robotics/quar-vla_vision-language-action_model_for_quadruped_robots/)
 
 **LLM as Copilot for Coarse-Grained Vision-and-Language Navigation**
 
@@ -3180,9 +3219,84 @@
 
 ---
 
+<a id="ai_safety"></a>
+
+## 🛡️ AI Safety · `ai_safety` · 14 papers
+
+**Any Target Can be Offense: Adversarial Example Generation via Generalized Latent Infection**
+
+- Paper: <https://arxiv.org/abs/2407.12292v1>
+- Code: <https://github.com/VL-Group/GAKer>
+- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/any_target_can_be_offens…](https://papernotes.org/ECCV2024/ai_safety/any_target_can_be_offense_adversarial_example_generation_via_generalized_latent_/)
+
+**Event Trojan: Asynchronous Event-Based Backdoor Attacks**
+
+- Paper: <https://arxiv.org/abs/2407.06838v2>
+- Code: <https://github.com/rfww/EventTrojan>
+- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/genq_quantization_in_low…](https://papernotes.org/ECCV2024/ai_safety/genq_quantization_in_low_data_regimes_with_generative_synthetic_data/)
+
+**Gradient-Regularized Out-of-Distribution Detection**
+
+- Paper: <https://arxiv.org/abs/2404.12368v3>
+- Code: <https://github.com/o4lc/Greg-OOD>
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/gradient-regularize…](https://papernotes.org/ECCV2024/llm_evaluation/gradient-regularized_out-of-distribution_detection/)
+
+**Preventing Catastrophic Overfitting in Fast Adversarial Training: A Bi-level Optimization Perspective**
+
+- Paper: <https://arxiv.org/abs/2407.12443v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/preventing_catastrophic_…](https://papernotes.org/ECCV2024/ai_safety/preventing_catastrophic_overfitting_in_fast_adversarial_training_a_bi-level_opti/)
+
+**FlowCon: Out-of-Distribution Detection Using Flow-Based Contrastive Learning**
+
+- Paper: <https://arxiv.org/abs/2407.03489v2>
+- Notes (Chinese): [papernotes.org/ECCV2024/self_supervised/flowcon_out-of-dis…](https://papernotes.org/ECCV2024/self_supervised/flowcon_out-of-distribution_detection_using_flow-based_contrastive_learning/)
+
+**Towards Multi-modal Transformers in Federated Learning**
+
+- Paper: <https://arxiv.org/abs/2404.12467v2>
+- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/towards_multi-modal_tran…](https://papernotes.org/ECCV2024/ai_safety/towards_multi-modal_transformers_in_federated_learning/)
+
+**Resilience of Entropy Model in Distributed Neural Networks**
+
+- Paper: <https://arxiv.org/abs/2403.00942v2>
+- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/resilience_of_entropy_mo…](https://papernotes.org/ECCV2024/ai_safety/resilience_of_entropy_model_in_distributed_neural_networks/)
+
+**One-Stage Prompt-Based Continual Learning**
+
+- Paper: <https://arxiv.org/abs/2402.16189v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/one-stage_prompt-based_c…](https://papernotes.org/ECCV2024/ai_safety/one-stage_prompt-based_continual_learning/)
+
+**Noise-Assisted Prompt Learning for Image Forgery Detection and Localization**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/noise-assisted_prompt_le…](https://papernotes.org/ECCV2024/ai_safety/noise-assisted_prompt_learning_for_image_forgery_detection_and_localization/)
+
+**Fisher Calibration for Backdoor-Robust Heterogeneous Federated Learning**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/fisher_calibration_for_b…](https://papernotes.org/ECCV2024/ai_safety/fisher_calibration_for_backdoor-robust_heterogeneous_federated_learning/)
+
+**RingID: Rethinking Tree-Ring Watermarking for Enhanced Multi-key Identification**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/ringid_rethinking…](https://papernotes.org/ECCV2024/image_generation/ringid_rethinking_tree-ring_watermarking_for_enhanced_multi-key_identification/)
+
+**CLIP-Guided Generative Networks for Transferable Targeted Adversarial Attacks**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/clip-guided_generative_n…](https://papernotes.org/ECCV2024/ai_safety/clip-guided_generative_networks_for_transferable_targeted_adversarial_attacks/)
+
+**Unveiling Privacy Risks in Stochastic Neural Networks Training: Effective Image Reconstruction from Gradients**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/unveiling_privacy_risks_…](https://papernotes.org/ECCV2024/ai_safety/unveiling_privacy_risks_in_stochastic_neural_networks_training_effective_image_r/)
+
+**Operational Open-Set Recognition and PostMax Refinement**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/others/operational_open-set_recogn…](https://papernotes.org/ECCV2024/others/operational_open-set_recognition_and_postmax_refinement/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
 <a id="video_generation"></a>
 
-## 🎬 Video Generation · `video_generation` · 12 papers
+## 🎬 Video Generation · `video_generation` · 13 papers
 
 **MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model**
 
@@ -3226,6 +3340,10 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/video_generation/exploring_pre-tra…](https://papernotes.org/ECCV2024/video_generation/exploring_pre-trained_text-to-video_diffusion_models_for_referring_video_object_/)
 
+**SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/sc4d_sparse-controlled_v…](https://papernotes.org/ECCV2024/3d_vision/sc4d_sparse-controlled_video-to-4d_generation_and_motion_transfer/)
+
 **MagDiff: Multi-alignment Diffusion for High-Fidelity Video Generation and Editing**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/video_generation/magdiff_multi-ali…](https://papernotes.org/ECCV2024/video_generation/magdiff_multi-alignment_diffusion_for_high-fidelity_video_generation_and_editing/)
@@ -3242,129 +3360,9 @@
 
 ---
 
-<a id="llm_evaluation"></a>
-
-## 📊 LLM Evaluation · `llm_evaluation` · 11 papers
-
-**Gradient-Regularized Out-of-Distribution Detection**
-
-- Paper: <https://arxiv.org/abs/2404.12368v3>
-- Code: <https://github.com/o4lc/Greg-OOD>
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/gradient-regularize…](https://papernotes.org/ECCV2024/llm_evaluation/gradient-regularized_out-of-distribution_detection/)
-
-**SIGMA: Sinkhorn-Guided Masked Video Modeling**
-
-- Paper: <https://arxiv.org/abs/2407.15447v1>
-- Project: <https://quva-lab.github.io/SIGMA>
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/sigma_sinkhorn-guid…](https://papernotes.org/ECCV2024/llm_evaluation/sigma_sinkhorn-guided_masked_video_modeling/)
-
-**Imaging Interiors: An Implicit Solution to Electromagnetic Inverse Scattering Problems**
-
-- Paper: <https://arxiv.org/abs/2407.09352v1>
-- Project: <https://luo-ziyuan.github.io/Imaging-Interiors>
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/imaging_interiors_a…](https://papernotes.org/ECCV2024/llm_evaluation/imaging_interiors_an_implicit_solution_to_electromagnetic_inverse_scattering_pro/)
-
-**CaesarNeRF: Calibrated Semantic Representation for Few-Shot Generalizable Neural Rendering**
-
-- Paper: <https://arxiv.org/abs/2311.15510>
-- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/caesarnerf_calibrated_se…](https://papernotes.org/ECCV2024/3d_vision/caesarnerf_calibrated_semantic_representation_for_few-shot_generalizable_neural_/)
-
-**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching**
-
-- Paper: <https://arxiv.org/abs/2311.12751>
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/towards_natural_l…](https://papernotes.org/ECCV2024/object_detection/towards_natural_language-guided_drones_geotext-1652_benchmark_with_spatial_relat/)
-
-**HIMO: A New Benchmark for Full-Body Human Interacting with Multiple Objects**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/himo_a_new_benchm…](https://papernotes.org/ECCV2024/image_generation/himo_a_new_benchmark_for_full-body_human_interacting_with_multiple_objects/)
-
-**SignAvatars: A Large-Scale 3D Sign Language Holistic Motion Dataset and Benchmark**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/signavatars_a_large-scal…](https://papernotes.org/ECCV2024/3d_vision/signavatars_a_large-scale_3d_sign_language_holistic_motion_dataset_and_benchmark/)
-
-**R2-Bench: Benchmarking the Robustness of Referring Perception Models Under Perturbations**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/r2-bench_benchmarki…](https://papernotes.org/ECCV2024/llm_evaluation/r2-bench_benchmarking_the_robustness_of_referring_perception_models_under_pertur/)
-
-**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/towards_natural_l…](https://papernotes.org/ECCV2024/object_detection/towards_natural_language-guided_drones_geotext-1652_benchmark_with_spatial_relat/)
-
-**PetFace: A Large-Scale Dataset and Benchmark for Animal Identification**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/petface_a_large-sca…](https://papernotes.org/ECCV2024/llm_evaluation/petface_a_large-scale_dataset_and_benchmark_for_animal_identification/)
-
-**Confidence Self-calibration for Multi-label Class-Incremental Learning**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/graph_learning/confidence_self-cal…](https://papernotes.org/ECCV2024/graph_learning/confidence_self-calibration_for_multi-label_class-incremental_learning/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
-<a id="ai_safety"></a>
-
-## 🛡️ AI Safety · `ai_safety` · 11 papers
-
-**Any Target Can be Offense: Adversarial Example Generation via Generalized Latent Infection**
-
-- Paper: <https://arxiv.org/abs/2407.12292v1>
-- Code: <https://github.com/VL-Group/GAKer>
-- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/any_target_can_be_offens…](https://papernotes.org/ECCV2024/ai_safety/any_target_can_be_offense_adversarial_example_generation_via_generalized_latent_/)
-
-**Event Trojan: Asynchronous Event-Based Backdoor Attacks**
-
-- Paper: <https://arxiv.org/abs/2407.06838v2>
-- Code: <https://github.com/rfww/EventTrojan>
-- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/genq_quantization_in_low…](https://papernotes.org/ECCV2024/ai_safety/genq_quantization_in_low_data_regimes_with_generative_synthetic_data/)
-
-**Preventing Catastrophic Overfitting in Fast Adversarial Training: A Bi-level Optimization Perspective**
-
-- Paper: <https://arxiv.org/abs/2407.12443v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/preventing_catastrophic_…](https://papernotes.org/ECCV2024/ai_safety/preventing_catastrophic_overfitting_in_fast_adversarial_training_a_bi-level_opti/)
-
-**Towards Multi-modal Transformers in Federated Learning**
-
-- Paper: <https://arxiv.org/abs/2404.12467v2>
-- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/towards_multi-modal_tran…](https://papernotes.org/ECCV2024/ai_safety/towards_multi-modal_transformers_in_federated_learning/)
-
-**Resilience of Entropy Model in Distributed Neural Networks**
-
-- Paper: <https://arxiv.org/abs/2403.00942v2>
-- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/resilience_of_entropy_mo…](https://papernotes.org/ECCV2024/ai_safety/resilience_of_entropy_model_in_distributed_neural_networks/)
-
-**One-Stage Prompt-Based Continual Learning**
-
-- Paper: <https://arxiv.org/abs/2402.16189v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/one-stage_prompt-based_c…](https://papernotes.org/ECCV2024/ai_safety/one-stage_prompt-based_continual_learning/)
-
-**Noise-Assisted Prompt Learning for Image Forgery Detection and Localization**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/noise-assisted_prompt_le…](https://papernotes.org/ECCV2024/ai_safety/noise-assisted_prompt_learning_for_image_forgery_detection_and_localization/)
-
-**Fisher Calibration for Backdoor-Robust Heterogeneous Federated Learning**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/fisher_calibration_for_b…](https://papernotes.org/ECCV2024/ai_safety/fisher_calibration_for_backdoor-robust_heterogeneous_federated_learning/)
-
-**RingID: Rethinking Tree-Ring Watermarking for Enhanced Multi-key Identification**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/ringid_rethinking…](https://papernotes.org/ECCV2024/image_generation/ringid_rethinking_tree-ring_watermarking_for_enhanced_multi-key_identification/)
-
-**CLIP-Guided Generative Networks for Transferable Targeted Adversarial Attacks**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/clip-guided_generative_n…](https://papernotes.org/ECCV2024/ai_safety/clip-guided_generative_networks_for_transferable_targeted_adversarial_attacks/)
-
-**Unveiling Privacy Risks in Stochastic Neural Networks Training: Effective Image Reconstruction from Gradients**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/ai_safety/unveiling_privacy_risks_…](https://papernotes.org/ECCV2024/ai_safety/unveiling_privacy_risks_in_stochastic_neural_networks_training_effective_image_r/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
 <a id="audio_speech"></a>
 
-## 🎵 Audio & Speech · `audio_speech` · 10 papers
+## 🎵 Audio & Speech · `audio_speech` · 9 papers
 
 **Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality**
 
@@ -3375,11 +3373,6 @@
 
 - Paper: <https://arxiv.org/abs/2407.07554v1>
 - Notes (Chinese): [papernotes.org/ECCV2024/audio_speech/beat-it_beat-synchron…](https://papernotes.org/ECCV2024/audio_speech/beat-it_beat-synchronized_multi-condition_3d_dance_generation/)
-
-**Action2Sound: Ambient-Aware Generation of Action Sounds from Egocentric Videos**
-
-- Paper: <https://arxiv.org/abs/2406.09272>
-- Notes (Chinese): [papernotes.org/ECCV2024/audio_speech/action2sound_ambienta…](https://papernotes.org/ECCV2024/audio_speech/action2sound_ambientaware_generation_of_action_sounds_from_e/)
 
 **Listen to Look Into the Future: Audio-Visual Egocentric Gaze Anticipation**
 
@@ -3415,7 +3408,7 @@
 
 <a id="llm_pretraining"></a>
 
-## 📚 LLM Pretraining · `llm_pretraining` · 7 papers
+## 📚 LLM Pretraining · `llm_pretraining` · 8 papers
 
 **Learning to Obstruct Few-Shot Image Classification over Restricted Classes**
 
@@ -3432,6 +3425,12 @@
 - Paper: <https://arxiv.org/abs/2408.00677v2>
 - Notes (Chinese): [papernotes.org/ECCV2024/llm_pretraining/scaling_backwards_…](https://papernotes.org/ECCV2024/llm_pretraining/scaling_backwards_minimal_synthetic_pre-training/)
 
+**SIGMA: Sinkhorn-Guided Masked Video Modeling**
+
+- Paper: <https://arxiv.org/abs/2407.15447v1>
+- Project: <https://quva-lab.github.io/SIGMA>
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/sigma_sinkhorn-guid…](https://papernotes.org/ECCV2024/llm_evaluation/sigma_sinkhorn-guided_masked_video_modeling/)
+
 **POA: Pre-training Once for Models of All Sizes**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/interpretability/poa_pre-training_…](https://papernotes.org/ECCV2024/interpretability/poa_pre-training_once_for_models_of_all_sizes/)
@@ -3444,9 +3443,9 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/llm_pretraining/prelar_world_model…](https://papernotes.org/ECCV2024/llm_pretraining/prelar_world_model_pre-training_with_learnable_action_representation/)
 
-**Plan, Posture and Go: Towards Open-Vocabulary Text-to-Motion Generation**
+**SLAck: Semantic, Location, and Appearance Aware Open-Vocabulary Tracking**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_pretraining/plan_posture_and_g…](https://papernotes.org/ECCV2024/llm_pretraining/plan_posture_and_go_towards_open-vocabulary_text-to-motion_generation/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/slack_semantic…](https://papernotes.org/ECCV2024/video_understanding/slack_semantic_location_and_appearance_aware_open-vocabulary_tracking/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -3489,6 +3488,36 @@
 
 ---
 
+<a id="llm_reasoning"></a>
+
+## 💡 LLM Reasoning · `llm_reasoning` · 5 papers
+
+**NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2407.12366>
+- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/navgpt-2_unleashing…](https://papernotes.org/ECCV2024/multimodal_vlm/navgpt-2_unleashing_navigational_reasoning_capability_for_large_vision-language_/)
+
+**Controllable Navigation Instruction Generation with Chain of Thought Prompting**
+
+- Paper: <https://arxiv.org/abs/2407.07433>
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_reasoning/controllable_navigat…](https://papernotes.org/ECCV2024/llm_reasoning/controllable_navigation_instruction_generation_with_chain_of_thought_prompting/)
+
+**NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/navgpt-2_unleashing…](https://papernotes.org/ECCV2024/multimodal_vlm/navgpt-2_unleashing_navigational_reasoning_capability_for_large_vision-language_/)
+
+**ScanReason: Empowering 3D Visual Grounding with Reasoning Capabilities**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/scanreason_empowering_3d…](https://papernotes.org/ECCV2024/3d_vision/scanreason_empowering_3d_visual_grounding_with_reasoning_capabilities/)
+
+**Controllable Navigation Instruction Generation with Chain of Thought Prompting**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_reasoning/controllable_navigat…](https://papernotes.org/ECCV2024/llm_reasoning/controllable_navigation_instruction_generation_with_chain_of_thought_prompting/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
 <a id="causal_inference"></a>
 
 ## 🔗 Causal Inference · `causal_inference` · 4 papers
@@ -3515,23 +3544,25 @@
 
 ---
 
-<a id="signal_comm"></a>
+<a id="interpretability"></a>
 
-## 📡 Signal & Communications · `signal_comm` · 3 papers
+## 🔬 Interpretability · `interpretability` · 3 papers
 
-**RAW-Adapter: Adapting Pre-trained Visual Model to Camera RAW Images**
+**Improving Intervention Efficacy via Concept Realignment in Concept Bottleneck Models**
 
-- Paper: <https://arxiv.org/abs/2408.14802v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/signal_comm/raw-adapter_adapting_p…](https://papernotes.org/ECCV2024/signal_comm/raw-adapter_adapting_pre-trained_visual_model_to_camera_raw_images/)
+- Paper: <https://arxiv.org/abs/2405.01531v2>
+- Code: <https://github.com/ExplainableML/concept_realignment>
+- Notes (Chinese): [papernotes.org/ECCV2024/interpretability/improving_interve…](https://papernotes.org/ECCV2024/interpretability/improving_intervention_efficacy_via_concept_realignment_in_concept_bottleneck_mo/)
 
-**Optimizing Illuminant Estimation in Dual-Exposure HDR Imaging**
+**DetailSemNet: Elevating Signature Verification Through Detail-Semantic Integration**
 
-- Paper: <https://arxiv.org/abs/2403.02449v2>
-- Notes (Chinese): [papernotes.org/ECCV2024/signal_comm/optimizing_illuminant_…](https://papernotes.org/ECCV2024/signal_comm/optimizing_illuminant_estimation_in_dual-exposure_hdr_imaging/)
+- Paper: <https://arxiv.org/abs/2511.16364v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/interpretability/detailsemnet_elev…](https://papernotes.org/ECCV2024/interpretability/detailsemnet_elevating_signature_verification_through_detail-semantic_integratio/)
 
-**Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics**
+**GazeXplain: Learning to Predict Natural Language Explanations of Visual Scanpaths**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/signal_comm/defect_spectrum_a_gran…](https://papernotes.org/ECCV2024/signal_comm/defect_spectrum_a_granular_look_of_large-scale_defect_datasets_with_rich_semanti/)
+- Paper: <https://arxiv.org/abs/2408.02788v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/others/gazexplain_learning_to_pred…](https://papernotes.org/ECCV2024/others/gazexplain_learning_to_predict_natural_language_explanations_of_visual_scanpaths/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -3580,18 +3611,19 @@
 
 ---
 
-<a id="reinforcement_learning"></a>
+<a id="signal_comm"></a>
 
-## 🎮 Reinforcement Learning · `reinforcement_learning` · 2 papers
+## 📡 Signal & Communications · `signal_comm` · 2 papers
 
-**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**
+**RAW-Adapter: Adapting Pre-trained Visual Model to Camera RAW Images**
 
-- Paper: <https://arxiv.org/abs/2310.08588v2>
-- Notes (Chinese): [papernotes.org/ECCV2024/reinforcement_learning/octopus_emb…](https://papernotes.org/ECCV2024/reinforcement_learning/octopus_embodied_vision-language_programmer_from_environmental_feedback/)
+- Paper: <https://arxiv.org/abs/2408.14802v1>
+- Notes (Chinese): [papernotes.org/ECCV2024/signal_comm/raw-adapter_adapting_p…](https://papernotes.org/ECCV2024/signal_comm/raw-adapter_adapting_pre-trained_visual_model_to_camera_raw_images/)
 
-**Visual Grounding for Object-Level Generalization in Reinforcement Learning**
+**Optimizing Illuminant Estimation in Dual-Exposure HDR Imaging**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/reinforcement_learning/visual_grou…](https://papernotes.org/ECCV2024/reinforcement_learning/visual_grounding_for_object-level_generalization_in_reinforcement_learning/)
+- Paper: <https://arxiv.org/abs/2403.02449v2>
+- Notes (Chinese): [papernotes.org/ECCV2024/signal_comm/optimizing_illuminant_…](https://papernotes.org/ECCV2024/signal_comm/optimizing_illuminant_estimation_in_dual-exposure_hdr_imaging/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -3630,37 +3662,17 @@
 
 ---
 
-<a id="interpretability"></a>
+<a id="time_series"></a>
 
-## 🔬 Interpretability · `interpretability` · 2 papers
+## 📈 Time Series · `time_series` · 2 papers
 
-**Improving Intervention Efficacy via Concept Realignment in Concept Bottleneck Models**
+**Multi-person Pose Forecasting with Individual Interaction Perceptron and Prior Learning**
 
-- Paper: <https://arxiv.org/abs/2405.01531v2>
-- Code: <https://github.com/ExplainableML/concept_realignment>
-- Notes (Chinese): [papernotes.org/ECCV2024/interpretability/improving_interve…](https://papernotes.org/ECCV2024/interpretability/improving_intervention_efficacy_via_concept_realignment_in_concept_bottleneck_mo/)
+- Notes (Chinese): [papernotes.org/ECCV2024/time_series/multi-person_pose_fore…](https://papernotes.org/ECCV2024/time_series/multi-person_pose_forecasting_with_individual_interaction_perceptron_and_prior_l/)
 
-**DetailSemNet: Elevating Signature Verification Through Detail-Semantic Integration**
+**Probabilistic Weather Forecasting with Deterministic Guidance-Based Diffusion Model**
 
-- Paper: <https://arxiv.org/abs/2511.16364v1>
-- Notes (Chinese): [papernotes.org/ECCV2024/interpretability/detailsemnet_elev…](https://papernotes.org/ECCV2024/interpretability/detailsemnet_elevating_signature_verification_through_detail-semantic_integratio/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
-<a id="llm_reasoning"></a>
-
-## 💡 LLM Reasoning · `llm_reasoning` · 2 papers
-
-**Controllable Navigation Instruction Generation with Chain of Thought Prompting**
-
-- Paper: <https://arxiv.org/abs/2407.07433>
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_reasoning/controllable_navigat…](https://papernotes.org/ECCV2024/llm_reasoning/controllable_navigation_instruction_generation_with_chain_of_thought_prompting/)
-
-**Controllable Navigation Instruction Generation with Chain of Thought Prompting**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_reasoning/controllable_navigat…](https://papernotes.org/ECCV2024/llm_reasoning/controllable_navigation_instruction_generation_with_chain_of_thought_prompting/)
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/probabilistic_wea…](https://papernotes.org/ECCV2024/image_generation/probabilistic_weather_forecasting_with_deterministic_guidance-based_diffusion_mo/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -3686,7 +3698,7 @@
 
 <a id="physics"></a>
 
-## ⚛️ Physics · `physics` · 1 papers
+## ⚛️ Physics & Scientific Computing · `physics` · 1 papers
 
 **Robust Fitting on a Gate Quantum Computer** · 🎤 Oral
 
@@ -3721,18 +3733,6 @@
 
 ---
 
-<a id="time_series"></a>
-
-## 📈 Time Series · `time_series` · 1 papers
-
-**Multi-person Pose Forecasting with Individual Interaction Perceptron and Prior Learning**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/time_series/multi-person_pose_fore…](https://papernotes.org/ECCV2024/time_series/multi-person_pose_forecasting_with_individual_interaction_perceptron_and_prior_l/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
 <a id="llm_safety"></a>
 
 ## 🔒 LLM Safety · `llm_safety` · 1 papers
@@ -3745,14 +3745,26 @@
 
 ---
 
-<a id="information_retrieval"></a>
+<a id="computational_biology"></a>
 
-## 🔍 Information Retrieval / RAG · `information_retrieval` · 1 papers
+## 🧬 Computational Biology · `computational_biology` · 1 papers
 
 **ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**
 
 - Paper: <https://arxiv.org/abs/2408.04102v3>
-- Notes (Chinese): [papernotes.org/ECCV2024/information_retrieval/artvlm_attri…](https://papernotes.org/ECCV2024/information_retrieval/artvlm_attribute_recognition_through_vision-based_prefix_language_modeling/)
+- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/artvlm_attribute_re…](https://papernotes.org/ECCV2024/multimodal_vlm/artvlm_attribute_recognition_through_vision-based_prefix_language_modeling/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
+<a id="reinforcement_learning"></a>
+
+## 🎮 Reinforcement Learning · `reinforcement_learning` · 1 papers
+
+**Visual Grounding for Object-Level Generalization in Reinforcement Learning**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/reinforcement_learning/visual_grou…](https://papernotes.org/ECCV2024/reinforcement_learning/visual_grounding_for_object-level_generalization_in_reinforcement_learning/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -3773,7 +3785,7 @@
 
 <a id="others"></a>
 
-## 📂 Others · `others` · 196 papers
+## 📂 Others · `others` · 190 papers
 
 **Event-Based Mosaicing Bundle Adjustment**
 
@@ -3849,10 +3861,16 @@
 - Paper: <https://arxiv.org/abs/2407.13863>
 - Notes (Chinese): [papernotes.org/ECCV2024/image_generation/a_closer_look_at_…](https://papernotes.org/ECCV2024/image_generation/a_closer_look_at_gan_priors_exploiting_intermediate_features/)
 
-**Zero-Shot Object Counting with Good Exemplars (VA-Count)**
+**Imaging Interiors: An Implicit Solution to Electromagnetic Inverse Scattering Problems**
 
-- Paper: <https://arxiv.org/abs/2407.04948>
-- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/zero-shot_object_co…](https://papernotes.org/ECCV2024/multimodal_vlm/zero-shot_object_counting_with_good_exemplars/)
+- Paper: <https://arxiv.org/abs/2407.09352v1>
+- Project: <https://luo-ziyuan.github.io/Imaging-Interiors>
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/imaging_interiors_a…](https://papernotes.org/ECCV2024/llm_evaluation/imaging_interiors_an_implicit_solution_to_electromagnetic_inverse_scattering_pro/)
+
+**Action2Sound: Ambient-Aware Generation of Action Sounds from Egocentric Videos**
+
+- Paper: <https://arxiv.org/abs/2406.09272>
+- Notes (Chinese): [papernotes.org/ECCV2024/audio_speech/action2sound_ambienta…](https://papernotes.org/ECCV2024/audio_speech/action2sound_ambientaware_generation_of_action_sounds_from_e/)
 
 **A Framework for Efficient Model Evaluation through Stratification, Sampling, and Estimation**
 
@@ -3879,6 +3897,11 @@
 - Paper: <https://arxiv.org/abs/2404.01647>
 - Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/edtalk_efficie…](https://papernotes.org/ECCV2024/human_understanding/edtalk_efficient_disentanglement_for_emotional_talking_head_synthesis/)
 
+**MapTracker: Tracking with Strided Memory Fusion for Consistent Vector HD Mapping**
+
+- Paper: <https://arxiv.org/abs/2403.15951>
+- Notes (Chinese): [papernotes.org/ECCV2024/autonomous_driving/maptracker_trac…](https://papernotes.org/ECCV2024/autonomous_driving/maptracker_tracking_with_strided_memory_fusion_for_consistent_vector_hd_mapping/)
+
 **Infinite-ID: Identity-Preserved Personalization via ID-Semantics Decoupling Paradigm**
 
 - Paper: <https://arxiv.org/abs/2403.11781>
@@ -3899,11 +3922,6 @@
 - Paper: <https://arxiv.org/abs/2402.16641>
 - Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/towards_open-ended_…](https://papernotes.org/ECCV2024/multimodal_vlm/towards_open-ended_visual_quality_comparison/)
 
-**Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection**
-
-- Paper: <https://arxiv.org/abs/2401.03145>
-- Notes (Chinese): [papernotes.org/ECCV2024/others/self-supervised_feature_ada…](https://papernotes.org/ECCV2024/others/self-supervised_feature_adaptation_for_3d_industrial_anomaly_detection/)
-
 **Ponymation: Learning Articulated 3D Animal Motions from Unlabeled Online Videos**
 
 - Paper: <https://arxiv.org/abs/2312.13604>
@@ -3918,6 +3936,16 @@
 
 - Paper: <https://arxiv.org/abs/2311.17101>
 - Notes (Chinese): [papernotes.org/ECCV2024/image_generation/a_highquality_rob…](https://papernotes.org/ECCV2024/image_generation/a_highquality_robust_diffusion_framework_for_corrupted_datas/)
+
+**CaesarNeRF: Calibrated Semantic Representation for Few-Shot Generalizable Neural Rendering**
+
+- Paper: <https://arxiv.org/abs/2311.15510>
+- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/caesarnerf_calibrated_se…](https://papernotes.org/ECCV2024/3d_vision/caesarnerf_calibrated_semantic_representation_for_few-shot_generalizable_neural_/)
+
+**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching**
+
+- Paper: <https://arxiv.org/abs/2311.12751>
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/towards_natural_l…](https://papernotes.org/ECCV2024/object_detection/towards_natural_language-guided_drones_geotext-1652_benchmark_with_spatial_relat/)
 
 **A Direct Approach to Viewing Graph Solvability**
 
@@ -3935,10 +3963,6 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/motion_mamba_e…](https://papernotes.org/ECCV2024/human_understanding/motion_mamba_efficient_and_long_sequence_motion_generation/)
 
-**SpectraM-PS: Spectrally Multiplexed Photometric Stereo Under Unknown Spectral Composition**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/others/spectram-ps_spectrally_mult…](https://papernotes.org/ECCV2024/others/spectram-ps_spectrally_multiplexed_photometric_stereo_under_unknown_spectral_com/)
-
 **DragAPart: Learning a Part-Level Motion Prior for Articulated Objects**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/llm_pretraining/dragapart_learning…](https://papernotes.org/ECCV2024/llm_pretraining/dragapart_learning_a_part-level_motion_prior_for_articulated_objects/)
@@ -3950,10 +3974,6 @@
 **Editable Image Elements for Controllable Synthesis**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/image_generation/editable_image_el…](https://papernotes.org/ECCV2024/image_generation/editable_image_elements_for_controllable_synthesis/)
-
-**Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/others/self-supervised_feature_ada…](https://papernotes.org/ECCV2024/others/self-supervised_feature_adaptation_for_3d_industrial_anomaly_detection/)
 
 **Alignist: CAD-Informed Orientation Distribution Estimation by Fusing Shape and Correspondences**
 
@@ -4003,6 +4023,10 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/autonomous_driving/hierarchical_te…](https://papernotes.org/ECCV2024/autonomous_driving/hierarchical_temporal_context_learning_for_camera-based_semantic_scene_completio/)
 
+**HIMO: A New Benchmark for Full-Body Human Interacting with Multiple Objects**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/image_generation/himo_a_new_benchm…](https://papernotes.org/ECCV2024/image_generation/himo_a_new_benchmark_for_full-body_human_interacting_with_multiple_objects/)
+
 **Eliminating Warping Shakes for Unsupervised Online Video Stitching**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/eliminating_warping…](https://papernotes.org/ECCV2024/llm_evaluation/eliminating_warping_shakes_for_unsupervised_online_video_stitching/)
@@ -4043,14 +4067,6 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/others/attnzero_efficient_attentio…](https://papernotes.org/ECCV2024/others/attnzero_efficient_attention_discovery_for_vision_transformers/)
 
-**EvSign: Sign Language Recognition and Translation with Streaming Events**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/evsign_sign_languag…](https://papernotes.org/ECCV2024/llm_evaluation/evsign_sign_language_recognition_and_translation_with_streaming_events/)
-
-**Zero-Shot Object Counting with Good Exemplars**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/zero-shot_object_co…](https://papernotes.org/ECCV2024/multimodal_vlm/zero-shot_object_counting_with_good_exemplars/)
-
 **Image Demoiréing in RAW and sRGB Domains**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/others/image_demoiréing_in_raw_and…](https://papernotes.org/ECCV2024/others/image_demoiréing_in_raw_and_srgb_domains/)
@@ -4067,13 +4083,17 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/object_detection/stepwise_multi-gr…](https://papernotes.org/ECCV2024/object_detection/stepwise_multi-grained_boundary_detector_for_point-supervised_temporal_action_lo/)
 
+**OneTrack: Demystifying the Conflict Between Detection and Tracking in End-to-End 3D Trackers**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/onetrack_demys…](https://papernotes.org/ECCV2024/video_understanding/onetrack_demystifying_the_conflict_between_detection_and_tracking_in_end-to-end_/)
+
 **SINDER: Repairing the Singular Defects of DINOv2**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/sinder_repairing_the_sin…](https://papernotes.org/ECCV2024/3d_vision/sinder_repairing_the_singular_defects_of_dinov2/)
 
-**TF-FAS: Twofold-Element Fine-Grained Semantic Guidance for Generalizable Face Anti-spoofing**
+**Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/tf-fas_twofold…](https://papernotes.org/ECCV2024/human_understanding/tf-fas_twofold-element_fine-grained_semantic_guidance_for_generalizable_face_ant/)
+- Notes (Chinese): [papernotes.org/ECCV2024/signal_comm/defect_spectrum_a_gran…](https://papernotes.org/ECCV2024/signal_comm/defect_spectrum_a_granular_look_of_large-scale_defect_datasets_with_rich_semanti/)
 
 **PISR: Polarimetric Neural Implicit Surface Reconstruction for Textureless and Specular Objects**
 
@@ -4082,10 +4102,6 @@
 **Sync from the Sea: Retrieving Alignable Videos from Large-Scale Datasets**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/sync_from_the_sea_r…](https://papernotes.org/ECCV2024/llm_evaluation/sync_from_the_sea_retrieving_alignable_videos_from_large-scale_datasets/)
-
-**FreeMotion: A Unified Framework for Number-Free Text-to-Motion Synthesis**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/freemotion_a_u…](https://papernotes.org/ECCV2024/human_understanding/freemotion_a_unified_framework_for_number-free_text-to-motion_synthesis/)
 
 **Spatio-Temporal Proximity-Aware Dual-Path Model for Panoramic Activity Recognition**
 
@@ -4115,6 +4131,10 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/image_generation/finematch_aspect-…](https://papernotes.org/ECCV2024/image_generation/finematch_aspect-based_fine-grained_image_and_text_mismatch_detection_and_correc/)
 
+**R2-Bench: Benchmarking the Robustness of Referring Perception Models Under Perturbations**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/r2-bench_benchmarki…](https://papernotes.org/ECCV2024/llm_evaluation/r2-bench_benchmarking_the_robustness_of_referring_perception_models_under_pertur/)
+
 **SlotLifter: Slot-Guided Feature Lifting for Learning Object-Centric Radiance Fields**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/slotlifter_slot-guided_f…](https://papernotes.org/ECCV2024/3d_vision/slotlifter_slot-guided_feature_lifting_for_learning_object-centric_radiance_fiel/)
@@ -4138,6 +4158,10 @@
 **High-Fidelity 3D Textured Shapes Generation by Sparse Encoding and Adversarial Decoding**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/others/high-fidelity_3d_textured_s…](https://papernotes.org/ECCV2024/others/high-fidelity_3d_textured_shapes_generation_by_sparse_encoding_and_adversarial_d/)
+
+**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/towards_natural_l…](https://papernotes.org/ECCV2024/object_detection/towards_natural_language-guided_drones_geotext-1652_benchmark_with_spatial_relat/)
 
 **ABC Easy as 123: A Blind Counter for Exemplar-Free Multi-Class Class-Agnostic Counting**
 
@@ -4171,10 +4195,6 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/llm_nlp/roadpainter_points_are_ide…](https://papernotes.org/ECCV2024/llm_nlp/roadpainter_points_are_ideal_navigators_for_topology_transformer/)
 
-**MERLiN: Single-Shot Material Estimation and Relighting for Photometric Stereo**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/merlin_single-shot_…](https://papernotes.org/ECCV2024/llm_evaluation/merlin_single-shot_material_estimation_and_relighting_for_photometric_stereo/)
-
 **Real-Data-Driven 2000 FPS Color Video from Mosaicked Chromatic Spikes**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/others/real-data-driven_2000_fps_c…](https://papernotes.org/ECCV2024/others/real-data-driven_2000_fps_color_video_from_mosaicked_chromatic_spikes/)
@@ -4186,10 +4206,6 @@
 **Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/others/power_variable_projection_f…](https://papernotes.org/ECCV2024/others/power_variable_projection_for_initialization-free_large-scale_bundle_adjustment/)
-
-**SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/sc4d_sparse-controlled_v…](https://papernotes.org/ECCV2024/3d_vision/sc4d_sparse-controlled_video-to-4d_generation_and_motion_transfer/)
 
 **SpatialFormer: Towards Generalizable Vision Transformers with Explicit Spatial Understanding**
 
@@ -4251,6 +4267,10 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/image_generation/rpbg_towards_robu…](https://papernotes.org/ECCV2024/image_generation/rpbg_towards_robust_neural_point-based_graphics_in_the_wild/)
 
+**TAPTR: Tracking Any Point with Transformers as Detection**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/object_detection/taptr_tracking_an…](https://papernotes.org/ECCV2024/object_detection/taptr_tracking_any_point_with_transformers_as_detection/)
+
 **CityGaussian: Real-Time High-Quality Large-Scale Scene Rendering with Gaussians**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/citygaussian_real-time_h…](https://papernotes.org/ECCV2024/3d_vision/citygaussian_real-time_high-quality_large-scale_scene_rendering_with_gaussians/)
@@ -4298,6 +4318,10 @@
 **Bi-directional Contextual Attention for 3D Dense Captioning**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/bi-directional_contextua…](https://papernotes.org/ECCV2024/3d_vision/bi-directional_contextual_attention_for_3d_dense_captioning/)
+
+**PetFace: A Large-Scale Dataset and Benchmark for Animal Identification**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/petface_a_large-sca…](https://papernotes.org/ECCV2024/llm_evaluation/petface_a_large-scale_dataset_and_benchmark_for_animal_identification/)
 
 **AID-AppEAL: Automatic Image Dataset and Algorithm for Content Appeal Enhancement and Assessment Labeling**
 
@@ -4363,10 +4387,6 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/hat_history-au…](https://papernotes.org/ECCV2024/video_understanding/hat_history-augmented_anchor_transformer_for_online_temporal_action_localization/)
 
-**3DGazeNet: Generalizing 3D Gaze Estimation with Weak-Supervision from Synthetic Views**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/3dgazenet_generalizing_3…](https://papernotes.org/ECCV2024/3d_vision/3dgazenet_generalizing_3d_gaze_estimation_with_weak-supervision_from_synthetic_v/)
-
 **Deep Nets with Subsampling Layers Unwittingly Discard Useful Activations at Test-Time**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/segmentation/deep_nets_with_subsam…](https://papernotes.org/ECCV2024/segmentation/deep_nets_with_subsampling_layers_unwittingly_discard_useful_activations_at_test/)
@@ -4399,10 +4419,6 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/video_generation/draganything_moti…](https://papernotes.org/ECCV2024/video_generation/draganything_motion_control_for_anything_using_entity_representation/)
 
-**Towards Unified Representation of Invariant-Specific Features in Missing Modality Face Anti-spoofing**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/towards_unifie…](https://papernotes.org/ECCV2024/human_understanding/towards_unified_representation_of_invariant-specific_features_in_missing_modalit/)
-
 **Object-Aware NIR-to-Visible Translation**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/others/object-aware_nir-to-visible…](https://papernotes.org/ECCV2024/others/object-aware_nir-to-visible_translation/)
@@ -4418,10 +4434,6 @@
 **ReGround: Improving Textual and Spatial Grounding at No Cost**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/object_detection/reground_improvin…](https://papernotes.org/ECCV2024/object_detection/reground_improving_textual_and_spatial_grounding_at_no_cost/)
-
-**De-confounded Gaze Estimation**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/others/de-confounded_gaze_estimation](https://papernotes.org/ECCV2024/others/de-confounded_gaze_estimation/)
 
 **AFF-ttention! Affordances and Attention Models for Short-Term Object Interaction Anticipation**
 
@@ -4451,9 +4463,9 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/llm_evaluation/distribution_alignm…](https://papernotes.org/ECCV2024/llm_evaluation/distribution_alignment_for_fully_test-time_adaptation_with_dynamic_online_data_s/)
 
-**Leveraging Hierarchical Feature Sharing for Efficient Dataset Condensation**
+**SemTrack: A Large-Scale Dataset for Semantic Tracking in the Wild**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/model_compression/leveraging_hiera…](https://papernotes.org/ECCV2024/model_compression/leveraging_hierarchical_feature_sharing_for_efficient_dataset_condensation/)
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/semtrack_a_lar…](https://papernotes.org/ECCV2024/video_understanding/semtrack_a_large-scale_dataset_for_semantic_tracking_in_the_wild/)
 
 **Is User Feedback Always Informative? Retrieval Latent Defending for Semi-supervised Domain Adaptation Without Source Data**
 
@@ -4462,10 +4474,6 @@
 **FOREST2SEQ: Revitalizing Order Prior for Sequential Indoor Scene Synthesis**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/forest2seq_revitalizing_…](https://papernotes.org/ECCV2024/3d_vision/forest2seq_revitalizing_order_prior_for_sequential_indoor_scene_synthesis/)
-
-**Shifted Autoencoders for Point Annotation Restoration in Object Counting**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/others/shifted_autoencoders_for_po…](https://papernotes.org/ECCV2024/others/shifted_autoencoders_for_point_annotation_restoration_in_object_counting/)
 
 **Brain Netflix: Scaling Data to Reconstruct Videos from Brain Signals**
 
@@ -4507,10 +4515,6 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/others/gaze_target_detection_based…](https://papernotes.org/ECCV2024/others/gaze_target_detection_based_on_head-local-global_coordination/)
 
-**STSP: Spatial-Temporal Subspace Projection for Video Class-Incremental Learning**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/others/stsp_spatial-temporal_subsp…](https://papernotes.org/ECCV2024/others/stsp_spatial-temporal_subspace_projection_for_video_class-incremental_learning/)
-
 **MemBN: Robust Test-Time Adaptation via Batch Norm with Statistics Memory**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/others/membn_robust_test-time_adap…](https://papernotes.org/ECCV2024/others/membn_robust_test-time_adaptation_via_batch_norm_with_statistics_memory/)
@@ -4535,21 +4539,17 @@
 
 - Notes (Chinese): [papernotes.org/ECCV2024/human_understanding/combining_gene…](https://papernotes.org/ECCV2024/human_understanding/combining_generative_and_geometry_priors_for_wide-angle_portrait_correction/)
 
+**Exploring the Feature Extraction and Relation Modeling For Light-Weight Transformer Tracking**
+
+- Notes (Chinese): [papernotes.org/ECCV2024/video_understanding/exploring_the_…](https://papernotes.org/ECCV2024/video_understanding/exploring_the_feature_extraction_and_relation_modeling_for_light-weight_transfor/)
+
 **OLAF: A Plug-and-Play Framework for Enhanced Multi-object Multi-part Scene Parsing**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/segmentation/olaf_a_plug-and-play_…](https://papernotes.org/ECCV2024/segmentation/olaf_a_plug-and-play_framework_for_enhanced_multi-object_multi-part_scene_parsin/)
 
-**Cross-Domain Learning for Video Anomaly Detection with Limited Supervision**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/llm_pretraining/cross-domain_learn…](https://papernotes.org/ECCV2024/llm_pretraining/cross-domain_learning_for_video_anomaly_detection_with_limited_supervision/)
-
 **3DEgo: 3D Editing on the Go!**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/3d_vision/3dego_3d_editing_on_the_go](https://papernotes.org/ECCV2024/3d_vision/3dego_3d_editing_on_the_go/)
-
-**Interleaving One-Class and Weakly-Supervised Models with Adaptive Thresholding for Unsupervised Video Anomaly Detection**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/others/interleaving_one-class_and_…](https://papernotes.org/ECCV2024/others/interleaving_one-class_and_weakly-supervised_models_with_adaptive_thresholding_f/)
 
 **Controlling the World by Sleight of Hand**
 
@@ -4582,14 +4582,6 @@
 **Functional Transform-Based Low-Rank Tensor Factorization for Multi-dimensional Data Recovery**
 
 - Notes (Chinese): [papernotes.org/ECCV2024/others/functional_transform-based_…](https://papernotes.org/ECCV2024/others/functional_transform-based_low-rank_tensor_factorization_for_multi-dimensional_d/)
-
-**Learning Anomalies with Normality Prior for Unsupervised Video Anomaly Detection**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/others/learning_anomalies_with_nor…](https://papernotes.org/ECCV2024/others/learning_anomalies_with_normality_prior_for_unsupervised_video_anomaly_detection/)
-
-**Operational Open-Set Recognition and PostMax Refinement**
-
-- Notes (Chinese): [papernotes.org/ECCV2024/others/operational_open-set_recogn…](https://papernotes.org/ECCV2024/others/operational_open-set_recognition_and_postmax_refinement/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 

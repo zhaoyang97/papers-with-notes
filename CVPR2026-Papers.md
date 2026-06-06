@@ -21,43 +21,43 @@
 
 ## 📑 Topic Index
 
-### Visual Perception · 504 papers
+### Visual Perception · 527 papers
 
-[🧊 3D Vision **222**](#3d_vision) · [✂️ Segmentation **85**](#segmentation) · [📹 Video Understanding **73**](#video_understanding) · [🧑 Human Understanding **43**](#human_understanding) · [🎯 Object Detection **35**](#object_detection) · [🖼️ Image Restoration **33**](#image_restoration) · [🛰️ Remote Sensing **13**](#remote_sensing)
+[🧊 3D Vision **224**](#3d_vision) · [✂️ Segmentation **83**](#segmentation) · [📹 Video Understanding **68**](#video_understanding) · [🎯 Object Detection **54**](#object_detection) · [🧑 Human Understanding **50**](#human_understanding) · [🖼️ Image Restoration **34**](#image_restoration) · [🛰️ Remote Sensing **14**](#remote_sensing)
 
-### Generation & Multimodal · 485 papers
+### Generation & Multimodal · 487 papers
 
-[🧩 Multimodal VLM **211**](#multimodal_vlm) · [🎨 Image Generation **202**](#image_generation) · [🎬 Video Generation **55**](#video_generation) · [🎵 Audio & Speech **16**](#audio_speech) · [🔎 AIGC Detection **1**](#aigc_detection)
+[🎨 Image Generation **210**](#image_generation) · [🧩 Multimodal VLM **197**](#multimodal_vlm) · [🎬 Video Generation **63**](#video_generation) · [🎵 Audio & Speech **16**](#audio_speech) · [🔎 AIGC Detection **1**](#aigc_detection)
 
-### Science & Cross-Disciplinary · 152 papers
+### Science & Cross-Disciplinary · 158 papers
 
-[🏥 Medical Imaging **119**](#medical_imaging) · [🛡️ AI Safety **19**](#ai_safety) · [📡 Signal & Communications **6**](#signal_comm) · [👥 Social Computing **4**](#social_computing) · [🧮 Scientific Computing **3**](#scientific_computing) · [⚛️ Physics **1**](#physics)
+[🏥 Medical Imaging **105**](#medical_imaging) · [🛡️ AI Safety **23**](#ai_safety) · [🧬 Computational Biology **14**](#computational_biology) · [👥 Social Computing **5**](#social_computing) · [📡 Signal & Communications **5**](#signal_comm) · [⚛️ Physics & Scientific Computing **4**](#physics) · [🩺 Medical NLP **1**](#medical_nlp) · [🌍 Earth Science **1**](#earth_science)
 
-### Decision & Embodied · 142 papers
+### Decision & Embodied · 138 papers
 
-[🚗 Autonomous Driving **87**](#autonomous_driving) · [🤖 Robotics & Embodied AI **36**](#robotics) · [🎮 Reinforcement Learning **19**](#reinforcement_learning)
+[🚗 Autonomous Driving **88**](#autonomous_driving) · [🤖 Robotics & Embodied AI **37**](#robotics) · [🎮 Reinforcement Learning **13**](#reinforcement_learning)
 
-### Foundations & Theory · 122 papers
+### Foundations & Theory · 138 papers
 
-[📦 Model Compression **43**](#model_compression) · [🔬 Interpretability **30**](#interpretability) · [🔄 Self-Supervised Learning **25**](#self_supervised) · [📐 Optimization & Theory **8**](#optimization) · [🕸️ Graph Learning **7**](#graph_learning) · [📈 Time Series **6**](#time_series) · [🔗 Causal Inference **3**](#causal_inference)
+[📦 Model Compression **56**](#model_compression) · [🔄 Self-Supervised Learning **30**](#self_supervised) · [🔬 Interpretability **27**](#interpretability) · [📐 Optimization & Theory **10**](#optimization) · [🕸️ Graph Learning **7**](#graph_learning) · [📈 Time Series **5**](#time_series) · [🔗 Causal Inference **3**](#causal_inference)
 
-### LLM · 114 papers
+### LLM · 67 papers
 
-[📊 LLM Evaluation **28**](#llm_evaluation) · [🔒 LLM Safety **28**](#llm_safety) · [🦾 LLM Agent **14**](#llm_agent) · [💡 LLM Reasoning **12**](#llm_reasoning) · [⚖️ Alignment / RLHF **10**](#llm_alignment) · [💬 LLM / NLP **9**](#llm_nlp) · [📚 LLM Pretraining **8**](#llm_pretraining) · [⚡ LLM Efficiency **3**](#llm_efficiency) · [✏️ Knowledge Editing **2**](#knowledge_editing)
+[🔒 LLM Safety **28**](#llm_safety) · [💡 LLM Reasoning **14**](#llm_reasoning) · [🦾 LLM Agent **11**](#llm_agent) · [📚 LLM Pretraining **6**](#llm_pretraining) · [💬 LLM / NLP **4**](#llm_nlp) · [✏️ Knowledge Editing **2**](#knowledge_editing) · [⚖️ Alignment / RLHF **2**](#llm_alignment)
 
-### NLP Applications · 13 papers
+### NLP Applications · 14 papers
 
-[🔍 Information Retrieval / RAG **9**](#information_retrieval) · [💻 Code Intelligence **2**](#code_intelligence) · [🗣️ Dialogue Systems **1**](#dialogue) · [🌐 Multilingual & MT **1**](#multilingual_mt)
+[🔍 Information Retrieval / RAG **10**](#information_retrieval) · [💻 Code Intelligence **2**](#code_intelligence) · [🗣️ Dialogue Systems **1**](#dialogue) · [🌐 Multilingual & MT **1**](#multilingual_mt)
 
-### Others · 94 papers
+### Others · 97 papers
 
-[📂 Others **94**](#others)
+[📂 Others **92**](#others) · [📂 multi_agent **5**](#multi_agent)
 
 ---
 
 <a id="3d_vision"></a>
 
-## 🧊 3D Vision · `3d_vision` · 222 papers
+## 🧊 3D Vision · `3d_vision` · 224 papers
 
 **Few-Shot Incremental 3D Object Detection in Dynamic Indoor Environments**
 
@@ -93,13 +93,6 @@
 - Code: <https://github.com/hhhddddddd/se3bsplinegs>
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/learning_explicit_contin…](https://papernotes.org/CVPR2026/3d_vision/learning_explicit_continuous_motion_representation_for_dynamic_gaussian_splattin/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/learning_explicit_con…](https://en.papernotes.org/CVPR2026/3d_vision/learning_explicit_continuous_motion_representation_for_dynamic_gaussian_splattin/)
-
-**Scalable Object Relation Encoding for Better 3D Spatial Reasoning in Large Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.24721>
-- Code: <https://github.com/oceanflowlab/QuatRoPE>
-- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/scalable_object_relation…](https://papernotes.org/CVPR2026/3d_vision/scalable_object_relation_encoding_for_better_3d_spatial_reasoning_in_large_langu/)
-- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/scalable_object_relat…](https://en.papernotes.org/CVPR2026/3d_vision/scalable_object_relation_encoding_for_better_3d_spatial_reasoning_in_large_langu/)
 
 **Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation**
 
@@ -171,13 +164,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/rap_fast_feedforward_ren…](https://papernotes.org/CVPR2026/3d_vision/rap_fast_feedforward_rendering-free_attribute-guided_primitive_importance_score_/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/rap_fast_feedforward_…](https://en.papernotes.org/CVPR2026/3d_vision/rap_fast_feedforward_rendering-free_attribute-guided_primitive_importance_score_/)
 
-**GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning**
-
-- Paper: <https://arxiv.org/abs/2602.19206>
-- Code: <https://github.com/zhushengxinyue/GS-CLIP>
-- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/gs-clip_zero-shot_3d_ano…](https://papernotes.org/CVPR2026/3d_vision/gs-clip_zero-shot_3d_anomaly_detection_by_geometry-aware_prompt_and_synergistic_/)
-- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/gs-clip_zero-shot_3d_…](https://en.papernotes.org/CVPR2026/3d_vision/gs-clip_zero-shot_3d_anomaly_detection_by_geometry-aware_prompt_and_synergistic_/)
-
 **LitePT: Lighter Yet Stronger Point Transformer**
 
 - Paper: <https://arxiv.org/abs/2512.13689>
@@ -232,6 +218,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/apc_adversarial_point_co…](https://papernotes.org/CVPR2026/3d_vision/apc_adversarial_point_counterattack/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/apc_adversarial_point…](https://en.papernotes.org/CVPR2026/3d_vision/apc_adversarial_point_counterattack/)
 
+**Bi-CMPStereo: Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo**
+
+- Paper: <https://arxiv.org/abs/2604.15312>
+- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/bi_cmpstereo_bidirection…](https://papernotes.org/CVPR2026/3d_vision/bi_cmpstereo_bidirectional_cross_modal_prompting_for_event_frame_asymmetric_stereo/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/bi_cmpstereo_bidirectio…](https://en.papernotes.org/CVPR2026/llm_nlp/bi_cmpstereo_bidirectional_cross_modal_prompting_for_event_frame_asymmetric_stereo/)
+
 **NG-GS: NeRF-Guided 3D Gaussian Splatting Segmentation**
 
 - Paper: <https://arxiv.org/abs/2604.14706>
@@ -285,12 +277,6 @@
 - Paper: <https://arxiv.org/abs/2604.07990>
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/scenescribe-1m_a_large-s…](https://papernotes.org/CVPR2026/3d_vision/scenescribe-1m_a_large-scale_video_dataset_with_comprehensive_geometric_and_sema/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/scenescribe-1m_a_larg…](https://en.papernotes.org/CVPR2026/3d_vision/scenescribe-1m_a_large-scale_video_dataset_with_comprehensive_geometric_and_sema/)
-
-**Sampling-Aware 3D Spatial Analysis in Multiplexed Imaging** · 🛠️ Workshop
-
-- Paper: <https://arxiv.org/abs/2604.07890>
-- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/sampling-aware_3d_spatia…](https://papernotes.org/CVPR2026/3d_vision/sampling-aware_3d_spatial_analysis_in_multiplexed_imaging/)
-- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/sampling-aware_3d_spa…](https://en.papernotes.org/CVPR2026/3d_vision/sampling-aware_3d_spatial_analysis_in_multiplexed_imaging/)
 
 **AnchorSplat: Feed-Forward 3D Gaussian Splatting with 3D Geometric Priors**
 
@@ -417,6 +403,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/reliev3r_relieving_feed-…](https://papernotes.org/CVPR2026/3d_vision/reliev3r_relieving_feed-forward_3d_reconstruction_from_multi-view_geometric_annot/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/reliev3r_relieving_fe…](https://en.papernotes.org/CVPR2026/3d_vision/reliev3r_relieving_feed-forward_3d_reconstruction_from_multi-view_geometric_annot/)
 
+**Benchmarking PhD-Level Coding in 3D Geometric Computer Vision**
+
+- Paper: <https://arxiv.org/abs/2603.30038>
+- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/benchmarking_phd-level_c…](https://papernotes.org/CVPR2026/3d_vision/benchmarking_phd-level_coding_in_3d_geometric_computer_vision/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_efficiency/benchmarking_phd…](https://en.papernotes.org/CVPR2026/llm_efficiency/benchmarking_phd-level_coding_in_3d_geometric_computer_vision/)
+
 **Extend3D: Town-Scale 3D Generation**
 
 - Paper: <https://arxiv.org/abs/2603.29387>
@@ -511,6 +503,13 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/scene_grounding_in_the_w…](https://papernotes.org/CVPR2026/3d_vision/scene_grounding_in_the_wild/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/scene_grounding_in_th…](https://en.papernotes.org/CVPR2026/3d_vision/scene_grounding_in_the_wild/)
 
+**SparseCam4D: Spatio-Temporally Consistent 4D Reconstruction from Sparse Cameras**
+
+- Paper: <https://arxiv.org/abs/2603.26481>
+- Project: <https://inspatio.github.io/sparse-cam4d/>
+- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/sparsecam4d_spatio-tempo…](https://papernotes.org/CVPR2026/3d_vision/sparsecam4d_spatio-temporally_consistent_4d_reconstruction_from_sparse_cameras/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/sparsecam4d_spat…](https://en.papernotes.org/CVPR2026/llm_evaluation/sparsecam4d_spatio-temporally_consistent_4d_reconstruction_from_sparse_cameras/)
+
 **GLINT: Modeling Scene-Scale Transparency via Gaussian Radiance Transport**
 
 - Paper: <https://arxiv.org/abs/2603.26181>
@@ -535,12 +534,6 @@
 - Paper: <https://arxiv.org/abs/2603.25165>
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/pointins_instance-aware_…](https://papernotes.org/CVPR2026/3d_vision/pointins_instance-aware_self-supervised_learning_for_point_clouds/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/pointins_instance-awa…](https://en.papernotes.org/CVPR2026/3d_vision/pointins_instance-aware_self-supervised_learning_for_point_clouds/)
-
-**A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection**
-
-- Paper: <https://arxiv.org/abs/2603.25159>
-- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/a_semantically_disentang…](https://papernotes.org/CVPR2026/3d_vision/a_semantically_disentangled_unified_model_for_multi-category_3d_anomaly_detectio/)
-- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/a_semantically_disent…](https://en.papernotes.org/CVPR2026/3d_vision/a_semantically_disentangled_unified_model_for_multi-category_3d_anomaly_detectio/)
 
 **GaussFusion: Improving 3D Reconstruction in the Wild with A Geometry-Informed Video Generator**
 
@@ -571,8 +564,8 @@
 **PhysSkin: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning**
 
 - Paper: <https://arxiv.org/abs/2603.23194>
-- Notes (Chinese): [papernotes.org/CVPR2026/scientific_computing/physskin_real…](https://papernotes.org/CVPR2026/scientific_computing/physskin_real-time_and_generalizable_physics-based_animation_via_self-supervised/)
-- Notes (English): [en.papernotes.org/CVPR2026/scientific_computing/physskin_r…](https://en.papernotes.org/CVPR2026/scientific_computing/physskin_real-time_and_generalizable_physics-based_animation_via_self-supervised/)
+- Notes (Chinese): [papernotes.org/CVPR2026/physics/physskin_real-time_and_gen…](https://papernotes.org/CVPR2026/physics/physskin_real-time_and_generalizable_physics-based_animation_via_self-supervised/)
+- Notes (English): [en.papernotes.org/CVPR2026/physics/physskin_real-time_and_…](https://en.papernotes.org/CVPR2026/physics/physskin_real-time_and_generalizable_physics-based_animation_via_self-supervised/)
 
 **MAGICIAN: Efficient Long-Term Planning with Imagined Gaussians for Active Mapping**
 
@@ -599,12 +592,6 @@
 - Project: <https://bgu-cs-vil.github.io/GSA-project/>
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/cross-instance_gaussian_…](https://papernotes.org/CVPR2026/3d_vision/cross-instance_gaussian_splatting_registration_via_geometry-aware_feature-guided/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/cross-instance_gaussi…](https://en.papernotes.org/CVPR2026/3d_vision/cross-instance_gaussian_splatting_registration_via_geometry-aware_feature-guided/)
-
-**Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection**
-
-- Paper: <https://arxiv.org/abs/2603.21511>
-- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/back_to_point_exploring_…](https://papernotes.org/CVPR2026/3d_vision/back_to_point_exploring_point-language_models_for_zero-shot_3d_anomaly_detection/)
-- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/back_to_point_explori…](https://en.papernotes.org/CVPR2026/3d_vision/back_to_point_exploring_point-language_models_for_zero-shot_3d_anomaly_detection/)
 
 **EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization**
 
@@ -785,12 +772,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/sky2ground_a_benchmark_f…](https://papernotes.org/CVPR2026/3d_vision/sky2ground_a_benchmark_for_site_modeling_under_varying_altitude/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/sky2ground_a_benchmar…](https://en.papernotes.org/CVPR2026/3d_vision/sky2ground_a_benchmark_for_site_modeling_under_varying_altitude/)
 
-**Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos**
-
-- Paper: <https://arxiv.org/abs/2603.13185>
-- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/towards_spatio-temporal_…](https://papernotes.org/CVPR2026/3d_vision/towards_spatio-temporal_world_scene_graph_generation_from_monocular_videos/)
-- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/towards_spatio-tempor…](https://en.papernotes.org/CVPR2026/3d_vision/towards_spatio-temporal_world_scene_graph_generation_from_monocular_videos/)
-
 **MotionAnymesh: Physics-Grounded Articulation for Simulation-Ready Digital Twins**
 
 - Paper: <https://arxiv.org/abs/2603.12936>
@@ -938,17 +919,17 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/pano3dcomposer_feed-forw…](https://papernotes.org/CVPR2026/3d_vision/pano3dcomposer_feed-forward_compositional_3d_scene_generation_from_single_panora/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/pano3dcomposer_feed-f…](https://en.papernotes.org/CVPR2026/3d_vision/pano3dcomposer_feed-forward_compositional_3d_scene_generation_from_single_panora/)
 
+**Beyond Geometry: Artistic Disparity Synthesis for Immersive 2D-to-3D**
+
+- Paper: <https://arxiv.org/abs/2603.05906>
+- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/beyond_geometry_artistic…](https://papernotes.org/CVPR2026/3d_vision/beyond_geometry_artistic_disparity_synthesis_for_immersive_2d-to-3d/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/beyond_geometry_a…](https://en.papernotes.org/CVPR2026/llm_reasoning/beyond_geometry_artistic_disparity_synthesis_for_immersive_2d-to-3d/)
+
 **PixARMesh: Autoregressive Mesh-Native Single-View Scene Reconstruction**
 
 - Paper: <https://arxiv.org/abs/2603.05888>
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/pixarmesh_autoregressive…](https://papernotes.org/CVPR2026/3d_vision/pixarmesh_autoregressive_mesh-native_single-view_scene_reconstruction/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/pixarmesh_autoregress…](https://en.papernotes.org/CVPR2026/3d_vision/pixarmesh_autoregressive_mesh-native_single-view_scene_reconstruction/)
-
-**FaceCam: Portrait Video Camera Control via Scale-Aware Conditioning**
-
-- Paper: <https://arxiv.org/abs/2603.05506>
-- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/facecam_portrait_video_c…](https://papernotes.org/CVPR2026/3d_vision/facecam_portrait_video_camera_control_via_scale-aware_conditioning/)
-- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/facecam_portrait_vide…](https://en.papernotes.org/CVPR2026/3d_vision/facecam_portrait_video_camera_control_via_scale-aware_conditioning/)
 
 **Dark3R: Learning Structure from Motion in the Dark**
 
@@ -1019,6 +1000,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/vggt-det_mining_vggt_int…](https://papernotes.org/CVPR2026/3d_vision/vggt-det_mining_vggt_internal_priors_for_sensor-geometry-free_multi-view_indoor_/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/vggt-det_mining_vggt_…](https://en.papernotes.org/CVPR2026/3d_vision/vggt-det_mining_vggt_internal_priors_for_sensor-geometry-free_multi-view_indoor_/)
 
+**Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation**
+
+- Paper: <https://arxiv.org/abs/2603.00526>
+- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/mesh-pro_asynchronous_ad…](https://papernotes.org/CVPR2026/3d_vision/mesh-pro_asynchronous_advantage-guided_ranking_preference_optimization_for_artis/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/mesh-pro_asynchro…](https://en.papernotes.org/CVPR2026/llm_alignment/mesh-pro_asynchronous_advantage-guided_ranking_preference_optimization_for_artis/)
+
 **HumanOrbit: 3D Human Reconstruction as 360° Orbit Generation** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2602.24148>
@@ -1048,12 +1035,6 @@
 - Paper: <https://arxiv.org/abs/2602.23361>
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/vgg-t3_offline_feed-forw…](https://papernotes.org/CVPR2026/3d_vision/vgg-t3_offline_feed-forward_3d_reconstruction_at_scale/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/vgg-t3_offline_feed-f…](https://en.papernotes.org/CVPR2026/3d_vision/vgg-t3_offline_feed-forward_3d_reconstruction_at_scale/)
-
-**SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation**
-
-- Paper: <https://arxiv.org/abs/2602.23359>
-- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/seethrough3d_occlusion_a…](https://papernotes.org/CVPR2026/3d_vision/seethrough3d_occlusion_aware_3d_control_in_text-to-image_generation/)
-- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/seethrough3d_occlusio…](https://en.papernotes.org/CVPR2026/3d_vision/seethrough3d_occlusion_aware_3d_control_in_text-to-image_generation/)
 
 **SoPE: Spherical Coordinate-Based Positional Embedding for Enhancing Spatial Perception of 3D LVLMs**
 
@@ -1128,6 +1109,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/tttlrm_test-time_trainin…](https://papernotes.org/CVPR2026/3d_vision/tttlrm_test-time_training_for_long_context_and_autoregressive_3d_reconstruction/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/tttlrm_test-time_trai…](https://en.papernotes.org/CVPR2026/3d_vision/tttlrm_test-time_training_for_long_context_and_autoregressive_3d_reconstruction/)
 
+**Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning**
+
+- Paper: <https://arxiv.org/abs/2602.20157>
+- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/flow3r_factored_flow_pre…](https://papernotes.org/CVPR2026/3d_vision/flow3r_factored_flow_prediction_for_scalable_visual_geometry_learning/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/flow3r_factored_…](https://en.papernotes.org/CVPR2026/llm_evaluation/flow3r_factored_flow_prediction_for_scalable_visual_geometry_learning/)
+
 **TeHOR: Text-Guided 3D Human and Object Reconstruction with Textures**
 
 - Paper: <https://arxiv.org/abs/2602.19679>
@@ -1139,6 +1126,12 @@
 - Paper: <https://arxiv.org/abs/2602.19035>
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/openvo_open-world_visual…](https://papernotes.org/CVPR2026/3d_vision/openvo_open-world_visual_odometry_with_temporal_dynamics_awareness/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/openvo_open-world_vis…](https://en.papernotes.org/CVPR2026/3d_vision/openvo_open-world_visual_odometry_with_temporal_dynamics_awareness/)
+
+**LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency**
+
+- Paper: <https://arxiv.org/abs/2602.18735>
+- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/las-comp_zero-shot_3d_co…](https://papernotes.org/CVPR2026/3d_vision/las-comp_zero-shot_3d_completion_with_latent-spatial_consistency/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/las-comp_zero-s…](https://en.papernotes.org/CVPR2026/self_supervised/las-comp_zero-shot_3d_completion_with_latent-spatial_consistency/)
 
 **LongStream: Long-Sequence Streaming Autoregressive Visual Geometry**
 
@@ -1172,11 +1165,19 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/mvggt_multimodal_visual_…](https://papernotes.org/CVPR2026/3d_vision/mvggt_multimodal_visual_geometry_grounded_transformer_for_multiview_3d_referring/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/mvggt_multimodal_visu…](https://en.papernotes.org/CVPR2026/3d_vision/mvggt_multimodal_visual_geometry_grounded_transformer_for_multiview_3d_referring/)
 
-**VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control**
+**Unified Primitive Proxies for Structured Shape Completion**
 
-- Paper: <https://arxiv.org/abs/2601.05138>
-- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/versecrafter_dynamic_rea…](https://papernotes.org/CVPR2026/3d_vision/versecrafter_dynamic_realistic_video_world_model_with_4d_geometric_control/)
-- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/versecrafter_dynamic_…](https://en.papernotes.org/CVPR2026/3d_vision/versecrafter_dynamic_realistic_video_world_model_with_4d_geometric_control/)
+- Paper: <https://arxiv.org/abs/2601.00759>
+- Project: <https://unico-completion.github.io>
+- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/unified_primitive_proxie…](https://papernotes.org/CVPR2026/3d_vision/unified_primitive_proxies_for_structured_shape_completion/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/unified_primitiv…](https://en.papernotes.org/CVPR2026/llm_evaluation/unified_primitive_proxies_for_structured_shape_completion/)
+
+**NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos**
+
+- Paper: <https://arxiv.org/abs/2601.00393>
+- Project: <https://neoverse-4d.github.io>
+- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/neoverse_enhancing_4d_wo…](https://papernotes.org/CVPR2026/3d_vision/neoverse_enhancing_4d_world_model_with_in-the-wild_monocular_videos/)
+- Notes (English): [en.papernotes.org/CVPR2026/video_generation/neoverse_enhan…](https://en.papernotes.org/CVPR2026/video_generation/neoverse_enhancing_4d_world_model_with_in-the-wild_monocular_videos/)
 
 **3D sans 3D Scans: Scalable Pre-training from Video-Generated Point Clouds**
 
@@ -1210,6 +1211,19 @@
 - Project: <https://arthurmoreau.github.io/OffTheGrid/>
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/off_the_grid_detection_o…](https://papernotes.org/CVPR2026/3d_vision/off_the_grid_detection_of_primitives_for_feed-forward_3d_gaussian_splatting/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/off_the_grid_detectio…](https://en.papernotes.org/CVPR2026/3d_vision/off_the_grid_detection_of_primitives_for_feed-forward_3d_gaussian_splatting/)
+
+**LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction**
+
+- Paper: <https://arxiv.org/abs/2512.13680>
+- Project: <https://neu-vi.github.io/LASER/>
+- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/laser_layer-wise_scale_a…](https://papernotes.org/CVPR2026/3d_vision/laser_layer-wise_scale_alignment_for_training-free_streaming_4d_reconstruction/)
+- Notes (English): [en.papernotes.org/CVPR2026/human_understanding/laser_layer…](https://en.papernotes.org/CVPR2026/human_understanding/laser_layer-wise_scale_alignment_for_training-free_streaming_4d_reconstruction/)
+
+**CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction**
+
+- Paper: <https://arxiv.org/abs/2512.11988>
+- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/cari4d_category_agnostic…](https://papernotes.org/CVPR2026/3d_vision/cari4d_category_agnostic_4d_reconstruction_of_human_object_interaction/)
+- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/cari4d_category_agnos…](https://en.papernotes.org/CVPR2026/3d_vision/cari4d_category_agnostic_4d_reconstruction_of_human_object_interaction/)
 
 **Particulate: Feed-Forward 3D Object Articulation**
 
@@ -1254,11 +1268,11 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/utrice_unifying_primitiv…](https://papernotes.org/CVPR2026/3d_vision/utrice_unifying_primitives_in_differentiable_ray_tracing_and_rasterization_via_t/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/utrice_unifying_primi…](https://en.papernotes.org/CVPR2026/3d_vision/utrice_unifying_primitives_in_differentiable_ray_tracing_and_rasterization_via_t/)
 
-**Masking Matters: Unlocking the Spatial Reasoning Capabilities of LLMs for 3D Scene-Language Understanding**
+**FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention**
 
-- Paper: <https://arxiv.org/abs/2512.02487>
-- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/masking_matters_unlockin…](https://papernotes.org/CVPR2026/3d_vision/masking_matters_unlocking_the_spatial_reasoning_capabilities_of_llms_for_3d_scen/)
-- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/masking_matters_unloc…](https://en.papernotes.org/CVPR2026/3d_vision/masking_matters_unlocking_the_spatial_reasoning_capabilities_of_llms_for_3d_scen/)
+- Paper: <https://arxiv.org/abs/2512.01540>
+- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/flashvggt_efficient_and_…](https://papernotes.org/CVPR2026/3d_vision/flashvggt_efficient_and_scalable_visual_geometry_transformers_with_compressed_descr/)
+- Notes (English): [en.papernotes.org/CVPR2026/model_compression/flashvggt_eff…](https://en.papernotes.org/CVPR2026/model_compression/flashvggt_efficient_and_scalable_visual_geometry_transformers_with_compressed_descr/)
 
 **TagSplat: Topology-Aware Gaussian Splatting for Dynamic Mesh Modeling and Tracking**
 
@@ -1456,1348 +1470,9 @@
 
 ---
 
-<a id="multimodal_vlm"></a>
-
-## 🧩 Multimodal VLM · `multimodal_vlm` · 211 papers
-
-**HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models**
-
-- Paper: <https://arxiv.org/abs/2604.07812>
-- Code: <https://github.com/peppery77/HAWK>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/hawk_head_importanc…](https://papernotes.org/CVPR2026/multimodal_vlm/hawk_head_importance-aware_visual_token_pruning_in_multimodal_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/hawk_head_import…](https://en.papernotes.org/CVPR2026/multimodal_vlm/hawk_head_importance-aware_visual_token_pruning_in_multimodal_models/)
-
-**Generate, Analyze, and Refine: Training-Free Sound Source Localization via MLLM Meta-Reasoning**
-
-- Paper: <https://arxiv.org/abs/2604.06824>
-- Code: <https://github.com/VisualAIKHU/GAR-SSL>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/generate_analyze_an…](https://papernotes.org/CVPR2026/multimodal_vlm/generate_analyze_and_refine_training-free_sound_source_localization_via_mllm_met/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/generate_analyze…](https://en.papernotes.org/CVPR2026/multimodal_vlm/generate_analyze_and_refine_training-free_sound_source_localization_via_mllm_met/)
-
-**EgoMind: Activating Spatial Cognition through Linguistic Reasoning in MLLMs**
-
-- Paper: <https://arxiv.org/abs/2604.03318>
-- Code: <https://github.com/Hyggge/EgoMind>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/egomind_activating_…](https://papernotes.org/CVPR2026/multimodal_vlm/egomind_activating_spatial_cognition_through_linguistic_reasoning_in_mllms/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/egomind_activati…](https://en.papernotes.org/CVPR2026/multimodal_vlm/egomind_activating_spatial_cognition_through_linguistic_reasoning_in_mllms/)
-
-**GroundVTS: Visual Token Sampling in Multimodal Large Language Models for Video Temporal Grounding**
-
-- Paper: <https://arxiv.org/abs/2604.02093>
-- Code: <https://github.com/Florence365/GroundVTS>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/groundvts_visual_to…](https://papernotes.org/CVPR2026/multimodal_vlm/groundvts_visual_token_sampling_in_multimodal_large_language_models_for_video_te/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/groundvts_visual…](https://en.papernotes.org/CVPR2026/multimodal_vlm/groundvts_visual_token_sampling_in_multimodal_large_language_models_for_video_te/)
-
-**No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models**
-
-- Paper: <https://arxiv.org/abs/2603.25722>
-- Code: <https://github.com/SamsungLabs/concept_centric_clip>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/no_hard_negatives_r…](https://papernotes.org/CVPR2026/multimodal_vlm/no_hard_negatives_required_concept_centric_learning_leads_to_compositionality_wi/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/no_hard_negative…](https://en.papernotes.org/CVPR2026/multimodal_vlm/no_hard_negatives_required_concept_centric_learning_leads_to_compositionality_wi/)
-
-**EagleNet: Energy-Aware Fine-Grained Relationship Learning Network for Text-Video Retrieval**
-
-- Paper: <https://arxiv.org/abs/2603.25267>
-- Code: <https://github.com/draym28/EagleNet>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/eaglenet_energy-awa…](https://papernotes.org/CVPR2026/multimodal_vlm/eaglenet_energy-aware_fine-grained_relationship_learning_network_for_text-video_/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/eaglenet_energy-…](https://en.papernotes.org/CVPR2026/multimodal_vlm/eaglenet_energy-aware_fine-grained_relationship_learning_network_for_text-video_/)
-
-**Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.22042>
-- Code: <https://github.com/jeeit17/UNCHA>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/uncertainty-guided_…](https://papernotes.org/CVPR2026/multimodal_vlm/uncertainty-guided_compositional_alignment_with_part-to-whole_semantic_represent/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/uncertainty-guid…](https://en.papernotes.org/CVPR2026/multimodal_vlm/uncertainty-guided_compositional_alignment_with_part-to-whole_semantic_represent/)
-
-**Uncertainty-Aware Knowledge Distillation for Multimodal Large Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.21426>
-- Code: <https://github.com/Jingchensun/beta-kd>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/uncertainty-aware_k…](https://papernotes.org/CVPR2026/multimodal_vlm/uncertainty-aware_knowledge_distillation_for_multimodal_large_language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/uncertainty-awar…](https://en.papernotes.org/CVPR2026/multimodal_vlm/uncertainty-aware_knowledge_distillation_for_multimodal_large_language_models/)
-
-**From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2603.20193>
-- Code: <https://github.com/VILA-Lab/PIXAR>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/from_masks_to_pixel…](https://papernotes.org/CVPR2026/multimodal_vlm/from_masks_to_pixels_and_meaning_a_new_taxonomy_benchmark_and_metrics_for_vlm_im/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/from_masks_to_pi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/from_masks_to_pixels_and_meaning_a_new_taxonomy_benchmark_and_metrics_for_vlm_im/)
-
-**BALM: A Model-Agnostic Framework for Balanced Multimodal Learning under Imbalanced Missing Rates**
-
-- Paper: <https://arxiv.org/abs/2603.19718>
-- Code: <https://github.com/np4s/BALM_CVPR2026>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/balm_a_model-agnost…](https://papernotes.org/CVPR2026/multimodal_vlm/balm_a_model-agnostic_framework_for_balanced_multimodal_learning_under_imbalance/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/balm_a_model-agn…](https://en.papernotes.org/CVPR2026/multimodal_vlm/balm_a_model-agnostic_framework_for_balanced_multimodal_learning_under_imbalance/)
-
-**Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens**
-
-- Paper: <https://arxiv.org/abs/2603.19232>
-- Code: <https://github.com/YuqingWang1029/CubiD>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/cubic_discrete_diff…](https://papernotes.org/CVPR2026/multimodal_vlm/cubic_discrete_diffusion_discrete_visual_generation_on_high-dimensional_represen/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/cubic_discrete_d…](https://en.papernotes.org/CVPR2026/multimodal_vlm/cubic_discrete_diffusion_discrete_visual_generation_on_high-dimensional_represen/)
-
-**Rethinking MLLM Itself as a Segmenter with a Single Segmentation Token**
-
-- Paper: <https://arxiv.org/abs/2603.19026>
-- Code: <https://github.com/ANDYZAQ/SELF1E>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/rethinking_mllm_its…](https://papernotes.org/CVPR2026/multimodal_vlm/rethinking_mllm_itself_as_a_segmenter_with_a_single_segmentation_token/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/rethinking_mllm_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/rethinking_mllm_itself_as_a_segmenter_with_a_single_segmentation_token/)
-
-**Fine-Grained Post-Training Quantization for Large Vision Language Models with Quantization-Aware Integrated Gradients**
-
-- Paper: <https://arxiv.org/abs/2603.17809>
-- Code: <https://github.com/ucas-xiang/QIG>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/fine-grained_post-t…](https://papernotes.org/CVPR2026/multimodal_vlm/fine-grained_post-training_quantization_for_large_vision_language_models_with_qu/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/fine-grained_pos…](https://en.papernotes.org/CVPR2026/multimodal_vlm/fine-grained_post-training_quantization_for_large_vision_language_models_with_qu/)
-
-**BUSSARD: Normalizing Flows for Bijective Universal Scene-Specific Anomalous Relationship Detection**
-
-- Paper: <https://arxiv.org/abs/2603.16645>
-- Code: <https://github.com/mschween/BUSSARD>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/bussard_normalizing…](https://papernotes.org/CVPR2026/multimodal_vlm/bussard_normalizing_flows_for_bijective_universal_scene-specific_anomalous_relat/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/bussard_normaliz…](https://en.papernotes.org/CVPR2026/multimodal_vlm/bussard_normalizing_flows_for_bijective_universal_scene-specific_anomalous_relat/)
-
-**GraphVLM: Benchmarking Vision Language Models for Multimodal Graph Learning**
-
-- Paper: <https://arxiv.org/abs/2603.13370>
-- Code: <https://github.com/oamyjin/GraphVLM>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/graphvlm_benchmark_…](https://papernotes.org/CVPR2026/multimodal_vlm/graphvlm_benchmark_vlm_graph_learning/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/graphvlm_benchma…](https://en.papernotes.org/CVPR2026/multimodal_vlm/graphvlm_benchmark_vlm_graph_learning/)
-
-**Multimodal OCR: Parse Anything from Documents**
-
-- Paper: <https://arxiv.org/abs/2603.13032>
-- Code: <https://github.com/rednote-hilab/dots>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/multimodal_ocr_pars…](https://papernotes.org/CVPR2026/multimodal_vlm/multimodal_ocr_parse_anything_from_documents/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/multimodal_ocr_p…](https://en.papernotes.org/CVPR2026/multimodal_vlm/multimodal_ocr_parse_anything_from_documents/)
-
-**Rethinking VLMs for Image Forgery Detection and Localization**
-
-- Paper: <https://arxiv.org/abs/2603.12930>
-- Code: <https://github.com/sha0fengGuo/IFDL-VLM>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/rethinking_vlms_for…](https://papernotes.org/CVPR2026/multimodal_vlm/rethinking_vlms_for_image_forgery_detection_and_localization/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/rethinking_vlms_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/rethinking_vlms_for_image_forgery_detection_and_localization/)
-
-**Adaptive Vision-Language Model Routing for Computer Use Agents**
-
-- Paper: <https://arxiv.org/abs/2603.12823>
-- Code: <https://github.com/vllm-project/semantic-router>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/adaptive_vision-lan…](https://papernotes.org/CVPR2026/multimodal_vlm/adaptive_vision-language_model_routing_for_computer_use_agents/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/adaptive_vision-…](https://en.papernotes.org/CVPR2026/multimodal_vlm/adaptive_vision-language_model_routing_for_computer_use_agents/)
-
-**HIFICL: High-Fidelity In-Context Learning for Multimodal Tasks**
-
-- Paper: <https://arxiv.org/abs/2603.12760>
-- Code: <https://github.com/bbbandari/HiFICL>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/hificl_highfidelity…](https://papernotes.org/CVPR2026/multimodal_vlm/hificl_highfidelity_incontext_learning_for_multimo/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/hificl_highfidel…](https://en.papernotes.org/CVPR2026/multimodal_vlm/hificl_highfidelity_incontext_learning_for_multimo/)
-
-**ReHARK: Refined Hybrid Adaptive RBF Kernels for Robust One-Shot Vision-Language Adaptation**
-
-- Paper: <https://arxiv.org/abs/2603.11542>
-- Code: <https://github.com/Jahid12012021/ReHARK>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/rehark_refined_hybr…](https://papernotes.org/CVPR2026/multimodal_vlm/rehark_refined_hybrid_adaptive_rbf_kernels_for_robust_one-shot_vision-language_a/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/rehark_refined_h…](https://en.papernotes.org/CVPR2026/multimodal_vlm/rehark_refined_hybrid_adaptive_rbf_kernels_for_robust_one-shot_vision-language_a/)
-
-**CodePercept: Code-Grounded Visual STEM Perception for MLLMs**
-
-- Paper: <https://arxiv.org/abs/2603.10757>
-- Code: <https://github.com/TongkunGuan/Qwen-CodePercept>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/codepercept_code-gr…](https://papernotes.org/CVPR2026/multimodal_vlm/codepercept_code-grounded_visual_stem_perception_for_mllms/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/codepercept_code…](https://en.papernotes.org/CVPR2026/multimodal_vlm/codepercept_code-grounded_visual_stem_perception_for_mllms/)
-
-**More than the Sum: Panorama-Language Models for Adverse Omni-Scenes**
-
-- Paper: <https://arxiv.org/abs/2603.09573>
-- Code: <https://github.com/InSAI-Lab/PanoVQA>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/more_than_the_sum_p…](https://papernotes.org/CVPR2026/multimodal_vlm/more_than_the_sum_panorama-language_models_for_adverse_omni-scenes/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/more_than_the_su…](https://en.papernotes.org/CVPR2026/multimodal_vlm/more_than_the_sum_panorama-language_models_for_adverse_omni-scenes/)
-
-**Beyond Heuristic Prompting: A Concept-Guided Bayesian Framework for Zero-Shot Image Recognition**
-
-- Paper: <https://arxiv.org/abs/2603.07911>
-- Code: <https://github.com/less-and-less-bugs/CGBC>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/beyond_heuristic_pr…](https://papernotes.org/CVPR2026/multimodal_vlm/beyond_heuristic_prompting_a_concept-guided_bayesian_framework_for_zero-shot_ima/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/beyond_heuristic…](https://en.papernotes.org/CVPR2026/multimodal_vlm/beyond_heuristic_prompting_a_concept-guided_bayesian_framework_for_zero-shot_ima/)
-
-**DC-Merge: Improving Model Merging with Directional Consistency**
-
-- Paper: <https://arxiv.org/abs/2603.06242>
-- Code: <https://github.com/Tobeginwith/DC-Merge>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/dc-merge_improving_…](https://papernotes.org/CVPR2026/multimodal_vlm/dc-merge_improving_model_merging_with_directional_consistency/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/dc-merge_improvi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/dc-merge_improving_model_merging_with_directional_consistency/)
-
-**Devil is in Narrow Policy: Unleashing Exploration in Driving VLA Models** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2603.06049>
-- Code: <https://github.com/Mashiroln/curious_vla>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/devil_is_in_narrow_…](https://papernotes.org/CVPR2026/multimodal_vlm/devil_is_in_narrow_policy_unleashing_exploration_in_driving_vla_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/devil_is_in_narr…](https://en.papernotes.org/CVPR2026/multimodal_vlm/devil_is_in_narrow_policy_unleashing_exploration_in_driving_vla_models/)
-
-**MASQuant: Modality-Aware Smoothing Quantization for Multimodal Large Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.04800>
-- Code: <https://github.com/alibaba/EfficientAI>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/masquant_modality-a…](https://papernotes.org/CVPR2026/multimodal_vlm/masquant_modality-aware_smoothing_quantization_for_multimodal_large_language_mod/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/masquant_modalit…](https://en.papernotes.org/CVPR2026/multimodal_vlm/masquant_modality-aware_smoothing_quantization_for_multimodal_large_language_mod/)
-
-**CAPT: Confusion-Aware Prompt Tuning for Reducing Vision-Language Misalignment**
-
-- Paper: <https://arxiv.org/abs/2603.02557>
-- Code: <https://github.com/greatest-gourmet/CAPT>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/capt_confusion-awar…](https://papernotes.org/CVPR2026/multimodal_vlm/capt_confusion-aware_prompt_tuning_for_reducing_vision-language_misalignment/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/capt_confusion-a…](https://en.papernotes.org/CVPR2026/multimodal_vlm/capt_confusion-aware_prompt_tuning_for_reducing_vision-language_misalignment/)
-
-**What Do Visual Tokens Really Encode? Uncovering Sparsity and Redundancy in Multimodal Large Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.00510>
-- Code: <https://github.com/EIT-NLP/EmbedLens>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/what_do_visual_toke…](https://papernotes.org/CVPR2026/multimodal_vlm/what_do_visual_tokens_really_encode_uncovering_sparsity_and_redundancy_in_multim/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/what_do_visual_t…](https://en.papernotes.org/CVPR2026/multimodal_vlm/what_do_visual_tokens_really_encode_uncovering_sparsity_and_redundancy_in_multim/)
-
-**Taxonomy-Aware Representation Alignment for Hierarchical Visual Recognition with Large Multimodal Models**
-
-- Paper: <https://arxiv.org/abs/2603.00431>
-- Code: <https://github.com/PKU-ICST-MIPL/TARA_CVPR2026>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/taxonomy-aware_repr…](https://papernotes.org/CVPR2026/multimodal_vlm/taxonomy-aware_representation_alignment_for_hierarchical_visual_recognition_with/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/taxonomy-aware_r…](https://en.papernotes.org/CVPR2026/multimodal_vlm/taxonomy-aware_representation_alignment_for_hierarchical_visual_recognition_with/)
-
-**Venus: Benchmarking and Empowering Multimodal Large Language Models for Aesthetic Guidance and Cropping**
-
-- Paper: <https://arxiv.org/abs/2602.23980>
-- Code: <https://github.com/PKU-ICST-MIPL/Venus_CVPR2026>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/venus_benchmarking_…](https://papernotes.org/CVPR2026/multimodal_vlm/venus_benchmarking_and_empowering_multimodal_large_language_models_for_aesthetic/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/venus_benchmarki…](https://en.papernotes.org/CVPR2026/multimodal_vlm/venus_benchmarking_and_empowering_multimodal_large_language_models_for_aesthetic/)
-
-**Towards Multimodal Domain Generalization with Few Labels**
-
-- Paper: <https://arxiv.org/abs/2602.22917>
-- Code: <https://github.com/lihongzhao99/SSMDG>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/towards_multimodal_…](https://papernotes.org/CVPR2026/multimodal_vlm/towards_multimodal_domain_generalization_with_few_labels/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/towards_multimod…](https://en.papernotes.org/CVPR2026/multimodal_vlm/towards_multimodal_domain_generalization_with_few_labels/)
-
-**SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2602.20901>
-- Code: <https://github.com/xieyc99/SpatiaLQA>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/spatialqa_a_benchma…](https://papernotes.org/CVPR2026/multimodal_vlm/spatialqa_a_benchmark_for_evaluating_spatial_logical_reasoning_in_vision-languag/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/spatialqa_a_benc…](https://en.papernotes.org/CVPR2026/multimodal_vlm/spatialqa_a_benchmark_for_evaluating_spatial_logical_reasoning_in_vision-languag/)
-
-**StructXLIP: Enhancing Vision-language Models with Multimodal Structural Cues**
-
-- Paper: <https://arxiv.org/abs/2602.20089>
-- Code: <https://github.com/intelligolabs/StructXLIP>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/structxlip_enhancin…](https://papernotes.org/CVPR2026/multimodal_vlm/structxlip_enhancing_vision-language_models_with_multimodal_structural_cues/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/structxlip_enhan…](https://en.papernotes.org/CVPR2026/multimodal_vlm/structxlip_enhancing_vision-language_models_with_multimodal_structural_cues/)
-
-**ApET: Approximation-Error Guided Token Compression for Efficient VLMs**
-
-- Paper: <https://arxiv.org/abs/2602.19870>
-- Code: <https://github.com/MaQianKun0/ApET>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/apet_approximation-…](https://papernotes.org/CVPR2026/multimodal_vlm/apet_approximation-error_guided_token_compression_for_efficient_vlms/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/apet_approximati…](https://en.papernotes.org/CVPR2026/multimodal_vlm/apet_approximation-error_guided_token_compression_for_efficient_vlms/)
-
-**No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection**
-
-- Paper: <https://arxiv.org/abs/2602.19248>
-- Code: <https://github.com/VitaminCreed/LAVIDA>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/no_need_for_real_an…](https://papernotes.org/CVPR2026/multimodal_vlm/no_need_for_real_anomaly_mllm_empowered_zero-shot_video_anomaly_detection/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/no_need_for_real…](https://en.papernotes.org/CVPR2026/multimodal_vlm/no_need_for_real_anomaly_mllm_empowered_zero-shot_video_anomaly_detection/)
-
-**DUET-VLM: Dual stage Unified Efficient Token reduction for VLM Training and Inference**
-
-- Paper: <https://arxiv.org/abs/2602.18846>
-- Code: <https://github.com/AMD-AGI/DUET-VLM>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/duet-vlm_dual_stage…](https://papernotes.org/CVPR2026/multimodal_vlm/duet-vlm_dual_stage_unified_efficient_token_reduction_for_vlm_training_and_infer/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/duet-vlm_dual_st…](https://en.papernotes.org/CVPR2026/multimodal_vlm/duet-vlm_dual_stage_unified_efficient_token_reduction_for_vlm_training_and_infer/)
-
-**ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval**
-
-- Paper: <https://arxiv.org/abs/2602.01639>
-- Code: <https://github.com/RemRico/Recall>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/recall_recalibratin…](https://papernotes.org/CVPR2026/multimodal_vlm/recall_recalibrating_capability_degradation_for_mllm-based_composed_image_retrie/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/recall_recalibra…](https://en.papernotes.org/CVPR2026/multimodal_vlm/recall_recalibrating_capability_degradation_for_mllm-based_composed_image_retrie/)
-
-**ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking**
-
-- Paper: <https://arxiv.org/abs/2512.14654>
-- Code: <https://github.com/Leon-LihongWang/ViRC>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/virc_enhancing_visu…](https://papernotes.org/CVPR2026/multimodal_vlm/virc_enhancing_visual_interleaved_mathematical_cot_with_reason_chunking/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/virc_enhancing_v…](https://en.papernotes.org/CVPR2026/multimodal_vlm/virc_enhancing_visual_interleaved_mathematical_cot_with_reason_chunking/)
-
-**When Token Pruning is Worse than Random: Understanding Visual Token Information in VLLMs**
-
-- Paper: <https://arxiv.org/abs/2512.07580>
-- Code: <https://github.com/YahongWang1/Information-Horizon>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/when_token_pruning_…](https://papernotes.org/CVPR2026/multimodal_vlm/when_token_pruning_is_worse_than_random_understanding_visual_token_information_i/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/when_token_pruni…](https://en.papernotes.org/CVPR2026/multimodal_vlm/when_token_pruning_is_worse_than_random_understanding_visual_token_information_i/)
-
-**VLM-Pruner: Buffering for Spatial Sparsity in an Efficient VLM Centrifugal Token Pruning Paradigm**
-
-- Paper: <https://arxiv.org/abs/2512.02700>
-- Code: <https://github.com/Casey-bit/VLMPruner>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vlm-pruner_bufferin…](https://papernotes.org/CVPR2026/multimodal_vlm/vlm-pruner_buffering_for_spatial_sparsity_in_an_efficient_vlm_centrifugal_token_/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vlm-pruner_buffe…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vlm-pruner_buffering_for_spatial_sparsity_in_an_efficient_vlm_centrifugal_token_/)
-
-**Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation**
-
-- Paper: <https://arxiv.org/abs/2511.22235>
-- Code: <https://github.com/hehehahi4/CES>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/training_high-level…](https://papernotes.org/CVPR2026/multimodal_vlm/training_high-level_schedulers_with_execution-feedback_reinforcement_learning_fo/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/training_high-le…](https://en.papernotes.org/CVPR2026/multimodal_vlm/training_high-level_schedulers_with_execution-feedback_reinforcement_learning_fo/)
-
-**The More, the Merrier: Contrastive Fusion for Higher-Order Multimodal Alignment**
-
-- Paper: <https://arxiv.org/abs/2511.21331>
-- Code: <https://github.com/estafons/confu>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/the_more_the_merrie…](https://papernotes.org/CVPR2026/multimodal_vlm/the_more_the_merrier_contrastive_fusion_for_higher-order_multimodal_alignment/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/the_more_the_mer…](https://en.papernotes.org/CVPR2026/multimodal_vlm/the_more_the_merrier_contrastive_fusion_for_higher-order_multimodal_alignment/)
-
-**UniGame: Turning a Unified Multimodal Model Into Its Own Adversary**
-
-- Paper: <https://arxiv.org/abs/2511.19413>
-- Code: <https://github.com/AIFrontierLab/TorchUMM>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/unigame_turning_a_u…](https://papernotes.org/CVPR2026/multimodal_vlm/unigame_turning_a_unified_multimodal_model_into_its_own_adversary/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/unigame_turning_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/unigame_turning_a_unified_multimodal_model_into_its_own_adversary/)
-
-**Can Vision-Language Models Count? A Synthetic Benchmark and Analysis of Attention-Based Interventions** · 🛠️ Workshop
-
-- Paper: <https://arxiv.org/abs/2511.17722>
-- Code: <https://github.com/ssen7/vlm-count-analysis>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/can_vision-language…](https://papernotes.org/CVPR2026/multimodal_vlm/can_vision-language_models_count_a_synthetic_benchmark_and_analysis_of_attention/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/can_vision-langu…](https://en.papernotes.org/CVPR2026/multimodal_vlm/can_vision-language_models_count_a_synthetic_benchmark_and_analysis_of_attention/)
-
-**EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2511.16672>
-- Code: <https://github.com/mbzuai-oryx/EvoLMM>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/evolmm_self_evolvin…](https://papernotes.org/CVPR2026/multimodal_vlm/evolmm_self_evolving_lmm_continuous_rewards/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/evolmm_self_evol…](https://en.papernotes.org/CVPR2026/multimodal_vlm/evolmm_self_evolving_lmm_continuous_rewards/)
-
-**MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping**
-
-- Paper: <https://arxiv.org/abs/2511.15690>
-- Code: <https://github.com/ModelTC/MoDES>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/modes_accelerating_…](https://papernotes.org/CVPR2026/multimodal_vlm/modes_accelerating_mixture-of-experts_multimodal_large_language_models_via_dynam/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/modes_accelerati…](https://en.papernotes.org/CVPR2026/multimodal_vlm/modes_accelerating_mixture-of-experts_multimodal_large_language_models_via_dynam/)
-
-**UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression**
-
-- Paper: <https://arxiv.org/abs/2509.25934>
-- Code: <https://github.com/yuanzhao-CVLAB/UniMMAD>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/unimmad_unified_mul…](https://papernotes.org/CVPR2026/multimodal_vlm/unimmad_unified_multi-modal_and_multi-class_anomaly_detection_via_moe-driven_fea/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/unimmad_unified_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/unimmad_unified_multi-modal_and_multi-class_anomaly_detection_via_moe-driven_fea/)
-
-**RehearseVLA: Simulated Post-Training for VLAs with Physically-Consistent World Model**
-
-- Paper: <https://arxiv.org/abs/2509.24948>
-- Code: <https://github.com/amap-cvlab/world-env>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/rehearsevla_simulat…](https://papernotes.org/CVPR2026/multimodal_vlm/rehearsevla_simulated_post-training_for_vlas_with_physically-consistent_world_mo/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/rehearsevla_simu…](https://en.papernotes.org/CVPR2026/multimodal_vlm/rehearsevla_simulated_post-training_for_vlas_with_physically-consistent_world_mo/)
-
-**See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles**
-
-- Paper: <https://arxiv.org/abs/2509.13615>
-- Code: <https://github.com/ZrW00/StaR>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/see_think_act_teach…](https://papernotes.org/CVPR2026/multimodal_vlm/see_think_act_teaching_multimodal_agents_to_effectively_interact_with_gui_by_ide/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/see_think_act_te…](https://en.papernotes.org/CVPR2026/multimodal_vlm/see_think_act_teaching_multimodal_agents_to_effectively_interact_with_gui_by_ide/)
-
-**Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving**
-
-- Paper: <https://arxiv.org/abs/2508.13305>
-- Code: <https://github.com/MinhaoXiong/Prune2Drive>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/prune2drive_a_plug-…](https://papernotes.org/CVPR2026/multimodal_vlm/prune2drive_a_plug-and-play_framework_for_accelerating_vision-language_models_in/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/prune2drive_a_pl…](https://en.papernotes.org/CVPR2026/multimodal_vlm/prune2drive_a_plug-and-play_framework_for_accelerating_vision-language_models_in/)
-
-**Dynamic Token Reweighting for Robust Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2505.17132>
-- Code: <https://github.com/TanqiuJiang/DTR>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/dynamic_token_rewei…](https://papernotes.org/CVPR2026/multimodal_vlm/dynamic_token_reweighting_for_robust_vision-language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/dynamic_token_re…](https://en.papernotes.org/CVPR2026/multimodal_vlm/dynamic_token_reweighting_for_robust_vision-language_models/)
-
-**VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion**
-
-- Paper: <https://arxiv.org/abs/2503.23359>
-- Code: <https://github.com/Linfeng-Tang/VideoFusion>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/videofusion_a_spati…](https://papernotes.org/CVPR2026/multimodal_vlm/videofusion_a_spatio-temporal_collaborative_network_for_multi-modal_video_fusion/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/videofusion_a_sp…](https://en.papernotes.org/CVPR2026/multimodal_vlm/videofusion_a_spatio-temporal_collaborative_network_for_multi-modal_video_fusion/)
-
-**Aligning What Vision-Language Models See and Perceive with Adaptive Information Flow**
-
-- Paper: <https://arxiv.org/abs/2604.15809>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/aif_adaptive_inform…](https://papernotes.org/CVPR2026/multimodal_vlm/aif_adaptive_information_flow_vlm/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/aif_adaptive_inf…](https://en.papernotes.org/CVPR2026/multimodal_vlm/aif_adaptive_information_flow_vlm/)
-
-**PersonaVLM: Long-Term Personalized Multimodal LLMs**
-
-- Paper: <https://arxiv.org/abs/2604.13074>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/personavlm_long_ter…](https://papernotes.org/CVPR2026/multimodal_vlm/personavlm_long_term_personalized_multimodal_llms/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/personavlm_long_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/personavlm_long_term_personalized_multimodal_llms/)
-
-**DocSeeker: Structured Visual Reasoning with Evidence Grounding for Long Document Understanding**
-
-- Paper: <https://arxiv.org/abs/2604.12812>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/docseeker_long_docu…](https://papernotes.org/CVPR2026/multimodal_vlm/docseeker_long_document_understanding/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/docseeker_long_d…](https://en.papernotes.org/CVPR2026/multimodal_vlm/docseeker_long_document_understanding/)
-
-**MODIX: Training-Free Multimodal Information-Driven Positional Index Scaling for VLMs**
-
-- Paper: <https://arxiv.org/abs/2604.12537>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/modix_positional_in…](https://papernotes.org/CVPR2026/multimodal_vlm/modix_positional_index_scaling/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/modix_positional…](https://en.papernotes.org/CVPR2026/multimodal_vlm/modix_positional_index_scaling/)
-
-**EBMC: Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis**
-
-- Paper: <https://arxiv.org/abs/2604.12518>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/ebmc_multimodal_sen…](https://papernotes.org/CVPR2026/multimodal_vlm/ebmc_multimodal_sentiment_analysis/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/ebmc_multimodal_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/ebmc_multimodal_sentiment_analysis/)
-
-**SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker**
-
-- Paper: <https://arxiv.org/abs/2604.12502>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/seatrack_multimodal…](https://papernotes.org/CVPR2026/multimodal_vlm/seatrack_multimodal_tracker/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/seatrack_multimo…](https://en.papernotes.org/CVPR2026/multimodal_vlm/seatrack_multimodal_tracker/)
-
-**TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment**
-
-- Paper: <https://arxiv.org/abs/2604.12012>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/tipsv2_patch_text_a…](https://papernotes.org/CVPR2026/multimodal_vlm/tipsv2_patch_text_alignment/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/tipsv2_patch_tex…](https://en.papernotes.org/CVPR2026/multimodal_vlm/tipsv2_patch_text_alignment/)
-
-**MMR-AD: A Large-Scale Multimodal Dataset for Benchmarking General Anomaly Detection with MLLMs**
-
-- Paper: <https://arxiv.org/abs/2604.10971>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/mmrad_multimodal_an…](https://papernotes.org/CVPR2026/multimodal_vlm/mmrad_multimodal_anomaly_detection/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/mmrad_multimodal…](https://en.papernotes.org/CVPR2026/multimodal_vlm/mmrad_multimodal_anomaly_detection/)
-
-**HOG-Layout: Hierarchical 3D Scene Generation, Optimization and Editing via Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2604.10772>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/hog_layout_hierarch…](https://papernotes.org/CVPR2026/multimodal_vlm/hog_layout_hierarchical_3d_scene_generation_optimization_and_editing/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/hog_layout_hiera…](https://en.papernotes.org/CVPR2026/multimodal_vlm/hog_layout_hierarchical_3d_scene_generation_optimization_and_editing/)
-
-**FlowHijack: A Dynamics-Aware Backdoor Attack on Flow-Matching VLA Models**
-
-- Paper: <https://arxiv.org/abs/2604.09651>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/flowhijack_dynamics…](https://papernotes.org/CVPR2026/multimodal_vlm/flowhijack_dynamics_aware_backdoor_attack_on_flow_matching_vla_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/flowhijack_dynam…](https://en.papernotes.org/CVPR2026/multimodal_vlm/flowhijack_dynamics_aware_backdoor_attack_on_flow_matching_vla_models/)
-
-**Do Vision Language Models Need to Process Image Tokens?**
-
-- Paper: <https://arxiv.org/abs/2604.09425>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/do_vision_language_…](https://papernotes.org/CVPR2026/multimodal_vlm/do_vision_language_models_need_to_process_image_tokens/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/do_vision_langua…](https://en.papernotes.org/CVPR2026/multimodal_vlm/do_vision_language_models_need_to_process_image_tokens/)
-
-**Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs**
-
-- Paper: <https://arxiv.org/abs/2604.08846>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/dictionary_aligned_…](https://papernotes.org/CVPR2026/multimodal_vlm/dictionary_aligned_concept_control_for_safeguarding_multimodal_llms/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/dictionary_align…](https://en.papernotes.org/CVPR2026/multimodal_vlm/dictionary_aligned_concept_control_for_safeguarding_multimodal_llms/)
-
-**DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing**
-
-- Paper: <https://arxiv.org/abs/2604.07965>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/dsca_dynamic_subspa…](https://papernotes.org/CVPR2026/multimodal_vlm/dsca_dynamic_subspace_concept_alignment_for_lifelong_vlm_editing/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/dsca_dynamic_sub…](https://en.papernotes.org/CVPR2026/multimodal_vlm/dsca_dynamic_subspace_concept_alignment_for_lifelong_vlm_editing/)
-
-**Beyond the Mean: Modelling Annotation Distributions in Continuous Affect Prediction** · 🛠️ Workshop
-
-- Paper: <https://arxiv.org/abs/2604.07198>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/beyond_the_mean_mod…](https://papernotes.org/CVPR2026/multimodal_vlm/beyond_the_mean_modelling_annotation_distributions_in_continuous_affect_predicti/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/beyond_the_mean_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/beyond_the_mean_modelling_annotation_distributions_in_continuous_affect_predicti/)
-
-**Purify-then-Align: Towards Robust Human Sensing under Modality Missing with Knowledge Distillation from Noisy Multimodal Teacher** · 🛠️ Workshop
-
-- Paper: <https://arxiv.org/abs/2604.05584>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/purify-then-align_t…](https://papernotes.org/CVPR2026/multimodal_vlm/purify-then-align_towards_robust_human_sensing_under_modality_missing_with_knowl/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/purify-then-alig…](https://en.papernotes.org/CVPR2026/multimodal_vlm/purify-then-align_towards_robust_human_sensing_under_modality_missing_with_knowl/)
-
-**Benchmarking Vision-Language Models under Contradictory Virtual Content Attacks in Augmented Reality** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2604.05510>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/benchmarking_vision…](https://papernotes.org/CVPR2026/multimodal_vlm/benchmarking_vision-language_models_under_contradictory_virtual_content_attacks_/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/benchmarking_vis…](https://en.papernotes.org/CVPR2026/multimodal_vlm/benchmarking_vision-language_models_under_contradictory_virtual_content_attacks_/)
-
-**Thinking Diffusion: Penalize and Guide Visual-Grounded Reasoning in Diffusion Multimodal Language Models**
-
-- Paper: <https://arxiv.org/abs/2604.05497>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/thinking_diffusion_…](https://papernotes.org/CVPR2026/multimodal_vlm/thinking_diffusion_penalize_and_guide_visual-grounded_reasoning_in_diffusion_mul/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/thinking_diffusi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/thinking_diffusion_penalize_and_guide_visual-grounded_reasoning_in_diffusion_mul/)
-
-**DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving Conditions**
-
-- Paper: <https://arxiv.org/abs/2604.03685>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/dsert_roll_robust_m…](https://papernotes.org/CVPR2026/multimodal_vlm/dsert_roll_robust_multi_modal_perception_for_diverse_driving_conditions/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/dsert_roll_robus…](https://en.papernotes.org/CVPR2026/multimodal_vlm/dsert_roll_robust_multi_modal_perception_for_diverse_driving_conditions/)
-
-**CoMP: Collaborative Multi-Mode Pruning for Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2604.02956>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/comp_collaborative_…](https://papernotes.org/CVPR2026/multimodal_vlm/comp_collaborative_multi-mode_pruning_for_vision-language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/comp_collaborati…](https://en.papernotes.org/CVPR2026/multimodal_vlm/comp_collaborative_multi-mode_pruning_for_vision-language_models/)
-
-**Token Warping Helps MLLMs Look from Nearby Viewpoints**
-
-- Paper: <https://arxiv.org/abs/2604.02870>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/token_warping_helps…](https://papernotes.org/CVPR2026/multimodal_vlm/token_warping_helps_mllms_look_from_nearby_viewpoints/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/token_warping_he…](https://en.papernotes.org/CVPR2026/multimodal_vlm/token_warping_helps_mllms_look_from_nearby_viewpoints/)
-
-**CRIT: Graph-Based Automatic Data Synthesis to Enhance Cross-Modal Multi-Hop Reasoning**
-
-- Paper: <https://arxiv.org/abs/2604.01634>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/crit_graph-based_au…](https://papernotes.org/CVPR2026/multimodal_vlm/crit_graph-based_automatic_data_synthesis_to_enhance_cross-modal_multi-hop_reaso/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/crit_graph-based…](https://en.papernotes.org/CVPR2026/multimodal_vlm/crit_graph-based_automatic_data_synthesis_to_enhance_cross-modal_multi-hop_reaso/)
-
-**Prime Once, then Reprogram Locally: An Efficient Alternative to Black-Box Service Model Adaptation**
-
-- Paper: <https://arxiv.org/abs/2604.01474>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/prime_once_then_rep…](https://papernotes.org/CVPR2026/multimodal_vlm/prime_once_then_reprogram_locally_an_efficient_alternative_to_black-box_service_/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/prime_once_then_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/prime_once_then_reprogram_locally_an_efficient_alternative_to_black-box_service_/)
-
-**MUPO: All Roads Lead to Rome - Incentivizing Divergent Thinking in Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2604.00479>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/mupo_all_roads_lead…](https://papernotes.org/CVPR2026/multimodal_vlm/mupo_all_roads_lead_to_rome_incentivizing_divergent_thinking_in_vlms/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/mupo_all_roads_l…](https://en.papernotes.org/CVPR2026/multimodal_vlm/mupo_all_roads_lead_to_rome_incentivizing_divergent_thinking_in_vlms/)
-
-**AGFT: Alignment-Guided Fine-Tuning for Zero-Shot Adversarial Robustness of Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.29410>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/agft_alignment-guid…](https://papernotes.org/CVPR2026/multimodal_vlm/agft_alignment-guided_fine-tuning_for_zero-shot_adversarial_robustness_of_vision/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/agft_alignment-g…](https://en.papernotes.org/CVPR2026/multimodal_vlm/agft_alignment-guided_fine-tuning_for_zero-shot_adversarial_robustness_of_vision/)
-
-**Self-Consistency for LLM-Based Motion Trajectory Generation and Verification**
-
-- Paper: <https://arxiv.org/abs/2603.29301>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/self-consistency_fo…](https://papernotes.org/CVPR2026/multimodal_vlm/self-consistency_for_llm-based_motion_trajectory_generation_and_verification/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/self-consistency…](https://en.papernotes.org/CVPR2026/multimodal_vlm/self-consistency_for_llm-based_motion_trajectory_generation_and_verification/)
-
-**Scaling the Long Video Understanding of Multimodal Large Language Models via Visual Memory Mechanism**
-
-- Paper: <https://arxiv.org/abs/2603.29252>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/scaling_the_long_vi…](https://papernotes.org/CVPR2026/multimodal_vlm/scaling_the_long_video_understanding_of_multimodal_large_language_models_via_vis/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/scaling_the_long…](https://en.papernotes.org/CVPR2026/multimodal_vlm/scaling_the_long_video_understanding_of_multimodal_large_language_models_via_vis/)
-
-**MarkushGrapher-2: End-to-end Multimodal Recognition of Chemical Structures**
-
-- Paper: <https://arxiv.org/abs/2603.28550>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/markushgrapher-2_en…](https://papernotes.org/CVPR2026/multimodal_vlm/markushgrapher-2_end-to-end_multimodal_recognition_of_chemical_structures/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/markushgrapher-2…](https://en.papernotes.org/CVPR2026/multimodal_vlm/markushgrapher-2_end-to-end_multimodal_recognition_of_chemical_structures/)
-
-**Customized Visual Storytelling with Unified Multimodal LLMs** · 🛠️ Workshop
-
-- Paper: <https://arxiv.org/abs/2603.27690>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/customized_visual_s…](https://papernotes.org/CVPR2026/multimodal_vlm/customized_visual_storytelling_with_unified_multimodal_llms/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/customized_visua…](https://en.papernotes.org/CVPR2026/multimodal_vlm/customized_visual_storytelling_with_unified_multimodal_llms/)
-
-**LFPC: Learning to Focus and Precise Cropping for MLLMs**
-
-- Paper: <https://arxiv.org/abs/2603.27494>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/lfpc_learning_to_fo…](https://papernotes.org/CVPR2026/multimodal_vlm/lfpc_learning_to_focus_and_precise_cropping_for_mllms/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/lfpc_learning_to…](https://en.papernotes.org/CVPR2026/multimodal_vlm/lfpc_learning_to_focus_and_precise_cropping_for_mllms/)
-
-**On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.27481>
-- Project: <https://zhaoc5.github.io/DyMoE>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/on_tokens_dilemma_d…](https://papernotes.org/CVPR2026/multimodal_vlm/on_tokens_dilemma_dynamic_moe_with_drift-aware_token_assignment_for_continual_le/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/on_tokens_dilemm…](https://en.papernotes.org/CVPR2026/multimodal_vlm/on_tokens_dilemma_dynamic_moe_with_drift-aware_token_assignment_for_continual_le/)
-
-**SpatialStack: Layered Geometry-Language Fusion for 3D VLM Spatial Reasoning**
-
-- Paper: <https://arxiv.org/abs/2603.27437>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/spatialstack_layere…](https://papernotes.org/CVPR2026/multimodal_vlm/spatialstack_layered_geometry-language_fusion_for_3d_vlm_spatial_reasoning/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/spatialstack_lay…](https://en.papernotes.org/CVPR2026/multimodal_vlm/spatialstack_layered_geometry-language_fusion_for_3d_vlm_spatial_reasoning/)
-
-**Conditional Factuality Controlled LLMs with Generalization Certificates via Conformal Sampling**
-
-- Paper: <https://arxiv.org/abs/2603.27403>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/conditional_factual…](https://papernotes.org/CVPR2026/multimodal_vlm/conditional_factuality_controlled_llms_with_generalization_certificates_via_conf/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/conditional_fact…](https://en.papernotes.org/CVPR2026/multimodal_vlm/conditional_factuality_controlled_llms_with_generalization_certificates_via_conf/)
-
-**Diagnosing and Repairing Unsafe Channels in Vision-Language Models via Causal Discovery and Dual-Modal Safety Subspace Projection**
-
-- Paper: <https://arxiv.org/abs/2603.27240>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/diagnosing_and_repa…](https://papernotes.org/CVPR2026/multimodal_vlm/diagnosing_and_repairing_unsafe_channels_in_vision-language_models_via_causal_di/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/diagnosing_and_r…](https://en.papernotes.org/CVPR2026/multimodal_vlm/diagnosing_and_repairing_unsafe_channels_in_vision-language_models_via_causal_di/)
-
-**Medic-AD: Towards Medical Vision-Language Model's Clinical Intelligence**
-
-- Paper: <https://arxiv.org/abs/2603.27176>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/medic-ad_towards_me…](https://papernotes.org/CVPR2026/multimodal_vlm/medic-ad_towards_medical_vision-language_models_clinical_intelligence/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/medic-ad_towards…](https://en.papernotes.org/CVPR2026/multimodal_vlm/medic-ad_towards_medical_vision-language_models_clinical_intelligence/)
-
-**MA-Bench: Towards Fine-grained Micro-Action Understanding**
-
-- Paper: <https://arxiv.org/abs/2603.26586>
-- Project: <https://MA-Bench.github.io>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/ma-bench_towards_fi…](https://papernotes.org/CVPR2026/multimodal_vlm/ma-bench_towards_fine-grained_micro-action_understanding/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/ma-bench_towards…](https://en.papernotes.org/CVPR2026/multimodal_vlm/ma-bench_towards_fine-grained_micro-action_understanding/)
-
-**HandVQA: Diagnosing and Improving Fine-Grained Spatial Reasoning about Hands in Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.26362>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/handvqa_diagnosing_…](https://papernotes.org/CVPR2026/multimodal_vlm/handvqa_diagnosing_and_improving_fine-grained_spatial_reasoning_about_hands_in_v/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/handvqa_diagnosi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/handvqa_diagnosing_and_improving_fine-grained_spatial_reasoning_about_hands_in_v/)
-
-**Label-Free Cross-Task LoRA Merging with Null-Space Compression**
-
-- Paper: <https://arxiv.org/abs/2603.26317>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/label-free_cross-ta…](https://papernotes.org/CVPR2026/multimodal_vlm/label-free_cross-task_lora_merging_with_null-space_compression/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/label-free_cross…](https://en.papernotes.org/CVPR2026/multimodal_vlm/label-free_cross-task_lora_merging_with_null-space_compression/)
-
-**SALMUBench: A Benchmark for Sensitive Association-Level Multimodal Unlearning**
-
-- Paper: <https://arxiv.org/abs/2603.26316>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/salmubench_a_benchm…](https://papernotes.org/CVPR2026/multimodal_vlm/salmubench_a_benchmark_for_sensitive_association-level_multimodal_unlearning/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/salmubench_a_ben…](https://en.papernotes.org/CVPR2026/multimodal_vlm/salmubench_a_benchmark_for_sensitive_association-level_multimodal_unlearning/)
-
-**GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks**
-
-- Paper: <https://arxiv.org/abs/2603.25864>
-- Project: <https://guide-bench.github.io>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/guide_a_benchmark_f…](https://papernotes.org/CVPR2026/multimodal_vlm/guide_a_benchmark_for_understanding_and_assisting_users_in_open-ended_gui_tasks/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/guide_a_benchmar…](https://en.papernotes.org/CVPR2026/multimodal_vlm/guide_a_benchmark_for_understanding_and_assisting_users_in_open-ended_gui_tasks/)
-
-**Wan-Weaver: Interleaved Multi-modal Generation via Decoupled Training**
-
-- Paper: <https://arxiv.org/abs/2603.25706>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/wan-weaver_interlea…](https://papernotes.org/CVPR2026/multimodal_vlm/wan-weaver_interleaved_multi-modal_generation_via_decoupled_training/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/wan-weaver_inter…](https://en.papernotes.org/CVPR2026/multimodal_vlm/wan-weaver_interleaved_multi-modal_generation_via_decoupled_training/)
-
-**HiSpatial: Taming Hierarchical 3D Spatial Understanding in Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.25411>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/hispatial_taming_hi…](https://papernotes.org/CVPR2026/multimodal_vlm/hispatial_taming_hierarchical_3d_spatial_understanding_in_vision-language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/hispatial_taming…](https://en.papernotes.org/CVPR2026/multimodal_vlm/hispatial_taming_hierarchical_3d_spatial_understanding_in_vision-language_models/)
-
-**Activation Matters: Test-time Activated Negative Labels for OOD Detection with Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.25250>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/activation_matters_…](https://papernotes.org/CVPR2026/multimodal_vlm/activation_matters_test-time_activated_negative_labels_for_ood_detection_with_vi/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/activation_matte…](https://en.papernotes.org/CVPR2026/multimodal_vlm/activation_matters_test-time_activated_negative_labels_for_ood_detection_with_vi/)
-
-**MoE-GRPO: Optimizing Mixture-of-Experts via Reinforcement Learning in Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.24984>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/moe-grpo_optimizing…](https://papernotes.org/CVPR2026/multimodal_vlm/moe-grpo_optimizing_mixture-of-experts_via_reinforcement_learning_in_vision-lang/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/moe-grpo_optimiz…](https://en.papernotes.org/CVPR2026/multimodal_vlm/moe-grpo_optimizing_mixture-of-experts_via_reinforcement_learning_in_vision-lang/)
-
-**TIGeR: A Unified Framework for Time, Images and Geo-location Retrieval**
-
-- Paper: <https://arxiv.org/abs/2603.24749>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/tiger_a_unified_fra…](https://papernotes.org/CVPR2026/multimodal_vlm/tiger_a_unified_framework_for_time_images_and_geo-location_retrieval/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/tiger_a_unified_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/tiger_a_unified_framework_for_time_images_and_geo-location_retrieval/)
-
-**Video-Only ToM: Enhancing Theory of Mind in Multimodal Large Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.24484>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/video-only_tom_enha…](https://papernotes.org/CVPR2026/multimodal_vlm/video-only_tom_enhancing_theory_of_mind_in_multimodal_large_language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/video-only_tom_e…](https://en.papernotes.org/CVPR2026/multimodal_vlm/video-only_tom_enhancing_theory_of_mind_in_multimodal_large_language_models/)
-
-**Towards Real-World Document Parsing via Realistic Scene Synthesis and Document-Aware Training**
-
-- Paper: <https://arxiv.org/abs/2603.23885>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/towards_real-world_…](https://papernotes.org/CVPR2026/multimodal_vlm/towards_real-world_document_parsing_via_realistic_scene_synthesis_and_document-a/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/towards_real-wor…](https://en.papernotes.org/CVPR2026/multimodal_vlm/towards_real-world_document_parsing_via_realistic_scene_synthesis_and_document-a/)
-
-**VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions**
-
-- Paper: <https://arxiv.org/abs/2603.23495>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vision_on_request_e…](https://papernotes.org/CVPR2026/multimodal_vlm/vision_on_request_enhanced_vllm_efficiency_with_sparse_dynamically_selected_visi/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vision_on_reques…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vision_on_request_enhanced_vllm_efficiency_with_sparse_dynamically_selected_visi/)
-
-**Multi-Modal Image Fusion via Intervention-Stable Feature Learning**
-
-- Paper: <https://arxiv.org/abs/2603.23272>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/multi-modal_image_f…](https://papernotes.org/CVPR2026/multimodal_vlm/multi-modal_image_fusion_via_intervention-stable_feature_learning/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/multi-modal_imag…](https://en.papernotes.org/CVPR2026/multimodal_vlm/multi-modal_image_fusion_via_intervention-stable_feature_learning/)
-
-**ViKey: Enhancing Temporal Understanding in Videos via Visual Prompting**
-
-- Paper: <https://arxiv.org/abs/2603.23186>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vikey_enhancing_tem…](https://papernotes.org/CVPR2026/multimodal_vlm/vikey_enhancing_temporal_understanding_in_videos_via_visual_prompting/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vikey_enhancing_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vikey_enhancing_temporal_understanding_in_videos_via_visual_prompting/)
-
-**TreeTeaming: Autonomous Red-Teaming of Vision-Language Models via Hierarchical Strategy Exploration**
-
-- Paper: <https://arxiv.org/abs/2603.22882>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/treeteaming_autonom…](https://papernotes.org/CVPR2026/multimodal_vlm/treeteaming_autonomous_red-teaming_of_vision-language_models_via_hierarchical_s/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/treeteaming_auto…](https://en.papernotes.org/CVPR2026/multimodal_vlm/treeteaming_autonomous_red-teaming_of_vision-language_models_via_hierarchical_s/)
-
-**Focus, Don't Prune: Identifying Instruction-Relevant Regions for Information-Rich Image Understanding**
-
-- Paper: <https://arxiv.org/abs/2603.22815>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/focus_dont_prune_id…](https://papernotes.org/CVPR2026/multimodal_vlm/focus_dont_prune_identifying_instruction-relevant_regions_for_information-rich_i/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/focus_dont_prune…](https://en.papernotes.org/CVPR2026/multimodal_vlm/focus_dont_prune_identifying_instruction-relevant_regions_for_information-rich_i/)
-
-**ENC-Bench: A Benchmark for Evaluating Multimodal Large Language Models in Electronic Navigational Chart Understanding**
-
-- Paper: <https://arxiv.org/abs/2603.22763>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/enc-bench_a_benchma…](https://papernotes.org/CVPR2026/multimodal_vlm/enc-bench_a_benchmark_for_evaluating_multimodal_large_language_models_in_electro/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/enc-bench_a_benc…](https://en.papernotes.org/CVPR2026/multimodal_vlm/enc-bench_a_benchmark_for_evaluating_multimodal_large_language_models_in_electro/)
-
-**Think 360°: Evaluating the Width-centric Reasoning Capability of MLLMs Beyond Depth**
-
-- Paper: <https://arxiv.org/abs/2603.22689>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/think_360_evaluatin…](https://papernotes.org/CVPR2026/multimodal_vlm/think_360_evaluating_the_width-centric_reasoning_capability_of_mllms_beyond_dept/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/think_360_evalua…](https://en.papernotes.org/CVPR2026/multimodal_vlm/think_360_evaluating_the_width-centric_reasoning_capability_of_mllms_beyond_dept/)
-
-**CoVFT: Context-aware Visual Fine-tuning for Multimodal Large Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.21077>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/covft_context-aware…](https://papernotes.org/CVPR2026/multimodal_vlm/covft_context-aware_visual_fine-tuning_for_multimodal_large_language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/covft_context-aw…](https://en.papernotes.org/CVPR2026/multimodal_vlm/covft_context-aware_visual_fine-tuning_for_multimodal_large_language_models/)
-
-**Predictive Regularization Against Visual Representation Degradation in Multimodal Large Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.20808>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/predictive_regulari…](https://papernotes.org/CVPR2026/multimodal_vlm/predictive_regularization_against_visual_representation_degradation_in_multimoda/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/predictive_regul…](https://en.papernotes.org/CVPR2026/multimodal_vlm/predictive_regularization_against_visual_representation_degradation_in_multimoda/)
-
-**Unbiased Dynamic Multimodal Fusion**
-
-- Paper: <https://arxiv.org/abs/2603.19681>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/unbiased_dynamic_mu…](https://papernotes.org/CVPR2026/multimodal_vlm/unbiased_dynamic_multimodal_fusion/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/unbiased_dynamic…](https://en.papernotes.org/CVPR2026/multimodal_vlm/unbiased_dynamic_multimodal_fusion/)
-
-**Disentangle-then-Align: Non-Iterative Hybrid Multimodal Image Registration via Cross-Scale Feature Disentanglement**
-
-- Paper: <https://arxiv.org/abs/2603.19623>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/disentangle-then-al…](https://papernotes.org/CVPR2026/multimodal_vlm/disentangle-then-align_non-iterative_hybrid_multimodal_image_registration_via_cr/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/disentangle-then…](https://en.papernotes.org/CVPR2026/multimodal_vlm/disentangle-then-align_non-iterative_hybrid_multimodal_image_registration_via_cr/)
-
-**FINER: MLLMs Hallucinate under Fine-grained Negative Queries**
-
-- Paper: <https://arxiv.org/abs/2603.17662>
-- Project: <https://explainableml.github.io/finer-project/>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/finer_mllms_halluci…](https://papernotes.org/CVPR2026/multimodal_vlm/finer_mllms_hallucinate_under_fine-grained_negative_queries/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/finer_mllms_hall…](https://en.papernotes.org/CVPR2026/multimodal_vlm/finer_mllms_hallucinate_under_fine-grained_negative_queries/)
-
-**Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress**
-
-- Paper: <https://arxiv.org/abs/2603.17312>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/recurrent_reasoning…](https://papernotes.org/CVPR2026/multimodal_vlm/recurrent_reasoning_with_vision-language_models_for_estimating_long-horizon_embo/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/recurrent_reason…](https://en.papernotes.org/CVPR2026/multimodal_vlm/recurrent_reasoning_with_vision-language_models_for_estimating_long-horizon_embo/)
-
-**Locate-then-Sparsify: Attribution Guided Sparse Strategy for Visual Hallucination Mitigation**
-
-- Paper: <https://arxiv.org/abs/2603.16284>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/locate-then-sparsif…](https://papernotes.org/CVPR2026/multimodal_vlm/locate-then-sparsify_attribution_guided_sparse_strategy_for_visual_hallucination/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/locate-then-spar…](https://en.papernotes.org/CVPR2026/multimodal_vlm/locate-then-sparsify_attribution_guided_sparse_strategy_for_visual_hallucination/)
-
-**Parallel In-context Learning for Large Vision Language Models** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2603.16092>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/parallel_in-context…](https://papernotes.org/CVPR2026/multimodal_vlm/parallel_in-context_learning_for_large_vision_language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/parallel_in-cont…](https://en.papernotes.org/CVPR2026/multimodal_vlm/parallel_in-context_learning_for_large_vision_language_models/)
-
-**Mostly Text, Smart Visuals: Asymmetric Text-Visual Pruning for Large Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.16001>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/mostly_text_smart_v…](https://papernotes.org/CVPR2026/multimodal_vlm/mostly_text_smart_visuals_asymmetric_text-visual_pruning_for_large_vision-langua/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/mostly_text_smar…](https://en.papernotes.org/CVPR2026/multimodal_vlm/mostly_text_smart_visuals_asymmetric_text-visual_pruning_for_large_vision-langua/)
-
-**Evolving Contextual Safety in Multi-Modal Large Language Models via Inference-Time Self-Reflective Memory**
-
-- Paper: <https://arxiv.org/abs/2603.15800>
-- Project: <https://echosafe-mllm.github.io>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/evolving_contextual…](https://papernotes.org/CVPR2026/multimodal_vlm/evolving_contextual_safety_in_multi-modal_large_language_models_via_inference-ti/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/evolving_context…](https://en.papernotes.org/CVPR2026/multimodal_vlm/evolving_contextual_safety_in_multi-modal_large_language_models_via_inference-ti/)
-
-**Efficient Document Parsing via Parallel Token Prediction** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2603.15206>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/efficient_document_…](https://papernotes.org/CVPR2026/multimodal_vlm/efficient_document_parsing_via_parallel_token_prediction/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/efficient_docume…](https://en.papernotes.org/CVPR2026/multimodal_vlm/efficient_document_parsing_via_parallel_token_prediction/)
-
-**LLMind: Bio-inspired Training-free Adaptive Visual Representations for Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.14882>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/llmind_bio-inspired…](https://papernotes.org/CVPR2026/multimodal_vlm/llmind_bio-inspired_training-free_adaptive_visual_representations_for_vision-lan/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/llmind_bio-inspi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/llmind_bio-inspired_training-free_adaptive_visual_representations_for_vision-lan/)
-
-**Topo-R1: Detecting Topological Anomalies via Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.13054>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/topo-r1_detecting_t…](https://papernotes.org/CVPR2026/multimodal_vlm/topo-r1_detecting_topological_anomalies_via_vision-language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/topo-r1_detectin…](https://en.papernotes.org/CVPR2026/multimodal_vlm/topo-r1_detecting_topological_anomalies_via_vision-language_models/)
-
-**Empowering Semantic-Sensitive Underwater Image Enhancement with VLM**
-
-- Paper: <https://arxiv.org/abs/2603.12773>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/empowering_semantic…](https://papernotes.org/CVPR2026/multimodal_vlm/empowering_semanticsensitive_underwater_image_enha/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/empowering_seman…](https://en.papernotes.org/CVPR2026/multimodal_vlm/empowering_semanticsensitive_underwater_image_enha/)
-
-**Thinking in Dynamics: How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World**
-
-- Paper: <https://arxiv.org/abs/2603.12746>
-- Project: <https://dyn-bench.github.io/>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/thinking_in_dynamic…](https://papernotes.org/CVPR2026/multimodal_vlm/thinking_in_dynamics_how_multimodal_large_language_models_perceive_track_and_rea/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/thinking_in_dyna…](https://en.papernotes.org/CVPR2026/multimodal_vlm/thinking_in_dynamics_how_multimodal_large_language_models_perceive_track_and_rea/)
-
-**Mastering Negation: Boosting Grounding Models via Grouped Opposition-Based Learning**
-
-- Paper: <https://arxiv.org/abs/2603.12606>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/mastering_negation_…](https://papernotes.org/CVPR2026/multimodal_vlm/mastering_negation_boosting_grounding_models_via_grouped_opposition-based_learni/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/mastering_negati…](https://en.papernotes.org/CVPR2026/multimodal_vlm/mastering_negation_boosting_grounding_models_via_grouped_opposition-based_learni/)
-
-**Revisiting Model Stitching In the Foundation Model Era**
-
-- Paper: <https://arxiv.org/abs/2603.12433>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/revisiting_model_st…](https://papernotes.org/CVPR2026/multimodal_vlm/revisiting_model_stitching_in_the_foundation_model/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/revisiting_model…](https://en.papernotes.org/CVPR2026/multimodal_vlm/revisiting_model_stitching_in_the_foundation_model/)
-
-**SPARROW: Learning Spatial Precision and Temporal Referential Consistency in Pixel-Grounded Video MLLMs**
-
-- Paper: <https://arxiv.org/abs/2603.12382>
-- Project: <https://risys-lab.github.io/SPARROW>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/sparrow_learning_sp…](https://papernotes.org/CVPR2026/multimodal_vlm/sparrow_learning_spatial_precision_and_temporal_referential_consistency_in_pixel/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/sparrow_learning…](https://en.papernotes.org/CVPR2026/multimodal_vlm/sparrow_learning_spatial_precision_and_temporal_referential_consistency_in_pixel/)
-
-**Linking Perception, Confidence and Accuracy in MLLMs**
-
-- Paper: <https://arxiv.org/abs/2603.12149>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/linking_perception_…](https://papernotes.org/CVPR2026/multimodal_vlm/linking_perception_confidence_and_accuracy_in_mllms/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/linking_percepti…](https://en.papernotes.org/CVPR2026/multimodal_vlm/linking_perception_confidence_and_accuracy_in_mllms/)
-
-**Continual Learning with Vision-Language Models via Semantic-Geometry Preservation**
-
-- Paper: <https://arxiv.org/abs/2603.12055>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/continual_learning_…](https://papernotes.org/CVPR2026/multimodal_vlm/continual_learning_with_vision-language_models_via_semantic-geometry_preservatio/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/continual_learni…](https://en.papernotes.org/CVPR2026/multimodal_vlm/continual_learning_with_vision-language_models_via_semantic-geometry_preservatio/)
-
-**Tokenization Allows Multimodal Large Language Models to Understand, Generate and Edit Architectural Floor Plans**
-
-- Paper: <https://arxiv.org/abs/2603.11640>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/tokenization_allows…](https://papernotes.org/CVPR2026/multimodal_vlm/tokenization_allows_multimodal_large_language_models_to_understand_generate_and_/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/tokenization_all…](https://en.papernotes.org/CVPR2026/multimodal_vlm/tokenization_allows_multimodal_large_language_models_to_understand_generate_and_/)
-
-**Noise-aware few-shot learning through bi-directional multi-view prompt alignment**
-
-- Paper: <https://arxiv.org/abs/2603.11617>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/noise-aware_few-sho…](https://papernotes.org/CVPR2026/multimodal_vlm/noise-aware_few-shot_learning_through_bi-directional_multi-view_prompt_alignment/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/noise-aware_few-…](https://en.papernotes.org/CVPR2026/multimodal_vlm/noise-aware_few-shot_learning_through_bi-directional_multi-view_prompt_alignment/)
-
-**VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.09826>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vlm-loc_localizatio…](https://papernotes.org/CVPR2026/multimodal_vlm/vlm-loc_localization_in_point_cloud_maps_via_vision-language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vlm-loc_localiza…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vlm-loc_localization_in_point_cloud_maps_via_vision-language_models/)
-
-**Evolving Prompt Adaptation for Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.09493>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/evolving_prompt_ada…](https://papernotes.org/CVPR2026/multimodal_vlm/evolving_prompt_adaptation_for_vision-language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/evolving_prompt_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/evolving_prompt_adaptation_for_vision-language_models/)
-
-**OddGridBench: Exposing the Lack of Fine-Grained Visual Discrepancy Sensitivity in Multimodal Large Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.09326>
-- Project: <https://wwwtttjjj.github.io/OddGridBench/>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/oddgridbench_exposi…](https://papernotes.org/CVPR2026/multimodal_vlm/oddgridbench_exposing_the_lack_of_fine-grained_visual_discrepancy_sensitivity_in/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/oddgridbench_exp…](https://en.papernotes.org/CVPR2026/multimodal_vlm/oddgridbench_exposing_the_lack_of_fine-grained_visual_discrepancy_sensitivity_in/)
-
-**Vision-Language Models Encode Clinical Guidelines for Concept-Based Medical Reasoning** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2603.08921>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vision-language_mod…](https://papernotes.org/CVPR2026/multimodal_vlm/vision-language_models_encode_clinical_guidelines_for_concept-based_medical_reas/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vision-language_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vision-language_models_encode_clinical_guidelines_for_concept-based_medical_reas/)
-
-**It's Time to Get It Right: Improving Analog Clock Reading and Clock-Hand Spatial Reasoning in Vision-Language Models** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2603.08011>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/its_time_to_get_it_…](https://papernotes.org/CVPR2026/multimodal_vlm/its_time_to_get_it_right_improving_analog_clock_reading_and_clock-hand_spatial_r/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/its_time_to_get_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/its_time_to_get_it_right_improving_analog_clock_reading_and_clock-hand_spatial_r/)
-
-**Scaling Test-Time Robustness of Vision-Language Models via Self-Critical Inference Framework**
-
-- Paper: <https://arxiv.org/abs/2603.07659>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/scaling_test-time_r…](https://papernotes.org/CVPR2026/multimodal_vlm/scaling_test-time_robustness_of_vision-language_models_via_self-critical_inferen/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/scaling_test-tim…](https://en.papernotes.org/CVPR2026/multimodal_vlm/scaling_test-time_robustness_of_vision-language_models_via_self-critical_inferen/)
-
-**Overthinking Causes Hallucination: Tracing Confounder Propagation in Vision Language Models** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2603.07619>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/overthinking_causes…](https://papernotes.org/CVPR2026/multimodal_vlm/overthinking_causes_hallucination_tracing_confounder_propagation_in_vision_langu/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/overthinking_cau…](https://en.papernotes.org/CVPR2026/multimodal_vlm/overthinking_causes_hallucination_tracing_confounder_propagation_in_vision_langu/)
-
-**Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning**
-
-- Paper: <https://arxiv.org/abs/2603.06688>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/narrative_weaver_to…](https://papernotes.org/CVPR2026/multimodal_vlm/narrative_weaver_towards_controllable_long-range_visual_consistency_with_multi-m/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/narrative_weaver…](https://en.papernotes.org/CVPR2026/multimodal_vlm/narrative_weaver_towards_controllable_long-range_visual_consistency_with_multi-m/)
-
-**Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs**
-
-- Paper: <https://arxiv.org/abs/2603.02618>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/mind_the_way_you_se…](https://papernotes.org/CVPR2026/multimodal_vlm/mind_the_way_you_select_negative_texts_pursuing_the_distance_consistency_in_ood_/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/mind_the_way_you…](https://en.papernotes.org/CVPR2026/multimodal_vlm/mind_the_way_you_select_negative_texts_pursuing_the_distance_consistency_in_ood_/)
-
-**HAMMER: Harnessing MLLM via Cross-Modal Integration for Intention-Driven 3D Affordance Grounding**
-
-- Paper: <https://arxiv.org/abs/2603.02329>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/hammer_harnessing_m…](https://papernotes.org/CVPR2026/multimodal_vlm/hammer_harnessing_mllm_via_cross-modal_integration_for_intention-driven_3d_affor/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/hammer_harnessin…](https://en.papernotes.org/CVPR2026/multimodal_vlm/hammer_harnessing_mllm_via_cross-modal_integration_for_intention-driven_3d_affor/)
-
-**OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens**
-
-- Paper: <https://arxiv.org/abs/2603.02138>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/omnilottie_generati…](https://papernotes.org/CVPR2026/multimodal_vlm/omnilottie_generating_vector_animations_via_parameterized_lottie_tokens/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/omnilottie_gener…](https://en.papernotes.org/CVPR2026/multimodal_vlm/omnilottie_generating_vector_animations_via_parameterized_lottie_tokens/)
-
-**Nano-EmoX: Unifying Multimodal Emotional Intelligence from Perception to Empathy**
-
-- Paper: <https://arxiv.org/abs/2603.02123>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/nano-emox_unifying_…](https://papernotes.org/CVPR2026/multimodal_vlm/nano-emox_unifying_multimodal_emotional_intelligence_from_perception_to_empathy/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/nano-emox_unifyi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/nano-emox_unifying_multimodal_emotional_intelligence_from_perception_to_empathy/)
-
-**Recursive Think-Answer Process for LLMs and VLMs** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2603.02099>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/recursive_think-ans…](https://papernotes.org/CVPR2026/multimodal_vlm/recursive_think-answer_process_for_llms_and_vlms/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/recursive_think-…](https://en.papernotes.org/CVPR2026/multimodal_vlm/recursive_think-answer_process_for_llms_and_vlms/)
-
-**DeAR: Fine-Grained VLM Adaptation by Decomposing Attention Head Roles**
-
-- Paper: <https://arxiv.org/abs/2603.01111>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/dear_fine-grained_v…](https://papernotes.org/CVPR2026/multimodal_vlm/dear_fine-grained_vlm_adaptation_by_decomposing_attention_head_roles/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/dear_fine-graine…](https://en.papernotes.org/CVPR2026/multimodal_vlm/dear_fine-grained_vlm_adaptation_by_decomposing_attention_head_roles/)
-
-**From Intuition to Investigation: A Tool-Augmented Reasoning MLLM Framework for Generalizable Face Anti-Spoofing**
-
-- Paper: <https://arxiv.org/abs/2603.01038>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/from_intuition_to_i…](https://papernotes.org/CVPR2026/multimodal_vlm/from_intuition_to_investigation_a_tool-augmented_reasoning_mllm_framework_for_ge/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/from_intuition_t…](https://en.papernotes.org/CVPR2026/multimodal_vlm/from_intuition_to_investigation_a_tool-augmented_reasoning_mllm_framework_for_ge/)
-
-**UNICBench: UNIfied Counting Benchmark for MLLM**
-
-- Paper: <https://arxiv.org/abs/2603.00595>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/unicbench_unified_c…](https://papernotes.org/CVPR2026/multimodal_vlm/unicbench_unified_counting_benchmark_for_mllm/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/unicbench_unifie…](https://en.papernotes.org/CVPR2026/multimodal_vlm/unicbench_unified_counting_benchmark_for_mllm/)
-
-**Decoupling Stability and Plasticity for Multi-Modal Test-Time Adaptation**
-
-- Paper: <https://arxiv.org/abs/2603.00574>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/decoupling_stabilit…](https://papernotes.org/CVPR2026/multimodal_vlm/decoupling_stability_and_plasticity_for_multi-modal_test-time_adaptation/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/decoupling_stabi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/decoupling_stability_and_plasticity_for_multi-modal_test-time_adaptation/)
-
-**PointAlign: Feature-Level Alignment Regularization for 3D Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.00412>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/pointalign_feature-…](https://papernotes.org/CVPR2026/multimodal_vlm/pointalign_feature-level_alignment_regularization_for_3d_vision-language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/pointalign_featu…](https://en.papernotes.org/CVPR2026/multimodal_vlm/pointalign_feature-level_alignment_regularization_for_3d_vision-language_models/)
-
-**Proof-of-Perception: Certified Tool-Using Multimodal Reasoning with Compositional Conformal Guarantees**
-
-- Paper: <https://arxiv.org/abs/2603.00324>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/pop_proof_of_percep…](https://papernotes.org/CVPR2026/multimodal_vlm/pop_proof_of_perception_conformal_reasoning/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/pop_proof_of_per…](https://en.papernotes.org/CVPR2026/multimodal_vlm/pop_proof_of_perception_conformal_reasoning/)
-
-**Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization**
-
-- Paper: <https://arxiv.org/abs/2602.24059>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/quant_experts_token…](https://papernotes.org/CVPR2026/multimodal_vlm/quant_experts_token_aware_vlm_quantization/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/quant_experts_to…](https://en.papernotes.org/CVPR2026/multimodal_vlm/quant_experts_token_aware_vlm_quantization/)
-
-**EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning in Multimodal Large Language Models**
-
-- Paper: <https://arxiv.org/abs/2602.23802>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/emo-r3_reflective_r…](https://papernotes.org/CVPR2026/multimodal_vlm/emo-r3_reflective_reinforcement_learning_for_emotional_reasoning_in_multimodal_l/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/emo-r3_reflectiv…](https://en.papernotes.org/CVPR2026/multimodal_vlm/emo-r3_reflective_reinforcement_learning_for_emotional_reasoning_in_multimodal_l/)
-
-**FluoCLIP: Stain-Aware Focus Quality Assessment in Fluorescence Microscopy**
-
-- Paper: <https://arxiv.org/abs/2602.23791>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/fluoclip_stain-awar…](https://papernotes.org/CVPR2026/multimodal_vlm/fluoclip_stain-aware_focus_quality_assessment_in_fluorescence_microscopy/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/fluoclip_stain-a…](https://en.papernotes.org/CVPR2026/multimodal_vlm/fluoclip_stain-aware_focus_quality_assessment_in_fluorescence_microscopy/)
-
-**MSJoE: Jointly Evolving MLLM and Sampler for Efficient Long-Form Video Understanding**
-
-- Paper: <https://arxiv.org/abs/2602.22932>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/msjoe_jointly_evolv…](https://papernotes.org/CVPR2026/multimodal_vlm/msjoe_jointly_evolving_mllm_and_sampler_for_efficient_long-form_video_understand/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/msjoe_jointly_ev…](https://en.papernotes.org/CVPR2026/multimodal_vlm/msjoe_jointly_evolving_mllm_and_sampler_for_efficient_long-form_video_understand/)
-
-**HulluEdit: Single-Pass Evidence-Consistent Subspace Editing for Mitigating Hallucinations in Large Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2602.22727>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/hulluedit_subspace_edit…](https://papernotes.org/CVPR2026/llm_safety/hulluedit_subspace_editing_hallucination/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/hulluedit_subspace_e…](https://en.papernotes.org/CVPR2026/llm_safety/hulluedit_subspace_editing_hallucination/)
-
-**WeaveTime: Stream from Earlier Frames into Emergent Memory in VideoLLMs**
-
-- Paper: <https://arxiv.org/abs/2602.22142>
-- Project: <https://zhangyl4.github.io/publications/weavetime/>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/weavetime_streaming…](https://papernotes.org/CVPR2026/multimodal_vlm/weavetime_streaming_video_llm_memory/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/weavetime_stream…](https://en.papernotes.org/CVPR2026/multimodal_vlm/weavetime_streaming_video_llm_memory/)
-
-**DynamicGTR: Leveraging Graph Topology Representation Preferences to Boost VLM Capabilities on Graph QAs**
-
-- Paper: <https://arxiv.org/abs/2602.21864>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/dynamicgtr_leveragi…](https://papernotes.org/CVPR2026/multimodal_vlm/dynamicgtr_leveraging_graph_topology_representation_preferences_to_boost_vlm_cap/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/dynamicgtr_lever…](https://en.papernotes.org/CVPR2026/multimodal_vlm/dynamicgtr_leveraging_graph_topology_representation_preferences_to_boost_vlm_cap/)
-
-**Beyond Static Artifacts: A Forensic Benchmark for Video Deepfake Reasoning in Vision Language Models**
-
-- Paper: <https://arxiv.org/abs/2602.21779>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/beyond_static_artif…](https://papernotes.org/CVPR2026/multimodal_vlm/beyond_static_artifacts_a_forensic_benchmark_for_video_deepfake_reasoning_in_vis/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/beyond_static_ar…](https://en.papernotes.org/CVPR2026/multimodal_vlm/beyond_static_artifacts_a_forensic_benchmark_for_video_deepfake_reasoning_in_vis/)
-
-**Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild**
-
-- Paper: <https://arxiv.org/abs/2602.21736>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/joint-aligned_laten…](https://papernotes.org/CVPR2026/multimodal_vlm/joint-aligned_latent_action_towards_scalable_vla_pretraining_in_the_wild/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/joint-aligned_la…](https://en.papernotes.org/CVPR2026/multimodal_vlm/joint-aligned_latent_action_towards_scalable_vla_pretraining_in_the_wild/)
-
-**VecGlypher: Unified Vector Glyph Generation with Language Models**
-
-- Paper: <https://arxiv.org/abs/2602.21461>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vecglypher_unified_…](https://papernotes.org/CVPR2026/multimodal_vlm/vecglypher_unified_vector_glyph_generation_with_language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vecglypher_unifi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vecglypher_unified_vector_glyph_generation_with_language_models/)
-
-**VGGDrive: Empowering Vision-Language Models with Cross-View Geometric Grounding for Autonomous Driving**
-
-- Paper: <https://arxiv.org/abs/2602.20794>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vggdrive_empowering…](https://papernotes.org/CVPR2026/multimodal_vlm/vggdrive_empowering_vision-language_models_with_cross-view_geometric_grounding_f/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vggdrive_empower…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vggdrive_empowering_vision-language_models_with_cross-view_geometric_grounding_f/)
-
-**Circuit Tracing in Vision-Language Models: Understanding the Internal Mechanisms of Multimodal Thinking** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2602.20330>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/circuit_tracing_in_…](https://papernotes.org/CVPR2026/multimodal_vlm/circuit_tracing_in_vision-language_models_understanding_the_internal_mechanisms_/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/circuit_tracing_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/circuit_tracing_in_vision-language_models_understanding_the_internal_mechanisms_/)
-
-**Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery**
-
-- Paper: <https://arxiv.org/abs/2602.19910>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/multi-modal_represe…](https://papernotes.org/CVPR2026/multimodal_vlm/multi-modal_representation_learning_via_semi-supervised_rate_reduction_for_gener/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/multi-modal_repr…](https://en.papernotes.org/CVPR2026/multimodal_vlm/multi-modal_representation_learning_via_semi-supervised_rate_reduction_for_gener/)
-
-**Seeing Clearly, Reasoning Confidently: Plug-and-Play Remedies for Vision Language Model Blindness**
-
-- Paper: <https://arxiv.org/abs/2602.19615>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/seeing_clearly_reas…](https://papernotes.org/CVPR2026/multimodal_vlm/seeing_clearly_reasoning_confidently_plug-and-play_remedies_for_vision_language_/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/seeing_clearly_r…](https://en.papernotes.org/CVPR2026/multimodal_vlm/seeing_clearly_reasoning_confidently_plug-and-play_remedies_for_vision_language_/)
-
-**VLM-Guided Group Preference Alignment for Diffusion-based Human Mesh Recovery**
-
-- Paper: <https://arxiv.org/abs/2602.19180>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vlm-guided_group_pr…](https://papernotes.org/CVPR2026/multimodal_vlm/vlm-guided_group_preference_alignment_for_diffusion-based_human_mesh_recovery/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vlm-guided_group…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vlm-guided_group_preference_alignment_for_diffusion-based_human_mesh_recovery/)
-
-**BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment**
-
-- Paper: <https://arxiv.org/abs/2602.19170>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/brima_bridged_modal…](https://papernotes.org/CVPR2026/multimodal_vlm/brima_bridged_modality_adaptation_for_multi-modal_continual_action_quality_asses/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/brima_bridged_mo…](https://en.papernotes.org/CVPR2026/multimodal_vlm/brima_bridged_modality_adaptation_for_multi-modal_continual_action_quality_asses/)
-
-**Towards Calibrating Prompt Tuning of Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2602.19024>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/towards_calibrating…](https://papernotes.org/CVPR2026/multimodal_vlm/towards_calibrating_prompt_tuning_of_vision-language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/towards_calibrat…](https://en.papernotes.org/CVPR2026/multimodal_vlm/towards_calibrating_prompt_tuning_of_vision-language_models/)
-
-**Similarity-as-Evidence: Calibrating Overconfident VLMs for Interpretable and Label-Efficient Medical Active Learning**
-
-- Paper: <https://arxiv.org/abs/2602.18867>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/similarity-as-evide…](https://papernotes.org/CVPR2026/multimodal_vlm/similarity-as-evidence_calibrating_overconfident_vlms_for_interpretable_and_labe/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/similarity-as-ev…](https://en.papernotes.org/CVPR2026/multimodal_vlm/similarity-as-evidence_calibrating_overconfident_vlms_for_interpretable_and_labe/)
-
-**Echoes of Ownership: Adversarial-Guided Dual Injection for Copyright Protection in MLLMs**
-
-- Paper: <https://arxiv.org/abs/2602.18845>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/echoes_of_ownership…](https://papernotes.org/CVPR2026/multimodal_vlm/echoes_of_ownership_adversarial-guided_dual_injection_for_copyright_protection_i/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/echoes_of_owners…](https://en.papernotes.org/CVPR2026/multimodal_vlm/echoes_of_ownership_adversarial-guided_dual_injection_for_copyright_protection_i/)
-
-**ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding**
-
-- Paper: <https://arxiv.org/abs/2602.16412>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/remora_multimodal_l…](https://papernotes.org/CVPR2026/multimodal_vlm/remora_multimodal_large_language_model_based_on_refined_motion_representation_fo/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/remora_multimoda…](https://en.papernotes.org/CVPR2026/multimodal_vlm/remora_multimodal_large_language_model_based_on_refined_motion_representation_fo/)
-
-**KVSmooth: Mitigating Hallucination in Multi-modal Large Language Models through Key-Value Smoothing**
-
-- Paper: <https://arxiv.org/abs/2602.04268>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/kvsmooth_mitigating…](https://papernotes.org/CVPR2026/multimodal_vlm/kvsmooth_mitigating_hallucination_in_multi-modal_large_language_models_through_k/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/kvsmooth_mitigat…](https://en.papernotes.org/CVPR2026/multimodal_vlm/kvsmooth_mitigating_hallucination_in_multi-modal_large_language_models_through_k/)
-
-**Residual Decoding: Mitigating Hallucinations in Large Vision-Language Models via History-Aware Residual Guidance**
-
-- Paper: <https://arxiv.org/abs/2602.01047>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/residual_decoding_m…](https://papernotes.org/CVPR2026/multimodal_vlm/residual_decoding_mitigating_hallucinations_in_large_vision-language_models_via_/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/residual_decodin…](https://en.papernotes.org/CVPR2026/multimodal_vlm/residual_decoding_mitigating_hallucinations_in_large_vision-language_models_via_/)
-
-**AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors**
-
-- Paper: <https://arxiv.org/abs/2601.20524>
-- Project: <https://maticfuc.github.io/anomaly_vfm/>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/anomalyvfm_--_trans…](https://papernotes.org/CVPR2026/multimodal_vlm/anomalyvfm_--_transforming_vision_foundation_models_into_zero-shot_anomaly_detec/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/anomalyvfm_--_tr…](https://en.papernotes.org/CVPR2026/multimodal_vlm/anomalyvfm_--_transforming_vision_foundation_models_into_zero-shot_anomaly_detec/)
-
-**Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration**
-
-- Paper: <https://arxiv.org/abs/2601.10744>
-- Project: <https://wangsen99.github.io/papers/lmee/>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/explore_with_long-t…](https://papernotes.org/CVPR2026/multimodal_vlm/explore_with_long-term_memory_a_benchmark_and_multimodal_llm-based_reinforcement/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/explore_with_lon…](https://en.papernotes.org/CVPR2026/multimodal_vlm/explore_with_long-term_memory_a_benchmark_and_multimodal_llm-based_reinforcement/)
-
-**VL-RouterBench: A Benchmark for Vision-Language Model Routing**
-
-- Paper: <https://arxiv.org/abs/2512.23562>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vl-routerbench_a_be…](https://papernotes.org/CVPR2026/multimodal_vlm/vl-routerbench_a_benchmark_for_vision-language_model_routing/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vl-routerbench_a…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vl-routerbench_a_benchmark_for_vision-language_model_routing/)
-
-**Scene-VLM: Multimodal Video Scene Segmentation via Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2512.21778>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/scene-vlm_multimoda…](https://papernotes.org/CVPR2026/multimodal_vlm/scene-vlm_multimodal_video_scene_segmentation_via_vision-language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/scene-vlm_multim…](https://en.papernotes.org/CVPR2026/multimodal_vlm/scene-vlm_multimodal_video_scene_segmentation_via_vision-language_models/)
-
-**Widget2Code: From Visual Widgets to UI Code via Multimodal LLMs**
-
-- Paper: <https://arxiv.org/abs/2512.19918>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/widget2code_from_vi…](https://papernotes.org/CVPR2026/multimodal_vlm/widget2code_from_visual_widgets_to_ui_code_via_multimodal_llms/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/widget2code_from…](https://en.papernotes.org/CVPR2026/multimodal_vlm/widget2code_from_visual_widgets_to_ui_code_via_multimodal_llms/)
-
-**CodeDance: A Dynamic Tool-integrated MLLM for Executable Visual Reasoning**
-
-- Paper: <https://arxiv.org/abs/2512.17312>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/codedance_a_dynamic…](https://papernotes.org/CVPR2026/multimodal_vlm/codedance_a_dynamic_tool-integrated_mllm_for_executable_visual_reasoning/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/codedance_a_dyna…](https://en.papernotes.org/CVPR2026/multimodal_vlm/codedance_a_dynamic_tool-integrated_mllm_for_executable_visual_reasoning/)
-
-**TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs**
-
-- Paper: <https://arxiv.org/abs/2512.14698>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/timelens_rethinking…](https://papernotes.org/CVPR2026/multimodal_vlm/timelens_rethinking_video_temporal_grounding_with_multimodal_llms/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/timelens_rethink…](https://en.papernotes.org/CVPR2026/multimodal_vlm/timelens_rethinking_video_temporal_grounding_with_multimodal_llms/)
-
-**GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training**
-
-- Paper: <https://arxiv.org/abs/2512.13043>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/gtr_turbo_merged_ch…](https://papernotes.org/CVPR2026/multimodal_vlm/gtr_turbo_merged_checkpoint_free_teacher/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/gtr_turbo_merged…](https://en.papernotes.org/CVPR2026/multimodal_vlm/gtr_turbo_merged_checkpoint_free_teacher/)
-
-**HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models**
-
-- Paper: <https://arxiv.org/abs/2512.09928>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/hif-vla_hindsight_i…](https://papernotes.org/CVPR2026/multimodal_vlm/hif-vla_hindsight_insight_and_foresight_through_motion_representation_for_vision/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/hif-vla_hindsigh…](https://en.papernotes.org/CVPR2026/multimodal_vlm/hif-vla_hindsight_insight_and_foresight_through_motion_representation_for_vision/)
-
-**SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2512.05955>
-- Project: <https://simpact-bot.github.io>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/simpact_simulation-…](https://papernotes.org/CVPR2026/multimodal_vlm/simpact_simulation-enabled_action_planning_using_vision-language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/simpact_simulati…](https://en.papernotes.org/CVPR2026/multimodal_vlm/simpact_simulation-enabled_action_planning_using_vision-language_models/)
-
-**Text-Only Training for Image Captioning with Retrieval Augmentation and Modality Gap Correction**
-
-- Paper: <https://arxiv.org/abs/2512.04309>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/text-only_training_…](https://papernotes.org/CVPR2026/multimodal_vlm/text-only_training_for_image_captioning_with_retrieval_augmentation_and_modality/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/text-only_traini…](https://en.papernotes.org/CVPR2026/multimodal_vlm/text-only_training_for_image_captioning_with_retrieval_augmentation_and_modality/)
-
-**AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition**
-
-- Paper: <https://arxiv.org/abs/2512.03794>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/adaptvision_efficie…](https://papernotes.org/CVPR2026/multimodal_vlm/adaptvision_efficient_vision-language_models_via_adaptive_visual_acquisition/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/adaptvision_effi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/adaptvision_efficient_vision-language_models_via_adaptive_visual_acquisition/)
-
-**See, Hear, and Understand: Benchmarking Audiovisual Human Speech Understanding in Multimodal Large Language Models**
-
-- Paper: <https://arxiv.org/abs/2512.02231>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/see_hear_and_unders…](https://papernotes.org/CVPR2026/multimodal_vlm/see_hear_and_understand_benchmarking_audiovisual_human_speech_understanding_in_mul/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/see_hear_and_und…](https://en.papernotes.org/CVPR2026/multimodal_vlm/see_hear_and_understand_benchmarking_audiovisual_human_speech_understanding_in_mul/)
-
-**MindPower: Enabling Theory-of-Mind Reasoning in VLM-based Embodied Agents**
-
-- Paper: <https://arxiv.org/abs/2511.23055>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/mindpower_enabling_…](https://papernotes.org/CVPR2026/multimodal_vlm/mindpower_enabling_theoryofmind_reasoning_in_vlmba/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/mindpower_enabli…](https://en.papernotes.org/CVPR2026/multimodal_vlm/mindpower_enabling_theoryofmind_reasoning_in_vlmba/)
-
-**Asking like Socrates: Socrates helps VLMs understand remote sensing images**
-
-- Paper: <https://arxiv.org/abs/2511.22396>
-- Project: <https://geox-lab.github.io/Asking_like_Socrates>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/asking_like_socrate…](https://papernotes.org/CVPR2026/multimodal_vlm/asking_like_socrates_socrates_helps_vlms_understand_remote_sensing_images/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/asking_like_socr…](https://en.papernotes.org/CVPR2026/multimodal_vlm/asking_like_socrates_socrates_helps_vlms_understand_remote_sensing_images/)
-
-**Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following**
-
-- Paper: <https://arxiv.org/abs/2511.21662>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/multi-crit_benchmar…](https://papernotes.org/CVPR2026/multimodal_vlm/multi-crit_benchmarking_multimodal_judges_on_pluralistic_criteria-following/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/multi-crit_bench…](https://en.papernotes.org/CVPR2026/multimodal_vlm/multi-crit_benchmarking_multimodal_judges_on_pluralistic_criteria-following/)
-
-**From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings**
-
-- Paper: <https://arxiv.org/abs/2511.21428>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/from_observation_to…](https://papernotes.org/CVPR2026/multimodal_vlm/from_observation_to_action_latent_action-based_primitive_segmentation_for_vla_pr/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/from_observation…](https://en.papernotes.org/CVPR2026/multimodal_vlm/from_observation_to_action_latent_action-based_primitive_segmentation_for_vla_pr/)
-
-**Tell Model Where to Look: Mitigating Hallucinations in MLLMs by Vision-Guided Attention**
-
-- Paper: <https://arxiv.org/abs/2511.20032>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/tell_model_where_to…](https://papernotes.org/CVPR2026/multimodal_vlm/tell_model_where_to_look_mitigating_hallucinations_in_mllms_by_vision-guided_att/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/tell_model_where…](https://en.papernotes.org/CVPR2026/multimodal_vlm/tell_model_where_to_look_mitigating_hallucinations_in_mllms_by_vision-guided_att/)
-
-**CropVLM: Learning to Zoom for Fine-Grained Vision-Language Perception**
-
-- Paper: <https://arxiv.org/abs/2511.19820>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/cropvlm_learning_to…](https://papernotes.org/CVPR2026/multimodal_vlm/cropvlm_learning_to_zoom_for_fine_grained_vision_language_perception/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/cropvlm_learning…](https://en.papernotes.org/CVPR2026/multimodal_vlm/cropvlm_learning_to_zoom_for_fine_grained_vision_language_perception/)
-
-**AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention**
-
-- Paper: <https://arxiv.org/abs/2511.18960>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/ava_vla_improving_v…](https://papernotes.org/CVPR2026/multimodal_vlm/ava_vla_improving_vision_language_action_models_with_active_visual_attention/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/ava_vla_improvin…](https://en.papernotes.org/CVPR2026/multimodal_vlm/ava_vla_improving_vision_language_action_models_with_active_visual_attention/)
-
-**Understanding Task Transfer in Vision-Language Models** · 🎤 Oral
-
-- Paper: <https://arxiv.org/abs/2511.18787>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/understanding_task_…](https://papernotes.org/CVPR2026/multimodal_vlm/understanding_task_transfer_in_vision-language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/understanding_ta…](https://en.papernotes.org/CVPR2026/multimodal_vlm/understanding_task_transfer_in_vision-language_models/)
-
-**Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models**
-
-- Paper: <https://arxiv.org/abs/2511.17487>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/downscaling_intelli…](https://papernotes.org/CVPR2026/multimodal_vlm/downscaling_intelligence_exploring_perception_and_reasoning_bottlenecks_in_small/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/downscaling_inte…](https://en.papernotes.org/CVPR2026/multimodal_vlm/downscaling_intelligence_exploring_perception_and_reasoning_bottlenecks_in_small/)
-
-**Revisiting Multimodal KV Cache Compression: A Frequency-Domain-Guided Outlier-KV-Aware Approach**
-
-- Paper: <https://arxiv.org/abs/2511.16786>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/revisiting_multimod…](https://papernotes.org/CVPR2026/multimodal_vlm/revisiting_multimodal_kv_cache_compression_a_frequency-domain-guided_outlier-kv-/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/revisiting_multi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/revisiting_multimodal_kv_cache_compression_a_frequency-domain-guided_outlier-kv-/)
-
-**When to Think and When to Look: Uncertainty-Guided Lookback**
-
-- Paper: <https://arxiv.org/abs/2511.15613>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/when_to_think_and_w…](https://papernotes.org/CVPR2026/multimodal_vlm/when_to_think_and_when_to_look_uncertainty-guided_lookback/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/when_to_think_an…](https://en.papernotes.org/CVPR2026/multimodal_vlm/when_to_think_and_when_to_look_uncertainty-guided_lookback/)
-
-**Scaling Spatial Intelligence with Multimodal Foundation Models**
-
-- Paper: <https://arxiv.org/abs/2511.13719>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/scaling_spatial_int…](https://papernotes.org/CVPR2026/multimodal_vlm/scaling_spatial_intelligence_with_multimodal_foundation_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/scaling_spatial_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/scaling_spatial_intelligence_with_multimodal_foundation_models/)
-
-**EmoVerse: A MLLMs-Driven Emotion Representation Dataset for Interpretable Visual Emotion Analysis**
-
-- Paper: <https://arxiv.org/abs/2511.12554>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/emoverse_a_mllms-dr…](https://papernotes.org/CVPR2026/multimodal_vlm/emoverse_a_mllms-driven_emotion_representation_dataset_for_interpretable_visual_/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/emoverse_a_mllms…](https://en.papernotes.org/CVPR2026/multimodal_vlm/emoverse_a_mllms-driven_emotion_representation_dataset_for_interpretable_visual_/)
-
-**HoneyBee: Data Recipes for Vision-Language Reasoners**
-
-- Paper: <https://arxiv.org/abs/2510.12225>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/honeybee_data_recip…](https://papernotes.org/CVPR2026/multimodal_vlm/honeybee_data_recipes_for_vision-language_reasoners/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/honeybee_data_re…](https://en.papernotes.org/CVPR2026/multimodal_vlm/honeybee_data_recipes_for_vision-language_reasoners/)
-
-**LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2509.25896>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/llavashield_multimo…](https://papernotes.org/CVPR2026/multimodal_vlm/llavashield_multimodal_multiturn_safety/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/llavashield_mult…](https://en.papernotes.org/CVPR2026/multimodal_vlm/llavashield_multimodal_multiturn_safety/)
-
-**Where MLLMs Attend and What They Rely On: Explaining Autoregressive Token Generation**
-
-- Paper: <https://arxiv.org/abs/2509.22496>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/where_mllms_attend_…](https://papernotes.org/CVPR2026/multimodal_vlm/where_mllms_attend_and_what_they_rely_on_explaining_autoregressive_token_generat/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/where_mllms_atte…](https://en.papernotes.org/CVPR2026/multimodal_vlm/where_mllms_attend_and_what_they_rely_on_explaining_autoregressive_token_generat/)
-
-**Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection**
-
-- Paper: <https://arxiv.org/abs/2509.03113>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/mitigating_multimod…](https://papernotes.org/CVPR2026/multimodal_vlm/mitigating_multimodal_hallucinations_via_gradient-based_self-reflection/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/mitigating_multi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/mitigating_multimodal_hallucinations_via_gradient-based_self-reflection/)
-
-**Variation-aware Vision Token Dropping for Faster Large Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2509.01552>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/variation-aware_vis…](https://papernotes.org/CVPR2026/multimodal_vlm/variation-aware_vision_token_dropping_for_faster_large_vision-language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/variation-aware_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/variation-aware_vision_token_dropping_for_faster_large_vision-language_models/)
-
-**CrossHOI-Bench: A Unified Benchmark for HOI Evaluation across Vision-Language Models and HOI-Specific Methods**
-
-- Paper: <https://arxiv.org/abs/2508.18753>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/crosshoi-bench_a_un…](https://papernotes.org/CVPR2026/multimodal_vlm/crosshoi-bench_a_unified_benchmark_for_hoi_evaluation_across_vision-language_mod/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/crosshoi-bench_a…](https://en.papernotes.org/CVPR2026/multimodal_vlm/crosshoi-bench_a_unified_benchmark_for_hoi_evaluation_across_vision-language_mod/)
-
-**ZINA: Multimodal Fine-grained Hallucination Detection and Editing**
-
-- Paper: <https://arxiv.org/abs/2506.13130>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/zina_multimodal_fin…](https://papernotes.org/CVPR2026/multimodal_vlm/zina_multimodal_fine-grained_hallucination_detection_and_editing/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/zina_multimodal_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/zina_multimodal_fine-grained_hallucination_detection_and_editing/)
-
-**AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models**
-
-- Paper: <https://arxiv.org/abs/2506.09082>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/ava-bench_atomic_vi…](https://papernotes.org/CVPR2026/multimodal_vlm/ava-bench_atomic_visual_ability_benchmark_for_vision_foundation_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/ava-bench_atomic…](https://en.papernotes.org/CVPR2026/multimodal_vlm/ava-bench_atomic_visual_ability_benchmark_for_vision_foundation_models/)
-
-**VS-Bench: Evaluating VLMs for Strategic Abilities in Multi-Agent Environments**
-
-- Paper: <https://arxiv.org/abs/2506.02387>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vs_bench_evaluating…](https://papernotes.org/CVPR2026/multimodal_vlm/vs_bench_evaluating_vlms_for_strategic_abilities_in_multi_agent_environments/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vs_bench_evaluat…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vs_bench_evaluating_vlms_for_strategic_abilities_in_multi_agent_environments/)
-
-**Learning What Matters: Prioritized Concept Learning via Relative Error-driven Sample Selection**
-
-- Paper: <https://arxiv.org/abs/2506.01085>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/learning_what_matte…](https://papernotes.org/CVPR2026/multimodal_vlm/learning_what_matters_prioritized_concept_learning_via_relative_error-driven_sam/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/learning_what_ma…](https://en.papernotes.org/CVPR2026/multimodal_vlm/learning_what_matters_prioritized_concept_learning_via_relative_error-driven_sam/)
-
-**The LLM Bottleneck: Why Open-Source Vision LLMs Struggle with Hierarchical Visual Recognition**
-
-- Paper: <https://arxiv.org/abs/2505.24840>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/the_llm_bottleneck_…](https://papernotes.org/CVPR2026/multimodal_vlm/the_llm_bottleneck_why_open-source_vision_llms_struggle_with_hierarchical_visual/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/the_llm_bottlene…](https://en.papernotes.org/CVPR2026/multimodal_vlm/the_llm_bottleneck_why_open-source_vision_llms_struggle_with_hierarchical_visual/)
-
-**Reason-SVG: Enhancing Structured Reasoning for Vector Graphics Generation with Reinforcement Learning**
-
-- Paper: <https://arxiv.org/abs/2505.24499>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/reason-svg_enhancin…](https://papernotes.org/CVPR2026/multimodal_vlm/reason-svg_enhancing_structured_reasoning_for_vector_graphics_generation_with_re/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/reason-svg_enhan…](https://en.papernotes.org/CVPR2026/multimodal_vlm/reason-svg_enhancing_structured_reasoning_for_vector_graphics_generation_with_re/)
-
-**ReasonMap: Towards Fine-Grained Visual Reasoning from Transit Maps**
-
-- Paper: <https://arxiv.org/abs/2505.18675>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/reasonmap_towards_f…](https://papernotes.org/CVPR2026/multimodal_vlm/reasonmap_towards_fine-grained_visual_reasoning_from_transit_maps/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/reasonmap_toward…](https://en.papernotes.org/CVPR2026/multimodal_vlm/reasonmap_towards_fine-grained_visual_reasoning_from_transit_maps/)
-
-**The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Contexts**
-
-- Paper: <https://arxiv.org/abs/2505.17476>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/the_coherence_trap_…](https://papernotes.org/CVPR2026/multimodal_vlm/the_coherence_trap_when_mllm-crafted_narratives_exploit_manipulated_visual_conte/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/the_coherence_tr…](https://en.papernotes.org/CVPR2026/multimodal_vlm/the_coherence_trap_when_mllm-crafted_narratives_exploit_manipulated_visual_conte/)
-
-**FALCON: False-Negative Aware Learning of Contrastive Negatives in Vision-Language Alignment**
-
-- Paper: <https://arxiv.org/abs/2505.11192>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/falcon_false-negati…](https://papernotes.org/CVPR2026/multimodal_vlm/falcon_false-negative_aware_learning_of_contrastive_negatives_in_vision-language/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/falcon_false-neg…](https://en.papernotes.org/CVPR2026/multimodal_vlm/falcon_false-negative_aware_learning_of_contrastive_negatives_in_vision-language/)
-
-**Beyond Recognition: Evaluating Visual Perspective Taking in Vision Language Models** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2505.03821>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/beyond_recognition_…](https://papernotes.org/CVPR2026/multimodal_vlm/beyond_recognition_evaluating_visual_perspective_taking_in_vision_language_model/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/beyond_recogniti…](https://en.papernotes.org/CVPR2026/multimodal_vlm/beyond_recognition_evaluating_visual_perspective_taking_in_vision_language_model/)
-
-**HumanVBench: Probing Human-Centric Video Understanding in MLLMs with Automatically Synthesized Benchmarks**
-
-- Paper: <https://arxiv.org/abs/2412.17574>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/humanvbench_probing…](https://papernotes.org/CVPR2026/multimodal_vlm/humanvbench_probing_human_centric_video_understanding_in_mllms_with_automatica/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/humanvbench_prob…](https://en.papernotes.org/CVPR2026/multimodal_vlm/humanvbench_probing_human_centric_video_understanding_in_mllms_with_automatica/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
 <a id="image_generation"></a>
 
-## 🎨 Image Generation · `image_generation` · 202 papers
+## 🎨 Image Generation · `image_generation` · 210 papers
 
 **Attention, May I Have Your Decision? Localizing Generative Choices in Diffusion Models**
 
@@ -2960,6 +1635,13 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/image_generation/ani3dhuman_photor…](https://papernotes.org/CVPR2026/image_generation/ani3dhuman_photorealistic_3d_human_animation_with_self-guided_stochastic_samplin/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/ani3dhuman_pho…](https://en.papernotes.org/CVPR2026/image_generation/ani3dhuman_photorealistic_3d_human_animation_with_self-guided_stochastic_samplin/)
 
+**Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control**
+
+- Paper: <https://arxiv.org/abs/2512.21058>
+- Code: <https://github.com/Hanminghao/UniPath>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/beyond_pixel_simu…](https://papernotes.org/CVPR2026/image_generation/beyond_pixel_simulation_pathology_image_generation_via_diagnostic_semantic_token/)
+- Notes (English): [en.papernotes.org/CVPR2026/image_generation/beyond_pixel_s…](https://en.papernotes.org/CVPR2026/image_generation/beyond_pixel_simulation_pathology_image_generation_via_diagnostic_semantic_token/)
+
 **EMMA: Concept Erasure Benchmark with Comprehensive Semantic Metrics and Diverse Categories**
 
 - Paper: <https://arxiv.org/abs/2512.17320>
@@ -3016,18 +1698,17 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/image_generation/changebridge_spat…](https://papernotes.org/CVPR2026/image_generation/changebridge_spatiotemporal_image_generation_with_multimodal_controls_for_remote/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/changebridge_s…](https://en.papernotes.org/CVPR2026/image_generation/changebridge_spatiotemporal_image_generation_with_multimodal_controls_for_remote/)
 
-**Refining Few-Step Text-to-Multiview Diffusion via Reinforcement Learning**
-
-- Paper: <https://arxiv.org/abs/2505.20107>
-- Code: <https://github.com/ZiyiZhang27/MVC-ZigAL>
-- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/refining_few-step…](https://papernotes.org/CVPR2026/image_generation/refining_few-step_text-to-multiview_diffusion_via_reinforcement_learning/)
-- Notes (English): [en.papernotes.org/CVPR2026/image_generation/refining_few-s…](https://en.papernotes.org/CVPR2026/image_generation/refining_few-step_text-to-multiview_diffusion_via_reinforcement_learning/)
-
 **Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation**
 
 - Paper: <https://arxiv.org/abs/2604.18168>
 - Notes (Chinese): [papernotes.org/CVPR2026/image_generation/emf_meanflow_text…](https://papernotes.org/CVPR2026/image_generation/emf_meanflow_text_to_image/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/emf_meanflow_t…](https://en.papernotes.org/CVPR2026/image_generation/emf_meanflow_text_to_image/)
+
+**Depth Adaptive Efficient Visual Autoregressive Modeling**
+
+- Paper: <https://arxiv.org/abs/2604.17286>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/depthvar_depth_ad…](https://papernotes.org/CVPR2026/image_generation/depthvar_depth_adaptive_var/)
+- Notes (English): [en.papernotes.org/CVPR2026/image_generation/depthvar_depth…](https://en.papernotes.org/CVPR2026/image_generation/depthvar_depth_adaptive_var/)
 
 **Frequency-Aware Flow Matching for High-Quality Image Generation**
 
@@ -3040,6 +1721,12 @@
 - Paper: <https://arxiv.org/abs/2604.15311>
 - Notes (Chinese): [papernotes.org/CVPR2026/image_generation/leapalign_post_tr…](https://papernotes.org/CVPR2026/image_generation/leapalign_post_training_flow_matching_models_at_any_generation_step/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/leapalign_post…](https://en.papernotes.org/CVPR2026/image_generation/leapalign_post_training_flow_matching_models_at_any_generation_step/)
+
+**Bias at the End of the Score: Demographic Biases in Reward Models for T2I**
+
+- Paper: <https://arxiv.org/abs/2604.13305>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/bias_reward_model…](https://papernotes.org/CVPR2026/image_generation/bias_reward_models_t2i/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/bias_reward_model…](https://en.papernotes.org/CVPR2026/llm_alignment/bias_reward_models_t2i/)
 
 **RewardFlow: Generate Images by Optimizing What You Reward**
 
@@ -3294,12 +1981,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/image_generation/memory-efficient_…](https://papernotes.org/CVPR2026/image_generation/memory-efficient_fine-tuning_diffusion_transformers_via_dynamic_patch_sampling_a/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/memory-efficie…](https://en.papernotes.org/CVPR2026/image_generation/memory-efficient_fine-tuning_diffusion_transformers_via_dynamic_patch_sampling_a/)
 
-**Adapting a Pre-trained Single-Cell Foundation Model to Spatial Gene Expression Generation from Histology Images**
-
-- Paper: <https://arxiv.org/abs/2603.19766>
-- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/adapting_a_pre-tr…](https://papernotes.org/CVPR2026/image_generation/adapting_a_pre-trained_single-cell_foundation_model_to_spatial_gene_expression_g/)
-- Notes (English): [en.papernotes.org/CVPR2026/image_generation/adapting_a_pre…](https://en.papernotes.org/CVPR2026/image_generation/adapting_a_pre-trained_single-cell_foundation_model_to_spatial_gene_expression_g/)
-
 **EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing**
 
 - Paper: <https://arxiv.org/abs/2603.19224>
@@ -3342,6 +2023,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/image_generation/tina_text-free_in…](https://papernotes.org/CVPR2026/image_generation/tina_text-free_inversion_attack_for_unlearned_text-to-image_diffusion_models/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/tina_text-free…](https://en.papernotes.org/CVPR2026/image_generation/tina_text-free_inversion_attack_for_unlearned_text-to-image_diffusion_models/)
 
+**Anchoring and Rescaling Attention for Semantically Coherent Inbetweening**
+
+- Paper: <https://arxiv.org/abs/2603.17651>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/anchoring_and_res…](https://papernotes.org/CVPR2026/image_generation/anchoring_and_rescaling_attention_for_semantically_coherent_inbetweening/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/anchoring_and_re…](https://en.papernotes.org/CVPR2026/llm_evaluation/anchoring_and_rescaling_attention_for_semantically_coherent_inbetweening/)
+
 **Rel-Zero: Harnessing Patch-Pair Invariance for Robust Zero-Watermarking Against AI Editing**
 
 - Paper: <https://arxiv.org/abs/2603.17531>
@@ -3353,6 +2040,12 @@
 - Paper: <https://arxiv.org/abs/2603.16570>
 - Notes (Chinese): [papernotes.org/CVPR2026/image_generation/face2scene_using_…](https://papernotes.org/CVPR2026/image_generation/face2scene_using_facial_degradation_as_an_oracle_for_diffusion-based_scene_resto/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/face2scene_usi…](https://en.papernotes.org/CVPR2026/image_generation/face2scene_using_facial_degradation_as_an_oracle_for_diffusion-based_scene_resto/)
+
+**GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering**
+
+- Paper: <https://arxiv.org/abs/2603.15616>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/glyphprinter_regi…](https://papernotes.org/CVPR2026/image_generation/glyphprinter_region-grouped_direct_preference_optimization_for_glyph-accurate_vi/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/glyphprinter_regi…](https://en.papernotes.org/CVPR2026/llm_alignment/glyphprinter_region-grouped_direct_preference_optimization_for_glyph-accurate_vi/)
 
 **Learning Latent Proxies for Controllable Single-Image Relighting**
 
@@ -3402,6 +2095,12 @@
 - Paper: <https://arxiv.org/abs/2603.13089>
 - Notes (Chinese): [papernotes.org/CVPR2026/image_generation/v-bridge_bridging…](https://papernotes.org/CVPR2026/image_generation/v-bridge_bridging_video_generative_priors_to_versatile_few-shot_image_restoratio/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/v-bridge_bridg…](https://en.papernotes.org/CVPR2026/image_generation/v-bridge_bridging_video_generative_priors_to_versatile_few-shot_image_restoratio/)
+
+**Mitigating Memorization in Text-to-Image Diffusion via Region-Aware Prompt Augmentation and Multimodal Copy Detection**
+
+- Paper: <https://arxiv.org/abs/2603.13070>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/mitigating_memori…](https://papernotes.org/CVPR2026/image_generation/mitigating_memorization_in_texttoimage_diffusion_v/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/mitigating_mem…](https://en.papernotes.org/CVPR2026/object_detection/mitigating_memorization_in_texttoimage_diffusion_v/)
 
 **Fractals made Practical: Denoising Diffusion as Partitioned Iterated Function Systems**
 
@@ -3493,12 +2192,6 @@
 - Paper: <https://arxiv.org/abs/2603.11556>
 - Notes (Chinese): [papernotes.org/CVPR2026/image_generation/enhancing_image_a…](https://papernotes.org/CVPR2026/image_generation/enhancing_image_aesthetics_with_dualconditioned_di/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/enhancing_imag…](https://en.papernotes.org/CVPR2026/image_generation/enhancing_image_aesthetics_with_dualconditioned_di/)
-
-**Just-in-Time: Training-Free Spatial Acceleration for Diffusion Transformers**
-
-- Paper: <https://arxiv.org/abs/2603.10744>
-- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/just-in-time_trai…](https://papernotes.org/CVPR2026/image_generation/just-in-time_training-free_spatial_acceleration_for_diffusion_transformers/)
-- Notes (English): [en.papernotes.org/CVPR2026/image_generation/just-in-time_t…](https://en.papernotes.org/CVPR2026/image_generation/just-in-time_training-free_spatial_acceleration_for_diffusion_transformers/)
 
 **Taming Score-Based Denoisers in ADMM: A Convergent Plug-and-Play Framework**
 
@@ -3609,6 +2302,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/image_generation/diffusion_probe_g…](https://papernotes.org/CVPR2026/image_generation/diffusion_probe_generated_image_result_prediction_using_cnn_probes/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/diffusion_prob…](https://en.papernotes.org/CVPR2026/image_generation/diffusion_probe_generated_image_result_prediction_using_cnn_probes/)
 
+**SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation**
+
+- Paper: <https://arxiv.org/abs/2602.23359>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/seethrough3d_occl…](https://papernotes.org/CVPR2026/image_generation/seethrough3d_occlusion_aware_3d_control_in_text-to-image_generation/)
+- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/seethrough3d_occlusio…](https://en.papernotes.org/CVPR2026/3d_vision/seethrough3d_occlusion_aware_3d_control_in_text-to-image_generation/)
+
 **Causal Motion Diffusion Models for Autoregressive Motion Generation**
 
 - Paper: <https://arxiv.org/abs/2602.22594>
@@ -3620,6 +2319,12 @@
 - Paper: <https://arxiv.org/abs/2602.22150>
 - Notes (Chinese): [papernotes.org/CVPR2026/image_generation/cologen_progressi…](https://papernotes.org/CVPR2026/image_generation/cologen_progressive_learning_of_concept-localization_duality_for_unified_image_g/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/cologen_progre…](https://en.papernotes.org/CVPR2026/image_generation/cologen_progressive_learning_of_concept-localization_duality_for_unified_image_g/)
+
+**VecGlypher: Unified Vector Glyph Generation with Language Models**
+
+- Paper: <https://arxiv.org/abs/2602.21461>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/vecglypher_unifie…](https://papernotes.org/CVPR2026/image_generation/vecglypher_unified_vector_glyph_generation_with_language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vecglypher_unifi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vecglypher_unified_vector_glyph_generation_with_language_models/)
 
 **Cycle-Consistent Tuning for Layered Image Decomposition**
 
@@ -3711,6 +2416,12 @@
 - Paper: <https://arxiv.org/abs/2602.12769>
 - Notes (Chinese): [papernotes.org/CVPR2026/image_generation/pixelrush_ultrafa…](https://papernotes.org/CVPR2026/image_generation/pixelrush_ultrafast_trainingfree_highresolution_im/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/pixelrush_ultr…](https://en.papernotes.org/CVPR2026/image_generation/pixelrush_ultra-fast_training-free_high-resolution_image_generation_via_one-step/)
+
+**SparVAR: Exploring Sparsity in Visual AutoRegressive Modeling for Training-Free Acceleration**
+
+- Paper: <https://arxiv.org/abs/2602.04361>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/sparvar_exploring…](https://papernotes.org/CVPR2026/image_generation/sparvar_exploring_sparsity_in_visual_autoregressive_modeling_for_training-free_a/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_efficiency/sparvar_explorin…](https://en.papernotes.org/CVPR2026/llm_efficiency/sparvar_exploring_sparsity_in_visual_autoregressive_modeling_for_training-free_a/)
 
 **Smoothing the Score Function for Generalization in Diffusion Models: An Optimization-based Explanation Framework**
 
@@ -3842,6 +2553,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/image_generation/image_generation_…](https://papernotes.org/CVPR2026/image_generation/image_generation_as_a_visual_planner_for_robotic_manipulation/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/image_generati…](https://en.papernotes.org/CVPR2026/image_generation/image_generation_as_a_visual_planner_for_robotic_manipulation/)
 
+**Markovian Scale Prediction: A New Era of Visual Autoregressive Generation**
+
+- Paper: <https://arxiv.org/abs/2511.23334>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/markovian_scale_p…](https://papernotes.org/CVPR2026/image_generation/markovian_scale_prediction_a_new_era_of_visual_autoregressive_generation/)
+- Notes (English): [en.papernotes.org/CVPR2026/model_compression/markovian_sca…](https://en.papernotes.org/CVPR2026/model_compression/markovian_scale_prediction_a_new_era_of_visual_autoregressive_generation/)
+
 **MultiBanana: A Challenging Benchmark for Multi-Reference Text-to-Image Generation**
 
 - Paper: <https://arxiv.org/abs/2511.22989>
@@ -3872,6 +2589,12 @@
 - Paper: <https://arxiv.org/abs/2511.20645>
 - Notes (Chinese): [papernotes.org/CVPR2026/image_generation/pixeldit_pixel_di…](https://papernotes.org/CVPR2026/image_generation/pixeldit_pixel_diffusion_transformers_for_image_generation/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/pixeldit_pixel…](https://en.papernotes.org/CVPR2026/image_generation/pixeldit_pixel_diffusion_transformers_for_image_generation/)
+
+**MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models**
+
+- Paper: <https://arxiv.org/abs/2511.20629>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/mapreduce_lora_ad…](https://papernotes.org/CVPR2026/image_generation/mapreduce_lora_advancing_the_pareto_front_in_multi-preference_optimization_for_g/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/mapreduce_lora_ad…](https://en.papernotes.org/CVPR2026/llm_alignment/mapreduce_lora_advancing_the_pareto_front_in_multi-preference_optimization_for_g/)
 
 **Low-Resolution Editing is All You Need for High-Resolution Editing**
 
@@ -3921,12 +2644,6 @@
 - Paper: <https://arxiv.org/abs/2511.18281>
 - Notes (Chinese): [papernotes.org/CVPR2026/image_generation/uni-dad_unified_d…](https://papernotes.org/CVPR2026/image_generation/uni-dad_unified_distillation_and_adaptation_of_diffusion_models_for_few-step_few/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/uni-dad_unifie…](https://en.papernotes.org/CVPR2026/image_generation/uni-dad_unified_distillation_and_adaptation_of_diffusion_models_for_few-step_few/)
-
-**Neighbor GRPO: Contrastive ODE Policy Optimization Aligns Flow Models**
-
-- Paper: <https://arxiv.org/abs/2511.16955>
-- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/neighbor_grpo_con…](https://papernotes.org/CVPR2026/image_generation/neighbor_grpo_contrastive_ode_policy_optimization_aligns_flow_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/image_generation/neighbor_grpo_…](https://en.papernotes.org/CVPR2026/image_generation/neighbor_grpo_contrastive_ode_policy_optimization_aligns_flow_models/)
 
 **GrOCE: Graph-Guided Online Concept Erasure for Text-to-Image Diffusion Models**
 
@@ -4063,13 +2780,1268 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/image_generation/pose-dive_pose-di…](https://papernotes.org/CVPR2026/image_generation/pose-dive_pose-diversified_augmentation_with_diffusion_model_for_person_re-ident/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/pose-dive_pose…](https://en.papernotes.org/CVPR2026/image_generation/pose-dive_pose-diversified_augmentation_with_diffusion_model_for_person_re-ident/)
 
+**SketchDeco: Training-Free Latent Composition for Precise Sketch Colourisation**
+
+- Paper: <https://arxiv.org/abs/2405.18716>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/sketchdeco_traini…](https://papernotes.org/CVPR2026/image_generation/sketchdeco_training-free_latent_composition_for_precise_sketch_colourisation/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/sketchdeco_training-fre…](https://en.papernotes.org/CVPR2026/llm_nlp/sketchdeco_training-free_latent_composition_for_precise_sketch_colourisation/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
+<a id="multimodal_vlm"></a>
+
+## 🧩 Multimodal VLM · `multimodal_vlm` · 197 papers
+
+**HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models**
+
+- Paper: <https://arxiv.org/abs/2604.07812>
+- Code: <https://github.com/peppery77/HAWK>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/hawk_head_importanc…](https://papernotes.org/CVPR2026/multimodal_vlm/hawk_head_importance-aware_visual_token_pruning_in_multimodal_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/hawk_head_import…](https://en.papernotes.org/CVPR2026/multimodal_vlm/hawk_head_importance-aware_visual_token_pruning_in_multimodal_models/)
+
+**Generate, Analyze, and Refine: Training-Free Sound Source Localization via MLLM Meta-Reasoning**
+
+- Paper: <https://arxiv.org/abs/2604.06824>
+- Code: <https://github.com/VisualAIKHU/GAR-SSL>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/generate_analyze_an…](https://papernotes.org/CVPR2026/multimodal_vlm/generate_analyze_and_refine_training-free_sound_source_localization_via_mllm_met/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/generate_analyze…](https://en.papernotes.org/CVPR2026/multimodal_vlm/generate_analyze_and_refine_training-free_sound_source_localization_via_mllm_met/)
+
+**EgoMind: Activating Spatial Cognition through Linguistic Reasoning in MLLMs**
+
+- Paper: <https://arxiv.org/abs/2604.03318>
+- Code: <https://github.com/Hyggge/EgoMind>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/egomind_activating_…](https://papernotes.org/CVPR2026/multimodal_vlm/egomind_activating_spatial_cognition_through_linguistic_reasoning_in_mllms/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/egomind_activati…](https://en.papernotes.org/CVPR2026/multimodal_vlm/egomind_activating_spatial_cognition_through_linguistic_reasoning_in_mllms/)
+
+**GroundVTS: Visual Token Sampling in Multimodal Large Language Models for Video Temporal Grounding**
+
+- Paper: <https://arxiv.org/abs/2604.02093>
+- Code: <https://github.com/Florence365/GroundVTS>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/groundvts_visual_to…](https://papernotes.org/CVPR2026/multimodal_vlm/groundvts_visual_token_sampling_in_multimodal_large_language_models_for_video_te/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/groundvts_visual…](https://en.papernotes.org/CVPR2026/multimodal_vlm/groundvts_visual_token_sampling_in_multimodal_large_language_models_for_video_te/)
+
+**No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models**
+
+- Paper: <https://arxiv.org/abs/2603.25722>
+- Code: <https://github.com/SamsungLabs/concept_centric_clip>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/no_hard_negatives_r…](https://papernotes.org/CVPR2026/multimodal_vlm/no_hard_negatives_required_concept_centric_learning_leads_to_compositionality_wi/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/no_hard_negative…](https://en.papernotes.org/CVPR2026/multimodal_vlm/no_hard_negatives_required_concept_centric_learning_leads_to_compositionality_wi/)
+
+**EagleNet: Energy-Aware Fine-Grained Relationship Learning Network for Text-Video Retrieval**
+
+- Paper: <https://arxiv.org/abs/2603.25267>
+- Code: <https://github.com/draym28/EagleNet>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/eaglenet_energy-awa…](https://papernotes.org/CVPR2026/multimodal_vlm/eaglenet_energy-aware_fine-grained_relationship_learning_network_for_text-video_/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/eaglenet_energy-…](https://en.papernotes.org/CVPR2026/multimodal_vlm/eaglenet_energy-aware_fine-grained_relationship_learning_network_for_text-video_/)
+
+**Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.22042>
+- Code: <https://github.com/jeeit17/UNCHA>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/uncertainty-guided_…](https://papernotes.org/CVPR2026/multimodal_vlm/uncertainty-guided_compositional_alignment_with_part-to-whole_semantic_represent/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/uncertainty-guid…](https://en.papernotes.org/CVPR2026/multimodal_vlm/uncertainty-guided_compositional_alignment_with_part-to-whole_semantic_represent/)
+
+**Uncertainty-Aware Knowledge Distillation for Multimodal Large Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.21426>
+- Code: <https://github.com/Jingchensun/beta-kd>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/uncertainty-aware_k…](https://papernotes.org/CVPR2026/multimodal_vlm/uncertainty-aware_knowledge_distillation_for_multimodal_large_language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/uncertainty-awar…](https://en.papernotes.org/CVPR2026/multimodal_vlm/uncertainty-aware_knowledge_distillation_for_multimodal_large_language_models/)
+
+**From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2603.20193>
+- Code: <https://github.com/VILA-Lab/PIXAR>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/from_masks_to_pixel…](https://papernotes.org/CVPR2026/multimodal_vlm/from_masks_to_pixels_and_meaning_a_new_taxonomy_benchmark_and_metrics_for_vlm_im/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/from_masks_to_pi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/from_masks_to_pixels_and_meaning_a_new_taxonomy_benchmark_and_metrics_for_vlm_im/)
+
+**BALM: A Model-Agnostic Framework for Balanced Multimodal Learning under Imbalanced Missing Rates**
+
+- Paper: <https://arxiv.org/abs/2603.19718>
+- Code: <https://github.com/np4s/BALM_CVPR2026>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/balm_a_model-agnost…](https://papernotes.org/CVPR2026/multimodal_vlm/balm_a_model-agnostic_framework_for_balanced_multimodal_learning_under_imbalance/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/balm_a_model-agn…](https://en.papernotes.org/CVPR2026/multimodal_vlm/balm_a_model-agnostic_framework_for_balanced_multimodal_learning_under_imbalance/)
+
+**Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens**
+
+- Paper: <https://arxiv.org/abs/2603.19232>
+- Code: <https://github.com/YuqingWang1029/CubiD>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/cubic_discrete_diff…](https://papernotes.org/CVPR2026/multimodal_vlm/cubic_discrete_diffusion_discrete_visual_generation_on_high-dimensional_represen/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/cubic_discrete_d…](https://en.papernotes.org/CVPR2026/multimodal_vlm/cubic_discrete_diffusion_discrete_visual_generation_on_high-dimensional_represen/)
+
+**Rethinking MLLM Itself as a Segmenter with a Single Segmentation Token**
+
+- Paper: <https://arxiv.org/abs/2603.19026>
+- Code: <https://github.com/ANDYZAQ/SELF1E>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/rethinking_mllm_its…](https://papernotes.org/CVPR2026/multimodal_vlm/rethinking_mllm_itself_as_a_segmenter_with_a_single_segmentation_token/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/rethinking_mllm_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/rethinking_mllm_itself_as_a_segmenter_with_a_single_segmentation_token/)
+
+**Fine-Grained Post-Training Quantization for Large Vision Language Models with Quantization-Aware Integrated Gradients**
+
+- Paper: <https://arxiv.org/abs/2603.17809>
+- Code: <https://github.com/ucas-xiang/QIG>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/fine-grained_post-t…](https://papernotes.org/CVPR2026/multimodal_vlm/fine-grained_post-training_quantization_for_large_vision_language_models_with_qu/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/fine-grained_pos…](https://en.papernotes.org/CVPR2026/multimodal_vlm/fine-grained_post-training_quantization_for_large_vision_language_models_with_qu/)
+
+**GraphVLM: Benchmarking Vision Language Models for Multimodal Graph Learning**
+
+- Paper: <https://arxiv.org/abs/2603.13370>
+- Code: <https://github.com/oamyjin/GraphVLM>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/graphvlm_benchmark_…](https://papernotes.org/CVPR2026/multimodal_vlm/graphvlm_benchmark_vlm_graph_learning/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/graphvlm_benchma…](https://en.papernotes.org/CVPR2026/multimodal_vlm/graphvlm_benchmark_vlm_graph_learning/)
+
+**Multimodal OCR: Parse Anything from Documents**
+
+- Paper: <https://arxiv.org/abs/2603.13032>
+- Code: <https://github.com/rednote-hilab/dots>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/multimodal_ocr_pars…](https://papernotes.org/CVPR2026/multimodal_vlm/multimodal_ocr_parse_anything_from_documents/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/multimodal_ocr_p…](https://en.papernotes.org/CVPR2026/multimodal_vlm/multimodal_ocr_parse_anything_from_documents/)
+
+**Rethinking VLMs for Image Forgery Detection and Localization**
+
+- Paper: <https://arxiv.org/abs/2603.12930>
+- Code: <https://github.com/sha0fengGuo/IFDL-VLM>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/rethinking_vlms_for…](https://papernotes.org/CVPR2026/multimodal_vlm/rethinking_vlms_for_image_forgery_detection_and_localization/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/rethinking_vlms_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/rethinking_vlms_for_image_forgery_detection_and_localization/)
+
+**Adaptive Vision-Language Model Routing for Computer Use Agents**
+
+- Paper: <https://arxiv.org/abs/2603.12823>
+- Code: <https://github.com/vllm-project/semantic-router>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/adaptive_vision-lan…](https://papernotes.org/CVPR2026/multimodal_vlm/adaptive_vision-language_model_routing_for_computer_use_agents/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/adaptive_vision-…](https://en.papernotes.org/CVPR2026/multimodal_vlm/adaptive_vision-language_model_routing_for_computer_use_agents/)
+
+**HIFICL: High-Fidelity In-Context Learning for Multimodal Tasks**
+
+- Paper: <https://arxiv.org/abs/2603.12760>
+- Code: <https://github.com/bbbandari/HiFICL>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/hificl_highfidelity…](https://papernotes.org/CVPR2026/multimodal_vlm/hificl_highfidelity_incontext_learning_for_multimo/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/hificl_highfidel…](https://en.papernotes.org/CVPR2026/multimodal_vlm/hificl_highfidelity_incontext_learning_for_multimo/)
+
+**ReHARK: Refined Hybrid Adaptive RBF Kernels for Robust One-Shot Vision-Language Adaptation**
+
+- Paper: <https://arxiv.org/abs/2603.11542>
+- Code: <https://github.com/Jahid12012021/ReHARK>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/rehark_refined_hybr…](https://papernotes.org/CVPR2026/multimodal_vlm/rehark_refined_hybrid_adaptive_rbf_kernels_for_robust_one-shot_vision-language_a/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/rehark_refined_h…](https://en.papernotes.org/CVPR2026/multimodal_vlm/rehark_refined_hybrid_adaptive_rbf_kernels_for_robust_one-shot_vision-language_a/)
+
+**CodePercept: Code-Grounded Visual STEM Perception for MLLMs**
+
+- Paper: <https://arxiv.org/abs/2603.10757>
+- Code: <https://github.com/TongkunGuan/Qwen-CodePercept>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/codepercept_code-gr…](https://papernotes.org/CVPR2026/multimodal_vlm/codepercept_code-grounded_visual_stem_perception_for_mllms/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/codepercept_code…](https://en.papernotes.org/CVPR2026/multimodal_vlm/codepercept_code-grounded_visual_stem_perception_for_mllms/)
+
+**More than the Sum: Panorama-Language Models for Adverse Omni-Scenes**
+
+- Paper: <https://arxiv.org/abs/2603.09573>
+- Code: <https://github.com/InSAI-Lab/PanoVQA>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/more_than_the_sum_p…](https://papernotes.org/CVPR2026/multimodal_vlm/more_than_the_sum_panorama-language_models_for_adverse_omni-scenes/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/more_than_the_su…](https://en.papernotes.org/CVPR2026/multimodal_vlm/more_than_the_sum_panorama-language_models_for_adverse_omni-scenes/)
+
+**Beyond Heuristic Prompting: A Concept-Guided Bayesian Framework for Zero-Shot Image Recognition**
+
+- Paper: <https://arxiv.org/abs/2603.07911>
+- Code: <https://github.com/less-and-less-bugs/CGBC>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/beyond_heuristic_pr…](https://papernotes.org/CVPR2026/multimodal_vlm/beyond_heuristic_prompting_a_concept-guided_bayesian_framework_for_zero-shot_ima/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/beyond_heuristic…](https://en.papernotes.org/CVPR2026/multimodal_vlm/beyond_heuristic_prompting_a_concept-guided_bayesian_framework_for_zero-shot_ima/)
+
+**Devil is in Narrow Policy: Unleashing Exploration in Driving VLA Models** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2603.06049>
+- Code: <https://github.com/Mashiroln/curious_vla>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/devil_is_in_narrow_…](https://papernotes.org/CVPR2026/multimodal_vlm/devil_is_in_narrow_policy_unleashing_exploration_in_driving_vla_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/devil_is_in_narr…](https://en.papernotes.org/CVPR2026/multimodal_vlm/devil_is_in_narrow_policy_unleashing_exploration_in_driving_vla_models/)
+
+**MASQuant: Modality-Aware Smoothing Quantization for Multimodal Large Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.04800>
+- Code: <https://github.com/alibaba/EfficientAI>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/masquant_modality-a…](https://papernotes.org/CVPR2026/multimodal_vlm/masquant_modality-aware_smoothing_quantization_for_multimodal_large_language_mod/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/masquant_modalit…](https://en.papernotes.org/CVPR2026/multimodal_vlm/masquant_modality-aware_smoothing_quantization_for_multimodal_large_language_mod/)
+
+**CAPT: Confusion-Aware Prompt Tuning for Reducing Vision-Language Misalignment**
+
+- Paper: <https://arxiv.org/abs/2603.02557>
+- Code: <https://github.com/greatest-gourmet/CAPT>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/capt_confusion-awar…](https://papernotes.org/CVPR2026/multimodal_vlm/capt_confusion-aware_prompt_tuning_for_reducing_vision-language_misalignment/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/capt_confusion-a…](https://en.papernotes.org/CVPR2026/multimodal_vlm/capt_confusion-aware_prompt_tuning_for_reducing_vision-language_misalignment/)
+
+**What Do Visual Tokens Really Encode? Uncovering Sparsity and Redundancy in Multimodal Large Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.00510>
+- Code: <https://github.com/EIT-NLP/EmbedLens>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/what_do_visual_toke…](https://papernotes.org/CVPR2026/multimodal_vlm/what_do_visual_tokens_really_encode_uncovering_sparsity_and_redundancy_in_multim/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/what_do_visual_t…](https://en.papernotes.org/CVPR2026/multimodal_vlm/what_do_visual_tokens_really_encode_uncovering_sparsity_and_redundancy_in_multim/)
+
+**Taxonomy-Aware Representation Alignment for Hierarchical Visual Recognition with Large Multimodal Models**
+
+- Paper: <https://arxiv.org/abs/2603.00431>
+- Code: <https://github.com/PKU-ICST-MIPL/TARA_CVPR2026>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/taxonomy-aware_repr…](https://papernotes.org/CVPR2026/multimodal_vlm/taxonomy-aware_representation_alignment_for_hierarchical_visual_recognition_with/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/taxonomy-aware_r…](https://en.papernotes.org/CVPR2026/multimodal_vlm/taxonomy-aware_representation_alignment_for_hierarchical_visual_recognition_with/)
+
+**Venus: Benchmarking and Empowering Multimodal Large Language Models for Aesthetic Guidance and Cropping**
+
+- Paper: <https://arxiv.org/abs/2602.23980>
+- Code: <https://github.com/PKU-ICST-MIPL/Venus_CVPR2026>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/venus_benchmarking_…](https://papernotes.org/CVPR2026/multimodal_vlm/venus_benchmarking_and_empowering_multimodal_large_language_models_for_aesthetic/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/venus_benchmarki…](https://en.papernotes.org/CVPR2026/multimodal_vlm/venus_benchmarking_and_empowering_multimodal_large_language_models_for_aesthetic/)
+
+**Towards Multimodal Domain Generalization with Few Labels**
+
+- Paper: <https://arxiv.org/abs/2602.22917>
+- Code: <https://github.com/lihongzhao99/SSMDG>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/towards_multimodal_…](https://papernotes.org/CVPR2026/multimodal_vlm/towards_multimodal_domain_generalization_with_few_labels/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/towards_multimod…](https://en.papernotes.org/CVPR2026/multimodal_vlm/towards_multimodal_domain_generalization_with_few_labels/)
+
+**StructXLIP: Enhancing Vision-language Models with Multimodal Structural Cues**
+
+- Paper: <https://arxiv.org/abs/2602.20089>
+- Code: <https://github.com/intelligolabs/StructXLIP>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/structxlip_enhancin…](https://papernotes.org/CVPR2026/multimodal_vlm/structxlip_enhancing_vision-language_models_with_multimodal_structural_cues/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/structxlip_enhan…](https://en.papernotes.org/CVPR2026/multimodal_vlm/structxlip_enhancing_vision-language_models_with_multimodal_structural_cues/)
+
+**ApET: Approximation-Error Guided Token Compression for Efficient VLMs**
+
+- Paper: <https://arxiv.org/abs/2602.19870>
+- Code: <https://github.com/MaQianKun0/ApET>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/apet_approximation-…](https://papernotes.org/CVPR2026/multimodal_vlm/apet_approximation-error_guided_token_compression_for_efficient_vlms/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/apet_approximati…](https://en.papernotes.org/CVPR2026/multimodal_vlm/apet_approximation-error_guided_token_compression_for_efficient_vlms/)
+
+**DUET-VLM: Dual stage Unified Efficient Token reduction for VLM Training and Inference**
+
+- Paper: <https://arxiv.org/abs/2602.18846>
+- Code: <https://github.com/AMD-AGI/DUET-VLM>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/duet-vlm_dual_stage…](https://papernotes.org/CVPR2026/multimodal_vlm/duet-vlm_dual_stage_unified_efficient_token_reduction_for_vlm_training_and_infer/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/duet-vlm_dual_st…](https://en.papernotes.org/CVPR2026/multimodal_vlm/duet-vlm_dual_stage_unified_efficient_token_reduction_for_vlm_training_and_infer/)
+
+**ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval**
+
+- Paper: <https://arxiv.org/abs/2602.01639>
+- Code: <https://github.com/RemRico/Recall>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/recall_recalibratin…](https://papernotes.org/CVPR2026/multimodal_vlm/recall_recalibrating_capability_degradation_for_mllm-based_composed_image_retrie/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/recall_recalibra…](https://en.papernotes.org/CVPR2026/multimodal_vlm/recall_recalibrating_capability_degradation_for_mllm-based_composed_image_retrie/)
+
+**ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking**
+
+- Paper: <https://arxiv.org/abs/2512.14654>
+- Code: <https://github.com/Leon-LihongWang/ViRC>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/virc_enhancing_visu…](https://papernotes.org/CVPR2026/multimodal_vlm/virc_enhancing_visual_interleaved_mathematical_cot_with_reason_chunking/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/virc_enhancing_v…](https://en.papernotes.org/CVPR2026/multimodal_vlm/virc_enhancing_visual_interleaved_mathematical_cot_with_reason_chunking/)
+
+**When Token Pruning is Worse than Random: Understanding Visual Token Information in VLLMs**
+
+- Paper: <https://arxiv.org/abs/2512.07580>
+- Code: <https://github.com/YahongWang1/Information-Horizon>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/when_token_pruning_…](https://papernotes.org/CVPR2026/multimodal_vlm/when_token_pruning_is_worse_than_random_understanding_visual_token_information_i/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/when_token_pruni…](https://en.papernotes.org/CVPR2026/multimodal_vlm/when_token_pruning_is_worse_than_random_understanding_visual_token_information_i/)
+
+**VLM-Pruner: Buffering for Spatial Sparsity in an Efficient VLM Centrifugal Token Pruning Paradigm**
+
+- Paper: <https://arxiv.org/abs/2512.02700>
+- Code: <https://github.com/Casey-bit/VLMPruner>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vlm-pruner_bufferin…](https://papernotes.org/CVPR2026/multimodal_vlm/vlm-pruner_buffering_for_spatial_sparsity_in_an_efficient_vlm_centrifugal_token_/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vlm-pruner_buffe…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vlm-pruner_buffering_for_spatial_sparsity_in_an_efficient_vlm_centrifugal_token_/)
+
+**Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation**
+
+- Paper: <https://arxiv.org/abs/2511.22235>
+- Code: <https://github.com/hehehahi4/CES>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/training_high-level…](https://papernotes.org/CVPR2026/multimodal_vlm/training_high-level_schedulers_with_execution-feedback_reinforcement_learning_fo/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/training_high-le…](https://en.papernotes.org/CVPR2026/multimodal_vlm/training_high-level_schedulers_with_execution-feedback_reinforcement_learning_fo/)
+
+**The More, the Merrier: Contrastive Fusion for Higher-Order Multimodal Alignment**
+
+- Paper: <https://arxiv.org/abs/2511.21331>
+- Code: <https://github.com/estafons/confu>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/the_more_the_merrie…](https://papernotes.org/CVPR2026/multimodal_vlm/the_more_the_merrier_contrastive_fusion_for_higher-order_multimodal_alignment/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/the_more_the_mer…](https://en.papernotes.org/CVPR2026/multimodal_vlm/the_more_the_merrier_contrastive_fusion_for_higher-order_multimodal_alignment/)
+
+**UniGame: Turning a Unified Multimodal Model Into Its Own Adversary**
+
+- Paper: <https://arxiv.org/abs/2511.19413>
+- Code: <https://github.com/AIFrontierLab/TorchUMM>
+- Notes (Chinese): [papernotes.org/CVPR2026/ai_safety/unigame_turning_a_unifie…](https://papernotes.org/CVPR2026/ai_safety/unigame_turning_a_unified_multimodal_model_into_its_own_adversary/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/unigame_turning_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/unigame_turning_a_unified_multimodal_model_into_its_own_adversary/)
+
+**Can Vision-Language Models Count? A Synthetic Benchmark and Analysis of Attention-Based Interventions** · 🛠️ Workshop
+
+- Paper: <https://arxiv.org/abs/2511.17722>
+- Code: <https://github.com/ssen7/vlm-count-analysis>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/can_vision-language…](https://papernotes.org/CVPR2026/multimodal_vlm/can_vision-language_models_count_a_synthetic_benchmark_and_analysis_of_attention/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/can_vision-langu…](https://en.papernotes.org/CVPR2026/multimodal_vlm/can_vision-language_models_count_a_synthetic_benchmark_and_analysis_of_attention/)
+
+**EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2511.16672>
+- Code: <https://github.com/mbzuai-oryx/EvoLMM>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/evolmm_self_evolvin…](https://papernotes.org/CVPR2026/multimodal_vlm/evolmm_self_evolving_lmm_continuous_rewards/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/evolmm_self_evol…](https://en.papernotes.org/CVPR2026/multimodal_vlm/evolmm_self_evolving_lmm_continuous_rewards/)
+
+**MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping**
+
+- Paper: <https://arxiv.org/abs/2511.15690>
+- Code: <https://github.com/ModelTC/MoDES>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/modes_accelerating_…](https://papernotes.org/CVPR2026/multimodal_vlm/modes_accelerating_mixture-of-experts_multimodal_large_language_models_via_dynam/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/modes_accelerati…](https://en.papernotes.org/CVPR2026/multimodal_vlm/modes_accelerating_mixture-of-experts_multimodal_large_language_models_via_dynam/)
+
+**RehearseVLA: Simulated Post-Training for VLAs with Physically-Consistent World Model**
+
+- Paper: <https://arxiv.org/abs/2509.24948>
+- Code: <https://github.com/amap-cvlab/world-env>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/rehearsevla_simulat…](https://papernotes.org/CVPR2026/multimodal_vlm/rehearsevla_simulated_post-training_for_vlas_with_physically-consistent_world_mo/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/rehearsevla_simu…](https://en.papernotes.org/CVPR2026/multimodal_vlm/rehearsevla_simulated_post-training_for_vlas_with_physically-consistent_world_mo/)
+
+**See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles**
+
+- Paper: <https://arxiv.org/abs/2509.13615>
+- Code: <https://github.com/ZrW00/StaR>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/see_think_act_teach…](https://papernotes.org/CVPR2026/multimodal_vlm/see_think_act_teaching_multimodal_agents_to_effectively_interact_with_gui_by_ide/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/see_think_act_te…](https://en.papernotes.org/CVPR2026/multimodal_vlm/see_think_act_teaching_multimodal_agents_to_effectively_interact_with_gui_by_ide/)
+
+**Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving**
+
+- Paper: <https://arxiv.org/abs/2508.13305>
+- Code: <https://github.com/MinhaoXiong/Prune2Drive>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/prune2drive_a_plug-…](https://papernotes.org/CVPR2026/multimodal_vlm/prune2drive_a_plug-and-play_framework_for_accelerating_vision-language_models_in/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/prune2drive_a_pl…](https://en.papernotes.org/CVPR2026/multimodal_vlm/prune2drive_a_plug-and-play_framework_for_accelerating_vision-language_models_in/)
+
+**Dynamic Token Reweighting for Robust Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2505.17132>
+- Code: <https://github.com/TanqiuJiang/DTR>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/dynamic_token_rewei…](https://papernotes.org/CVPR2026/multimodal_vlm/dynamic_token_reweighting_for_robust_vision-language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/dynamic_token_re…](https://en.papernotes.org/CVPR2026/multimodal_vlm/dynamic_token_reweighting_for_robust_vision-language_models/)
+
+**VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion**
+
+- Paper: <https://arxiv.org/abs/2503.23359>
+- Code: <https://github.com/Linfeng-Tang/VideoFusion>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/videofusion_a_spati…](https://papernotes.org/CVPR2026/multimodal_vlm/videofusion_a_spatio-temporal_collaborative_network_for_multi-modal_video_fusion/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/videofusion_a_sp…](https://en.papernotes.org/CVPR2026/multimodal_vlm/videofusion_a_spatio-temporal_collaborative_network_for_multi-modal_video_fusion/)
+
+**FineCog-Nav: Integrating Fine-grained Cognitive Modules for Zero-shot Multimodal UAV Navigation**
+
+- Paper: <https://arxiv.org/abs/2604.16298>
+- Notes (Chinese): [papernotes.org/CVPR2026/robotics/finecog_nav_fine_grained_…](https://papernotes.org/CVPR2026/robotics/finecog_nav_fine_grained_cognitive_modules_for_zero_shot_uav_navigation/)
+- Notes (English): [en.papernotes.org/CVPR2026/robotics/finecog_nav_fine_grain…](https://en.papernotes.org/CVPR2026/robotics/finecog_nav_fine_grained_cognitive_modules_for_zero_shot_uav_navigation/)
+
+**Aligning What Vision-Language Models See and Perceive with Adaptive Information Flow**
+
+- Paper: <https://arxiv.org/abs/2604.15809>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/aif_adaptive_inform…](https://papernotes.org/CVPR2026/multimodal_vlm/aif_adaptive_information_flow_vlm/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/aif_adaptive_inf…](https://en.papernotes.org/CVPR2026/multimodal_vlm/aif_adaptive_information_flow_vlm/)
+
+**PersonaVLM: Long-Term Personalized Multimodal LLMs**
+
+- Paper: <https://arxiv.org/abs/2604.13074>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/personavlm_long_ter…](https://papernotes.org/CVPR2026/multimodal_vlm/personavlm_long_term_personalized_multimodal_llms/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/personavlm_long_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/personavlm_long_term_personalized_multimodal_llms/)
+
+**DocSeeker: Structured Visual Reasoning with Evidence Grounding for Long Document Understanding**
+
+- Paper: <https://arxiv.org/abs/2604.12812>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/docseeker_long_docu…](https://papernotes.org/CVPR2026/multimodal_vlm/docseeker_long_document_understanding/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/docseeker_long_d…](https://en.papernotes.org/CVPR2026/multimodal_vlm/docseeker_long_document_understanding/)
+
+**MODIX: Training-Free Multimodal Information-Driven Positional Index Scaling for VLMs**
+
+- Paper: <https://arxiv.org/abs/2604.12537>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/modix_positional_in…](https://papernotes.org/CVPR2026/multimodal_vlm/modix_positional_index_scaling/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/modix_positional…](https://en.papernotes.org/CVPR2026/multimodal_vlm/modix_positional_index_scaling/)
+
+**EBMC: Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis**
+
+- Paper: <https://arxiv.org/abs/2604.12518>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/ebmc_multimodal_sen…](https://papernotes.org/CVPR2026/multimodal_vlm/ebmc_multimodal_sentiment_analysis/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/ebmc_multimodal_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/ebmc_multimodal_sentiment_analysis/)
+
+**SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker**
+
+- Paper: <https://arxiv.org/abs/2604.12502>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/seatrack_multimodal…](https://papernotes.org/CVPR2026/multimodal_vlm/seatrack_multimodal_tracker/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/seatrack_multimo…](https://en.papernotes.org/CVPR2026/multimodal_vlm/seatrack_multimodal_tracker/)
+
+**TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment**
+
+- Paper: <https://arxiv.org/abs/2604.12012>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/tipsv2_patch_text_a…](https://papernotes.org/CVPR2026/multimodal_vlm/tipsv2_patch_text_alignment/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/tipsv2_patch_tex…](https://en.papernotes.org/CVPR2026/multimodal_vlm/tipsv2_patch_text_alignment/)
+
+**HOG-Layout: Hierarchical 3D Scene Generation, Optimization and Editing via Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2604.10772>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/hog_layout_hierarch…](https://papernotes.org/CVPR2026/multimodal_vlm/hog_layout_hierarchical_3d_scene_generation_optimization_and_editing/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/hog_layout_hiera…](https://en.papernotes.org/CVPR2026/multimodal_vlm/hog_layout_hierarchical_3d_scene_generation_optimization_and_editing/)
+
+**FlowHijack: A Dynamics-Aware Backdoor Attack on Flow-Matching VLA Models**
+
+- Paper: <https://arxiv.org/abs/2604.09651>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/flowhijack_dynamics…](https://papernotes.org/CVPR2026/multimodal_vlm/flowhijack_dynamics_aware_backdoor_attack_on_flow_matching_vla_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/flowhijack_dynam…](https://en.papernotes.org/CVPR2026/multimodal_vlm/flowhijack_dynamics_aware_backdoor_attack_on_flow_matching_vla_models/)
+
+**Do Vision Language Models Need to Process Image Tokens?**
+
+- Paper: <https://arxiv.org/abs/2604.09425>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/do_vision_language_…](https://papernotes.org/CVPR2026/multimodal_vlm/do_vision_language_models_need_to_process_image_tokens/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/do_vision_langua…](https://en.papernotes.org/CVPR2026/multimodal_vlm/do_vision_language_models_need_to_process_image_tokens/)
+
+**Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs**
+
+- Paper: <https://arxiv.org/abs/2604.08846>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/dictionary_aligned_…](https://papernotes.org/CVPR2026/multimodal_vlm/dictionary_aligned_concept_control_for_safeguarding_multimodal_llms/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/dictionary_align…](https://en.papernotes.org/CVPR2026/multimodal_vlm/dictionary_aligned_concept_control_for_safeguarding_multimodal_llms/)
+
+**DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing**
+
+- Paper: <https://arxiv.org/abs/2604.07965>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/dsca_dynamic_subspa…](https://papernotes.org/CVPR2026/multimodal_vlm/dsca_dynamic_subspace_concept_alignment_for_lifelong_vlm_editing/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/dsca_dynamic_sub…](https://en.papernotes.org/CVPR2026/multimodal_vlm/dsca_dynamic_subspace_concept_alignment_for_lifelong_vlm_editing/)
+
+**Beyond the Mean: Modelling Annotation Distributions in Continuous Affect Prediction** · 🛠️ Workshop
+
+- Paper: <https://arxiv.org/abs/2604.07198>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/beyond_the_mean_mod…](https://papernotes.org/CVPR2026/multimodal_vlm/beyond_the_mean_modelling_annotation_distributions_in_continuous_affect_predicti/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/beyond_the_mean_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/beyond_the_mean_modelling_annotation_distributions_in_continuous_affect_predicti/)
+
+**Benchmarking Vision-Language Models under Contradictory Virtual Content Attacks in Augmented Reality** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2604.05510>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/benchmarking_vision…](https://papernotes.org/CVPR2026/multimodal_vlm/benchmarking_vision-language_models_under_contradictory_virtual_content_attacks_/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/benchmarking_vis…](https://en.papernotes.org/CVPR2026/multimodal_vlm/benchmarking_vision-language_models_under_contradictory_virtual_content_attacks_/)
+
+**Thinking Diffusion: Penalize and Guide Visual-Grounded Reasoning in Diffusion Multimodal Language Models**
+
+- Paper: <https://arxiv.org/abs/2604.05497>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/thinking_diffusion_…](https://papernotes.org/CVPR2026/multimodal_vlm/thinking_diffusion_penalize_and_guide_visual-grounded_reasoning_in_diffusion_mul/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/thinking_diffusi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/thinking_diffusion_penalize_and_guide_visual-grounded_reasoning_in_diffusion_mul/)
+
+**DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving Conditions**
+
+- Paper: <https://arxiv.org/abs/2604.03685>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/dsert_roll_robust_m…](https://papernotes.org/CVPR2026/multimodal_vlm/dsert_roll_robust_multi_modal_perception_for_diverse_driving_conditions/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/dsert_roll_robus…](https://en.papernotes.org/CVPR2026/multimodal_vlm/dsert_roll_robust_multi_modal_perception_for_diverse_driving_conditions/)
+
+**CoMP: Collaborative Multi-Mode Pruning for Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2604.02956>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/comp_collaborative_…](https://papernotes.org/CVPR2026/multimodal_vlm/comp_collaborative_multi-mode_pruning_for_vision-language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/comp_collaborati…](https://en.papernotes.org/CVPR2026/multimodal_vlm/comp_collaborative_multi-mode_pruning_for_vision-language_models/)
+
+**Token Warping Helps MLLMs Look from Nearby Viewpoints**
+
+- Paper: <https://arxiv.org/abs/2604.02870>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/token_warping_helps…](https://papernotes.org/CVPR2026/multimodal_vlm/token_warping_helps_mllms_look_from_nearby_viewpoints/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/token_warping_he…](https://en.papernotes.org/CVPR2026/multimodal_vlm/token_warping_helps_mllms_look_from_nearby_viewpoints/)
+
+**CRIT: Graph-Based Automatic Data Synthesis to Enhance Cross-Modal Multi-Hop Reasoning**
+
+- Paper: <https://arxiv.org/abs/2604.01634>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/crit_graph-based_au…](https://papernotes.org/CVPR2026/multimodal_vlm/crit_graph-based_automatic_data_synthesis_to_enhance_cross-modal_multi-hop_reaso/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/crit_graph-based…](https://en.papernotes.org/CVPR2026/multimodal_vlm/crit_graph-based_automatic_data_synthesis_to_enhance_cross-modal_multi-hop_reaso/)
+
+**Prime Once, then Reprogram Locally: An Efficient Alternative to Black-Box Service Model Adaptation**
+
+- Paper: <https://arxiv.org/abs/2604.01474>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/prime_once_then_rep…](https://papernotes.org/CVPR2026/multimodal_vlm/prime_once_then_reprogram_locally_an_efficient_alternative_to_black-box_service_/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/prime_once_then_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/prime_once_then_reprogram_locally_an_efficient_alternative_to_black-box_service_/)
+
+**MUPO: All Roads Lead to Rome - Incentivizing Divergent Thinking in Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2604.00479>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/mupo_all_roads_lead…](https://papernotes.org/CVPR2026/multimodal_vlm/mupo_all_roads_lead_to_rome_incentivizing_divergent_thinking_in_vlms/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/mupo_all_roads_l…](https://en.papernotes.org/CVPR2026/multimodal_vlm/mupo_all_roads_lead_to_rome_incentivizing_divergent_thinking_in_vlms/)
+
+**AGFT: Alignment-Guided Fine-Tuning for Zero-Shot Adversarial Robustness of Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.29410>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/agft_alignment-guid…](https://papernotes.org/CVPR2026/multimodal_vlm/agft_alignment-guided_fine-tuning_for_zero-shot_adversarial_robustness_of_vision/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/agft_alignment-g…](https://en.papernotes.org/CVPR2026/multimodal_vlm/agft_alignment-guided_fine-tuning_for_zero-shot_adversarial_robustness_of_vision/)
+
+**Self-Consistency for LLM-Based Motion Trajectory Generation and Verification**
+
+- Paper: <https://arxiv.org/abs/2603.29301>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/self-consistency_fo…](https://papernotes.org/CVPR2026/multimodal_vlm/self-consistency_for_llm-based_motion_trajectory_generation_and_verification/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/self-consistency…](https://en.papernotes.org/CVPR2026/multimodal_vlm/self-consistency_for_llm-based_motion_trajectory_generation_and_verification/)
+
+**Scaling the Long Video Understanding of Multimodal Large Language Models via Visual Memory Mechanism**
+
+- Paper: <https://arxiv.org/abs/2603.29252>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/scaling_the_long_vi…](https://papernotes.org/CVPR2026/multimodal_vlm/scaling_the_long_video_understanding_of_multimodal_large_language_models_via_vis/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/scaling_the_long…](https://en.papernotes.org/CVPR2026/multimodal_vlm/scaling_the_long_video_understanding_of_multimodal_large_language_models_via_vis/)
+
+**MarkushGrapher-2: End-to-end Multimodal Recognition of Chemical Structures**
+
+- Paper: <https://arxiv.org/abs/2603.28550>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/markushgrapher-2_en…](https://papernotes.org/CVPR2026/multimodal_vlm/markushgrapher-2_end-to-end_multimodal_recognition_of_chemical_structures/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/markushgrapher-2…](https://en.papernotes.org/CVPR2026/multimodal_vlm/markushgrapher-2_end-to-end_multimodal_recognition_of_chemical_structures/)
+
+**Customized Visual Storytelling with Unified Multimodal LLMs** · 🛠️ Workshop
+
+- Paper: <https://arxiv.org/abs/2603.27690>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/customized_visual_s…](https://papernotes.org/CVPR2026/multimodal_vlm/customized_visual_storytelling_with_unified_multimodal_llms/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/customized_visua…](https://en.papernotes.org/CVPR2026/multimodal_vlm/customized_visual_storytelling_with_unified_multimodal_llms/)
+
+**LFPC: Learning to Focus and Precise Cropping for MLLMs**
+
+- Paper: <https://arxiv.org/abs/2603.27494>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/lfpc_learning_to_fo…](https://papernotes.org/CVPR2026/multimodal_vlm/lfpc_learning_to_focus_and_precise_cropping_for_mllms/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/lfpc_learning_to…](https://en.papernotes.org/CVPR2026/multimodal_vlm/lfpc_learning_to_focus_and_precise_cropping_for_mllms/)
+
+**On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.27481>
+- Project: <https://zhaoc5.github.io/DyMoE>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/on_tokens_dilemma_d…](https://papernotes.org/CVPR2026/multimodal_vlm/on_tokens_dilemma_dynamic_moe_with_drift-aware_token_assignment_for_continual_le/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/on_tokens_dilemm…](https://en.papernotes.org/CVPR2026/multimodal_vlm/on_tokens_dilemma_dynamic_moe_with_drift-aware_token_assignment_for_continual_le/)
+
+**SpatialStack: Layered Geometry-Language Fusion for 3D VLM Spatial Reasoning**
+
+- Paper: <https://arxiv.org/abs/2603.27437>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/spatialstack_layere…](https://papernotes.org/CVPR2026/multimodal_vlm/spatialstack_layered_geometry-language_fusion_for_3d_vlm_spatial_reasoning/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/spatialstack_lay…](https://en.papernotes.org/CVPR2026/multimodal_vlm/spatialstack_layered_geometry-language_fusion_for_3d_vlm_spatial_reasoning/)
+
+**Diagnosing and Repairing Unsafe Channels in Vision-Language Models via Causal Discovery and Dual-Modal Safety Subspace Projection**
+
+- Paper: <https://arxiv.org/abs/2603.27240>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/diagnosing_and_repa…](https://papernotes.org/CVPR2026/multimodal_vlm/diagnosing_and_repairing_unsafe_channels_in_vision-language_models_via_causal_di/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/diagnosing_and_r…](https://en.papernotes.org/CVPR2026/multimodal_vlm/diagnosing_and_repairing_unsafe_channels_in_vision-language_models_via_causal_di/)
+
+**Medic-AD: Towards Medical Vision-Language Model's Clinical Intelligence**
+
+- Paper: <https://arxiv.org/abs/2603.27176>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/medic-ad_towards_me…](https://papernotes.org/CVPR2026/multimodal_vlm/medic-ad_towards_medical_vision-language_models_clinical_intelligence/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/medic-ad_towards…](https://en.papernotes.org/CVPR2026/multimodal_vlm/medic-ad_towards_medical_vision-language_models_clinical_intelligence/)
+
+**ChartNet: A Million-Scale, High-Quality Multimodal Dataset for Robust Chart Understanding**
+
+- Paper: <https://arxiv.org/abs/2603.27064>
+- Notes (Chinese): [papernotes.org/CVPR2026/signal_comm/chartnet_a_million-sca…](https://papernotes.org/CVPR2026/signal_comm/chartnet_a_million-scale_high-quality_multimodal_dataset_for_robust_chart_unders/)
+- Notes (English): [en.papernotes.org/CVPR2026/signal_comm/chartnet_a_million-…](https://en.papernotes.org/CVPR2026/signal_comm/chartnet_a_million-scale_high-quality_multimodal_dataset_for_robust_chart_unders/)
+
+**MA-Bench: Towards Fine-grained Micro-Action Understanding**
+
+- Paper: <https://arxiv.org/abs/2603.26586>
+- Project: <https://MA-Bench.github.io>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/ma-bench_towards_fi…](https://papernotes.org/CVPR2026/multimodal_vlm/ma-bench_towards_fine-grained_micro-action_understanding/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/ma-bench_towards…](https://en.papernotes.org/CVPR2026/multimodal_vlm/ma-bench_towards_fine-grained_micro-action_understanding/)
+
+**HandVQA: Diagnosing and Improving Fine-Grained Spatial Reasoning about Hands in Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.26362>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/handvqa_diagnosing_…](https://papernotes.org/CVPR2026/multimodal_vlm/handvqa_diagnosing_and_improving_fine-grained_spatial_reasoning_about_hands_in_v/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/handvqa_diagnosi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/handvqa_diagnosing_and_improving_fine-grained_spatial_reasoning_about_hands_in_v/)
+
+**SALMUBench: A Benchmark for Sensitive Association-Level Multimodal Unlearning**
+
+- Paper: <https://arxiv.org/abs/2603.26316>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/salmubench_a_benchm…](https://papernotes.org/CVPR2026/multimodal_vlm/salmubench_a_benchmark_for_sensitive_association-level_multimodal_unlearning/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/salmubench_a_ben…](https://en.papernotes.org/CVPR2026/multimodal_vlm/salmubench_a_benchmark_for_sensitive_association-level_multimodal_unlearning/)
+
+**GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks**
+
+- Paper: <https://arxiv.org/abs/2603.25864>
+- Project: <https://guide-bench.github.io>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/guide_a_benchmark_f…](https://papernotes.org/CVPR2026/multimodal_vlm/guide_a_benchmark_for_understanding_and_assisting_users_in_open-ended_gui_tasks/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/guide_a_benchmar…](https://en.papernotes.org/CVPR2026/multimodal_vlm/guide_a_benchmark_for_understanding_and_assisting_users_in_open-ended_gui_tasks/)
+
+**Wan-Weaver: Interleaved Multi-modal Generation via Decoupled Training**
+
+- Paper: <https://arxiv.org/abs/2603.25706>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/wan-weaver_interlea…](https://papernotes.org/CVPR2026/multimodal_vlm/wan-weaver_interleaved_multi-modal_generation_via_decoupled_training/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/wan-weaver_inter…](https://en.papernotes.org/CVPR2026/multimodal_vlm/wan-weaver_interleaved_multi-modal_generation_via_decoupled_training/)
+
+**HiSpatial: Taming Hierarchical 3D Spatial Understanding in Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.25411>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/hispatial_taming_hi…](https://papernotes.org/CVPR2026/multimodal_vlm/hispatial_taming_hierarchical_3d_spatial_understanding_in_vision-language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/hispatial_taming…](https://en.papernotes.org/CVPR2026/multimodal_vlm/hispatial_taming_hierarchical_3d_spatial_understanding_in_vision-language_models/)
+
+**Activation Matters: Test-time Activated Negative Labels for OOD Detection with Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.25250>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/activation_matters_…](https://papernotes.org/CVPR2026/multimodal_vlm/activation_matters_test-time_activated_negative_labels_for_ood_detection_with_vi/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/activation_matte…](https://en.papernotes.org/CVPR2026/multimodal_vlm/activation_matters_test-time_activated_negative_labels_for_ood_detection_with_vi/)
+
+**MoE-GRPO: Optimizing Mixture-of-Experts via Reinforcement Learning in Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.24984>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/moe-grpo_optimizing…](https://papernotes.org/CVPR2026/multimodal_vlm/moe-grpo_optimizing_mixture-of-experts_via_reinforcement_learning_in_vision-lang/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/moe-grpo_optimiz…](https://en.papernotes.org/CVPR2026/multimodal_vlm/moe-grpo_optimizing_mixture-of-experts_via_reinforcement_learning_in_vision-lang/)
+
+**TIGeR: A Unified Framework for Time, Images and Geo-location Retrieval**
+
+- Paper: <https://arxiv.org/abs/2603.24749>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/tiger_a_unified_fra…](https://papernotes.org/CVPR2026/multimodal_vlm/tiger_a_unified_framework_for_time_images_and_geo-location_retrieval/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/tiger_a_unified_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/tiger_a_unified_framework_for_time_images_and_geo-location_retrieval/)
+
+**Video-Only ToM: Enhancing Theory of Mind in Multimodal Large Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.24484>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/video-only_tom_enha…](https://papernotes.org/CVPR2026/multimodal_vlm/video-only_tom_enhancing_theory_of_mind_in_multimodal_large_language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/video-only_tom_e…](https://en.papernotes.org/CVPR2026/multimodal_vlm/video-only_tom_enhancing_theory_of_mind_in_multimodal_large_language_models/)
+
+**Towards Real-World Document Parsing via Realistic Scene Synthesis and Document-Aware Training**
+
+- Paper: <https://arxiv.org/abs/2603.23885>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/towards_real-world_…](https://papernotes.org/CVPR2026/multimodal_vlm/towards_real-world_document_parsing_via_realistic_scene_synthesis_and_document-a/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/towards_real-wor…](https://en.papernotes.org/CVPR2026/multimodal_vlm/towards_real-world_document_parsing_via_realistic_scene_synthesis_and_document-a/)
+
+**VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions**
+
+- Paper: <https://arxiv.org/abs/2603.23495>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vision_on_request_e…](https://papernotes.org/CVPR2026/multimodal_vlm/vision_on_request_enhanced_vllm_efficiency_with_sparse_dynamically_selected_visi/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vision_on_reques…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vision_on_request_enhanced_vllm_efficiency_with_sparse_dynamically_selected_visi/)
+
+**Multi-Modal Image Fusion via Intervention-Stable Feature Learning**
+
+- Paper: <https://arxiv.org/abs/2603.23272>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/multi-modal_image_f…](https://papernotes.org/CVPR2026/multimodal_vlm/multi-modal_image_fusion_via_intervention-stable_feature_learning/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/multi-modal_imag…](https://en.papernotes.org/CVPR2026/multimodal_vlm/multi-modal_image_fusion_via_intervention-stable_feature_learning/)
+
+**ViKey: Enhancing Temporal Understanding in Videos via Visual Prompting**
+
+- Paper: <https://arxiv.org/abs/2603.23186>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vikey_enhancing_tem…](https://papernotes.org/CVPR2026/multimodal_vlm/vikey_enhancing_temporal_understanding_in_videos_via_visual_prompting/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vikey_enhancing_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vikey_enhancing_temporal_understanding_in_videos_via_visual_prompting/)
+
+**TreeTeaming: Autonomous Red-Teaming of Vision-Language Models via Hierarchical Strategy Exploration**
+
+- Paper: <https://arxiv.org/abs/2603.22882>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/treeteaming_autonom…](https://papernotes.org/CVPR2026/multimodal_vlm/treeteaming_autonomous_red-teaming_of_vision-language_models_via_hierarchical_s/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/treeteaming_auto…](https://en.papernotes.org/CVPR2026/multimodal_vlm/treeteaming_autonomous_red-teaming_of_vision-language_models_via_hierarchical_s/)
+
+**Focus, Don't Prune: Identifying Instruction-Relevant Regions for Information-Rich Image Understanding**
+
+- Paper: <https://arxiv.org/abs/2603.22815>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/focus_dont_prune_id…](https://papernotes.org/CVPR2026/multimodal_vlm/focus_dont_prune_identifying_instruction-relevant_regions_for_information-rich_i/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/focus_dont_prune…](https://en.papernotes.org/CVPR2026/multimodal_vlm/focus_dont_prune_identifying_instruction-relevant_regions_for_information-rich_i/)
+
+**ENC-Bench: A Benchmark for Evaluating Multimodal Large Language Models in Electronic Navigational Chart Understanding**
+
+- Paper: <https://arxiv.org/abs/2603.22763>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/enc-bench_a_benchma…](https://papernotes.org/CVPR2026/multimodal_vlm/enc-bench_a_benchmark_for_evaluating_multimodal_large_language_models_in_electro/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/enc-bench_a_benc…](https://en.papernotes.org/CVPR2026/multimodal_vlm/enc-bench_a_benchmark_for_evaluating_multimodal_large_language_models_in_electro/)
+
+**CoVFT: Context-aware Visual Fine-tuning for Multimodal Large Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.21077>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/covft_context-aware…](https://papernotes.org/CVPR2026/multimodal_vlm/covft_context-aware_visual_fine-tuning_for_multimodal_large_language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/covft_context-aw…](https://en.papernotes.org/CVPR2026/multimodal_vlm/covft_context-aware_visual_fine-tuning_for_multimodal_large_language_models/)
+
+**Predictive Regularization Against Visual Representation Degradation in Multimodal Large Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.20808>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/predictive_regulari…](https://papernotes.org/CVPR2026/multimodal_vlm/predictive_regularization_against_visual_representation_degradation_in_multimoda/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/predictive_regul…](https://en.papernotes.org/CVPR2026/multimodal_vlm/predictive_regularization_against_visual_representation_degradation_in_multimoda/)
+
+**Unbiased Dynamic Multimodal Fusion**
+
+- Paper: <https://arxiv.org/abs/2603.19681>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/unbiased_dynamic_mu…](https://papernotes.org/CVPR2026/multimodal_vlm/unbiased_dynamic_multimodal_fusion/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/unbiased_dynamic…](https://en.papernotes.org/CVPR2026/multimodal_vlm/unbiased_dynamic_multimodal_fusion/)
+
+**Disentangle-then-Align: Non-Iterative Hybrid Multimodal Image Registration via Cross-Scale Feature Disentanglement**
+
+- Paper: <https://arxiv.org/abs/2603.19623>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/disentangle-then-al…](https://papernotes.org/CVPR2026/multimodal_vlm/disentangle-then-align_non-iterative_hybrid_multimodal_image_registration_via_cr/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/disentangle-then…](https://en.papernotes.org/CVPR2026/multimodal_vlm/disentangle-then-align_non-iterative_hybrid_multimodal_image_registration_via_cr/)
+
+**FINER: MLLMs Hallucinate under Fine-grained Negative Queries**
+
+- Paper: <https://arxiv.org/abs/2603.17662>
+- Project: <https://explainableml.github.io/finer-project/>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/finer_mllms_halluci…](https://papernotes.org/CVPR2026/multimodal_vlm/finer_mllms_hallucinate_under_fine-grained_negative_queries/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/finer_mllms_hall…](https://en.papernotes.org/CVPR2026/multimodal_vlm/finer_mllms_hallucinate_under_fine-grained_negative_queries/)
+
+**Locate-then-Sparsify: Attribution Guided Sparse Strategy for Visual Hallucination Mitigation**
+
+- Paper: <https://arxiv.org/abs/2603.16284>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/locate-then-sparsif…](https://papernotes.org/CVPR2026/multimodal_vlm/locate-then-sparsify_attribution_guided_sparse_strategy_for_visual_hallucination/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/locate-then-spar…](https://en.papernotes.org/CVPR2026/multimodal_vlm/locate-then-sparsify_attribution_guided_sparse_strategy_for_visual_hallucination/)
+
+**Parallel In-context Learning for Large Vision Language Models** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2603.16092>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/parallel_in-context…](https://papernotes.org/CVPR2026/multimodal_vlm/parallel_in-context_learning_for_large_vision_language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/parallel_in-cont…](https://en.papernotes.org/CVPR2026/multimodal_vlm/parallel_in-context_learning_for_large_vision_language_models/)
+
+**Mostly Text, Smart Visuals: Asymmetric Text-Visual Pruning for Large Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.16001>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/mostly_text_smart_v…](https://papernotes.org/CVPR2026/multimodal_vlm/mostly_text_smart_visuals_asymmetric_text-visual_pruning_for_large_vision-langua/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/mostly_text_smar…](https://en.papernotes.org/CVPR2026/multimodal_vlm/mostly_text_smart_visuals_asymmetric_text-visual_pruning_for_large_vision-langua/)
+
+**Evolving Contextual Safety in Multi-Modal Large Language Models via Inference-Time Self-Reflective Memory**
+
+- Paper: <https://arxiv.org/abs/2603.15800>
+- Project: <https://echosafe-mllm.github.io>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/evolving_contextual…](https://papernotes.org/CVPR2026/multimodal_vlm/evolving_contextual_safety_in_multi-modal_large_language_models_via_inference-ti/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/evolving_context…](https://en.papernotes.org/CVPR2026/multimodal_vlm/evolving_contextual_safety_in_multi-modal_large_language_models_via_inference-ti/)
+
+**Efficient Document Parsing via Parallel Token Prediction** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2603.15206>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/efficient_document_…](https://papernotes.org/CVPR2026/multimodal_vlm/efficient_document_parsing_via_parallel_token_prediction/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/efficient_docume…](https://en.papernotes.org/CVPR2026/multimodal_vlm/efficient_document_parsing_via_parallel_token_prediction/)
+
+**LLMind: Bio-inspired Training-free Adaptive Visual Representations for Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.14882>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/llmind_bio-inspired…](https://papernotes.org/CVPR2026/multimodal_vlm/llmind_bio-inspired_training-free_adaptive_visual_representations_for_vision-lan/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/llmind_bio-inspi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/llmind_bio-inspired_training-free_adaptive_visual_representations_for_vision-lan/)
+
+**Topo-R1: Detecting Topological Anomalies via Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.13054>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/topo-r1_detecting_t…](https://papernotes.org/CVPR2026/multimodal_vlm/topo-r1_detecting_topological_anomalies_via_vision-language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/topo-r1_detectin…](https://en.papernotes.org/CVPR2026/multimodal_vlm/topo-r1_detecting_topological_anomalies_via_vision-language_models/)
+
+**Empowering Semantic-Sensitive Underwater Image Enhancement with VLM**
+
+- Paper: <https://arxiv.org/abs/2603.12773>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/empowering_semantic…](https://papernotes.org/CVPR2026/multimodal_vlm/empowering_semanticsensitive_underwater_image_enha/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/empowering_seman…](https://en.papernotes.org/CVPR2026/multimodal_vlm/empowering_semanticsensitive_underwater_image_enha/)
+
+**Thinking in Dynamics: How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World**
+
+- Paper: <https://arxiv.org/abs/2603.12746>
+- Project: <https://dyn-bench.github.io/>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/thinking_in_dynamic…](https://papernotes.org/CVPR2026/multimodal_vlm/thinking_in_dynamics_how_multimodal_large_language_models_perceive_track_and_rea/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/thinking_in_dyna…](https://en.papernotes.org/CVPR2026/multimodal_vlm/thinking_in_dynamics_how_multimodal_large_language_models_perceive_track_and_rea/)
+
+**Mastering Negation: Boosting Grounding Models via Grouped Opposition-Based Learning**
+
+- Paper: <https://arxiv.org/abs/2603.12606>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/mastering_negation_…](https://papernotes.org/CVPR2026/multimodal_vlm/mastering_negation_boosting_grounding_models_via_grouped_opposition-based_learni/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/mastering_negati…](https://en.papernotes.org/CVPR2026/multimodal_vlm/mastering_negation_boosting_grounding_models_via_grouped_opposition-based_learni/)
+
+**Revisiting Model Stitching In the Foundation Model Era**
+
+- Paper: <https://arxiv.org/abs/2603.12433>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/revisiting_model_st…](https://papernotes.org/CVPR2026/multimodal_vlm/revisiting_model_stitching_in_the_foundation_model/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/revisiting_model…](https://en.papernotes.org/CVPR2026/multimodal_vlm/revisiting_model_stitching_in_the_foundation_model/)
+
+**SPARROW: Learning Spatial Precision and Temporal Referential Consistency in Pixel-Grounded Video MLLMs**
+
+- Paper: <https://arxiv.org/abs/2603.12382>
+- Project: <https://risys-lab.github.io/SPARROW>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/sparrow_learning_sp…](https://papernotes.org/CVPR2026/multimodal_vlm/sparrow_learning_spatial_precision_and_temporal_referential_consistency_in_pixel/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/sparrow_learning…](https://en.papernotes.org/CVPR2026/multimodal_vlm/sparrow_learning_spatial_precision_and_temporal_referential_consistency_in_pixel/)
+
+**Linking Perception, Confidence and Accuracy in MLLMs**
+
+- Paper: <https://arxiv.org/abs/2603.12149>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/linking_perception_…](https://papernotes.org/CVPR2026/multimodal_vlm/linking_perception_confidence_and_accuracy_in_mllms/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/linking_percepti…](https://en.papernotes.org/CVPR2026/multimodal_vlm/linking_perception_confidence_and_accuracy_in_mllms/)
+
+**Continual Learning with Vision-Language Models via Semantic-Geometry Preservation**
+
+- Paper: <https://arxiv.org/abs/2603.12055>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/continual_learning_…](https://papernotes.org/CVPR2026/multimodal_vlm/continual_learning_with_vision-language_models_via_semantic-geometry_preservatio/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/continual_learni…](https://en.papernotes.org/CVPR2026/multimodal_vlm/continual_learning_with_vision-language_models_via_semantic-geometry_preservatio/)
+
+**Tokenization Allows Multimodal Large Language Models to Understand, Generate and Edit Architectural Floor Plans**
+
+- Paper: <https://arxiv.org/abs/2603.11640>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/tokenization_allows…](https://papernotes.org/CVPR2026/multimodal_vlm/tokenization_allows_multimodal_large_language_models_to_understand_generate_and_/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/tokenization_all…](https://en.papernotes.org/CVPR2026/multimodal_vlm/tokenization_allows_multimodal_large_language_models_to_understand_generate_and_/)
+
+**Noise-aware few-shot learning through bi-directional multi-view prompt alignment**
+
+- Paper: <https://arxiv.org/abs/2603.11617>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/noise-aware_few-sho…](https://papernotes.org/CVPR2026/multimodal_vlm/noise-aware_few-shot_learning_through_bi-directional_multi-view_prompt_alignment/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/noise-aware_few-…](https://en.papernotes.org/CVPR2026/multimodal_vlm/noise-aware_few-shot_learning_through_bi-directional_multi-view_prompt_alignment/)
+
+**VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.09826>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vlm-loc_localizatio…](https://papernotes.org/CVPR2026/multimodal_vlm/vlm-loc_localization_in_point_cloud_maps_via_vision-language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vlm-loc_localiza…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vlm-loc_localization_in_point_cloud_maps_via_vision-language_models/)
+
+**Evolving Prompt Adaptation for Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.09493>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/evolving_prompt_ada…](https://papernotes.org/CVPR2026/multimodal_vlm/evolving_prompt_adaptation_for_vision-language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/evolving_prompt_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/evolving_prompt_adaptation_for_vision-language_models/)
+
+**OddGridBench: Exposing the Lack of Fine-Grained Visual Discrepancy Sensitivity in Multimodal Large Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.09326>
+- Project: <https://wwwtttjjj.github.io/OddGridBench/>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/oddgridbench_exposi…](https://papernotes.org/CVPR2026/multimodal_vlm/oddgridbench_exposing_the_lack_of_fine-grained_visual_discrepancy_sensitivity_in/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/oddgridbench_exp…](https://en.papernotes.org/CVPR2026/multimodal_vlm/oddgridbench_exposing_the_lack_of_fine-grained_visual_discrepancy_sensitivity_in/)
+
+**Vision-Language Models Encode Clinical Guidelines for Concept-Based Medical Reasoning** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2603.08921>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vision-language_mod…](https://papernotes.org/CVPR2026/multimodal_vlm/vision-language_models_encode_clinical_guidelines_for_concept-based_medical_reas/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vision-language_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vision-language_models_encode_clinical_guidelines_for_concept-based_medical_reas/)
+
+**It's Time to Get It Right: Improving Analog Clock Reading and Clock-Hand Spatial Reasoning in Vision-Language Models** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2603.08011>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/its_time_to_get_it_…](https://papernotes.org/CVPR2026/multimodal_vlm/its_time_to_get_it_right_improving_analog_clock_reading_and_clock-hand_spatial_r/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/its_time_to_get_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/its_time_to_get_it_right_improving_analog_clock_reading_and_clock-hand_spatial_r/)
+
+**Scaling Test-Time Robustness of Vision-Language Models via Self-Critical Inference Framework**
+
+- Paper: <https://arxiv.org/abs/2603.07659>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/scaling_test-time_r…](https://papernotes.org/CVPR2026/multimodal_vlm/scaling_test-time_robustness_of_vision-language_models_via_self-critical_inferen/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/scaling_test-tim…](https://en.papernotes.org/CVPR2026/multimodal_vlm/scaling_test-time_robustness_of_vision-language_models_via_self-critical_inferen/)
+
+**Overthinking Causes Hallucination: Tracing Confounder Propagation in Vision Language Models** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2603.07619>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/overthinking_causes…](https://papernotes.org/CVPR2026/multimodal_vlm/overthinking_causes_hallucination_tracing_confounder_propagation_in_vision_langu/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/overthinking_cau…](https://en.papernotes.org/CVPR2026/multimodal_vlm/overthinking_causes_hallucination_tracing_confounder_propagation_in_vision_langu/)
+
+**Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning**
+
+- Paper: <https://arxiv.org/abs/2603.06688>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/narrative_weaver_to…](https://papernotes.org/CVPR2026/multimodal_vlm/narrative_weaver_towards_controllable_long-range_visual_consistency_with_multi-m/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/narrative_weaver…](https://en.papernotes.org/CVPR2026/multimodal_vlm/narrative_weaver_towards_controllable_long-range_visual_consistency_with_multi-m/)
+
+**MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization**
+
+- Paper: <https://arxiv.org/abs/2603.03192>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/mod-dpo_towards_mit…](https://papernotes.org/CVPR2026/multimodal_vlm/mod-dpo_towards_mitigating_cross-modal_hallucinations_in_omni_llms_using_modalit/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/mod-dpo_towards_m…](https://en.papernotes.org/CVPR2026/llm_alignment/mod-dpo_towards_mitigating_cross-modal_hallucinations_in_omni_llms_using_modalit/)
+
+**Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs**
+
+- Paper: <https://arxiv.org/abs/2603.02618>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/mind_the_way_you_se…](https://papernotes.org/CVPR2026/multimodal_vlm/mind_the_way_you_select_negative_texts_pursuing_the_distance_consistency_in_ood_/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/mind_the_way_you…](https://en.papernotes.org/CVPR2026/multimodal_vlm/mind_the_way_you_select_negative_texts_pursuing_the_distance_consistency_in_ood_/)
+
+**HAMMER: Harnessing MLLM via Cross-Modal Integration for Intention-Driven 3D Affordance Grounding**
+
+- Paper: <https://arxiv.org/abs/2603.02329>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/hammer_harnessing_m…](https://papernotes.org/CVPR2026/multimodal_vlm/hammer_harnessing_mllm_via_cross-modal_integration_for_intention-driven_3d_affor/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/hammer_harnessin…](https://en.papernotes.org/CVPR2026/multimodal_vlm/hammer_harnessing_mllm_via_cross-modal_integration_for_intention-driven_3d_affor/)
+
+**Nano-EmoX: Unifying Multimodal Emotional Intelligence from Perception to Empathy**
+
+- Paper: <https://arxiv.org/abs/2603.02123>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/nano-emox_unifying_…](https://papernotes.org/CVPR2026/multimodal_vlm/nano-emox_unifying_multimodal_emotional_intelligence_from_perception_to_empathy/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/nano-emox_unifyi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/nano-emox_unifying_multimodal_emotional_intelligence_from_perception_to_empathy/)
+
+**Recursive Think-Answer Process for LLMs and VLMs** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2603.02099>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/recursive_think-ans…](https://papernotes.org/CVPR2026/multimodal_vlm/recursive_think-answer_process_for_llms_and_vlms/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/recursive_think-…](https://en.papernotes.org/CVPR2026/multimodal_vlm/recursive_think-answer_process_for_llms_and_vlms/)
+
+**DeAR: Fine-Grained VLM Adaptation by Decomposing Attention Head Roles**
+
+- Paper: <https://arxiv.org/abs/2603.01111>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/dear_fine-grained_v…](https://papernotes.org/CVPR2026/multimodal_vlm/dear_fine-grained_vlm_adaptation_by_decomposing_attention_head_roles/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/dear_fine-graine…](https://en.papernotes.org/CVPR2026/multimodal_vlm/dear_fine-grained_vlm_adaptation_by_decomposing_attention_head_roles/)
+
+**UNICBench: UNIfied Counting Benchmark for MLLM**
+
+- Paper: <https://arxiv.org/abs/2603.00595>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/unicbench_unified_c…](https://papernotes.org/CVPR2026/multimodal_vlm/unicbench_unified_counting_benchmark_for_mllm/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/unicbench_unifie…](https://en.papernotes.org/CVPR2026/multimodal_vlm/unicbench_unified_counting_benchmark_for_mllm/)
+
+**Decoupling Stability and Plasticity for Multi-Modal Test-Time Adaptation**
+
+- Paper: <https://arxiv.org/abs/2603.00574>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/decoupling_stabilit…](https://papernotes.org/CVPR2026/multimodal_vlm/decoupling_stability_and_plasticity_for_multi-modal_test-time_adaptation/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/decoupling_stabi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/decoupling_stability_and_plasticity_for_multi-modal_test-time_adaptation/)
+
+**PointAlign: Feature-Level Alignment Regularization for 3D Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.00412>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/pointalign_feature-…](https://papernotes.org/CVPR2026/multimodal_vlm/pointalign_feature-level_alignment_regularization_for_3d_vision-language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/pointalign_featu…](https://en.papernotes.org/CVPR2026/multimodal_vlm/pointalign_feature-level_alignment_regularization_for_3d_vision-language_models/)
+
+**Proof-of-Perception: Certified Tool-Using Multimodal Reasoning with Compositional Conformal Guarantees**
+
+- Paper: <https://arxiv.org/abs/2603.00324>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/pop_proof_of_percep…](https://papernotes.org/CVPR2026/multimodal_vlm/pop_proof_of_perception_conformal_reasoning/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/pop_proof_of_per…](https://en.papernotes.org/CVPR2026/multimodal_vlm/pop_proof_of_perception_conformal_reasoning/)
+
+**Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization**
+
+- Paper: <https://arxiv.org/abs/2602.24059>
+- Notes (Chinese): [papernotes.org/CVPR2026/model_compression/quant_experts_to…](https://papernotes.org/CVPR2026/model_compression/quant_experts_token_aware_vlm_quantization/)
+- Notes (English): [en.papernotes.org/CVPR2026/model_compression/quant_experts…](https://en.papernotes.org/CVPR2026/model_compression/quant_experts_token_aware_vlm_quantization/)
+
+**EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning in Multimodal Large Language Models**
+
+- Paper: <https://arxiv.org/abs/2602.23802>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/emo-r3_reflective_r…](https://papernotes.org/CVPR2026/multimodal_vlm/emo-r3_reflective_reinforcement_learning_for_emotional_reasoning_in_multimodal_l/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/emo-r3_reflectiv…](https://en.papernotes.org/CVPR2026/multimodal_vlm/emo-r3_reflective_reinforcement_learning_for_emotional_reasoning_in_multimodal_l/)
+
+**FluoCLIP: Stain-Aware Focus Quality Assessment in Fluorescence Microscopy**
+
+- Paper: <https://arxiv.org/abs/2602.23791>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/fluoclip_stain-awar…](https://papernotes.org/CVPR2026/multimodal_vlm/fluoclip_stain-aware_focus_quality_assessment_in_fluorescence_microscopy/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/fluoclip_stain-a…](https://en.papernotes.org/CVPR2026/multimodal_vlm/fluoclip_stain-aware_focus_quality_assessment_in_fluorescence_microscopy/)
+
+**MSJoE: Jointly Evolving MLLM and Sampler for Efficient Long-Form Video Understanding**
+
+- Paper: <https://arxiv.org/abs/2602.22932>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/msjoe_jointly_evolv…](https://papernotes.org/CVPR2026/multimodal_vlm/msjoe_jointly_evolving_mllm_and_sampler_for_efficient_long-form_video_understand/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/msjoe_jointly_ev…](https://en.papernotes.org/CVPR2026/multimodal_vlm/msjoe_jointly_evolving_mllm_and_sampler_for_efficient_long-form_video_understand/)
+
+**HulluEdit: Single-Pass Evidence-Consistent Subspace Editing for Mitigating Hallucinations in Large Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2602.22727>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/hulluedit_subspace_edit…](https://papernotes.org/CVPR2026/llm_safety/hulluedit_subspace_editing_hallucination/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/hulluedit_subspace_e…](https://en.papernotes.org/CVPR2026/llm_safety/hulluedit_subspace_editing_hallucination/)
+
+**WeaveTime: Stream from Earlier Frames into Emergent Memory in VideoLLMs**
+
+- Paper: <https://arxiv.org/abs/2602.22142>
+- Project: <https://zhangyl4.github.io/publications/weavetime/>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/weavetime_streaming…](https://papernotes.org/CVPR2026/multimodal_vlm/weavetime_streaming_video_llm_memory/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/weavetime_stream…](https://en.papernotes.org/CVPR2026/multimodal_vlm/weavetime_streaming_video_llm_memory/)
+
+**DynamicGTR: Leveraging Graph Topology Representation Preferences to Boost VLM Capabilities on Graph QAs**
+
+- Paper: <https://arxiv.org/abs/2602.21864>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/dynamicgtr_leveragi…](https://papernotes.org/CVPR2026/multimodal_vlm/dynamicgtr_leveraging_graph_topology_representation_preferences_to_boost_vlm_cap/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/dynamicgtr_lever…](https://en.papernotes.org/CVPR2026/multimodal_vlm/dynamicgtr_leveraging_graph_topology_representation_preferences_to_boost_vlm_cap/)
+
+**Beyond Static Artifacts: A Forensic Benchmark for Video Deepfake Reasoning in Vision Language Models**
+
+- Paper: <https://arxiv.org/abs/2602.21779>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/beyond_static_artif…](https://papernotes.org/CVPR2026/multimodal_vlm/beyond_static_artifacts_a_forensic_benchmark_for_video_deepfake_reasoning_in_vis/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/beyond_static_ar…](https://en.papernotes.org/CVPR2026/multimodal_vlm/beyond_static_artifacts_a_forensic_benchmark_for_video_deepfake_reasoning_in_vis/)
+
+**Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild**
+
+- Paper: <https://arxiv.org/abs/2602.21736>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/joint-aligned_laten…](https://papernotes.org/CVPR2026/multimodal_vlm/joint-aligned_latent_action_towards_scalable_vla_pretraining_in_the_wild/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/joint-aligned_la…](https://en.papernotes.org/CVPR2026/multimodal_vlm/joint-aligned_latent_action_towards_scalable_vla_pretraining_in_the_wild/)
+
+**Circuit Tracing in Vision-Language Models: Understanding the Internal Mechanisms of Multimodal Thinking** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2602.20330>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/circuit_tracing_in_…](https://papernotes.org/CVPR2026/multimodal_vlm/circuit_tracing_in_vision-language_models_understanding_the_internal_mechanisms_/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/circuit_tracing_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/circuit_tracing_in_vision-language_models_understanding_the_internal_mechanisms_/)
+
+**Seeing Clearly, Reasoning Confidently: Plug-and-Play Remedies for Vision Language Model Blindness**
+
+- Paper: <https://arxiv.org/abs/2602.19615>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/seeing_clearly_reas…](https://papernotes.org/CVPR2026/multimodal_vlm/seeing_clearly_reasoning_confidently_plug-and-play_remedies_for_vision_language_/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/seeing_clearly_r…](https://en.papernotes.org/CVPR2026/multimodal_vlm/seeing_clearly_reasoning_confidently_plug-and-play_remedies_for_vision_language_/)
+
+**VLM-Guided Group Preference Alignment for Diffusion-based Human Mesh Recovery**
+
+- Paper: <https://arxiv.org/abs/2602.19180>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vlm-guided_group_pr…](https://papernotes.org/CVPR2026/multimodal_vlm/vlm-guided_group_preference_alignment_for_diffusion-based_human_mesh_recovery/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vlm-guided_group…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vlm-guided_group_preference_alignment_for_diffusion-based_human_mesh_recovery/)
+
+**BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment**
+
+- Paper: <https://arxiv.org/abs/2602.19170>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/brima_bridged_modal…](https://papernotes.org/CVPR2026/multimodal_vlm/brima_bridged_modality_adaptation_for_multi-modal_continual_action_quality_asses/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/brima_bridged_mo…](https://en.papernotes.org/CVPR2026/multimodal_vlm/brima_bridged_modality_adaptation_for_multi-modal_continual_action_quality_asses/)
+
+**Towards Calibrating Prompt Tuning of Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2602.19024>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/towards_calibrating…](https://papernotes.org/CVPR2026/multimodal_vlm/towards_calibrating_prompt_tuning_of_vision-language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/towards_calibrat…](https://en.papernotes.org/CVPR2026/multimodal_vlm/towards_calibrating_prompt_tuning_of_vision-language_models/)
+
+**Similarity-as-Evidence: Calibrating Overconfident VLMs for Interpretable and Label-Efficient Medical Active Learning**
+
+- Paper: <https://arxiv.org/abs/2602.18867>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/similarity-as-evide…](https://papernotes.org/CVPR2026/multimodal_vlm/similarity-as-evidence_calibrating_overconfident_vlms_for_interpretable_and_labe/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/similarity-as-ev…](https://en.papernotes.org/CVPR2026/multimodal_vlm/similarity-as-evidence_calibrating_overconfident_vlms_for_interpretable_and_labe/)
+
+**Echoes of Ownership: Adversarial-Guided Dual Injection for Copyright Protection in MLLMs**
+
+- Paper: <https://arxiv.org/abs/2602.18845>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/echoes_of_ownership…](https://papernotes.org/CVPR2026/multimodal_vlm/echoes_of_ownership_adversarial-guided_dual_injection_for_copyright_protection_i/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/echoes_of_owners…](https://en.papernotes.org/CVPR2026/multimodal_vlm/echoes_of_ownership_adversarial-guided_dual_injection_for_copyright_protection_i/)
+
+**ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding**
+
+- Paper: <https://arxiv.org/abs/2602.16412>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/remora_multimodal_l…](https://papernotes.org/CVPR2026/multimodal_vlm/remora_multimodal_large_language_model_based_on_refined_motion_representation_fo/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/remora_multimoda…](https://en.papernotes.org/CVPR2026/multimodal_vlm/remora_multimodal_large_language_model_based_on_refined_motion_representation_fo/)
+
+**KVSmooth: Mitigating Hallucination in Multi-modal Large Language Models through Key-Value Smoothing**
+
+- Paper: <https://arxiv.org/abs/2602.04268>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/kvsmooth_mitigating…](https://papernotes.org/CVPR2026/multimodal_vlm/kvsmooth_mitigating_hallucination_in_multi-modal_large_language_models_through_k/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/kvsmooth_mitigat…](https://en.papernotes.org/CVPR2026/multimodal_vlm/kvsmooth_mitigating_hallucination_in_multi-modal_large_language_models_through_k/)
+
+**Residual Decoding: Mitigating Hallucinations in Large Vision-Language Models via History-Aware Residual Guidance**
+
+- Paper: <https://arxiv.org/abs/2602.01047>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/residual_decoding_m…](https://papernotes.org/CVPR2026/multimodal_vlm/residual_decoding_mitigating_hallucinations_in_large_vision-language_models_via_/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/residual_decodin…](https://en.papernotes.org/CVPR2026/multimodal_vlm/residual_decoding_mitigating_hallucinations_in_large_vision-language_models_via_/)
+
+**Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration**
+
+- Paper: <https://arxiv.org/abs/2601.10744>
+- Project: <https://wangsen99.github.io/papers/lmee/>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/explore_with_long-t…](https://papernotes.org/CVPR2026/multimodal_vlm/explore_with_long-term_memory_a_benchmark_and_multimodal_llm-based_reinforcement/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/explore_with_lon…](https://en.papernotes.org/CVPR2026/multimodal_vlm/explore_with_long-term_memory_a_benchmark_and_multimodal_llm-based_reinforcement/)
+
+**VL-RouterBench: A Benchmark for Vision-Language Model Routing**
+
+- Paper: <https://arxiv.org/abs/2512.23562>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vl-routerbench_a_be…](https://papernotes.org/CVPR2026/multimodal_vlm/vl-routerbench_a_benchmark_for_vision-language_model_routing/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vl-routerbench_a…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vl-routerbench_a_benchmark_for_vision-language_model_routing/)
+
+**Scene-VLM: Multimodal Video Scene Segmentation via Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2512.21778>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/scene-vlm_multimoda…](https://papernotes.org/CVPR2026/multimodal_vlm/scene-vlm_multimodal_video_scene_segmentation_via_vision-language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/scene-vlm_multim…](https://en.papernotes.org/CVPR2026/multimodal_vlm/scene-vlm_multimodal_video_scene_segmentation_via_vision-language_models/)
+
+**Widget2Code: From Visual Widgets to UI Code via Multimodal LLMs**
+
+- Paper: <https://arxiv.org/abs/2512.19918>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/widget2code_from_vi…](https://papernotes.org/CVPR2026/multimodal_vlm/widget2code_from_visual_widgets_to_ui_code_via_multimodal_llms/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/widget2code_from…](https://en.papernotes.org/CVPR2026/multimodal_vlm/widget2code_from_visual_widgets_to_ui_code_via_multimodal_llms/)
+
+**CodeDance: A Dynamic Tool-integrated MLLM for Executable Visual Reasoning**
+
+- Paper: <https://arxiv.org/abs/2512.17312>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/codedance_a_dynamic…](https://papernotes.org/CVPR2026/multimodal_vlm/codedance_a_dynamic_tool-integrated_mllm_for_executable_visual_reasoning/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/codedance_a_dyna…](https://en.papernotes.org/CVPR2026/multimodal_vlm/codedance_a_dynamic_tool-integrated_mllm_for_executable_visual_reasoning/)
+
+**TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs**
+
+- Paper: <https://arxiv.org/abs/2512.14698>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/timelens_rethinking…](https://papernotes.org/CVPR2026/multimodal_vlm/timelens_rethinking_video_temporal_grounding_with_multimodal_llms/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/timelens_rethink…](https://en.papernotes.org/CVPR2026/multimodal_vlm/timelens_rethinking_video_temporal_grounding_with_multimodal_llms/)
+
+**GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training**
+
+- Paper: <https://arxiv.org/abs/2512.13043>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/gtr_turbo_merged_ch…](https://papernotes.org/CVPR2026/multimodal_vlm/gtr_turbo_merged_checkpoint_free_teacher/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/gtr_turbo_merged…](https://en.papernotes.org/CVPR2026/multimodal_vlm/gtr_turbo_merged_checkpoint_free_teacher/)
+
+**SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2512.05955>
+- Project: <https://simpact-bot.github.io>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/simpact_simulation-…](https://papernotes.org/CVPR2026/multimodal_vlm/simpact_simulation-enabled_action_planning_using_vision-language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/simpact_simulati…](https://en.papernotes.org/CVPR2026/multimodal_vlm/simpact_simulation-enabled_action_planning_using_vision-language_models/)
+
+**Text-Only Training for Image Captioning with Retrieval Augmentation and Modality Gap Correction**
+
+- Paper: <https://arxiv.org/abs/2512.04309>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/text-only_training_…](https://papernotes.org/CVPR2026/multimodal_vlm/text-only_training_for_image_captioning_with_retrieval_augmentation_and_modality/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/text-only_traini…](https://en.papernotes.org/CVPR2026/multimodal_vlm/text-only_training_for_image_captioning_with_retrieval_augmentation_and_modality/)
+
+**AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition**
+
+- Paper: <https://arxiv.org/abs/2512.03794>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/adaptvision_efficie…](https://papernotes.org/CVPR2026/multimodal_vlm/adaptvision_efficient_vision-language_models_via_adaptive_visual_acquisition/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/adaptvision_effi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/adaptvision_efficient_vision-language_models_via_adaptive_visual_acquisition/)
+
+**See, Hear, and Understand: Benchmarking Audiovisual Human Speech Understanding in Multimodal Large Language Models**
+
+- Paper: <https://arxiv.org/abs/2512.02231>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/see_hear_and_unders…](https://papernotes.org/CVPR2026/multimodal_vlm/see_hear_and_understand_benchmarking_audiovisual_human_speech_understanding_in_mul/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/see_hear_and_und…](https://en.papernotes.org/CVPR2026/multimodal_vlm/see_hear_and_understand_benchmarking_audiovisual_human_speech_understanding_in_mul/)
+
+**MindPower: Enabling Theory-of-Mind Reasoning in VLM-based Embodied Agents**
+
+- Paper: <https://arxiv.org/abs/2511.23055>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/mindpower_enabling_…](https://papernotes.org/CVPR2026/multimodal_vlm/mindpower_enabling_theoryofmind_reasoning_in_vlmba/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/mindpower_enabli…](https://en.papernotes.org/CVPR2026/multimodal_vlm/mindpower_enabling_theoryofmind_reasoning_in_vlmba/)
+
+**Asking like Socrates: Socrates helps VLMs understand remote sensing images**
+
+- Paper: <https://arxiv.org/abs/2511.22396>
+- Project: <https://geox-lab.github.io/Asking_like_Socrates>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/asking_like_socrate…](https://papernotes.org/CVPR2026/multimodal_vlm/asking_like_socrates_socrates_helps_vlms_understand_remote_sensing_images/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/asking_like_socr…](https://en.papernotes.org/CVPR2026/multimodal_vlm/asking_like_socrates_socrates_helps_vlms_understand_remote_sensing_images/)
+
+**Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following**
+
+- Paper: <https://arxiv.org/abs/2511.21662>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/multi-crit_benchmar…](https://papernotes.org/CVPR2026/multimodal_vlm/multi-crit_benchmarking_multimodal_judges_on_pluralistic_criteria-following/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/multi-crit_bench…](https://en.papernotes.org/CVPR2026/multimodal_vlm/multi-crit_benchmarking_multimodal_judges_on_pluralistic_criteria-following/)
+
+**From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings**
+
+- Paper: <https://arxiv.org/abs/2511.21428>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/from_observation_to…](https://papernotes.org/CVPR2026/multimodal_vlm/from_observation_to_action_latent_action-based_primitive_segmentation_for_vla_pr/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/from_observation…](https://en.papernotes.org/CVPR2026/multimodal_vlm/from_observation_to_action_latent_action-based_primitive_segmentation_for_vla_pr/)
+
+**Tell Model Where to Look: Mitigating Hallucinations in MLLMs by Vision-Guided Attention**
+
+- Paper: <https://arxiv.org/abs/2511.20032>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/tell_model_where_to…](https://papernotes.org/CVPR2026/multimodal_vlm/tell_model_where_to_look_mitigating_hallucinations_in_mllms_by_vision-guided_att/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/tell_model_where…](https://en.papernotes.org/CVPR2026/multimodal_vlm/tell_model_where_to_look_mitigating_hallucinations_in_mllms_by_vision-guided_att/)
+
+**CropVLM: Learning to Zoom for Fine-Grained Vision-Language Perception**
+
+- Paper: <https://arxiv.org/abs/2511.19820>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/cropvlm_learning_to…](https://papernotes.org/CVPR2026/multimodal_vlm/cropvlm_learning_to_zoom_for_fine_grained_vision_language_perception/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/cropvlm_learning…](https://en.papernotes.org/CVPR2026/multimodal_vlm/cropvlm_learning_to_zoom_for_fine_grained_vision_language_perception/)
+
+**Understanding Task Transfer in Vision-Language Models** · 🎤 Oral
+
+- Paper: <https://arxiv.org/abs/2511.18787>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/understanding_task_…](https://papernotes.org/CVPR2026/multimodal_vlm/understanding_task_transfer_in_vision-language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/understanding_ta…](https://en.papernotes.org/CVPR2026/multimodal_vlm/understanding_task_transfer_in_vision-language_models/)
+
+**Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models**
+
+- Paper: <https://arxiv.org/abs/2511.17487>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/downscaling_intelli…](https://papernotes.org/CVPR2026/multimodal_vlm/downscaling_intelligence_exploring_perception_and_reasoning_bottlenecks_in_small/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/downscaling_inte…](https://en.papernotes.org/CVPR2026/multimodal_vlm/downscaling_intelligence_exploring_perception_and_reasoning_bottlenecks_in_small/)
+
+**Revisiting Multimodal KV Cache Compression: A Frequency-Domain-Guided Outlier-KV-Aware Approach**
+
+- Paper: <https://arxiv.org/abs/2511.16786>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/revisiting_multimod…](https://papernotes.org/CVPR2026/multimodal_vlm/revisiting_multimodal_kv_cache_compression_a_frequency-domain-guided_outlier-kv-/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/revisiting_multi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/revisiting_multimodal_kv_cache_compression_a_frequency-domain-guided_outlier-kv-/)
+
+**When to Think and When to Look: Uncertainty-Guided Lookback**
+
+- Paper: <https://arxiv.org/abs/2511.15613>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/when_to_think_and_w…](https://papernotes.org/CVPR2026/multimodal_vlm/when_to_think_and_when_to_look_uncertainty-guided_lookback/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/when_to_think_an…](https://en.papernotes.org/CVPR2026/multimodal_vlm/when_to_think_and_when_to_look_uncertainty-guided_lookback/)
+
+**Scaling Spatial Intelligence with Multimodal Foundation Models**
+
+- Paper: <https://arxiv.org/abs/2511.13719>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/scaling_spatial_int…](https://papernotes.org/CVPR2026/multimodal_vlm/scaling_spatial_intelligence_with_multimodal_foundation_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/scaling_spatial_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/scaling_spatial_intelligence_with_multimodal_foundation_models/)
+
+**EmoVerse: A MLLMs-Driven Emotion Representation Dataset for Interpretable Visual Emotion Analysis**
+
+- Paper: <https://arxiv.org/abs/2511.12554>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/emoverse_a_mllms-dr…](https://papernotes.org/CVPR2026/multimodal_vlm/emoverse_a_mllms-driven_emotion_representation_dataset_for_interpretable_visual_/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/emoverse_a_mllms…](https://en.papernotes.org/CVPR2026/multimodal_vlm/emoverse_a_mllms-driven_emotion_representation_dataset_for_interpretable_visual_/)
+
+**HoneyBee: Data Recipes for Vision-Language Reasoners**
+
+- Paper: <https://arxiv.org/abs/2510.12225>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/honeybee_data_recip…](https://papernotes.org/CVPR2026/multimodal_vlm/honeybee_data_recipes_for_vision-language_reasoners/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/honeybee_data_re…](https://en.papernotes.org/CVPR2026/multimodal_vlm/honeybee_data_recipes_for_vision-language_reasoners/)
+
+**LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2509.25896>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/llavashield_multimo…](https://papernotes.org/CVPR2026/multimodal_vlm/llavashield_multimodal_multiturn_safety/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/llavashield_mult…](https://en.papernotes.org/CVPR2026/multimodal_vlm/llavashield_multimodal_multiturn_safety/)
+
+**DeepSketcher: Internalizing Visual Manipulation for Multimodal Reasoning**
+
+- Paper: <https://arxiv.org/abs/2509.25866>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/deepsketcher_intern…](https://papernotes.org/CVPR2026/multimodal_vlm/deepsketcher_internalizing_visual_manipulation_for_multimodal_reasoning/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/deepsketcher_int…](https://en.papernotes.org/CVPR2026/multimodal_vlm/deepsketcher_internalizing_visual_manipulation_for_multimodal_reasoning/)
+
+**Where MLLMs Attend and What They Rely On: Explaining Autoregressive Token Generation**
+
+- Paper: <https://arxiv.org/abs/2509.22496>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/where_mllms_attend_…](https://papernotes.org/CVPR2026/multimodal_vlm/where_mllms_attend_and_what_they_rely_on_explaining_autoregressive_token_generat/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/where_mllms_atte…](https://en.papernotes.org/CVPR2026/multimodal_vlm/where_mllms_attend_and_what_they_rely_on_explaining_autoregressive_token_generat/)
+
+**FORCE: Transferable Visual Jailbreaking Attacks via Feature Over-Reliance CorrEction**
+
+- Paper: <https://arxiv.org/abs/2509.21029>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/force_transferable_visu…](https://papernotes.org/CVPR2026/llm_safety/force_transferable_visual_jailbreaking_attacks_via_feature_over_reliance_correct/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/force_transferable_v…](https://en.papernotes.org/CVPR2026/llm_safety/force_transferable_visual_jailbreaking_attacks_via_feature_over_reliance_correct/)
+
+**Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection**
+
+- Paper: <https://arxiv.org/abs/2509.03113>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/mitigating_multimod…](https://papernotes.org/CVPR2026/multimodal_vlm/mitigating_multimodal_hallucinations_via_gradient-based_self-reflection/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/mitigating_multi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/mitigating_multimodal_hallucinations_via_gradient-based_self-reflection/)
+
+**Variation-aware Vision Token Dropping for Faster Large Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2509.01552>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/variation-aware_vis…](https://papernotes.org/CVPR2026/multimodal_vlm/variation-aware_vision_token_dropping_for_faster_large_vision-language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/variation-aware_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/variation-aware_vision_token_dropping_for_faster_large_vision-language_models/)
+
+**CrossHOI-Bench: A Unified Benchmark for HOI Evaluation across Vision-Language Models and HOI-Specific Methods**
+
+- Paper: <https://arxiv.org/abs/2508.18753>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/crosshoi-bench_a_un…](https://papernotes.org/CVPR2026/multimodal_vlm/crosshoi-bench_a_unified_benchmark_for_hoi_evaluation_across_vision-language_mod/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/crosshoi-bench_a…](https://en.papernotes.org/CVPR2026/multimodal_vlm/crosshoi-bench_a_unified_benchmark_for_hoi_evaluation_across_vision-language_mod/)
+
+**ZINA: Multimodal Fine-grained Hallucination Detection and Editing**
+
+- Paper: <https://arxiv.org/abs/2506.13130>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/zina_multimodal_fin…](https://papernotes.org/CVPR2026/multimodal_vlm/zina_multimodal_fine-grained_hallucination_detection_and_editing/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/zina_multimodal_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/zina_multimodal_fine-grained_hallucination_detection_and_editing/)
+
+**AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models**
+
+- Paper: <https://arxiv.org/abs/2506.09082>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/ava-bench_atomic_vi…](https://papernotes.org/CVPR2026/multimodal_vlm/ava-bench_atomic_visual_ability_benchmark_for_vision_foundation_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/ava-bench_atomic…](https://en.papernotes.org/CVPR2026/multimodal_vlm/ava-bench_atomic_visual_ability_benchmark_for_vision_foundation_models/)
+
+**VS-Bench: Evaluating VLMs for Strategic Abilities in Multi-Agent Environments**
+
+- Paper: <https://arxiv.org/abs/2506.02387>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/vs_bench_evaluating…](https://papernotes.org/CVPR2026/multimodal_vlm/vs_bench_evaluating_vlms_for_strategic_abilities_in_multi_agent_environments/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vs_bench_evaluat…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vs_bench_evaluating_vlms_for_strategic_abilities_in_multi_agent_environments/)
+
+**Learning What Matters: Prioritized Concept Learning via Relative Error-driven Sample Selection**
+
+- Paper: <https://arxiv.org/abs/2506.01085>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/learning_what_matte…](https://papernotes.org/CVPR2026/multimodal_vlm/learning_what_matters_prioritized_concept_learning_via_relative_error-driven_sam/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/learning_what_ma…](https://en.papernotes.org/CVPR2026/multimodal_vlm/learning_what_matters_prioritized_concept_learning_via_relative_error-driven_sam/)
+
+**The LLM Bottleneck: Why Open-Source Vision LLMs Struggle with Hierarchical Visual Recognition**
+
+- Paper: <https://arxiv.org/abs/2505.24840>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/the_llm_bottleneck_…](https://papernotes.org/CVPR2026/multimodal_vlm/the_llm_bottleneck_why_open-source_vision_llms_struggle_with_hierarchical_visual/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/the_llm_bottlene…](https://en.papernotes.org/CVPR2026/multimodal_vlm/the_llm_bottleneck_why_open-source_vision_llms_struggle_with_hierarchical_visual/)
+
+**Reason-SVG: Enhancing Structured Reasoning for Vector Graphics Generation with Reinforcement Learning**
+
+- Paper: <https://arxiv.org/abs/2505.24499>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/reason-svg_enhancin…](https://papernotes.org/CVPR2026/multimodal_vlm/reason-svg_enhancing_structured_reasoning_for_vector_graphics_generation_with_re/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/reason-svg_enhan…](https://en.papernotes.org/CVPR2026/multimodal_vlm/reason-svg_enhancing_structured_reasoning_for_vector_graphics_generation_with_re/)
+
+**ReasonMap: Towards Fine-Grained Visual Reasoning from Transit Maps**
+
+- Paper: <https://arxiv.org/abs/2505.18675>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/reasonmap_towards_f…](https://papernotes.org/CVPR2026/multimodal_vlm/reasonmap_towards_fine-grained_visual_reasoning_from_transit_maps/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/reasonmap_toward…](https://en.papernotes.org/CVPR2026/multimodal_vlm/reasonmap_towards_fine-grained_visual_reasoning_from_transit_maps/)
+
+**The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Contexts**
+
+- Paper: <https://arxiv.org/abs/2505.17476>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/the_coherence_trap_…](https://papernotes.org/CVPR2026/multimodal_vlm/the_coherence_trap_when_mllm-crafted_narratives_exploit_manipulated_visual_conte/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/the_coherence_tr…](https://en.papernotes.org/CVPR2026/multimodal_vlm/the_coherence_trap_when_mllm-crafted_narratives_exploit_manipulated_visual_conte/)
+
+**FALCON: False-Negative Aware Learning of Contrastive Negatives in Vision-Language Alignment**
+
+- Paper: <https://arxiv.org/abs/2505.11192>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/falcon_false-negati…](https://papernotes.org/CVPR2026/multimodal_vlm/falcon_false-negative_aware_learning_of_contrastive_negatives_in_vision-language/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/falcon_false-neg…](https://en.papernotes.org/CVPR2026/multimodal_vlm/falcon_false-negative_aware_learning_of_contrastive_negatives_in_vision-language/)
+
+**Beyond Recognition: Evaluating Visual Perspective Taking in Vision Language Models** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2505.03821>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/beyond_recognition_…](https://papernotes.org/CVPR2026/multimodal_vlm/beyond_recognition_evaluating_visual_perspective_taking_in_vision_language_model/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/beyond_recogniti…](https://en.papernotes.org/CVPR2026/multimodal_vlm/beyond_recognition_evaluating_visual_perspective_taking_in_vision_language_model/)
+
+**HumanVBench: Probing Human-Centric Video Understanding in MLLMs with Automatically Synthesized Benchmarks**
+
+- Paper: <https://arxiv.org/abs/2412.17574>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/humanvbench_probing…](https://papernotes.org/CVPR2026/multimodal_vlm/humanvbench_probing_human_centric_video_understanding_in_mllms_with_automatica/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/humanvbench_prob…](https://en.papernotes.org/CVPR2026/multimodal_vlm/humanvbench_probing_human_centric_video_understanding_in_mllms_with_automatica/)
+
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
 ---
 
 <a id="medical_imaging"></a>
 
-## 🏥 Medical Imaging · `medical_imaging` · 119 papers
+## 🏥 Medical Imaging · `medical_imaging` · 105 papers
 
 **$\oslash$ Source Models Leak What They Shouldn't $\nrightarrow$: Unlearning Zero-Shot Transfer in Domain Adaptation Through Adversarial Optimization**
 
@@ -4127,13 +4099,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/parameter-efficien…](https://papernotes.org/CVPR2026/medical_imaging/parameter-efficient_prompt_tuning_and_hierarchical_textual_guidance_for_few-shot/)
 - Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/parameter-effic…](https://en.papernotes.org/CVPR2026/medical_imaging/parameter-efficient_prompt_tuning_and_hierarchical_textual_guidance_for_few-shot/)
 
-**Cell-Type Prototype-Informed Neural Network for Gene Expression Estimation from Pathology Images**
-
-- Paper: <https://arxiv.org/abs/2603.18461>
-- Code: <https://github.com/naivete5656/CPNN>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/cell-type_prototyp…](https://papernotes.org/CVPR2026/medical_imaging/cell-type_prototype-informed_neural_network_for_gene_expression_estimation_from_/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/cell-type_proto…](https://en.papernotes.org/CVPR2026/medical_imaging/cell-type_prototype-informed_neural_network_for_gene_expression_estimation_from_/)
-
 **Learning Generalizable 3D Medical Image Representations from Mask-Guided Self-Supervision**
 
 - Paper: <https://arxiv.org/abs/2603.13660>
@@ -4145,8 +4110,8 @@
 
 - Paper: <https://arxiv.org/abs/2603.13341>
 - Code: <https://github.com/zhenyuZ-HUST/CVPR26-Mind-the-Discriminability-Trap>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/mind_the_discrimin…](https://papernotes.org/CVPR2026/medical_imaging/mind_the_discriminability_trap_in_source-free_cross-domain_few-shot_learning/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/mind_the_discri…](https://en.papernotes.org/CVPR2026/medical_imaging/mind_the_discriminability_trap_in_source-free_cross-domain_few-shot_learning/)
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/mind_the_discrimina…](https://papernotes.org/CVPR2026/multimodal_vlm/mind_the_discriminability_trap_in_source-free_cross-domain_few-shot_learning/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/mind_the_discrim…](https://en.papernotes.org/CVPR2026/multimodal_vlm/mind_the_discriminability_trap_in_source-free_cross-domain_few-shot_learning/)
 
 **Fair Lung Disease Diagnosis from Chest CT via Gender-Adversarial Attention Multiple Instance Learning**
 
@@ -4204,13 +4169,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/medkco_medical_vis…](https://papernotes.org/CVPR2026/medical_imaging/medkco_medical_vision-language_pretraining_via_knowledge-driven_cognitive_orches/)
 - Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/medkco_medical_…](https://en.papernotes.org/CVPR2026/medical_imaging/medkco_medical_vision-language_pretraining_via_knowledge-driven_cognitive_orches/)
 
-**VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer**
-
-- Paper: <https://arxiv.org/abs/2603.07952>
-- Code: <https://github.com/7HHHHH/VisualAD>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/visualad_language-…](https://papernotes.org/CVPR2026/medical_imaging/visualad_language-free_zero-shot_anomaly_detection_via_vision_transformer/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/visualad_langua…](https://en.papernotes.org/CVPR2026/medical_imaging/visualad_language-free_zero-shot_anomaly_detection_via_vision_transformer/)
-
 **Reclaiming Lost Text Layers for Source-Free Cross-Domain Few-Shot Learning**
 
 - Paper: <https://arxiv.org/abs/2603.05235>
@@ -4231,13 +4189,6 @@
 - Code: <https://github.com/derekshiii/Tell2Adapt>
 - Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/tell2adapt_a_unifi…](https://papernotes.org/CVPR2026/medical_imaging/tell2adapt_a_unified_framework_for_source_free_unsupervised_domain_adaptation_vi/)
 - Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/tell2adapt_a_un…](https://en.papernotes.org/CVPR2026/medical_imaging/tell2adapt_a_unified_framework_for_source_free_unsupervised_domain_adaptation_vi/)
-
-**MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection**
-
-- Paper: <https://arxiv.org/abs/2603.03101>
-- Code: <https://github.com/CoCoRessa/MoECLIP>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/moeclip_patch-spec…](https://papernotes.org/CVPR2026/medical_imaging/moeclip_patch-specialized_experts_for_zero-shot_anomaly_detection/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/moeclip_patch-s…](https://en.papernotes.org/CVPR2026/medical_imaging/moeclip_patch-specialized_experts_for_zero-shot_anomaly_detection/)
 
 **Adaptive Confidence Regularization for Multimodal Failure Detection**
 
@@ -4295,26 +4246,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/cure_curriculum-gu…](https://papernotes.org/CVPR2026/medical_imaging/cure_curriculum-guided_multi-task_training_for_reliable_anatomy_grounded_report_/)
 - Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/cure_curriculum…](https://en.papernotes.org/CVPR2026/medical_imaging/cure_curriculum-guided_multi-task_training_for_reliable_anatomy_grounded_report_/)
 
-**Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control**
-
-- Paper: <https://arxiv.org/abs/2512.21058>
-- Code: <https://github.com/Hanminghao/UniPath>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/beyond_pixel_simul…](https://papernotes.org/CVPR2026/medical_imaging/beyond_pixel_simulation_pathology_image_generation_via_diagnostic_semantic_token/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/beyond_pixel_si…](https://en.papernotes.org/CVPR2026/medical_imaging/beyond_pixel_simulation_pathology_image_generation_via_diagnostic_semantic_token/)
-
 **Instruction-Guided Lesion Segmentation for Chest X-rays with Automatically Generated Large-Scale Dataset**
 
 - Paper: <https://arxiv.org/abs/2511.15186>
 - Code: <https://github.com/checkoneee/ROSALIA>
 - Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/instruction-guided…](https://papernotes.org/CVPR2026/medical_imaging/instruction-guided_lesion_segmentation_for_chest_x-rays_with_automatically_gener/)
 - Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/instruction-gui…](https://en.papernotes.org/CVPR2026/medical_imaging/instruction-guided_lesion_segmentation_for_chest_x-rays_with_automatically_gener/)
-
-**Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data**
-
-- Paper: <https://arxiv.org/abs/2508.01450>
-- Code: <https://github.com/mihara-bot/DIQ>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/towards_efficient_…](https://papernotes.org/CVPR2026/medical_imaging/towards_efficient_medical_reasoning_with_minimal_fine-tuning_data/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/towards_efficie…](https://en.papernotes.org/CVPR2026/medical_imaging/towards_efficient_medical_reasoning_with_minimal_fine-tuning_data/)
 
 **Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models**
 
@@ -4375,8 +4312,8 @@
 **SVC 2026: the Second Multimodal Deception Detection Challenge and the First Domain Generalized Remote Physiological Measurement Challenge** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2604.05748>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/svc_2026_the_secon…](https://papernotes.org/CVPR2026/medical_imaging/svc_2026_the_second_multimodal_deception_detection_challenge_and_the_first_domai/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/svc_2026_the_se…](https://en.papernotes.org/CVPR2026/medical_imaging/svc_2026_the_second_multimodal_deception_detection_challenge_and_the_first_domai/)
+- Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/svc_2026_the_s…](https://papernotes.org/CVPR2026/human_understanding/svc_2026_the_second_multimodal_deception_detection_challenge_and_the_first_domai/)
+- Notes (English): [en.papernotes.org/CVPR2026/human_understanding/svc_2026_th…](https://en.papernotes.org/CVPR2026/human_understanding/svc_2026_the_second_multimodal_deception_detection_challenge_and_the_first_domai/)
 
 **EchoAgent: Towards Reliable Echocardiography Interpretation with "Eyes","Hands" and "Minds"**
 
@@ -4387,8 +4324,8 @@
 **XSeg: A Large-scale X-ray Contraband Segmentation Benchmark For Real-World Security Screening**
 
 - Paper: <https://arxiv.org/abs/2604.03706>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/xseg_a_large-scale…](https://papernotes.org/CVPR2026/medical_imaging/xseg_a_large-scale_x-ray_contraband_segmentation_benchmark_for_real-world_securi/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/xseg_a_large-sc…](https://en.papernotes.org/CVPR2026/medical_imaging/xseg_a_large-scale_x-ray_contraband_segmentation_benchmark_for_real-world_securi/)
+- Notes (Chinese): [papernotes.org/CVPR2026/segmentation/xseg_a_large-scale_x-…](https://papernotes.org/CVPR2026/segmentation/xseg_a_large-scale_x-ray_contraband_segmentation_benchmark_for_real-world_securi/)
+- Notes (English): [en.papernotes.org/CVPR2026/segmentation/xseg_a_large-scale…](https://en.papernotes.org/CVPR2026/segmentation/xseg_a_large-scale_x-ray_contraband_segmentation_benchmark_for_real-world_securi/)
 
 **RDFace: A Benchmark Dataset for Rare Disease Facial Image Analysis under Extreme Data Scarcity and Phenotype-Aware Synthetic Generation**
 
@@ -4426,12 +4363,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/better_than_averag…](https://papernotes.org/CVPR2026/medical_imaging/better_than_average_spatially-aware_aggregation_of_segmentation_uncertainty_impr/)
 - Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/better_than_ave…](https://en.papernotes.org/CVPR2026/medical_imaging/better_than_average_spatially-aware_aggregation_of_segmentation_uncertainty_impr/)
 
-**MUST: Modality-Specific Representation-Aware Transformer for Diffusion-Enhanced Survival Prediction with Missing Modality**
-
-- Paper: <https://arxiv.org/abs/2603.26071>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/must_modality-spec…](https://papernotes.org/CVPR2026/medical_imaging/must_modality-specific_representation-aware_transformer_for_diffusion-enhanced_s/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/must_modality-s…](https://en.papernotes.org/CVPR2026/medical_imaging/must_modality-specific_representation-aware_transformer_for_diffusion-enhanced_s/)
-
 **Modeling Spatiotemporal Neural Frames for High Resolution Brain Dynamic**
 
 - Paper: <https://arxiv.org/abs/2603.24176>
@@ -4441,14 +4372,8 @@
 **Mitigating Object Hallucinations in LVLMs via Attention Imbalance Rectification** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2603.24058>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/mitigating_object_…](https://papernotes.org/CVPR2026/medical_imaging/mitigating_object_hallucinations_in_lvlms_via_attention_imbalance_rectification/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/mitigating_obje…](https://en.papernotes.org/CVPR2026/medical_imaging/mitigating_object_hallucinations_in_lvlms_via_attention_imbalance_rectification/)
-
-**Cross-Slice Knowledge Transfer via Masked Multi-Modal Heterogeneous Graph Contrastive Learning for Spatial Gene Expression Inference**
-
-- Paper: <https://arxiv.org/abs/2603.22821>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/cross-slice_knowle…](https://papernotes.org/CVPR2026/medical_imaging/cross-slice_knowledge_transfer_via_masked_multi-modal_heterogeneous_graph_contra/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/cross-slice_kno…](https://en.papernotes.org/CVPR2026/medical_imaging/cross-slice_knowledge_transfer_via_masked_multi-modal_heterogeneous_graph_contra/)
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/mitigating_object_hallu…](https://papernotes.org/CVPR2026/llm_safety/mitigating_object_hallucinations_in_lvlms_via_attention_imbalance_rectification/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/mitigating_object_ha…](https://en.papernotes.org/CVPR2026/llm_safety/mitigating_object_hallucinations_in_lvlms_via_attention_imbalance_rectification/)
 
 **OmniFM: Toward Modality-Robust and Task-Agnostic Federated Learning for Heterogeneous Medical Imaging**
 
@@ -4522,12 +4447,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/a_protocol_for_eva…](https://papernotes.org/CVPR2026/medical_imaging/a_protocol_for_evaluating_robustness_to_he_stainin/)
 - Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/a_protocol_for_…](https://en.papernotes.org/CVPR2026/medical_imaging/a_protocol_for_evaluating_robustness_to_he_stainin/)
 
-**Multimodal Protein Language Models for Enzyme Kinetic Parameters: From Substrate Recognition to Conformational Adaptation**
-
-- Paper: <https://arxiv.org/abs/2603.12845>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/multimodal_protein…](https://papernotes.org/CVPR2026/medical_imaging/multimodal_protein_language_models_for_enzyme_kinetic_parameters_from_substrate_/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/multimodal_prot…](https://en.papernotes.org/CVPR2026/medical_imaging/multimodal_protein_language_models_for_enzyme_kinetic_parameters_from_substrate_/)
-
 **Residual SODAP: Residual Self-Organizing Domain-Adaptive Prompting with Structural Knowledge Preservation for Continual Learning**
 
 - Paper: <https://arxiv.org/abs/2603.12816>
@@ -4549,8 +4468,8 @@
 **Marker-Based 3D Reconstruction of Aggregates with a Comparative Analysis of 2D and 3D Morphologies**
 
 - Paper: <https://arxiv.org/abs/2603.12667>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/markerbased_3d_rec…](https://papernotes.org/CVPR2026/medical_imaging/markerbased_3d_reconstruction_of_aggregates_with_a/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/markerbased_3d_…](https://en.papernotes.org/CVPR2026/medical_imaging/markerbased_3d_reconstruction_of_aggregates_with_a/)
+- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/markerbased_3d_reconstru…](https://papernotes.org/CVPR2026/3d_vision/markerbased_3d_reconstruction_of_aggregates_with_a/)
+- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/markerbased_3d_recons…](https://en.papernotes.org/CVPR2026/3d_vision/markerbased_3d_reconstruction_of_aggregates_with_a/)
 
 **Decoding Matters: Efficient Mamba-Based Decoder with Distribution-Aware Deep Supervision for Medical Image Segmentation**
 
@@ -4599,12 +4518,6 @@
 - Paper: <https://arxiv.org/abs/2603.11827>
 - Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/multimodal_classif…](https://papernotes.org/CVPR2026/medical_imaging/multimodal_classification_of_radiation-induced_contrast_enhancements_and_tumor_r/)
 - Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/multimodal_clas…](https://en.papernotes.org/CVPR2026/medical_imaging/multimodal_classification_of_radiation-induced_contrast_enhancements_and_tumor_r/)
-
-**Automated Detection of Malignant Lesions in the Ovary Using Deep Learning Models and XAI**
-
-- Paper: <https://arxiv.org/abs/2603.11818>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/automated_detectio…](https://papernotes.org/CVPR2026/medical_imaging/automated_detection_of_malignant_lesions_in_the_ov/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/automated_detec…](https://en.papernotes.org/CVPR2026/medical_imaging/automated_detection_of_malignant_lesions_in_the_ov/)
 
 **Developing Foundation Models for Universal Segmentation from 3D Whole-Body Positron Emission Tomography**
 
@@ -4675,8 +4588,8 @@
 **Active Inference for Micro-Gesture Recognition: EFE-Guided Temporal Sampling and Adaptive Learning**
 
 - Paper: <https://arxiv.org/abs/2603.07559>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/active_inference_f…](https://papernotes.org/CVPR2026/medical_imaging/active_inference_for_micro-gesture_recognition_efe-guided_temporal_sampling_and_/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/active_inferenc…](https://en.papernotes.org/CVPR2026/medical_imaging/active_inference_for_micro-gesture_recognition_efe-guided_temporal_sampling_and_/)
+- Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/active_inferen…](https://papernotes.org/CVPR2026/human_understanding/active_inference_for_micro-gesture_recognition_efe-guided_temporal_sampling_and_/)
+- Notes (English): [en.papernotes.org/CVPR2026/human_understanding/active_infe…](https://en.papernotes.org/CVPR2026/human_understanding/active_inference_for_micro-gesture_recognition_efe-guided_temporal_sampling_and_/)
 
 **A Semi-Supervised Framework for Breast Ultrasound Segmentation with Training-Free Pseudo-Label Generation and Label Refinement**
 
@@ -4713,18 +4626,6 @@
 - Paper: <https://arxiv.org/abs/2602.24222>
 - Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/muvit_multi-resolu…](https://papernotes.org/CVPR2026/medical_imaging/muvit_multi-resolution_vision_transformers_for_learning_across_scales_in_microsc/)
 - Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/muvit_multi-res…](https://en.papernotes.org/CVPR2026/medical_imaging/muvit_multi-resolution_vision_transformers_for_learning_across_scales_in_microsc/)
-
-**CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis**
-
-- Paper: <https://arxiv.org/abs/2602.21637>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/care_a_molecular-g…](https://papernotes.org/CVPR2026/medical_imaging/care_a_molecular-guided_foundation_model_with_adaptive_region_modeling_for_whole/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/care_a_molecula…](https://en.papernotes.org/CVPR2026/medical_imaging/care_a_molecular-guided_foundation_model_with_adaptive_region_modeling_for_whole/)
-
-**Momentum Memory for Knowledge Distillation in Computational Pathology**
-
-- Paper: <https://arxiv.org/abs/2602.21395>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/momentum_memory_fo…](https://papernotes.org/CVPR2026/medical_imaging/momentum_memory_for_knowledge_distillation_in_computational_pathology/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/momentum_memory…](https://en.papernotes.org/CVPR2026/medical_imaging/momentum_memory_for_knowledge_distillation_in_computational_pathology/)
 
 **MedCLIPSeg: Probabilistic Vision-Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation**
 
@@ -4775,13 +4676,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/medgen-bench_conte…](https://papernotes.org/CVPR2026/medical_imaging/medgen-bench_contextually_entangled_benchmark_for_open-ended_multimodal_medical_/)
 - Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/medgen-bench_co…](https://en.papernotes.org/CVPR2026/medical_imaging/medgen-bench_contextually_entangled_benchmark_for_open-ended_multimodal_medical_/)
 
-**cryoSENSE: Compressive Sensing Enables High-throughput Microscopy with Sparse and Generative Priors on the Protein Cryo-EM Image Manifold**
-
-- Paper: <https://arxiv.org/abs/2511.12931>
-- Project: <https://cryosense.github.io>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/cryosense_compress…](https://papernotes.org/CVPR2026/medical_imaging/cryosense_compressive_sensing_enables_high-throughput_microscopy_with_sparse_and/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/cryosense_compr…](https://en.papernotes.org/CVPR2026/medical_imaging/cryosense_compressive_sensing_enables_high-throughput_microscopy_with_sparse_and/)
-
 **OraPO: Oracle-educated Reinforcement Learning for Data-efficient and Factual Radiology Report Generation**
 
 - Paper: <https://arxiv.org/abs/2509.18600>
@@ -4793,12 +4687,6 @@
 - Paper: <https://arxiv.org/abs/2505.19161>
 - Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/benchmarking_endos…](https://papernotes.org/CVPR2026/medical_imaging/benchmarking_endoscopic_surgical_image_restoration_and_beyond/)
 - Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/benchmarking_en…](https://en.papernotes.org/CVPR2026/medical_imaging/benchmarking_endoscopic_surgical_image_restoration_and_beyond/)
-
-**InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models**
-
-- Paper: <https://arxiv.org/abs/2504.05662>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/invad_inversion-ba…](https://papernotes.org/CVPR2026/medical_imaging/invad_inversion-based_reconstruction-free_anomaly_detection_with_diffusion_model/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/invad_inversion…](https://en.papernotes.org/CVPR2026/medical_imaging/invad_inversion-based_reconstruction-free_anomaly_detection_with_diffusion_model/)
 
 **Synergistic Bleeding Region and Point Detection in Laparoscopic Surgical Videos**
 
@@ -4816,14 +4704,8 @@
 
 - Paper: <https://arxiv.org/abs/2412.04880>
 - Project: <https://papieta.github.io/MozzaVID/>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/mozzavid_mozzarell…](https://papernotes.org/CVPR2026/medical_imaging/mozzavid_mozzarella_volumetric_image_dataset/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/mozzavid_mozzar…](https://en.papernotes.org/CVPR2026/medical_imaging/mozzavid_mozzarella_volumetric_image_dataset/)
-
-**Bidirectional Multimodal Prompt Learning with Scale-Aware Training for Few-Shot Multi-Class Anomaly Detection**
-
-- Paper: <https://arxiv.org/abs/2408.13516>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/bidirectional_mult…](https://papernotes.org/CVPR2026/medical_imaging/bidirectional_multimodal_prompt_learning_with_scale-aware_training_for_few-shot_/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/bidirectional_m…](https://en.papernotes.org/CVPR2026/medical_imaging/bidirectional_multimodal_prompt_learning_with_scale-aware_training_for_few-shot_/)
+- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/mozzavid_mozzarella_volu…](https://papernotes.org/CVPR2026/3d_vision/mozzavid_mozzarella_volumetric_image_dataset/)
+- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/mozzavid_mozzarella_v…](https://en.papernotes.org/CVPR2026/3d_vision/mozzavid_mozzarella_volumetric_image_dataset/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -4831,7 +4713,7 @@
 
 <a id="autonomous_driving"></a>
 
-## 🚗 Autonomous Driving · `autonomous_driving` · 87 papers
+## 🚗 Autonomous Driving · `autonomous_driving` · 88 papers
 
 **InCaRPose: In-Cabin Relative Camera Pose Estimation Model and Dataset** · 🛠️ Workshop
 
@@ -5312,6 +5194,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/autonomous_driving/nord_a_data-eff…](https://papernotes.org/CVPR2026/autonomous_driving/nord_a_data-efficient_vision-language-action_model_that_drives_without_reasoning/)
 - Notes (English): [en.papernotes.org/CVPR2026/autonomous_driving/nord_a_data-…](https://en.papernotes.org/CVPR2026/autonomous_driving/nord_a_data-efficient_vision-language-action_model_that_drives_without_reasoning/)
 
+**VGGDrive: Empowering Vision-Language Models with Cross-View Geometric Grounding for Autonomous Driving**
+
+- Paper: <https://arxiv.org/abs/2602.20794>
+- Notes (Chinese): [papernotes.org/CVPR2026/autonomous_driving/vggdrive_empowe…](https://papernotes.org/CVPR2026/autonomous_driving/vggdrive_empowering_vision-language_models_with_cross-view_geometric_grounding_f/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/vggdrive_empower…](https://en.papernotes.org/CVPR2026/multimodal_vlm/vggdrive_empowering_vision-language_models_with_cross-view_geometric_grounding_f/)
+
 **Open-Vocabulary Domain Generalization in Urban-Scene Segmentation**
 
 - Paper: <https://arxiv.org/abs/2602.18853>
@@ -5391,7 +5279,7 @@
 
 <a id="segmentation"></a>
 
-## ✂️ Segmentation · `segmentation` · 85 papers
+## ✂️ Segmentation · `segmentation` · 83 papers
 
 **Love Me, Love My Label: Rethinking the Role of Labels in Prompt Retrieval for Visual In-Context Learning**
 
@@ -5490,13 +5378,6 @@
 - Code: <https://github.com/mrazhou/DPAD>
 - Notes (Chinese): [papernotes.org/CVPR2026/segmentation/discriminative_percep…](https://papernotes.org/CVPR2026/segmentation/discriminative_perception_via_anchored_description_for_reasoning_segmentation/)
 - Notes (English): [en.papernotes.org/CVPR2026/segmentation/discriminative_per…](https://en.papernotes.org/CVPR2026/segmentation/discriminative_perception_via_anchored_description_for_reasoning_segmentation/)
-
-**Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation**
-
-- Paper: <https://arxiv.org/abs/2603.02554>
-- Code: <https://github.com/Younger-hua/GKD>
-- Notes (Chinese): [papernotes.org/CVPR2026/segmentation/generalizable_knowled…](https://papernotes.org/CVPR2026/segmentation/generalizable_knowledge_distillation_from_vision_foundation_models_for_semantic_/)
-- Notes (English): [en.papernotes.org/CVPR2026/segmentation/generalizable_know…](https://en.papernotes.org/CVPR2026/segmentation/generalizable_knowledge_distillation_from_vision_foundation_models_for_semantic_/)
 
 **MixerCSeg: An Efficient Mixer Architecture for Crack Segmentation via Decoupled Mamba Attention**
 
@@ -5599,12 +5480,6 @@
 - Paper: <https://arxiv.org/abs/2603.28142>
 - Notes (Chinese): [papernotes.org/CVPR2026/segmentation/recyclelora_rank-reve…](https://papernotes.org/CVPR2026/segmentation/recyclelora_rank-revealing_qr-based_dual-lora_subspace_adaptation_for_domain_gen/)
 - Notes (English): [en.papernotes.org/CVPR2026/segmentation/recyclelora_rank-r…](https://en.papernotes.org/CVPR2026/segmentation/recyclelora_rank-revealing_qr-based_dual-lora_subspace_adaptation_for_domain_gen/)
-
-**Towards Context-Aware Image Anonymization with Multi-Agent Reasoning** · 🛠️ Workshop
-
-- Paper: <https://arxiv.org/abs/2603.27817>
-- Notes (Chinese): [papernotes.org/CVPR2026/segmentation/towards_context-aware…](https://papernotes.org/CVPR2026/segmentation/towards_context-aware_image_anonymization_with_multi-agent_reasoning/)
-- Notes (English): [en.papernotes.org/CVPR2026/segmentation/towards_context-aw…](https://en.papernotes.org/CVPR2026/segmentation/towards_context-aware_image_anonymization_with_multi-agent_reasoning/)
 
 **K$α$LOS finds Consensus: A Meta-Algorithm for Evaluating Inter-Annotator Agreement in Complex Vision Tasks**
 
@@ -5769,8 +5644,8 @@
 **Comparative Evaluation of Traditional Methods and Deep Learning for Brain Glioma Imaging. Review Paper**
 
 - Paper: <https://arxiv.org/abs/2603.04796>
-- Notes (Chinese): [papernotes.org/CVPR2026/segmentation/comparative_evaluatio…](https://papernotes.org/CVPR2026/segmentation/comparative_evaluation_of_traditional_methods_and_deep_learning_for_brain_glioma/)
-- Notes (English): [en.papernotes.org/CVPR2026/segmentation/comparative_evalua…](https://en.papernotes.org/CVPR2026/segmentation/comparative_evaluation_of_traditional_methods_and_deep_learning_for_brain_glioma/)
+- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/comparative_evalua…](https://papernotes.org/CVPR2026/medical_imaging/comparative_evaluation_of_traditional_methods_and_deep_learning_for_brain_glioma/)
+- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/comparative_eva…](https://en.papernotes.org/CVPR2026/medical_imaging/comparative_evaluation_of_traditional_methods_and_deep_learning_for_brain_glioma/)
 
 **Pointer-CAD: Unifying B-Rep and Command Sequences via Pointer-based Edges & Faces Selection**
 
@@ -5938,7 +5813,7 @@
 
 <a id="video_understanding"></a>
 
-## 📹 Video Understanding · `video_understanding` · 73 papers
+## 📹 Video Understanding · `video_understanding` · 68 papers
 
 **VecAttention: Vector-wise Sparse Attention for Accelerating Long Context Inference**
 
@@ -5960,13 +5835,6 @@
 - Code: <https://github.com/jack1ee/SAVAX>
 - Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/savax_egotoexo…](https://papernotes.org/CVPR2026/video_understanding/savax_egotoexo_imitation_error_detection_via_scene/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_understanding/savax_egoto…](https://en.papernotes.org/CVPR2026/video_understanding/savax_egotoexo_imitation_error_detection_via_scene/)
-
-**RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation**
-
-- Paper: <https://arxiv.org/abs/2603.03617>
-- Code: <https://github.com/IdolLab/RAGTrack>
-- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/ragtrack_langu…](https://papernotes.org/CVPR2026/video_understanding/ragtrack_language-aware_rgbt_tracking_with_retrieval-augmented_generation/)
-- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/ragtrack_la…](https://en.papernotes.org/CVPR2026/video_understanding/ragtrack_language-aware_rgbt_tracking_with_retrieval-augmented_generation/)
 
 **UETrack: A Unified and Efficient Framework for Single Object Tracking**
 
@@ -5996,12 +5864,26 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/longvideo-r1_s…](https://papernotes.org/CVPR2026/video_understanding/longvideo-r1_smart_navigation_for_low-cost_long_video_understanding/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_understanding/longvideo-r…](https://en.papernotes.org/CVPR2026/video_understanding/longvideo-r1_smart_navigation_for_low-cost_long_video_understanding/)
 
+**No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection**
+
+- Paper: <https://arxiv.org/abs/2602.19248>
+- Code: <https://github.com/VitaminCreed/LAVIDA>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/no_need_for_re…](https://papernotes.org/CVPR2026/video_understanding/no_need_for_real_anomaly_mllm_empowered_zero-shot_video_anomaly_detection/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/no_need_for_real…](https://en.papernotes.org/CVPR2026/multimodal_vlm/no_need_for_real_anomaly_mllm_empowered_zero-shot_video_anomaly_detection/)
+
 **Frame2Freq: Spectral Adapters for Fine-Grained Video Understanding**
 
 - Paper: <https://arxiv.org/abs/2602.18977>
 - Code: <https://github.com/th-nesh/Frame2Freq>
 - Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/frame2freq_spe…](https://papernotes.org/CVPR2026/video_understanding/frame2freq_spectral_adapters_for_fine-grained_video_understanding/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_understanding/frame2freq_…](https://en.papernotes.org/CVPR2026/video_understanding/frame2freq_spectral_adapters_for_fine-grained_video_understanding/)
+
+**Text-guided Fine-Grained Video Anomaly Understanding** · 🛠️ Workshop
+
+- Paper: <https://arxiv.org/abs/2511.00524>
+- Code: <https://github.com/momiji-bit/T-VAU>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/text-guided_fi…](https://papernotes.org/CVPR2026/video_understanding/text-guided_fine-grained_video_anomaly_understanding/)
+- Notes (English): [en.papernotes.org/CVPR2026/interpretability/text-guided_fi…](https://en.papernotes.org/CVPR2026/interpretability/text-guided_fine-grained_video_anomaly_understanding/)
 
 **Rethinking Two-Stage Referring-by-Tracking in Referring Multi-Object Tracking: Make it Strong Again**
 
@@ -6040,12 +5922,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/adaspark_adapt…](https://papernotes.org/CVPR2026/video_understanding/adaspark_adaptive_sparsity_for_efficient_long_video_understanding/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_understanding/adaspark_ad…](https://en.papernotes.org/CVPR2026/video_understanding/adaspark_adaptive_sparsity_for_efficient_long_video_understanding/)
 
-**SVAgent: Storyline-Guided Long Video Understanding via Cross-Modal Multi-Agent Collaboration**
-
-- Paper: <https://arxiv.org/abs/2604.05079>
-- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/svagent_storyl…](https://papernotes.org/CVPR2026/video_understanding/svagent_storyline_guided_long_video_understanding_via_cross_modal_multi_agent_collaboration/)
-- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/svagent_sto…](https://en.papernotes.org/CVPR2026/video_understanding/svagent_storyline_guided_long_video_understanding_via_cross_modal_multi_agent_collaboration/)
-
 **Drift-Resilient Temporal Priors for Visual Tracking**
 
 - Paper: <https://arxiv.org/abs/2604.02654>
@@ -6064,23 +5940,17 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/skeletoncontex…](https://papernotes.org/CVPR2026/video_understanding/skeletoncontext_skeleton-side_context_prompt_learning_for_zero-shot_skeleton-bas/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_understanding/skeletoncon…](https://en.papernotes.org/CVPR2026/video_understanding/skeletoncontext_skeleton-side_context_prompt_learning_for_zero-shot_skeleton-bas/)
 
-**MaskAdapt: Learning Flexible Motion Adaptation via Mask-Invariant Prior for Physics-Based Characters**
-
-- Paper: <https://arxiv.org/abs/2603.29272>
-- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/maskadapt_lear…](https://papernotes.org/CVPR2026/video_understanding/maskadapt_learning_flexible_motion_adaptation_via_mask-invariant_prior_for_physi/)
-- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/maskadapt_l…](https://en.papernotes.org/CVPR2026/video_understanding/maskadapt_learning_flexible_motion_adaptation_via_mask-invariant_prior_for_physi/)
-
-**SHOW3D: Capturing Scenes of 3D Hands and Objects in the Wild**
-
-- Paper: <https://arxiv.org/abs/2603.28760>
-- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/show3d_capturi…](https://papernotes.org/CVPR2026/video_understanding/show3d_capturing_scenes_of_3d_hands_and_objects_in_the_wild/)
-- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/show3d_capt…](https://en.papernotes.org/CVPR2026/video_understanding/show3d_capturing_scenes_of_3d_hands_and_objects_in_the_wild/)
-
 **Event6D: Event-based Novel Object 6D Pose Tracking**
 
 - Paper: <https://arxiv.org/abs/2603.28045>
 - Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/event6d_event-…](https://papernotes.org/CVPR2026/video_understanding/event6d_event-based_novel_object_6d_pose_tracking/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_understanding/event6d_eve…](https://en.papernotes.org/CVPR2026/video_understanding/event6d_event-based_novel_object_6d_pose_tracking/)
+
+**Pioneering Perceptual Video Fluency Assessment: A Novel Task with Benchmark Dataset and Baseline** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2603.26055>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/pioneering_per…](https://papernotes.org/CVPR2026/video_understanding/pioneering_perceptual_video_fluency_assessment_a_novel_task_with_benchmark_datas/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/pioneering_perce…](https://en.papernotes.org/CVPR2026/llm_evaluation/pioneering_perceptual_video_fluency_assessment_a_novel_task_with_benchmark_datas/)
 
 **SlotVTG: Object-Centric Adapter for Generalizable Video Temporal Grounding** · 🛠️ Workshop
 
@@ -6088,12 +5958,11 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/slotvtg_object…](https://papernotes.org/CVPR2026/video_understanding/slotvtg_object-centric_adapter_for_generalizable_video_temporal_grounding/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_understanding/slotvtg_obj…](https://en.papernotes.org/CVPR2026/video_understanding/slotvtg_object-centric_adapter_for_generalizable_video_temporal_grounding/)
 
-**EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions**
+**TacSIm: A Dataset and Benchmark for Football Tactical Style Imitation**
 
-- Paper: <https://arxiv.org/abs/2603.25135>
-- Project: <https://taegyoun88.github.io/EgoXtreme/>
-- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/egoxtreme_a_da…](https://papernotes.org/CVPR2026/video_understanding/egoxtreme_a_dataset_for_robust_object_pose_estimation_in_egocentric_views_under_/)
-- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/egoxtreme_a…](https://en.papernotes.org/CVPR2026/video_understanding/egoxtreme_a_dataset_for_robust_object_pose_estimation_in_egocentric_views_under_/)
+- Paper: <https://arxiv.org/abs/2603.25199>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/tacsim_a_datas…](https://papernotes.org/CVPR2026/video_understanding/tacsim_a_dataset_and_benchmark_for_football_tactical_style_imitation/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/tacsim_a_dataset…](https://en.papernotes.org/CVPR2026/llm_evaluation/tacsim_a_dataset_and_benchmark_for_football_tactical_style_imitation/)
 
 **CVA: Context-aware Video-text Alignment for Video Temporal Grounding**
 
@@ -6212,12 +6081,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/beyond_single-…](https://papernotes.org/CVPR2026/video_understanding/beyond_single-sample_reliable_multi-sample_distillation_for_video_understanding/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_understanding/beyond_sing…](https://en.papernotes.org/CVPR2026/video_understanding/beyond_single-sample_reliable_multi-sample_distillation_for_video_understanding/)
 
-**Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning**
-
-- Paper: <https://arxiv.org/abs/2603.11346>
-- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/learning_to_as…](https://papernotes.org/CVPR2026/video_understanding/learning_to_assist_physics-grounded_human-human_control_via_multi-agent_reinforc/)
-- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/learning_to…](https://en.papernotes.org/CVPR2026/video_understanding/learning_to_assist_physics-grounded_human-human_control_via_multi-agent_reinforc/)
-
 **StreamReady: Learning What to Answer and When in Long Streaming Videos**
 
 - Paper: <https://arxiv.org/abs/2603.08620>
@@ -6260,6 +6123,12 @@
 - Project: <https://tyroneli.github.io/AOT>
 - Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/token_reductio…](https://papernotes.org/CVPR2026/video_understanding/token_reduction_via_local_and_global_contexts_optimization_for_efficient_video_l/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_understanding/token_reduc…](https://en.papernotes.org/CVPR2026/video_understanding/token_reduction_via_local_and_global_contexts_optimization_for_efficient_video_l/)
+
+**Weakly Supervised Video Anomaly Detection with Anomaly-Connected Components and Intention Reasoning**
+
+- Paper: <https://arxiv.org/abs/2603.00550>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/weakly_supervi…](https://papernotes.org/CVPR2026/video_understanding/weakly_supervised_video_anomaly_detection_with_anomaly-connected_components_and_/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/weakly_supervise…](https://en.papernotes.org/CVPR2026/llm_evaluation/weakly_supervised_video_anomaly_detection_with_anomaly-connected_components_and_/)
 
 **Wavelet-based Frame Selection by Detecting Semantic Boundary for Long Video Understanding**
 
@@ -6315,23 +6184,11 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/divide_then_gr…](https://papernotes.org/CVPR2026/video_understanding/divide_then_ground_adapting_frame_selection_to_query_types_for_long-form_video_u/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_understanding/divide_then…](https://en.papernotes.org/CVPR2026/video_understanding/divide_then_ground_adapting_frame_selection_to_query_types_for_long-form_video_u/)
 
-**Hear What Matters! Text-conditioned Selective Video-to-Audio Generation**
-
-- Paper: <https://arxiv.org/abs/2512.02650>
-- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/hear_what_matt…](https://papernotes.org/CVPR2026/video_understanding/hear_what_matters_text-conditioned_selective_video-to-audio_generation/)
-- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/hear_what_m…](https://en.papernotes.org/CVPR2026/video_understanding/hear_what_matters_text-conditioned_selective_video-to-audio_generation/)
-
 **StreamGaze: Gaze-Guided Temporal Reasoning and Proactive Understanding in Streaming Videos**
 
 - Paper: <https://arxiv.org/abs/2512.01707>
 - Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/streamgaze_gaz…](https://papernotes.org/CVPR2026/video_understanding/streamgaze_gaze-guided_temporal_reasoning_and_proactive_understanding_in_streami/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_understanding/streamgaze_…](https://en.papernotes.org/CVPR2026/video_understanding/streamgaze_gaze-guided_temporal_reasoning_and_proactive_understanding_in_streami/)
-
-**Dual-Agent Reinforcement Learning for Adaptive and Cost-Aware Visual-Inertial Odometry**
-
-- Paper: <https://arxiv.org/abs/2511.21083>
-- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/dual-agent_rei…](https://papernotes.org/CVPR2026/video_understanding/dual-agent_reinforcement_learning_for_adaptive_and_cost-aware_visual-inertial_od/)
-- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/dual-agent_…](https://en.papernotes.org/CVPR2026/video_understanding/dual-agent_reinforcement_learning_for_adaptive_and_cost-aware_visual-inertial_od/)
 
 **Mistake Attribution: Fine-Grained Mistake Understanding in Egocentric Videos**
 
@@ -6358,12 +6215,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/hieramamba_vid…](https://papernotes.org/CVPR2026/video_understanding/hieramamba_video_temporal_grounding_via_hierarchical_anchor-mamba_pooling/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_understanding/hieramamba_…](https://en.papernotes.org/CVPR2026/video_understanding/hieramamba_video_temporal_grounding_via_hierarchical_anchor-mamba_pooling/)
 
-**Ninja Codes: Neurally Generated Fiducial Markers for Stealthy 6-DoF Tracking**
-
-- Paper: <https://arxiv.org/abs/2510.18976>
-- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/ninja_codes_ne…](https://papernotes.org/CVPR2026/video_understanding/ninja_codes_neurally_generated_fiducial_markers_for_stealthy_6-dof_tracking/)
-- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/ninja_codes…](https://en.papernotes.org/CVPR2026/video_understanding/ninja_codes_neurally_generated_fiducial_markers_for_stealthy_6-dof_tracking/)
-
 **StreamingTOM: Streaming Token Compression for Efficient Video Understanding**
 
 - Paper: <https://arxiv.org/abs/2510.18269>
@@ -6389,19 +6240,13 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/vrr-qa_visual_…](https://papernotes.org/CVPR2026/video_understanding/vrr-qa_visual_relational_reasoning_in_videos_beyond_explicit_cues/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_understanding/vrr-qa_visu…](https://en.papernotes.org/CVPR2026/video_understanding/vrr-qa_visual_relational_reasoning_in_videos_beyond_explicit_cues/)
 
-**Enhancing accuracy of uncertainty estimation in appearance-based gaze tracking with probabilistic evaluation and calibration**
-
-- Paper: <https://arxiv.org/abs/2501.14894>
-- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/enhancing_accu…](https://papernotes.org/CVPR2026/video_understanding/enhancing_accuracy_of_uncertainty_estimation_in_appearance-based_gaze_tracking_w/)
-- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/enhancing_a…](https://en.papernotes.org/CVPR2026/video_understanding/enhancing_accuracy_of_uncertainty_estimation_in_appearance-based_gaze_tracking_w/)
-
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
 ---
 
 <a id="video_generation"></a>
 
-## 🎬 Video Generation · `video_generation` · 55 papers
+## 🎬 Video Generation · `video_generation` · 63 papers
 
 **When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models**
 
@@ -6457,6 +6302,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/video_generation/orbital_video_3d_…](https://papernotes.org/CVPR2026/video_generation/orbital_video_3d_foundation_priors/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_generation/orbital_video_…](https://en.papernotes.org/CVPR2026/video_generation/orbital_video_3d_foundation_priors/)
 
+**LottieGPT: Tokenizing Vector Animation for Autoregressive Generation**
+
+- Paper: <https://arxiv.org/abs/2604.11792>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_generation/lottiegpt_vector_…](https://papernotes.org/CVPR2026/video_generation/lottiegpt_vector_animation_generation/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_pretraining/lottiegpt_vecto…](https://en.papernotes.org/CVPR2026/llm_pretraining/lottiegpt_vector_animation_generation/)
+
 **Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics**
 
 - Paper: <https://arxiv.org/abs/2604.08503>
@@ -6474,6 +6325,13 @@
 - Paper: <https://arxiv.org/abs/2604.04934>
 - Notes (Chinese): [papernotes.org/CVPR2026/video_generation/vanast_virtual_tr…](https://papernotes.org/CVPR2026/video_generation/vanast_virtual_try-on_with_human_image_animation_via_synthetic_triplet_supervisi/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_generation/vanast_virtual…](https://en.papernotes.org/CVPR2026/video_generation/vanast_virtual_try-on_with_human_image_animation_via_synthetic_triplet_supervisi/)
+
+**A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens**
+
+- Paper: <https://arxiv.org/abs/2604.04913>
+- Project: <https://deltatok.github.io>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_generation/a_frame_is_worth_…](https://papernotes.org/CVPR2026/video_generation/a_frame_is_worth_one_token_efficient_generative_world_modeling_with_delta_tokens/)
+- Notes (English): [en.papernotes.org/CVPR2026/time_series/a_frame_is_worth_on…](https://en.papernotes.org/CVPR2026/time_series/a_frame_is_worth_one_token_efficient_generative_world_modeling_with_delta_tokens/)
 
 **ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos**
 
@@ -6538,6 +6396,13 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/video_generation/performrecast_exp…](https://papernotes.org/CVPR2026/video_generation/performrecast_expression_and_head_pose_disentanglement_for_portrait_video_editin/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_generation/performrecast_…](https://en.papernotes.org/CVPR2026/video_generation/performrecast_expression_and_head_pose_disentanglement_for_portrait_video_editin/)
 
+**Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models**
+
+- Paper: <https://arxiv.org/abs/2603.13215>
+- Project: <https://glab-caltech.github.io/STEVOBench/>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_generation/out_of_sight_out_…](https://papernotes.org/CVPR2026/video_generation/out_of_sight_out_of_mind_evaluating_state_evolutio/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/out_of_sight_out…](https://en.papernotes.org/CVPR2026/llm_evaluation/out_of_sight_out_of_mind_evaluating_state_evolutio/)
+
 **FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance**
 
 - Paper: <https://arxiv.org/abs/2603.12146>
@@ -6574,6 +6439,18 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/video_generation/physical_simulato…](https://papernotes.org/CVPR2026/video_generation/physical_simulator_in-the-loop_video_generation/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_generation/physical_simul…](https://en.papernotes.org/CVPR2026/video_generation/physical_simulator_in-the-loop_video_generation/)
 
+**FlowMotion: Training-Free Flow Guidance for Video Motion Transfer**
+
+- Paper: <https://arxiv.org/abs/2603.06289>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_generation/flowmotion_traini…](https://papernotes.org/CVPR2026/video_generation/flowmotion_training-free_flow_guidance_for_video_motion_transfer/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_pretraining/flowmotion_trai…](https://en.papernotes.org/CVPR2026/llm_pretraining/flowmotion_training-free_flow_guidance_for_video_motion_transfer/)
+
+**FaceCam: Portrait Video Camera Control via Scale-Aware Conditioning**
+
+- Paper: <https://arxiv.org/abs/2603.05506>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_generation/facecam_portrait_…](https://papernotes.org/CVPR2026/video_generation/facecam_portrait_video_camera_control_via_scale-aware_conditioning/)
+- Notes (English): [en.papernotes.org/CVPR2026/video_generation/facecam_portra…](https://en.papernotes.org/CVPR2026/video_generation/facecam_portrait_video_camera_control_via_scale-aware_conditioning/)
+
 **CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video**
 
 - Paper: <https://arxiv.org/abs/2603.04291>
@@ -6592,6 +6469,12 @@
 - Paper: <https://arxiv.org/abs/2603.02802>
 - Notes (Chinese): [papernotes.org/CVPR2026/video_generation/nova_sparse_contr…](https://papernotes.org/CVPR2026/video_generation/nova_sparse_control_dense_synthesis_for_pair-free_video_editing/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_generation/nova_sparse_co…](https://en.papernotes.org/CVPR2026/video_generation/nova_sparse_control_dense_synthesis_for_pair-free_video_editing/)
+
+**OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens**
+
+- Paper: <https://arxiv.org/abs/2603.02138>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_generation/omnilottie_genera…](https://papernotes.org/CVPR2026/video_generation/omnilottie_generating_vector_animations_via_parameterized_lottie_tokens/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/omnilottie_gener…](https://en.papernotes.org/CVPR2026/multimodal_vlm/omnilottie_generating_vector_animations_via_parameterized_lottie_tokens/)
 
 **FastLightGen: Fast and Light Video Generation with Fewer Steps and Parameters**
 
@@ -6642,12 +6525,17 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/goal_force_tea…](https://papernotes.org/CVPR2026/video_understanding/goal_force_teaching_video_models_to_accomplish_physics-conditioned_goals/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_understanding/goal_force_…](https://en.papernotes.org/CVPR2026/video_understanding/goal_force_teaching_video_models_to_accomplish_physics-conditioned_goals/)
 
-**NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos**
+**VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control**
 
-- Paper: <https://arxiv.org/abs/2601.00393>
-- Project: <https://neoverse-4d.github.io>
-- Notes (Chinese): [papernotes.org/CVPR2026/video_generation/neoverse_enhancin…](https://papernotes.org/CVPR2026/video_generation/neoverse_enhancing_4d_world_model_with_in-the-wild_monocular_videos/)
-- Notes (English): [en.papernotes.org/CVPR2026/video_generation/neoverse_enhan…](https://en.papernotes.org/CVPR2026/video_generation/neoverse_enhancing_4d_world_model_with_in-the-wild_monocular_videos/)
+- Paper: <https://arxiv.org/abs/2601.05138>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_generation/versecrafter_dyna…](https://papernotes.org/CVPR2026/video_generation/versecrafter_dynamic_realistic_video_world_model_with_4d_geometric_control/)
+- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/versecrafter_dynamic_…](https://en.papernotes.org/CVPR2026/3d_vision/versecrafter_dynamic_realistic_video_world_model_with_4d_geometric_control/)
+
+**Mind the Generative Details: Direct Localized Detail Preference Optimization for Video Diffusion Models**
+
+- Paper: <https://arxiv.org/abs/2601.04068>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_generation/mind_the_generati…](https://papernotes.org/CVPR2026/video_generation/mind_the_generative_details_direct_localized_detail_preference_optimization_for_/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/mind_the_generati…](https://en.papernotes.org/CVPR2026/llm_alignment/mind_the_generative_details_direct_localized_detail_preference_optimization_for_/)
 
 **DriveLaW: Unifying Planning and Video Generation in a Latent Driving World**
 
@@ -6660,6 +6548,12 @@
 - Paper: <https://arxiv.org/abs/2512.20340>
 - Notes (Chinese): [papernotes.org/CVPR2026/video_generation/the_devil_is_in_t…](https://papernotes.org/CVPR2026/video_generation/the_devil_is_in_the_details_enhancing_video_virtual_try-on_via_keyframe-driven_d/)
 - Notes (English): [en.papernotes.org/CVPR2026/video_generation/the_devil_is_i…](https://en.papernotes.org/CVPR2026/video_generation/the_devil_is_in_the_details_enhancing_video_virtual_try-on_via_keyframe-driven_d/)
+
+**Composing Concepts from Images and Videos via Concept-prompt Binding**
+
+- Paper: <https://arxiv.org/abs/2512.09824>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_generation/composing_concept…](https://papernotes.org/CVPR2026/video_generation/composing_concepts_from_images_and_videos_via_concept-prompt_binding/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/composing_concepts_from…](https://en.papernotes.org/CVPR2026/llm_nlp/composing_concepts_from_images_and_videos_via_concept-prompt_binding/)
 
 **Unified Camera Positional Encoding for Controlled Video Generation**
 
@@ -6753,7 +6647,7 @@
 
 <a id="model_compression"></a>
 
-## 📦 Model Compression · `model_compression` · 43 papers
+## 📦 Model Compression · `model_compression` · 56 papers
 
 **Critical Patch-Aware Sparse Prompting with Decoupled Training for Continual Learning on the Edge**
 
@@ -6768,6 +6662,13 @@
 - Code: <https://github.com/leonqin430/AlignPrune>
 - Notes (Chinese): [papernotes.org/CVPR2026/model_compression/beyond_loss_valu…](https://papernotes.org/CVPR2026/model_compression/beyond_loss_values_robust_dynamic_pruning_via_loss_trajectory_alignment/)
 - Notes (English): [en.papernotes.org/CVPR2026/model_compression/beyond_loss_v…](https://en.papernotes.org/CVPR2026/model_compression/beyond_loss_values_robust_dynamic_pruning_via_loss_trajectory_alignment/)
+
+**HeSS: Head Sensitivity Score for Sparsity Redistribution in VGGT**
+
+- Paper: <https://arxiv.org/abs/2603.25336>
+- Code: <https://github.com/libary753/HeSS>
+- Notes (Chinese): [papernotes.org/CVPR2026/model_compression/hess_head_sensit…](https://papernotes.org/CVPR2026/model_compression/hess_head_sensitivity_score_for_sparsity_redistribution_in_vggt/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/hess_head_sensit…](https://en.papernotes.org/CVPR2026/llm_evaluation/hess_head_sensitivity_score_for_sparsity_redistribution_in_vggt/)
 
 **PlanaReLoc: Camera Relocalization in 3D Planar Primitives via Region-Based Structure Matching**
 
@@ -6804,12 +6705,26 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/model_compression/soda_sensitivity…](https://papernotes.org/CVPR2026/model_compression/soda_sensitivity-oriented_dynamic_acceleration_for_diffusion_transformer/)
 - Notes (English): [en.papernotes.org/CVPR2026/model_compression/soda_sensitiv…](https://en.papernotes.org/CVPR2026/model_compression/soda_sensitivity-oriented_dynamic_acceleration_for_diffusion_transformer/)
 
+**DC-Merge: Improving Model Merging with Directional Consistency**
+
+- Paper: <https://arxiv.org/abs/2603.06242>
+- Code: <https://github.com/Tobeginwith/DC-Merge>
+- Notes (Chinese): [papernotes.org/CVPR2026/optimization/dc-merge_improving_mo…](https://papernotes.org/CVPR2026/optimization/dc-merge_improving_model_merging_with_directional_consistency/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/dc-merge_improvi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/dc-merge_improving_model_merging_with_directional_consistency/)
+
 **Unlocking ImageNet's Multi-Object Nature: Automated Large-Scale Multilabel Annotation** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2603.05729>
 - Code: <https://github.com/jchen175/MultiLabel-ImageNet>
 - Notes (Chinese): [papernotes.org/CVPR2026/model_compression/unlocking_imagen…](https://papernotes.org/CVPR2026/model_compression/unlocking_imagenets_multi-object_nature_automated_large-scale_multilabel_annotat/)
 - Notes (English): [en.papernotes.org/CVPR2026/model_compression/unlocking_ima…](https://en.papernotes.org/CVPR2026/model_compression/unlocking_imagenets_multi-object_nature_automated_large-scale_multilabel_annotat/)
+
+**Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation**
+
+- Paper: <https://arxiv.org/abs/2603.02554>
+- Code: <https://github.com/Younger-hua/GKD>
+- Notes (Chinese): [papernotes.org/CVPR2026/segmentation/generalizable_knowled…](https://papernotes.org/CVPR2026/segmentation/generalizable_knowledge_distillation_from_vision_foundation_models_for_semantic_/)
+- Notes (English): [en.papernotes.org/CVPR2026/segmentation/generalizable_know…](https://en.papernotes.org/CVPR2026/segmentation/generalizable_knowledge_distillation_from_vision_foundation_models_for_semantic_/)
 
 **Towards Generalizable AI-Generated Image Detection via Image-Adaptive Prompt Learning**
 
@@ -6824,6 +6739,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/model_compression/mame_and_mare_ma…](https://papernotes.org/CVPR2026/model_compression/mame_and_mare_matrix_based_token_merging_and_restoration_for_efficient_visual_perception_and_synthesis/)
 - Notes (English): [en.papernotes.org/CVPR2026/model_compression/mame_and_mare…](https://en.papernotes.org/CVPR2026/model_compression/mame_and_mare_matrix_based_token_merging_and_restoration_for_efficient_visual_perception_and_synthesis/)
 
+**QKD: Quantum-Gated Task-interaction Knowledge Distillation for Class-Incremental Learning**
+
+- Paper: <https://arxiv.org/abs/2604.11112>
+- Notes (Chinese): [papernotes.org/CVPR2026/physics/qkd_quantum_gated_incremen…](https://papernotes.org/CVPR2026/physics/qkd_quantum_gated_incremental_learning/)
+- Notes (English): [en.papernotes.org/CVPR2026/physics/qkd_quantum_gated_incre…](https://en.papernotes.org/CVPR2026/physics/qkd_quantum_gated_incremental_learning/)
+
 **RDVQ: Differentiable Vector Quantization for Rate-Distortion Optimization of Generative Image Compression**
 
 - Paper: <https://arxiv.org/abs/2604.10546>
@@ -6836,11 +6757,11 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/model_compression/memory_efficient…](https://papernotes.org/CVPR2026/model_compression/memory_efficient_transfer_learning_with_fading_side_networks/)
 - Notes (English): [en.papernotes.org/CVPR2026/model_compression/memory_effici…](https://en.papernotes.org/CVPR2026/model_compression/memory_efficient_transfer_learning_with_fading_side_networks/)
 
-**On the Robustness of Diffusion-Based Image Compression to Bit-Flip Errors**
+**Purify-then-Align: Towards Robust Human Sensing under Modality Missing with Knowledge Distillation from Noisy Multimodal Teacher** · 🛠️ Workshop
 
-- Paper: <https://arxiv.org/abs/2604.05743>
-- Notes (Chinese): [papernotes.org/CVPR2026/model_compression/on_the_robustnes…](https://papernotes.org/CVPR2026/model_compression/on_the_robustness_of_diffusion-based_image_compression_to_bit-flip_errors/)
-- Notes (English): [en.papernotes.org/CVPR2026/model_compression/on_the_robust…](https://en.papernotes.org/CVPR2026/model_compression/on_the_robustness_of_diffusion-based_image_compression_to_bit-flip_errors/)
+- Paper: <https://arxiv.org/abs/2604.05584>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/purify-then-align_t…](https://papernotes.org/CVPR2026/multimodal_vlm/purify-then-align_towards_robust_human_sensing_under_modality_missing_with_knowl/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/purify-then-alig…](https://en.papernotes.org/CVPR2026/multimodal_vlm/purify-then-align_towards_robust_human_sensing_under_modality_missing_with_knowl/)
 
 **Batch Loss Score for Dynamic Data Pruning**
 
@@ -6853,6 +6774,18 @@
 - Paper: <https://arxiv.org/abs/2604.02860>
 - Notes (Chinese): [papernotes.org/CVPR2026/model_compression/a_paradigm_shift…](https://papernotes.org/CVPR2026/model_compression/a_paradigm_shift_fully_end-to-end_training_for_temporal_sentence_grounding_in_vi/)
 - Notes (English): [en.papernotes.org/CVPR2026/model_compression/a_paradigm_sh…](https://en.papernotes.org/CVPR2026/model_compression/a_paradigm_shift_fully_end-to-end_training_for_temporal_sentence_grounding_in_vi/)
+
+**SHOW3D: Capturing Scenes of 3D Hands and Objects in the Wild**
+
+- Paper: <https://arxiv.org/abs/2603.28760>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/show3d_capturi…](https://papernotes.org/CVPR2026/video_understanding/show3d_capturing_scenes_of_3d_hands_and_objects_in_the_wild/)
+- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/show3d_capt…](https://en.papernotes.org/CVPR2026/video_understanding/show3d_capturing_scenes_of_3d_hands_and_objects_in_the_wild/)
+
+**Label-Free Cross-Task LoRA Merging with Null-Space Compression**
+
+- Paper: <https://arxiv.org/abs/2603.26317>
+- Notes (Chinese): [papernotes.org/CVPR2026/optimization/label-free_cross-task…](https://papernotes.org/CVPR2026/optimization/label-free_cross-task_lora_merging_with_null-space_compression/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/label-free_cross…](https://en.papernotes.org/CVPR2026/multimodal_vlm/label-free_cross-task_lora_merging_with_null-space_compression/)
 
 **Preference-Aligned LoRA Merging: Preserving Subspace Coverage and Addressing Directional Anisotropy**
 
@@ -6872,12 +6805,30 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/model_compression/memo_human-like_…](https://papernotes.org/CVPR2026/model_compression/memo_human-like_crisp_edge_detection_using_masked_edge_prediction/)
 - Notes (English): [en.papernotes.org/CVPR2026/model_compression/memo_human-li…](https://en.papernotes.org/CVPR2026/model_compression/memo_human-like_crisp_edge_detection_using_masked_edge_prediction/)
 
+**FAAR: Efficient Frequency-Aware Multi-Task Fine-Tuning via Automatic Rank Selection**
+
+- Paper: <https://arxiv.org/abs/2603.20403>
+- Notes (Chinese): [papernotes.org/CVPR2026/signal_comm/faar_efficient_frequen…](https://papernotes.org/CVPR2026/signal_comm/faar_efficient_frequency-aware_multi-task_fine-tuning_via_automatic_rank_selecti/)
+- Notes (English): [en.papernotes.org/CVPR2026/signal_comm/faar_efficient_freq…](https://en.papernotes.org/CVPR2026/signal_comm/faar_efficient_frequency-aware_multi-task_fine-tuning_via_automatic_rank_selecti/)
+
 **Generative Video Compression with One-Dimensional Latent Representation**
 
 - Paper: <https://arxiv.org/abs/2603.15302>
 - Project: <https://gvc1d.github.io/>
 - Notes (Chinese): [papernotes.org/CVPR2026/model_compression/generative_video…](https://papernotes.org/CVPR2026/model_compression/generative_video_compression_with_one-dimensional_latent_representation/)
 - Notes (English): [en.papernotes.org/CVPR2026/model_compression/generative_vi…](https://en.papernotes.org/CVPR2026/model_compression/generative_video_compression_with_one-dimensional_latent_representation/)
+
+**MXNorm: Reusing MXFP block scales for efficient tensor normalisation**
+
+- Paper: <https://arxiv.org/abs/2603.13180>
+- Notes (Chinese): [papernotes.org/CVPR2026/model_compression/mxnorm_reusing_m…](https://papernotes.org/CVPR2026/model_compression/mxnorm_reusing_mxfp_block_scales_for_efficient_tensor_normalisation/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_pretraining/mxnorm_reusing_…](https://en.papernotes.org/CVPR2026/llm_pretraining/mxnorm_reusing_mxfp_block_scales_for_efficient_tensor_normalisation/)
+
+**Expert Pyramid Tuning: Efficient Parameter Fine-Tuning for Expertise-Driven Task Allocation**
+
+- Paper: <https://arxiv.org/abs/2603.12577>
+- Notes (Chinese): [papernotes.org/CVPR2026/robotics/expert_pyramid_tuning_eff…](https://papernotes.org/CVPR2026/robotics/expert_pyramid_tuning_efficient_parameter_fine-tuning_for_expertise-driven_task_/)
+- Notes (English): [en.papernotes.org/CVPR2026/robotics/expert_pyramid_tuning_…](https://en.papernotes.org/CVPR2026/robotics/expert_pyramid_tuning_efficient_parameter_fine-tuning_for_expertise-driven_task_/)
 
 **HiAP: A Multi-Granular Stochastic Auto-Pruning Framework for Vision Transformers**
 
@@ -6921,6 +6872,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/model_compression/fozo_forward-onl…](https://papernotes.org/CVPR2026/model_compression/fozo_forward-only_zeroth-order_prompt_optimization_for_test-time_adaptation/)
 - Notes (English): [en.papernotes.org/CVPR2026/model_compression/fozo_forward-…](https://en.papernotes.org/CVPR2026/model_compression/fozo_forward-only_zeroth-order_prompt_optimization_for_test-time_adaptation/)
 
+**BD-Merging: Bias-Aware Dynamic Model Merging with Evidence-Guided Contrastive Learning**
+
+- Paper: <https://arxiv.org/abs/2603.03920>
+- Notes (Chinese): [papernotes.org/CVPR2026/optimization/bd-merging_bias-aware…](https://papernotes.org/CVPR2026/optimization/bd-merging_bias-aware_dynamic_model_merging_with_evidence-guided_contrastive_lea/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/bd-merging_bias…](https://en.papernotes.org/CVPR2026/self_supervised/bd-merging_bias-aware_dynamic_model_merging_with_evidence-guided_contrastive_lea/)
+
 **DAGE: Dual-Stream Architecture for Efficient and Fine-Grained Geometry Estimation**
 
 - Paper: <https://arxiv.org/abs/2603.03744>
@@ -6932,6 +6889,12 @@
 - Paper: <https://arxiv.org/abs/2603.03615>
 - Notes (Chinese): [papernotes.org/CVPR2026/model_compression/parallax_to_alig…](https://papernotes.org/CVPR2026/model_compression/parallax_to_align_them_all_an_omniparallax_attention_mechanism_for_distributed_m/)
 - Notes (English): [en.papernotes.org/CVPR2026/model_compression/parallax_to_a…](https://en.papernotes.org/CVPR2026/model_compression/parallax_to_align_them_all_an_omniparallax_attention_mechanism_for_distributed_m/)
+
+**ACE-Merging: Data-Free Model Merging with Adaptive Covariance Estimation**
+
+- Paper: <https://arxiv.org/abs/2603.02945>
+- Notes (Chinese): [papernotes.org/CVPR2026/optimization/ace-merging_data-free…](https://papernotes.org/CVPR2026/optimization/ace-merging_data-free_model_merging_with_adaptive_covariance_estimation/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/ace-merging_data…](https://en.papernotes.org/CVPR2026/llm_evaluation/ace-merging_data-free_model_merging_with_adaptive_covariance_estimation/)
 
 **From Fewer Samples to Fewer Bits: Reframing Dataset Distillation as Joint Optimization of Precision and Compactness** · 📖 Findings · 🛠️ Workshop
 
@@ -6957,6 +6920,18 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/trilite_effici…](https://papernotes.org/CVPR2026/human_understanding/trilite_efficient_weakly_supervised_object_localization_with_universal_visual_fe/)
 - Notes (English): [en.papernotes.org/CVPR2026/human_understanding/trilite_eff…](https://en.papernotes.org/CVPR2026/human_understanding/trilite_efficient_weakly_supervised_object_localization_with_universal_visual_fe/)
 
+**Momentum Memory for Knowledge Distillation in Computational Pathology**
+
+- Paper: <https://arxiv.org/abs/2602.21395>
+- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/momentum_memory_fo…](https://papernotes.org/CVPR2026/medical_imaging/momentum_memory_for_knowledge_distillation_in_computational_pathology/)
+- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/momentum_memory…](https://en.papernotes.org/CVPR2026/medical_imaging/momentum_memory_for_knowledge_distillation_in_computational_pathology/)
+
+**Model Merging in the Essential Subspace**
+
+- Paper: <https://arxiv.org/abs/2602.20208>
+- Notes (Chinese): [papernotes.org/CVPR2026/optimization/model_merging_in_the_…](https://papernotes.org/CVPR2026/optimization/model_merging_in_the_essential_subspace/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_pretraining/model_merging_i…](https://en.papernotes.org/CVPR2026/llm_pretraining/model_merging_in_the_essential_subspace/)
+
 **4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation**
 
 - Paper: <https://arxiv.org/abs/2512.17012>
@@ -6969,18 +6944,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/model_compression/unicomp_rethinki…](https://papernotes.org/CVPR2026/model_compression/unicomp_rethinking_video_compression_through_informational_uniqueness/)
 - Notes (English): [en.papernotes.org/CVPR2026/model_compression/unicomp_rethi…](https://en.papernotes.org/CVPR2026/model_compression/unicomp_rethinking_video_compression_through_informational_uniqueness/)
 
-**FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention**
-
-- Paper: <https://arxiv.org/abs/2512.01540>
-- Notes (Chinese): [papernotes.org/CVPR2026/model_compression/flashvggt_effici…](https://papernotes.org/CVPR2026/model_compression/flashvggt_efficient_and_scalable_visual_geometry_transformers_with_compressed_descr/)
-- Notes (English): [en.papernotes.org/CVPR2026/model_compression/flashvggt_eff…](https://en.papernotes.org/CVPR2026/model_compression/flashvggt_efficient_and_scalable_visual_geometry_transformers_with_compressed_descr/)
-
-**Markovian Scale Prediction: A New Era of Visual Autoregressive Generation**
-
-- Paper: <https://arxiv.org/abs/2511.23334>
-- Notes (Chinese): [papernotes.org/CVPR2026/model_compression/markovian_scale_…](https://papernotes.org/CVPR2026/model_compression/markovian_scale_prediction_a_new_era_of_visual_autoregressive_generation/)
-- Notes (English): [en.papernotes.org/CVPR2026/model_compression/markovian_sca…](https://en.papernotes.org/CVPR2026/model_compression/markovian_scale_prediction_a_new_era_of_visual_autoregressive_generation/)
-
 **MARVO: Marine-Adaptive Radiance-aware Visual Odometry**
 
 - Paper: <https://arxiv.org/abs/2511.22860>
@@ -6992,6 +6955,12 @@
 - Paper: <https://arxiv.org/abs/2511.20095>
 - Notes (Chinese): [papernotes.org/CVPR2026/model_compression/wpt_world-to-pol…](https://papernotes.org/CVPR2026/model_compression/wpt_world-to-policy_transfer_via_online_world_model_distillation/)
 - Notes (English): [en.papernotes.org/CVPR2026/model_compression/wpt_world-to-…](https://en.papernotes.org/CVPR2026/model_compression/wpt_world-to-policy_transfer_via_online_world_model_distillation/)
+
+**Defending Unauthorized Model Merging via Dual-Stage Weight Protection**
+
+- Paper: <https://arxiv.org/abs/2511.11851>
+- Notes (Chinese): [papernotes.org/CVPR2026/optimization/defending_unauthorize…](https://papernotes.org/CVPR2026/optimization/defending_unauthorized_model_merging_via_dual-stage_weight_protection/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_pretraining/defending_unaut…](https://en.papernotes.org/CVPR2026/llm_pretraining/defending_unauthorized_model_merging_via_dual-stage_weight_protection/)
 
 **PriVi: Towards A General-Purpose Video Model For Primate Behavior In The Wild**
 
@@ -7024,13 +6993,370 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/model_compression/distilling_balan…](https://papernotes.org/CVPR2026/model_compression/distilling_balanced_knowledge_from_a_biased_teacher/)
 - Notes (English): [en.papernotes.org/CVPR2026/model_compression/distilling_ba…](https://en.papernotes.org/CVPR2026/model_compression/distilling_balanced_knowledge_from_a_biased_teacher/)
 
+**PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion**
+
+- Paper: <https://arxiv.org/abs/2505.22564>
+- Notes (Chinese): [papernotes.org/CVPR2026/model_compression/prism_video_data…](https://papernotes.org/CVPR2026/model_compression/prism_video_dataset_condensation_with_progressive_refinement_and_insertion_for_s/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/prism_video_data…](https://en.papernotes.org/CVPR2026/llm_evaluation/prism_video_dataset_condensation_with_progressive_refinement_and_insertion_for_s/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
+<a id="object_detection"></a>
+
+## 🎯 Object Detection · `object_detection` · 54 papers
+
+**Novel Anomaly Detection Scenarios and Evaluation Metrics to Address the Ambiguity in the Definition of Normal Samples** · 🛠️ Workshop
+
+- Paper: <https://arxiv.org/abs/2604.07097>
+- Code: <https://github.com/ReijiSoftmaxSaito/Scenario>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/novel_anomaly_det…](https://papernotes.org/CVPR2026/object_detection/novel_anomaly_detection_scenarios_and_evaluation_metrics_to_address_the_ambiguit/)
+- Notes (English): [en.papernotes.org/CVPR2026/others/novel_anomaly_detection_…](https://en.papernotes.org/CVPR2026/others/novel_anomaly_detection_scenarios_and_evaluation_metrics_to_address_the_ambiguit/)
+
+**Mining Instance-Centric Vision-Language Contexts for Human-Object Interaction Detection**
+
+- Paper: <https://arxiv.org/abs/2604.02071>
+- Code: <https://github.com/nowuss/InCoM-Net>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/mining_instance-c…](https://papernotes.org/CVPR2026/object_detection/mining_instance-centric_vision-language_contexts_for_human-object_interaction_de/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/mining_instanc…](https://en.papernotes.org/CVPR2026/object_detection/mining_instance-centric_vision-language_contexts_for_human-object_interaction_de/)
+
+**A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps**
+
+- Paper: <https://arxiv.org/abs/2603.28182>
+- Code: <https://github.com/Intellindust-AI-Lab/FT-FSOD>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/a_closer_look_at_…](https://papernotes.org/CVPR2026/object_detection/a_closer_look_at_cross-domain_few-shot_object_detection_fine-tuning_matters_and_/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/a_closer_look_…](https://en.papernotes.org/CVPR2026/object_detection/a_closer_look_at_cross-domain_few-shot_object_detection_fine-tuning_matters_and_/)
+
+**Reasoning-Driven Anomaly Detection and Localization with Image-Level Supervision**
+
+- Paper: <https://arxiv.org/abs/2603.27179>
+- Code: <https://github.com/YizhouJin313/ReADL>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/reasoning-driven_…](https://papernotes.org/CVPR2026/object_detection/reasoning-driven_anomaly_detection_and_localization_with_image-level_supervision/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/reasonin…](https://en.papernotes.org/CVPR2026/reinforcement_learning/reasoning-driven_anomaly_detection_and_localization_with_image-level_supervision/)
+
+**SteelDefectX: A Coarse-to-Fine Vision-Language Dataset and Benchmark for Generalizable Steel Surface Defect Detection**
+
+- Paper: <https://arxiv.org/abs/2603.21824>
+- Code: <https://github.com/Zhaosxian/SteelDefectX>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/steeldefectx_a_co…](https://papernotes.org/CVPR2026/object_detection/steeldefectx_a_coarse-to-fine_vision-language_dataset_and_benchmark_for_generali/)
+- Notes (English): [en.papernotes.org/CVPR2026/interpretability/steeldefectx_a…](https://en.papernotes.org/CVPR2026/interpretability/steeldefectx_a_coarse-to-fine_vision-language_dataset_and_benchmark_for_generali/)
+
+**Prompt-Free Universal Region Proposal Network**
+
+- Paper: <https://arxiv.org/abs/2603.17554>
+- Code: <https://github.com/tangqh03/PF-RPN>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/prompt-free_unive…](https://papernotes.org/CVPR2026/object_detection/prompt-free_universal_region_proposal_network/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/prompt-free_un…](https://en.papernotes.org/CVPR2026/object_detection/prompt-free_universal_region_proposal_network/)
+
+**BUSSARD: Normalizing Flows for Bijective Universal Scene-Specific Anomalous Relationship Detection**
+
+- Paper: <https://arxiv.org/abs/2603.16645>
+- Code: <https://github.com/mschween/BUSSARD>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/bussard_normalizi…](https://papernotes.org/CVPR2026/object_detection/bussard_normalizing_flows_for_bijective_universal_scene-specific_anomalous_relat/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/bussard_normaliz…](https://en.papernotes.org/CVPR2026/multimodal_vlm/bussard_normalizing_flows_for_bijective_universal_scene-specific_anomalous_relat/)
+
+**SpiralDiff: Spiral Diffusion with LoRA for RGB-to-RAW Conversion Across Cameras**
+
+- Paper: <https://arxiv.org/abs/2603.14885>
+- Code: <https://github.com/Chuancy-TJU/SpiralDiff>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/spiraldiff_spiral…](https://papernotes.org/CVPR2026/object_detection/spiraldiff_spiral_diffusion_with_lora_for_rgb-to-raw_conversion_across_cameras/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/spiraldiff_spi…](https://en.papernotes.org/CVPR2026/object_detection/spiraldiff_spiral_diffusion_with_lora_for_rgb-to-raw_conversion_across_cameras/)
+
+**VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer**
+
+- Paper: <https://arxiv.org/abs/2603.07952>
+- Code: <https://github.com/7HHHHH/VisualAD>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/visualad_language…](https://papernotes.org/CVPR2026/object_detection/visualad_language-free_zero-shot_anomaly_detection_via_vision_transformer/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/visualad_langu…](https://en.papernotes.org/CVPR2026/object_detection/visualad_language-free_zero-shot_anomaly_detection_via_vision_transformer/)
+
+**MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection**
+
+- Paper: <https://arxiv.org/abs/2603.03101>
+- Code: <https://github.com/CoCoRessa/MoECLIP>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/moeclip_patch-spe…](https://papernotes.org/CVPR2026/object_detection/moeclip_patch-specialized_experts_for_zero-shot_anomaly_detection/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/moeclip_patch-…](https://en.papernotes.org/CVPR2026/object_detection/moeclip_patch-specialized_experts_for_zero-shot_anomaly_detection/)
+
+**Random Wins All: Rethinking Grouping Strategies for Vision Tokens**
+
+- Paper: <https://arxiv.org/abs/2603.00486>
+- Code: <https://github.com/qhfan/random>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/random_wins_all_r…](https://papernotes.org/CVPR2026/object_detection/random_wins_all_rethinking_grouping_strategies_for_vision_tokens/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/random_wins_al…](https://en.papernotes.org/CVPR2026/object_detection/random_wins_all_rethinking_grouping_strategies_for_vision_tokens/)
+
+**Fourier Angle Alignment for Oriented Object Detection in Remote Sensing**
+
+- Paper: <https://arxiv.org/abs/2602.23790>
+- Code: <https://github.com/gcy0423/Fourier-Angle-Alignment>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/fourier_angle_ali…](https://papernotes.org/CVPR2026/object_detection/fourier_angle_alignment_for_oriented_object_detection_in_remote_sensing/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/fourier_angle_…](https://en.papernotes.org/CVPR2026/object_detection/fourier_angle_alignment_for_oriented_object_detection_in_remote_sensing/)
+
+**SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling**
+
+- Paper: <https://arxiv.org/abs/2602.23013>
+- Code: <https://github.com/CLendering/SubspaceAD>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/subspacead_traini…](https://papernotes.org/CVPR2026/object_detection/subspacead_training-free_few-shot_anomaly_detection_via_subspace_modeling/)
+- Notes (English): [en.papernotes.org/CVPR2026/interpretability/subspacead_tra…](https://en.papernotes.org/CVPR2026/interpretability/subspacead_training-free_few-shot_anomaly_detection_via_subspace_modeling/)
+
+**GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning**
+
+- Paper: <https://arxiv.org/abs/2602.19206>
+- Code: <https://github.com/zhushengxinyue/GS-CLIP>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/gs-clip_zero-shot…](https://papernotes.org/CVPR2026/object_detection/gs-clip_zero-shot_3d_anomaly_detection_by_geometry-aware_prompt_and_synergistic_/)
+- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/gs-clip_zero-shot_3d_…](https://en.papernotes.org/CVPR2026/3d_vision/gs-clip_zero-shot_3d_anomaly_detection_by_geometry-aware_prompt_and_synergistic_/)
+
+**MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding**
+
+- Paper: <https://arxiv.org/abs/2512.02906>
+- Code: <https://github.com/yf0412/MRD>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/mrd_multi-resolut…](https://papernotes.org/CVPR2026/object_detection/mrd_multi-resolution_retrieval-detection_fusion_for_high-resolution_image_unders/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/mrd_multi-reso…](https://en.papernotes.org/CVPR2026/object_detection/mrd_multi-resolution_retrieval-detection_fusion_for_high-resolution_image_unders/)
+
+**UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression**
+
+- Paper: <https://arxiv.org/abs/2509.25934>
+- Code: <https://github.com/yuanzhao-CVLAB/UniMMAD>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/unimmad_unified_m…](https://papernotes.org/CVPR2026/object_detection/unimmad_unified_multi-modal_and_multi-class_anomaly_detection_via_moe-driven_fea/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/unimmad_unified_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/unimmad_unified_multi-modal_and_multi-class_anomaly_detection_via_moe-driven_fea/)
+
+**MMR-AD: A Large-Scale Multimodal Dataset for Benchmarking General Anomaly Detection with MLLMs**
+
+- Paper: <https://arxiv.org/abs/2604.10971>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/mmrad_multimodal_…](https://papernotes.org/CVPR2026/object_detection/mmrad_multimodal_anomaly_detection/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/mmrad_multimodal…](https://en.papernotes.org/CVPR2026/multimodal_vlm/mmrad_multimodal_anomaly_detection/)
+
+**Beyond Semantic Search: Towards Referential Anchoring in Composed Image Retrieval**
+
+- Paper: <https://arxiv.org/abs/2604.05393>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/beyond_semantic_s…](https://papernotes.org/CVPR2026/object_detection/beyond_semantic_search_towards_referential_anchoring_in_composed_image_retrieval/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/beyond_semanti…](https://en.papernotes.org/CVPR2026/object_detection/beyond_semantic_search_towards_referential_anchoring_in_composed_image_retrieval/)
+
+**Saliency-R1: Enforcing Interpretable and Faithful Vision-language Reasoning via Saliency-map Alignment Reward**
+
+- Paper: <https://arxiv.org/abs/2604.04500>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/saliency-r1_enfor…](https://papernotes.org/CVPR2026/object_detection/saliency-r1_enforcing_interpretable_and_faithful_vision-language_reasoning_via_s/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/saliency-r1_en…](https://en.papernotes.org/CVPR2026/object_detection/saliency-r1_enforcing_interpretable_and_faithful_vision-language_reasoning_via_s/)
+
+**Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection**
+
+- Paper: <https://arxiv.org/abs/2604.04444>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/parameter-efficie…](https://papernotes.org/CVPR2026/object_detection/parameter-efficient_semantic_augmentation_for_enhancing_open-vocabulary_object_d/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/parameter-effi…](https://en.papernotes.org/CVPR2026/object_detection/parameter-efficient_semantic_augmentation_for_enhancing_open-vocabulary_object_d/)
+
+**UAVGen: Visual Prototype Conditioned Focal Region Generation for UAV-Based Object Detection**
+
+- Paper: <https://arxiv.org/abs/2604.02966>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/uavgen_visual_pro…](https://papernotes.org/CVPR2026/object_detection/uavgen_visual_prototype_conditioned_focal_region_generation_for_uav_based_object_detection/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/uavgen_visual_…](https://en.papernotes.org/CVPR2026/object_detection/uavgen_visual_prototype_conditioned_focal_region_generation_for_uav_based_object_detection/)
+
+**UniSpector: Towards Universal Open-set Defect Recognition via Spectral-Contrastive Visual Prompting**
+
+- Paper: <https://arxiv.org/abs/2604.02905>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/unispector_toward…](https://papernotes.org/CVPR2026/object_detection/unispector_towards_universal_open-set_defect_recognition_via_spectral-contrastiv/)
+- Notes (English): [en.papernotes.org/CVPR2026/others/unispector_towards_unive…](https://en.papernotes.org/CVPR2026/others/unispector_towards_universal_open-set_defect_recognition_via_spectral-contrastiv/)
+
+**PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training**
+
+- Paper: <https://arxiv.org/abs/2604.00503>
+- Project: <https://fuweifuvtoo.github.io/pet-dino>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/pet-dino_unifying…](https://papernotes.org/CVPR2026/object_detection/pet-dino_unifying_visual_cues_into_grounding_dino_with_prompt-enriched_training/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/pet-dino_unify…](https://en.papernotes.org/CVPR2026/object_detection/pet-dino_unifying_visual_cues_into_grounding_dino_with_prompt-enriched_training/)
+
+**Detecting Unknown Objects via Energy-based Separation for Open World Object Detection**
+
+- Paper: <https://arxiv.org/abs/2603.29954>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/detecting_unknown…](https://papernotes.org/CVPR2026/object_detection/detecting_unknown_objects_via_energy-based_separation/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/detecting_unkn…](https://en.papernotes.org/CVPR2026/object_detection/detecting_unknown_objects_via_energy-based_separation/)
+
+**Toward Generalizable Whole Brain Representations with High-Resolution Light-Sheet Data**
+
+- Paper: <https://arxiv.org/abs/2603.29842>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/toward_generaliza…](https://papernotes.org/CVPR2026/object_detection/toward_generalizable_whole_brain_representations_with_high-resolution_light-shee/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/toward_general…](https://en.papernotes.org/CVPR2026/object_detection/toward_generalizable_whole_brain_representations_with_high-resolution_light-shee/)
+
+**CD-Buffer: Complementary Dual-Buffer Framework for Test-Time Adaptation in Adverse Weather Object Detection**
+
+- Paper: <https://arxiv.org/abs/2603.26092>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/cd-buffer_complem…](https://papernotes.org/CVPR2026/object_detection/cd-buffer_complementary_dual-buffer_framework_for_test-time_adaptation_in_advers/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/cd-buffer_comp…](https://en.papernotes.org/CVPR2026/object_detection/cd-buffer_complementary_dual-buffer_framework_for_test-time_adaptation_in_advers/)
+
+**A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection**
+
+- Paper: <https://arxiv.org/abs/2603.25159>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/a_semantically_di…](https://papernotes.org/CVPR2026/object_detection/a_semantically_disentangled_unified_model_for_multi-category_3d_anomaly_detectio/)
+- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/a_semantically_disent…](https://en.papernotes.org/CVPR2026/3d_vision/a_semantically_disentangled_unified_model_for_multi-category_3d_anomaly_detectio/)
+
+**HeROD: Heuristic-inspired Reasoning Priors Facilitate Data-Efficient Referring Object Detection**
+
+- Paper: <https://arxiv.org/abs/2603.24166>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/herod_heuristic_i…](https://papernotes.org/CVPR2026/object_detection/herod_heuristic_inspired_reasoning_data_efficient_rod/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/herod_heuristi…](https://en.papernotes.org/CVPR2026/object_detection/herod_heuristic_inspired_reasoning_data_efficient_rod/)
+
+**Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection**
+
+- Paper: <https://arxiv.org/abs/2603.21511>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/back_to_point_exp…](https://papernotes.org/CVPR2026/object_detection/back_to_point_exploring_point-language_models_for_zero-shot_3d_anomaly_detection/)
+- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/back_to_point_explori…](https://en.papernotes.org/CVPR2026/3d_vision/back_to_point_exploring_point-language_models_for_zero-shot_3d_anomaly_detection/)
+
+**NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection**
+
+- Paper: <https://arxiv.org/abs/2603.21069>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/noovd_novel_categ…](https://papernotes.org/CVPR2026/object_detection/noovd_novel_category_discovery_and_embedding_for_open-vocabulary_object_detectio/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/noovd_novel_ca…](https://en.papernotes.org/CVPR2026/object_detection/noovd_novel_category_discovery_and_embedding_for_open-vocabulary_object_detectio/)
+
+**DA-Mamba: Learning Domain-Aware State Space Model for Global-Local Alignment in Domain Adaptive Object Detection**
+
+- Paper: <https://arxiv.org/abs/2603.18757>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/da-mamba_learning…](https://papernotes.org/CVPR2026/object_detection/da-mamba_learning_domain-aware_state_space_model_for_global-local_alignment_in_d/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/da-mamba_learn…](https://en.papernotes.org/CVPR2026/object_detection/da-mamba_learning_domain-aware_state_space_model_for_global-local_alignment_in_d/)
+
+**Remedying Target-Domain Astigmatism for Cross-Domain Few-Shot Object Detection**
+
+- Paper: <https://arxiv.org/abs/2603.18541>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/remedying_target-…](https://papernotes.org/CVPR2026/object_detection/remedying_target-domain_astigmatism_for_cross-domain_few-shot_object_detection/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/remedying_targ…](https://en.papernotes.org/CVPR2026/object_detection/remedying_target-domain_astigmatism_for_cross-domain_few-shot_object_detection/)
+
+**Does YOLO Really Need to See Every Training Image in Every Epoch?**
+
+- Paper: <https://arxiv.org/abs/2603.17684>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/does_yolo_really_…](https://papernotes.org/CVPR2026/object_detection/does_yolo_really_need_to_see_every_training_image_in_every_epoch/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/does_yolo_real…](https://en.papernotes.org/CVPR2026/object_detection/does_yolo_really_need_to_see_every_training_image_in_every_epoch/)
+
+**Boosting Quantitive and Spatial Awareness for Zero-Shot Object Counting**
+
+- Paper: <https://arxiv.org/abs/2603.16129>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/boosting_quantiti…](https://papernotes.org/CVPR2026/object_detection/boosting_quantitive_and_spatial_awareness_for_zero-shot_object_counting/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/boosting_quantitive_and…](https://en.papernotes.org/CVPR2026/llm_nlp/boosting_quantitive_and_spatial_awareness_for_zero-shot_object_counting/)
+
+**PHAC: Promptable Human Amodal Completion**
+
+- Paper: <https://arxiv.org/abs/2603.14741>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/phac_promptable_h…](https://papernotes.org/CVPR2026/object_detection/phac_promptable_human_amodal_completion/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/phac_promptabl…](https://en.papernotes.org/CVPR2026/object_detection/phac_promptable_human_amodal_completion/)
+
+**Show, Don't Tell: Detecting Novel Objects by Watching Human Videos**
+
+- Paper: <https://arxiv.org/abs/2603.12751>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/show_dont_tell_de…](https://papernotes.org/CVPR2026/object_detection/show_dont_tell_detecting_novel_objects_by_watching/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/show_dont_tell…](https://en.papernotes.org/CVPR2026/object_detection/show_dont_tell_detecting_novel_objects_by_watching/)
+
+**The COTe score: A decomposable framework for evaluating Document Layout Analysis models**
+
+- Paper: <https://arxiv.org/abs/2603.12718>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/the_cote_score_a_…](https://papernotes.org/CVPR2026/object_detection/the_cote_score_a_decomposable_framework_for_evaluating_document_layout_analysis_/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/the_cote_score…](https://en.papernotes.org/CVPR2026/object_detection/the_cote_score_a_decomposable_framework_for_evaluating_document_layout_analysis_/)
+
+**ABRA: Teleporting Fine-Tuned Knowledge Across Domains for Open-Vocabulary Object Detection**
+
+- Paper: <https://arxiv.org/abs/2603.12409>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/abra_teleporting_…](https://papernotes.org/CVPR2026/object_detection/abra_teleporting_fine-tuned_knowledge_across_domains_for_open-vocabulary_object_/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/abra_teleporti…](https://en.papernotes.org/CVPR2026/object_detection/abra_teleporting_fine-tuned_knowledge_across_domains_for_open-vocabulary_object_/)
+
+**RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection in Robotic Manipulation**
+
+- Paper: <https://arxiv.org/abs/2603.11106>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/rc-nf_robot-condi…](https://papernotes.org/CVPR2026/object_detection/rc-nf_robot-conditioned_normalizing_flow_for_real-time_anomaly_detection_in_robo/)
+- Notes (English): [en.papernotes.org/CVPR2026/robotics/rc-nf_robot-conditione…](https://en.papernotes.org/CVPR2026/robotics/rc-nf_robot-conditioned_normalizing_flow_for_real-time_anomaly_detection_in_robo/)
+
+**Evaluating Few-Shot Pill Recognition Under Visual Domain Shift**
+
+- Paper: <https://arxiv.org/abs/2603.10833>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/evaluating_few-sh…](https://papernotes.org/CVPR2026/object_detection/evaluating_few-shot_pill_recognition_under_visual_domain_shift/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/evaluating_few…](https://en.papernotes.org/CVPR2026/object_detection/evaluating_few-shot_pill_recognition_under_visual_domain_shift/)
+
+**AR2-4FV: Anchored Referring and Re-identification for Long-Term Grounding in Fixed-View Videos**
+
+- Paper: <https://arxiv.org/abs/2603.07758>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/ar2-4fv_anchored_…](https://papernotes.org/CVPR2026/object_detection/ar2-4fv_anchored_referring_and_re-identification_for_long-term_grounding_in_fixe/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/ar2-4fv_anchor…](https://en.papernotes.org/CVPR2026/object_detection/ar2-4fv_anchored_referring_and_re-identification_for_long-term_grounding_in_fixe/)
+
+**Integration of deep generative Anomaly Detection algorithm in high-speed industrial line**
+
+- Paper: <https://arxiv.org/abs/2603.07577>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/integration_of_de…](https://papernotes.org/CVPR2026/object_detection/integration_of_deep_generative_anomaly_detection_algorithm_in_high-speed_industr/)
+- Notes (English): [en.papernotes.org/CVPR2026/others/integration_of_deep_gene…](https://en.papernotes.org/CVPR2026/others/integration_of_deep_generative_anomaly_detection_algorithm_in_high-speed_industr/)
+
+**Small Target Detection Based on Mask-Enhanced Attention Fusion of Visible and Infrared Remote Sensing Images**
+
+- Paper: <https://arxiv.org/abs/2603.06925>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/small_target_dete…](https://papernotes.org/CVPR2026/object_detection/small_target_detection_based_on_mask-enhanced_attention_fusion_of_visible_and_in/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/small_target_d…](https://en.papernotes.org/CVPR2026/object_detection/small_target_detection_based_on_mask-enhanced_attention_fusion_of_visible_and_in/)
+
+**PaQ-DETR: Learning Pattern and Quality-Aware Dynamic Queries for Object Detection**
+
+- Paper: <https://arxiv.org/abs/2603.06917>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/paq-detr_learning…](https://papernotes.org/CVPR2026/object_detection/paq-detr_learning_pattern_and_quality-aware_dynamic_queries_for_object_detection/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/paq-detr_learn…](https://en.papernotes.org/CVPR2026/object_detection/paq-detr_learning_pattern_and_quality-aware_dynamic_queries_for_object_detection/)
+
+**Beyond Caption-Based Queries for Video Moment Retrieval**
+
+- Paper: <https://arxiv.org/abs/2603.02363>
+- Project: <https://davidpujol.github.io/beyond-vmr/>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/beyond_caption-ba…](https://papernotes.org/CVPR2026/object_detection/beyond_caption-based_queries_for_video_moment_retrieval/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/beyond_caption…](https://en.papernotes.org/CVPR2026/object_detection/beyond_caption-based_queries_for_video_moment_retrieval/)
+
+**Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection**
+
+- Paper: <https://arxiv.org/abs/2603.02286>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/beyond_prompt_deg…](https://papernotes.org/CVPR2026/object_detection/beyond_prompt_degradation_prototype-guided_dual-pool_prompting_for_incremental_o/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/beyond_prompt_…](https://en.papernotes.org/CVPR2026/object_detection/beyond_prompt_degradation_prototype-guided_dual-pool_prompting_for_incremental_o/)
+
+**EW-DETR: Evolving World Object Detection via Incremental Low-Rank DEtection TRansformer**
+
+- Paper: <https://arxiv.org/abs/2602.20985>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/ew-detr_evolving_…](https://papernotes.org/CVPR2026/object_detection/ew-detr_evolving_world_object_detection_via_incremental_low-rank_detection_trans/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/ew-detr_evolvi…](https://en.papernotes.org/CVPR2026/object_detection/ew-detr_evolving_world_object_detection_via_incremental_low-rank_detection_trans/)
+
+**Learning Multi-Modal Prototypes for Cross-Domain Few-Shot Object Detection** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2602.18811>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/learning_multi-mo…](https://papernotes.org/CVPR2026/object_detection/learning_multi-modal_prototypes_for_cross-domain_few-shot_object_detection/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/learning_multi…](https://en.papernotes.org/CVPR2026/object_detection/learning_multi-modal_prototypes_for_cross-domain_few-shot_object_detection/)
+
+**AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors**
+
+- Paper: <https://arxiv.org/abs/2601.20524>
+- Project: <https://maticfuc.github.io/anomaly_vfm/>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/anomalyvfm_--_tra…](https://papernotes.org/CVPR2026/object_detection/anomalyvfm_--_transforming_vision_foundation_models_into_zero-shot_anomaly_detec/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/anomalyvfm_--_tr…](https://en.papernotes.org/CVPR2026/multimodal_vlm/anomalyvfm_--_transforming_vision_foundation_models_into_zero-shot_anomaly_detec/)
+
+**Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection**
+
+- Paper: <https://arxiv.org/abs/2512.17514>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/foundation_model_…](https://papernotes.org/CVPR2026/object_detection/foundation_model_priors_enhance_object_focus_in_feature_space_for_source-free_ob/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/foundation_mod…](https://en.papernotes.org/CVPR2026/object_detection/foundation_model_priors_enhance_object_focus_in_feature_space_for_source-free_ob/)
+
+**CompAgent: An Agentic Framework for Visual Compliance Verification** · 🛠️ Workshop
+
+- Paper: <https://arxiv.org/abs/2511.00171>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/compagent_an_agen…](https://papernotes.org/CVPR2026/object_detection/compagent_an_agentic_framework_for_visual_compliance_verification/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/compagent_an_a…](https://en.papernotes.org/CVPR2026/object_detection/compagent_an_agentic_framework_for_visual_compliance_verification/)
+
+**CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection**
+
+- Paper: <https://arxiv.org/abs/2508.03447>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/cops_conditional_…](https://papernotes.org/CVPR2026/object_detection/cops_conditional_prompt_synthesis_for_zero-shot_anomaly_detection/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/cops_conditional_prompt…](https://en.papernotes.org/CVPR2026/llm_nlp/cops_conditional_prompt_synthesis_for_zero-shot_anomaly_detection/)
+
+**InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models**
+
+- Paper: <https://arxiv.org/abs/2504.05662>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/invad_inversion-b…](https://papernotes.org/CVPR2026/object_detection/invad_inversion-based_reconstruction-free_anomaly_detection_with_diffusion_model/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/invad_inversio…](https://en.papernotes.org/CVPR2026/object_detection/invad_inversion-based_reconstruction-free_anomaly_detection_with_diffusion_model/)
+
+**Bidirectional Multimodal Prompt Learning with Scale-Aware Training for Few-Shot Multi-Class Anomaly Detection**
+
+- Paper: <https://arxiv.org/abs/2408.13516>
+- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/bidirectional_mul…](https://papernotes.org/CVPR2026/object_detection/bidirectional_multimodal_prompt_learning_with_scale-aware_training_for_few-shot_/)
+- Notes (English): [en.papernotes.org/CVPR2026/object_detection/bidirectional_…](https://en.papernotes.org/CVPR2026/object_detection/bidirectional_multimodal_prompt_learning_with_scale-aware_training_for_few-shot_/)
+
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
 ---
 
 <a id="human_understanding"></a>
 
-## 🧑 Human Understanding · `human_understanding` · 43 papers
+## 🧑 Human Understanding · `human_understanding` · 50 papers
 
 **Unleashing Vision-Language Semantics for Deepfake Video Detection**
 
@@ -7086,6 +7412,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/hum4d_markerle…](https://papernotes.org/CVPR2026/human_understanding/hum4d_markerless_motion_capture/)
 - Notes (English): [en.papernotes.org/CVPR2026/human_understanding/hum4d_marke…](https://en.papernotes.org/CVPR2026/human_understanding/hum4d_markerless_motion_capture/)
 
+**Sign Language Recognition in the Age of LLMs**
+
+- Paper: <https://arxiv.org/abs/2604.11225>
+- Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/sign_language_…](https://papernotes.org/CVPR2026/human_understanding/sign_language_recognition_llms/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/sign_language_recogniti…](https://en.papernotes.org/CVPR2026/llm_nlp/sign_language_recognition_llms/)
+
 **E-3DPSM: A State Machine for Event-Based Egocentric 3D Human Pose Estimation**
 
 - Paper: <https://arxiv.org/abs/2604.08543>
@@ -7103,6 +7435,12 @@
 - Paper: <https://arxiv.org/abs/2604.04117>
 - Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/efficient_onbo…](https://papernotes.org/CVPR2026/human_understanding/efficient_onboard_spacecraft_pose_estimation_with_event_cameras_and_neuromorphic_hardware/)
 - Notes (English): [en.papernotes.org/CVPR2026/human_understanding/efficient_o…](https://en.papernotes.org/CVPR2026/human_understanding/efficient_onboard_spacecraft_pose_estimation_with_event_cameras_and_neuromorphic_hardware/)
+
+**Next-Scale Autoregressive Models for Text-to-Motion Generation**
+
+- Paper: <https://arxiv.org/abs/2604.03799>
+- Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/next-scale_aut…](https://papernotes.org/CVPR2026/human_understanding/next-scale_autoregressive_models_for_text-to-motion_generation/)
+- Notes (English): [en.papernotes.org/CVPR2026/others/next-scale_autoregressiv…](https://en.papernotes.org/CVPR2026/others/next-scale_autoregressive_models_for_text-to-motion_generation/)
 
 **LCA: Large-scale Codec Avatars - The Unreasonable Effectiveness of Large-scale Avatar Pretraining**
 
@@ -7147,6 +7485,13 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/ram_recover_an…](https://papernotes.org/CVPR2026/human_understanding/ram_recover_any_3d_human_motion_in-the-wild/)
 - Notes (English): [en.papernotes.org/CVPR2026/human_understanding/ram_recover…](https://en.papernotes.org/CVPR2026/human_understanding/ram_recover_any_3d_human_motion_in-the-wild/)
 
+**GazeOnce360: Fisheye-Based 360° Multi-Person Gaze Estimation with Global-Local Feature Fusion**
+
+- Paper: <https://arxiv.org/abs/2603.17161>
+- Project: <https://caizhuojiang.github.io/GazeOnce360/>
+- Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/gazeonce360_fi…](https://papernotes.org/CVPR2026/human_understanding/gazeonce360_fisheye-based_360_multi-person_gaze_estimation_with_global-local_fea/)
+- Notes (English): [en.papernotes.org/CVPR2026/human_understanding/gazeonce360…](https://en.papernotes.org/CVPR2026/human_understanding/gazeonce360_fisheye-based_360_multi-person_gaze_estimation_with_global-local_fea/)
+
 **FSMC-Pose: Frequency and Spatial Fusion with Multiscale Self-calibration for Cattle Mounting Pose Estimation**
 
 - Paper: <https://arxiv.org/abs/2603.16596>
@@ -7158,6 +7503,12 @@
 - Paper: <https://arxiv.org/abs/2603.14361>
 - Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/brother_behavi…](https://papernotes.org/CVPR2026/human_understanding/brother_behavioral_recognition_optimized_through_heterogeneous_ensemble_regulari/)
 - Notes (English): [en.papernotes.org/CVPR2026/human_understanding/brother_beh…](https://en.papernotes.org/CVPR2026/human_understanding/brother_behavioral_recognition_optimized_through_heterogeneous_ensemble_regulari/)
+
+**PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization**
+
+- Paper: <https://arxiv.org/abs/2603.13228>
+- Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/physmodpo_phys…](https://papernotes.org/CVPR2026/human_understanding/physmodpo_physicallyplausible_humanoid_motion_with/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/physmodpo_physica…](https://en.papernotes.org/CVPR2026/llm_alignment/physmodpo_physicallyplausible_humanoid_motion_with/)
 
 **Reference-Free Image Quality Assessment for Virtual Try-On via Human Feedback**
 
@@ -7189,6 +7540,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/lamogen_langua…](https://papernotes.org/CVPR2026/human_understanding/lamogen_language_to_motion_generation_through_llm-guided_symbolic_inference/)
 - Notes (English): [en.papernotes.org/CVPR2026/human_understanding/lamogen_lan…](https://en.papernotes.org/CVPR2026/human_understanding/lamogen_language_to_motion_generation_through_llm-guided_symbolic_inference/)
 
+**Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning**
+
+- Paper: <https://arxiv.org/abs/2603.11346>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/learning_to_as…](https://papernotes.org/CVPR2026/video_understanding/learning_to_assist_physics-grounded_human-human_control_via_multi-agent_reinforc/)
+- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/learning_to…](https://en.papernotes.org/CVPR2026/video_understanding/learning_to_assist_physics-grounded_human-human_control_via_multi-agent_reinforc/)
+
 **ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis**
 
 - Paper: <https://arxiv.org/abs/2603.09611>
@@ -7218,6 +7575,12 @@
 - Paper: <https://arxiv.org/abs/2603.02190>
 - Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/sketch2colab_s…](https://papernotes.org/CVPR2026/human_understanding/sketch2colab_sketch-conditioned_multi-human_animation_via_controllable_flow_dist/)
 - Notes (English): [en.papernotes.org/CVPR2026/human_understanding/sketch2cola…](https://en.papernotes.org/CVPR2026/human_understanding/sketch2colab_sketch-conditioned_multi-human_animation_via_controllable_flow_dist/)
+
+**From Intuition to Investigation: A Tool-Augmented Reasoning MLLM Framework for Generalizable Face Anti-Spoofing**
+
+- Paper: <https://arxiv.org/abs/2603.01038>
+- Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/from_intuition…](https://papernotes.org/CVPR2026/human_understanding/from_intuition_to_investigation_a_tool-augmented_reasoning_mllm_framework_for_ge/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/from_intuition_t…](https://en.papernotes.org/CVPR2026/multimodal_vlm/from_intuition_to_investigation_a_tool-augmented_reasoning_mllm_framework_for_ge/)
 
 **Mobile-VTON: High-Fidelity On-Device Virtual Try-On**
 
@@ -7259,12 +7622,11 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/flexavatar_lea…](https://papernotes.org/CVPR2026/human_understanding/flexavatar_learning_complete_3d_head_avatars_with_partial_supervision/)
 - Notes (English): [en.papernotes.org/CVPR2026/human_understanding/flexavatar_…](https://en.papernotes.org/CVPR2026/human_understanding/flexavatar_learning_complete_3d_head_avatars_with_partial_supervision/)
 
-**LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction**
+**MoLingo: Motion-Language Alignment for Text-to-Motion Generation**
 
-- Paper: <https://arxiv.org/abs/2512.13680>
-- Project: <https://neu-vi.github.io/LASER/>
-- Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/laser_layer-wi…](https://papernotes.org/CVPR2026/human_understanding/laser_layer-wise_scale_alignment_for_training-free_streaming_4d_reconstruction/)
-- Notes (English): [en.papernotes.org/CVPR2026/human_understanding/laser_layer…](https://en.papernotes.org/CVPR2026/human_understanding/laser_layer-wise_scale_alignment_for_training-free_streaming_4d_reconstruction/)
+- Paper: <https://arxiv.org/abs/2512.13840>
+- Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/molingo_motion…](https://papernotes.org/CVPR2026/human_understanding/molingo_motion-language_alignment_for_text-to-motion_generation/)
+- Notes (English): [en.papernotes.org/CVPR2026/human_understanding/molingo_mot…](https://en.papernotes.org/CVPR2026/human_understanding/molingo_motion-language_alignment_for_text-to-motion_generation/)
 
 **WildCap: Facial Albedo Capture in the Wild via Hybrid Inverse Rendering**
 
@@ -7302,20 +7664,40 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/avatar_reinfor…](https://papernotes.org/CVPR2026/human_understanding/avatar_reinforcement_learning_to_see_hear_and_reason_over_video/)
 - Notes (English): [en.papernotes.org/CVPR2026/human_understanding/avatar_rein…](https://en.papernotes.org/CVPR2026/human_understanding/avatar_reinforcement_learning_to_see_hear_and_reason_over_video/)
 
+**Harnessing Chain-of-Thought Reasoning in Multimodal Large Language Models for Face Anti-Spoofing**
+
+- Paper: <https://arxiv.org/abs/2506.01783>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/harnessing_chain-of-…](https://papernotes.org/CVPR2026/llm_reasoning/harnessing_chain-of-thought_reasoning_in_multimodal_large_language_models_for_fa/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/harnessing_chain-…](https://en.papernotes.org/CVPR2026/llm_reasoning/harnessing_chain-of-thought_reasoning_in_multimodal_large_language_models_for_fa/)
+
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
 ---
 
 <a id="robotics"></a>
 
-## 🤖 Robotics & Embodied AI · `robotics` · 36 papers
+## 🤖 Robotics & Embodied AI · `robotics` · 37 papers
 
-**Towards Training-Free Scene Text Editing**
+**RoboAgent: Chaining Basic Capabilities for Embodied Task Planning**
 
-- Paper: <https://arxiv.org/abs/2603.24571>
-- Code: <https://github.com/lyb18758/TextFlow>
-- Notes (Chinese): [papernotes.org/CVPR2026/robotics/towards_training-free_sce…](https://papernotes.org/CVPR2026/robotics/towards_training-free_scene_text_editing/)
-- Notes (English): [en.papernotes.org/CVPR2026/robotics/towards_training-free_…](https://en.papernotes.org/CVPR2026/robotics/towards_training-free_scene_text_editing/)
+- Paper: <https://arxiv.org/abs/2604.07774>
+- Code: <https://github.com/woyut/RoboAgent_CVPR26>
+- Notes (Chinese): [papernotes.org/CVPR2026/robotics/roboagent_chaining_basic_…](https://papernotes.org/CVPR2026/robotics/roboagent_chaining_basic_capabilities_for_embodied_task_planning/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/roboagen…](https://en.papernotes.org/CVPR2026/reinforcement_learning/roboagent_chaining_basic_capabilities_for_embodied_task_planning/)
+
+**Semantic Audio-Visual Navigation in Continuous Environments**
+
+- Paper: <https://arxiv.org/abs/2603.19660>
+- Code: <https://github.com/yichenzeng24/SAVN-CE>
+- Notes (Chinese): [papernotes.org/CVPR2026/robotics/semantic_audio-visual_nav…](https://papernotes.org/CVPR2026/robotics/semantic_audio-visual_navigation_in_continuous_environments/)
+- Notes (English): [en.papernotes.org/CVPR2026/audio_speech/semantic_audio-vis…](https://en.papernotes.org/CVPR2026/audio_speech/semantic_audio-visual_navigation_in_continuous_environments/)
+
+**Lifelong Imitation Learning with Multimodal Latent Replay and Incremental Adjustment**
+
+- Paper: <https://arxiv.org/abs/2603.10929>
+- Code: <https://github.com/yfqi/lifelong_mlr_ifa>
+- Notes (Chinese): [papernotes.org/CVPR2026/robotics/lifelong_imitation_learni…](https://papernotes.org/CVPR2026/robotics/lifelong_imitation_learning_multimodal_latent_rep/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/lifelong…](https://en.papernotes.org/CVPR2026/reinforcement_learning/lifelong_imitation_learning_multimodal_latent_rep/)
 
 **PanoAffordanceNet: Towards Holistic Affordance Grounding in 360° Indoor Environments**
 
@@ -7323,12 +7705,6 @@
 - Code: <https://github.com/GL-ZHU925/PanoAffordanceNet>
 - Notes (Chinese): [papernotes.org/CVPR2026/robotics/panoaffordancenet_towards…](https://papernotes.org/CVPR2026/robotics/panoaffordancenet_towards_holistic_affordance_grounding_in_360_indoor_environmen/)
 - Notes (English): [en.papernotes.org/CVPR2026/robotics/panoaffordancenet_towa…](https://en.papernotes.org/CVPR2026/robotics/panoaffordancenet_towards_holistic_affordance_grou/)
-
-**FineCog-Nav: Integrating Fine-grained Cognitive Modules for Zero-shot Multimodal UAV Navigation**
-
-- Paper: <https://arxiv.org/abs/2604.16298>
-- Notes (Chinese): [papernotes.org/CVPR2026/robotics/finecog_nav_fine_grained_…](https://papernotes.org/CVPR2026/robotics/finecog_nav_fine_grained_cognitive_modules_for_zero_shot_uav_navigation/)
-- Notes (English): [en.papernotes.org/CVPR2026/robotics/finecog_nav_fine_grain…](https://en.papernotes.org/CVPR2026/robotics/finecog_nav_fine_grained_cognitive_modules_for_zero_shot_uav_navigation/)
 
 **Adaptive Action Chunking at Inference-time for Vision-Language-Action Models**
 
@@ -7355,12 +7731,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/robotics/maniparena_comprehensive_…](https://papernotes.org/CVPR2026/robotics/maniparena_comprehensive_real-world_evaluation_of_reasoning-oriented_generalist_/)
 - Notes (English): [en.papernotes.org/CVPR2026/robotics/maniparena_comprehensi…](https://en.papernotes.org/CVPR2026/robotics/maniparena_comprehensive_real-world_evaluation_of_reasoning-oriented_generalist_/)
 
-**Probabilistic Concept Graph Reasoning for Multimodal Misinformation Detection**
-
-- Paper: <https://arxiv.org/abs/2603.25203>
-- Notes (Chinese): [papernotes.org/CVPR2026/robotics/probabilistic_concept_gra…](https://papernotes.org/CVPR2026/robotics/probabilistic_concept_graph_reasoning_for_multimodal_misinformation_detection/)
-- Notes (English): [en.papernotes.org/CVPR2026/robotics/probabilistic_concept_…](https://en.papernotes.org/CVPR2026/robotics/probabilistic_concept_graph_reasoning_for_multimodal_misinformation_detection/)
-
 **BiPreManip: Learning Affordance-Based Bimanual Preparatory Manipulation through Anticipatory Collaboration**
 
 - Paper: <https://arxiv.org/abs/2603.21679>
@@ -7372,6 +7742,12 @@
 - Paper: <https://arxiv.org/abs/2603.18495>
 - Notes (Chinese): [papernotes.org/CVPR2026/robotics/cross-domain_demo-to-code…](https://papernotes.org/CVPR2026/robotics/cross-domain_demo-to-code_via_neurosymbolic_counterfactual_reasoning/)
 - Notes (English): [en.papernotes.org/CVPR2026/robotics/cross-domain_demo-to-c…](https://en.papernotes.org/CVPR2026/robotics/cross-domain_demo-to-code_via_neurosymbolic_counterfactual_reasoning/)
+
+**Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress**
+
+- Paper: <https://arxiv.org/abs/2603.17312>
+- Notes (Chinese): [papernotes.org/CVPR2026/robotics/recurrent_reasoning_with_…](https://papernotes.org/CVPR2026/robotics/recurrent_reasoning_with_vision-language_models_for_estimating_long-horizon_embo/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/recurrent_reason…](https://en.papernotes.org/CVPR2026/multimodal_vlm/recurrent_reasoning_with_vision-language_models_for_estimating_long-horizon_embo/)
 
 **ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation**
 
@@ -7392,23 +7768,11 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/robotics/decovln_decoupling_observ…](https://papernotes.org/CVPR2026/robotics/decovln_decoupling_observation_reasoning_and_correction_for_vision-and-language_/)
 - Notes (English): [en.papernotes.org/CVPR2026/robotics/decovln_decoupling_obs…](https://en.papernotes.org/CVPR2026/robotics/decovln_decoupling_observation_reasoning_and_correction_for_vision-and-language_/)
 
-**Influence Malleability in Linearized Attention: Dual Implications of Non-Convergent NTK Dynamics**
-
-- Paper: <https://arxiv.org/abs/2603.13085>
-- Notes (Chinese): [papernotes.org/CVPR2026/robotics/influence_malleability_in…](https://papernotes.org/CVPR2026/robotics/influence_malleability_in_linearized_attention_dual_implications_of_non-converge/)
-- Notes (English): [en.papernotes.org/CVPR2026/robotics/influence_malleability…](https://en.papernotes.org/CVPR2026/robotics/influence_malleability_in_linearized_attention_dual_implications_of_non-converge/)
-
 **Language-Grounded Decoupled Action Representation for Robotic Manipulation**
 
 - Paper: <https://arxiv.org/abs/2603.12967>
 - Notes (Chinese): [papernotes.org/CVPR2026/robotics/language-grounded_decoupl…](https://papernotes.org/CVPR2026/robotics/language-grounded_decoupled_action_representation_for_robotic_manipulation/)
 - Notes (English): [en.papernotes.org/CVPR2026/robotics/language-grounded_deco…](https://en.papernotes.org/CVPR2026/robotics/language-grounded_decoupled_action_representation_for_robotic_manipulation/)
-
-**Expert Pyramid Tuning: Efficient Parameter Fine-Tuning for Expertise-Driven Task Allocation**
-
-- Paper: <https://arxiv.org/abs/2603.12577>
-- Notes (Chinese): [papernotes.org/CVPR2026/robotics/expert_pyramid_tuning_eff…](https://papernotes.org/CVPR2026/robotics/expert_pyramid_tuning_efficient_parameter_fine-tuning_for_expertise-driven_task_/)
-- Notes (English): [en.papernotes.org/CVPR2026/robotics/expert_pyramid_tuning_…](https://en.papernotes.org/CVPR2026/robotics/expert_pyramid_tuning_efficient_parameter_fine-tuning_for_expertise-driven_task_/)
 
 **SaPaVe: Towards Active Perception and Manipulation in Vision-Language-Action Models for Robotics**
 
@@ -7417,11 +7781,11 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/robotics/sapave_active_perception_…](https://papernotes.org/CVPR2026/robotics/sapave_active_perception_manipulation_vla_roboti/)
 - Notes (English): [en.papernotes.org/CVPR2026/robotics/sapave_active_percepti…](https://en.papernotes.org/CVPR2026/robotics/sapave_active_perception_manipulation_vla_roboti/)
 
-**RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection in Robotic Manipulation**
+**RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset**
 
-- Paper: <https://arxiv.org/abs/2603.11106>
-- Notes (Chinese): [papernotes.org/CVPR2026/robotics/rc-nf_robot-conditioned_n…](https://papernotes.org/CVPR2026/robotics/rc-nf_robot-conditioned_normalizing_flow_for_real-time_anomaly_detection_in_robo/)
-- Notes (English): [en.papernotes.org/CVPR2026/robotics/rc-nf_robot-conditione…](https://en.papernotes.org/CVPR2026/robotics/rc-nf_robot-conditioned_normalizing_flow_for_real-time_anomaly_detection_in_robo/)
+- Paper: <https://arxiv.org/abs/2603.11811>
+- Notes (Chinese): [papernotes.org/CVPR2026/robotics/radar_closedloop_robotic_…](https://papernotes.org/CVPR2026/robotics/radar_closedloop_robotic_data_generation_via_seman/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/radar_cl…](https://en.papernotes.org/CVPR2026/reinforcement_learning/radar_closedloop_robotic_data_generation_via_seman/)
 
 **Test-time Ego-Exo-centric Adaptation for Action Anticipation via Multi-Label Prototype Growing and Dual-Clue Consistency**
 
@@ -7449,6 +7813,19 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/robotics/chain_of_world_world_mode…](https://papernotes.org/CVPR2026/robotics/chain_of_world_world_model_thinking_in_latent_motion/)
 - Notes (English): [en.papernotes.org/CVPR2026/robotics/chain_of_world_world_m…](https://en.papernotes.org/CVPR2026/robotics/chain_of_world_world_model_thinking_in_latent_motion/)
 
+**Rethinking Camera Choice: An Empirical Study on Fisheye Camera Properties in Robotic Manipulation**
+
+- Paper: <https://arxiv.org/abs/2603.02139>
+- Project: <https://robo-fisheye.github.io/>
+- Notes (Chinese): [papernotes.org/CVPR2026/robotics/rethinking_camera_choice_…](https://papernotes.org/CVPR2026/robotics/rethinking_camera_choice_an_empirical_study_on_fisheye_camera_properties_in_robo/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/rethinki…](https://en.papernotes.org/CVPR2026/reinforcement_learning/rethinking_camera_choice_an_empirical_study_on_fisheye_camera_properties_in_robo/)
+
+**GraspLDP: Towards Generalizable Grasping Policy via Latent Diffusion**
+
+- Paper: <https://arxiv.org/abs/2602.22862>
+- Notes (Chinese): [papernotes.org/CVPR2026/robotics/graspldp_towards_generali…](https://papernotes.org/CVPR2026/robotics/graspldp_towards_generalizable_grasping_policy_via_latent_diffusion/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/graspldp…](https://en.papernotes.org/CVPR2026/reinforcement_learning/graspldp_towards_generalizable_grasping_policy_via_latent_diffusion/)
+
 **GeCo-SRT: Geometry-aware Continual Adaptation for Robotic Cross-Task Sim-to-Real Transfer**
 
 - Paper: <https://arxiv.org/abs/2602.20871>
@@ -7458,7 +7835,7 @@
 **QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models**
 
 - Paper: <https://arxiv.org/abs/2602.20309>
-- Notes (Chinese): [papernotes.org/CVPR2026/model_compression/quantvla_scale-c…](https://papernotes.org/CVPR2026/model_compression/quantvla_scale-calibrated_post-training_quantization_for_vision-language-action_/)
+- Notes (Chinese): [papernotes.org/CVPR2026/robotics/quantvla_scale-calibrated…](https://papernotes.org/CVPR2026/robotics/quantvla_scale-calibrated_post-training_quantization_for_vision-language-action_/)
 - Notes (English): [en.papernotes.org/CVPR2026/model_compression/quantvla_scal…](https://en.papernotes.org/CVPR2026/model_compression/quantvla_scale-calibrated_post-training_quantization_for_vision-language-action_/)
 
 **Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning**
@@ -7479,6 +7856,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/robotics/palm_progress-aware_polic…](https://papernotes.org/CVPR2026/robotics/palm_progress-aware_policy_learning_via_affordance_reasoning_for_long-horizon_ro/)
 - Notes (English): [en.papernotes.org/CVPR2026/robotics/palm_progress-aware_po…](https://en.papernotes.org/CVPR2026/robotics/palm_progress-aware_policy_learning_via_affordance_reasoning_for_long-horizon_ro/)
 
+**HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models**
+
+- Paper: <https://arxiv.org/abs/2512.09928>
+- Notes (Chinese): [papernotes.org/CVPR2026/robotics/hif-vla_hindsight_insight…](https://papernotes.org/CVPR2026/robotics/hif-vla_hindsight_insight_and_foresight_through_motion_representation_for_vision/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/hif-vla_hindsigh…](https://en.papernotes.org/CVPR2026/multimodal_vlm/hif-vla_hindsight_insight_and_foresight_through_motion_representation_for_vision/)
+
 **Diagnose, Correct, and Learn from Manipulation Failures via Visual Symbols**
 
 - Paper: <https://arxiv.org/abs/2512.02787>
@@ -7492,11 +7875,17 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/robotics/igen_scalable_data_genera…](https://papernotes.org/CVPR2026/robotics/igen_scalable_data_generation_for_robot_learning_from_open-world_images/)
 - Notes (English): [en.papernotes.org/CVPR2026/robotics/igen_scalable_data_gen…](https://en.papernotes.org/CVPR2026/robotics/igen_scalable_data_generation_for_robot_learning_from_open-world_images/)
 
-**CycleManip: Enabling Cyclic Task Manipulation via Effective Historical Perception and Understanding**
+**Dual-Agent Reinforcement Learning for Adaptive and Cost-Aware Visual-Inertial Odometry**
 
-- Paper: <https://arxiv.org/abs/2512.01022>
-- Notes (Chinese): [papernotes.org/CVPR2026/robotics/cyclemanip_enabling_cycli…](https://papernotes.org/CVPR2026/robotics/cyclemanip_enabling_cyclic_task_manipulation_via_effective_historical_percepti/)
-- Notes (English): [en.papernotes.org/CVPR2026/robotics/cyclemanip_enabling_cy…](https://en.papernotes.org/CVPR2026/robotics/cyclemanip_enabling_cyclic_task_manipulation_via_effective_historical_percepti/)
+- Paper: <https://arxiv.org/abs/2511.21083>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/dual-agent_rei…](https://papernotes.org/CVPR2026/video_understanding/dual-agent_reinforcement_learning_for_adaptive_and_cost-aware_visual-inertial_od/)
+- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/dual-agent_…](https://en.papernotes.org/CVPR2026/video_understanding/dual-agent_reinforcement_learning_for_adaptive_and_cost-aware_visual-inertial_od/)
+
+**AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention**
+
+- Paper: <https://arxiv.org/abs/2511.18960>
+- Notes (Chinese): [papernotes.org/CVPR2026/robotics/ava_vla_improving_vision_…](https://papernotes.org/CVPR2026/robotics/ava_vla_improving_vision_language_action_models_with_active_visual_attention/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/ava_vla_improvin…](https://en.papernotes.org/CVPR2026/multimodal_vlm/ava_vla_improving_vision_language_action_models_with_active_visual_attention/)
 
 **MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent**
 
@@ -7510,18 +7899,6 @@
 - Paper: <https://arxiv.org/abs/2510.24058>
 - Notes (Chinese): [papernotes.org/CVPR2026/robotics/pulse_privileged_knowledg…](https://papernotes.org/CVPR2026/robotics/pulse_privileged_knowledge_transfer_from_rich_to_deployable_sensors_for_embodied/)
 - Notes (English): [en.papernotes.org/CVPR2026/robotics/pulse_privileged_knowl…](https://en.papernotes.org/CVPR2026/robotics/pulse_privileged_knowledge_transfer_from_rich_to_deployable_sensors_for_embodied/)
-
-**DeepSketcher: Internalizing Visual Manipulation for Multimodal Reasoning**
-
-- Paper: <https://arxiv.org/abs/2509.25866>
-- Notes (Chinese): [papernotes.org/CVPR2026/robotics/deepsketcher_internalizin…](https://papernotes.org/CVPR2026/robotics/deepsketcher_internalizing_visual_manipulation_for_multimodal_reasoning/)
-- Notes (English): [en.papernotes.org/CVPR2026/robotics/deepsketcher_internali…](https://en.papernotes.org/CVPR2026/robotics/deepsketcher_internalizing_visual_manipulation_for_multimodal_reasoning/)
-
-**FORCE: Transferable Visual Jailbreaking Attacks via Feature Over-Reliance CorrEction**
-
-- Paper: <https://arxiv.org/abs/2509.21029>
-- Notes (Chinese): [papernotes.org/CVPR2026/robotics/force_transferable_visual…](https://papernotes.org/CVPR2026/robotics/force_transferable_visual_jailbreaking_attacks_via_feature_over_reliance_correct/)
-- Notes (English): [en.papernotes.org/CVPR2026/robotics/force_transferable_vis…](https://en.papernotes.org/CVPR2026/robotics/force_transferable_visual_jailbreaking_attacks_via_feature_over_reliance_correct/)
 
 **Learning to See and Act: Task-Aware Virtual View Exploration for Robotic Manipulation**
 
@@ -7540,236 +7917,9 @@
 
 ---
 
-<a id="object_detection"></a>
-
-## 🎯 Object Detection · `object_detection` · 35 papers
-
-**Mining Instance-Centric Vision-Language Contexts for Human-Object Interaction Detection**
-
-- Paper: <https://arxiv.org/abs/2604.02071>
-- Code: <https://github.com/nowuss/InCoM-Net>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/mining_instance-c…](https://papernotes.org/CVPR2026/object_detection/mining_instance-centric_vision-language_contexts_for_human-object_interaction_de/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/mining_instanc…](https://en.papernotes.org/CVPR2026/object_detection/mining_instance-centric_vision-language_contexts_for_human-object_interaction_de/)
-
-**A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps**
-
-- Paper: <https://arxiv.org/abs/2603.28182>
-- Code: <https://github.com/Intellindust-AI-Lab/FT-FSOD>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/a_closer_look_at_…](https://papernotes.org/CVPR2026/object_detection/a_closer_look_at_cross-domain_few-shot_object_detection_fine-tuning_matters_and_/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/a_closer_look_…](https://en.papernotes.org/CVPR2026/object_detection/a_closer_look_at_cross-domain_few-shot_object_detection_fine-tuning_matters_and_/)
-
-**Prompt-Free Universal Region Proposal Network**
-
-- Paper: <https://arxiv.org/abs/2603.17554>
-- Code: <https://github.com/tangqh03/PF-RPN>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/prompt-free_unive…](https://papernotes.org/CVPR2026/object_detection/prompt-free_universal_region_proposal_network/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/prompt-free_un…](https://en.papernotes.org/CVPR2026/object_detection/prompt-free_universal_region_proposal_network/)
-
-**SpiralDiff: Spiral Diffusion with LoRA for RGB-to-RAW Conversion Across Cameras**
-
-- Paper: <https://arxiv.org/abs/2603.14885>
-- Code: <https://github.com/Chuancy-TJU/SpiralDiff>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/spiraldiff_spiral…](https://papernotes.org/CVPR2026/object_detection/spiraldiff_spiral_diffusion_with_lora_for_rgb-to-raw_conversion_across_cameras/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/spiraldiff_spi…](https://en.papernotes.org/CVPR2026/object_detection/spiraldiff_spiral_diffusion_with_lora_for_rgb-to-raw_conversion_across_cameras/)
-
-**Random Wins All: Rethinking Grouping Strategies for Vision Tokens**
-
-- Paper: <https://arxiv.org/abs/2603.00486>
-- Code: <https://github.com/qhfan/random>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/random_wins_all_r…](https://papernotes.org/CVPR2026/object_detection/random_wins_all_rethinking_grouping_strategies_for_vision_tokens/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/random_wins_al…](https://en.papernotes.org/CVPR2026/object_detection/random_wins_all_rethinking_grouping_strategies_for_vision_tokens/)
-
-**Fourier Angle Alignment for Oriented Object Detection in Remote Sensing**
-
-- Paper: <https://arxiv.org/abs/2602.23790>
-- Code: <https://github.com/gcy0423/Fourier-Angle-Alignment>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/fourier_angle_ali…](https://papernotes.org/CVPR2026/object_detection/fourier_angle_alignment_for_oriented_object_detection_in_remote_sensing/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/fourier_angle_…](https://en.papernotes.org/CVPR2026/object_detection/fourier_angle_alignment_for_oriented_object_detection_in_remote_sensing/)
-
-**MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding**
-
-- Paper: <https://arxiv.org/abs/2512.02906>
-- Code: <https://github.com/yf0412/MRD>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/mrd_multi-resolut…](https://papernotes.org/CVPR2026/object_detection/mrd_multi-resolution_retrieval-detection_fusion_for_high-resolution_image_unders/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/mrd_multi-reso…](https://en.papernotes.org/CVPR2026/object_detection/mrd_multi-resolution_retrieval-detection_fusion_for_high-resolution_image_unders/)
-
-**Beyond Semantic Search: Towards Referential Anchoring in Composed Image Retrieval**
-
-- Paper: <https://arxiv.org/abs/2604.05393>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/beyond_semantic_s…](https://papernotes.org/CVPR2026/object_detection/beyond_semantic_search_towards_referential_anchoring_in_composed_image_retrieval/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/beyond_semanti…](https://en.papernotes.org/CVPR2026/object_detection/beyond_semantic_search_towards_referential_anchoring_in_composed_image_retrieval/)
-
-**Saliency-R1: Enforcing Interpretable and Faithful Vision-language Reasoning via Saliency-map Alignment Reward**
-
-- Paper: <https://arxiv.org/abs/2604.04500>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/saliency-r1_enfor…](https://papernotes.org/CVPR2026/object_detection/saliency-r1_enforcing_interpretable_and_faithful_vision-language_reasoning_via_s/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/saliency-r1_en…](https://en.papernotes.org/CVPR2026/object_detection/saliency-r1_enforcing_interpretable_and_faithful_vision-language_reasoning_via_s/)
-
-**Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection**
-
-- Paper: <https://arxiv.org/abs/2604.04444>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/parameter-efficie…](https://papernotes.org/CVPR2026/object_detection/parameter-efficient_semantic_augmentation_for_enhancing_open-vocabulary_object_d/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/parameter-effi…](https://en.papernotes.org/CVPR2026/object_detection/parameter-efficient_semantic_augmentation_for_enhancing_open-vocabulary_object_d/)
-
-**UAVGen: Visual Prototype Conditioned Focal Region Generation for UAV-Based Object Detection**
-
-- Paper: <https://arxiv.org/abs/2604.02966>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/uavgen_visual_pro…](https://papernotes.org/CVPR2026/object_detection/uavgen_visual_prototype_conditioned_focal_region_generation_for_uav_based_object_detection/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/uavgen_visual_…](https://en.papernotes.org/CVPR2026/object_detection/uavgen_visual_prototype_conditioned_focal_region_generation_for_uav_based_object_detection/)
-
-**PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training**
-
-- Paper: <https://arxiv.org/abs/2604.00503>
-- Project: <https://fuweifuvtoo.github.io/pet-dino>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/pet-dino_unifying…](https://papernotes.org/CVPR2026/object_detection/pet-dino_unifying_visual_cues_into_grounding_dino_with_prompt-enriched_training/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/pet-dino_unify…](https://en.papernotes.org/CVPR2026/object_detection/pet-dino_unifying_visual_cues_into_grounding_dino_with_prompt-enriched_training/)
-
-**Detecting Unknown Objects via Energy-based Separation for Open World Object Detection**
-
-- Paper: <https://arxiv.org/abs/2603.29954>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/detecting_unknown…](https://papernotes.org/CVPR2026/object_detection/detecting_unknown_objects_via_energy-based_separation/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/detecting_unkn…](https://en.papernotes.org/CVPR2026/object_detection/detecting_unknown_objects_via_energy-based_separation/)
-
-**Toward Generalizable Whole Brain Representations with High-Resolution Light-Sheet Data**
-
-- Paper: <https://arxiv.org/abs/2603.29842>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/toward_generaliza…](https://papernotes.org/CVPR2026/object_detection/toward_generalizable_whole_brain_representations_with_high-resolution_light-shee/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/toward_general…](https://en.papernotes.org/CVPR2026/object_detection/toward_generalizable_whole_brain_representations_with_high-resolution_light-shee/)
-
-**CD-Buffer: Complementary Dual-Buffer Framework for Test-Time Adaptation in Adverse Weather Object Detection**
-
-- Paper: <https://arxiv.org/abs/2603.26092>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/cd-buffer_complem…](https://papernotes.org/CVPR2026/object_detection/cd-buffer_complementary_dual-buffer_framework_for_test-time_adaptation_in_advers/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/cd-buffer_comp…](https://en.papernotes.org/CVPR2026/object_detection/cd-buffer_complementary_dual-buffer_framework_for_test-time_adaptation_in_advers/)
-
-**HeROD: Heuristic-inspired Reasoning Priors Facilitate Data-Efficient Referring Object Detection**
-
-- Paper: <https://arxiv.org/abs/2603.24166>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/herod_heuristic_i…](https://papernotes.org/CVPR2026/object_detection/herod_heuristic_inspired_reasoning_data_efficient_rod/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/herod_heuristi…](https://en.papernotes.org/CVPR2026/object_detection/herod_heuristic_inspired_reasoning_data_efficient_rod/)
-
-**NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection**
-
-- Paper: <https://arxiv.org/abs/2603.21069>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/noovd_novel_categ…](https://papernotes.org/CVPR2026/object_detection/noovd_novel_category_discovery_and_embedding_for_open-vocabulary_object_detectio/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/noovd_novel_ca…](https://en.papernotes.org/CVPR2026/object_detection/noovd_novel_category_discovery_and_embedding_for_open-vocabulary_object_detectio/)
-
-**DA-Mamba: Learning Domain-Aware State Space Model for Global-Local Alignment in Domain Adaptive Object Detection**
-
-- Paper: <https://arxiv.org/abs/2603.18757>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/da-mamba_learning…](https://papernotes.org/CVPR2026/object_detection/da-mamba_learning_domain-aware_state_space_model_for_global-local_alignment_in_d/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/da-mamba_learn…](https://en.papernotes.org/CVPR2026/object_detection/da-mamba_learning_domain-aware_state_space_model_for_global-local_alignment_in_d/)
-
-**Remedying Target-Domain Astigmatism for Cross-Domain Few-Shot Object Detection**
-
-- Paper: <https://arxiv.org/abs/2603.18541>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/remedying_target-…](https://papernotes.org/CVPR2026/object_detection/remedying_target-domain_astigmatism_for_cross-domain_few-shot_object_detection/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/remedying_targ…](https://en.papernotes.org/CVPR2026/object_detection/remedying_target-domain_astigmatism_for_cross-domain_few-shot_object_detection/)
-
-**Does YOLO Really Need to See Every Training Image in Every Epoch?**
-
-- Paper: <https://arxiv.org/abs/2603.17684>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/does_yolo_really_…](https://papernotes.org/CVPR2026/object_detection/does_yolo_really_need_to_see_every_training_image_in_every_epoch/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/does_yolo_real…](https://en.papernotes.org/CVPR2026/object_detection/does_yolo_really_need_to_see_every_training_image_in_every_epoch/)
-
-**PHAC: Promptable Human Amodal Completion**
-
-- Paper: <https://arxiv.org/abs/2603.14741>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/phac_promptable_h…](https://papernotes.org/CVPR2026/object_detection/phac_promptable_human_amodal_completion/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/phac_promptabl…](https://en.papernotes.org/CVPR2026/object_detection/phac_promptable_human_amodal_completion/)
-
-**Mitigating Memorization in Text-to-Image Diffusion via Region-Aware Prompt Augmentation and Multimodal Copy Detection**
-
-- Paper: <https://arxiv.org/abs/2603.13070>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/mitigating_memori…](https://papernotes.org/CVPR2026/object_detection/mitigating_memorization_in_texttoimage_diffusion_v/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/mitigating_mem…](https://en.papernotes.org/CVPR2026/object_detection/mitigating_memorization_in_texttoimage_diffusion_v/)
-
-**Show, Don't Tell: Detecting Novel Objects by Watching Human Videos**
-
-- Paper: <https://arxiv.org/abs/2603.12751>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/show_dont_tell_de…](https://papernotes.org/CVPR2026/object_detection/show_dont_tell_detecting_novel_objects_by_watching/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/show_dont_tell…](https://en.papernotes.org/CVPR2026/object_detection/show_dont_tell_detecting_novel_objects_by_watching/)
-
-**The COTe score: A decomposable framework for evaluating Document Layout Analysis models**
-
-- Paper: <https://arxiv.org/abs/2603.12718>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/the_cote_score_a_…](https://papernotes.org/CVPR2026/object_detection/the_cote_score_a_decomposable_framework_for_evaluating_document_layout_analysis_/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/the_cote_score…](https://en.papernotes.org/CVPR2026/object_detection/the_cote_score_a_decomposable_framework_for_evaluating_document_layout_analysis_/)
-
-**ABRA: Teleporting Fine-Tuned Knowledge Across Domains for Open-Vocabulary Object Detection**
-
-- Paper: <https://arxiv.org/abs/2603.12409>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/abra_teleporting_…](https://papernotes.org/CVPR2026/object_detection/abra_teleporting_fine-tuned_knowledge_across_domains_for_open-vocabulary_object_/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/abra_teleporti…](https://en.papernotes.org/CVPR2026/object_detection/abra_teleporting_fine-tuned_knowledge_across_domains_for_open-vocabulary_object_/)
-
-**Evaluating Few-Shot Pill Recognition Under Visual Domain Shift**
-
-- Paper: <https://arxiv.org/abs/2603.10833>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/evaluating_few-sh…](https://papernotes.org/CVPR2026/object_detection/evaluating_few-shot_pill_recognition_under_visual_domain_shift/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/evaluating_few…](https://en.papernotes.org/CVPR2026/object_detection/evaluating_few-shot_pill_recognition_under_visual_domain_shift/)
-
-**AR2-4FV: Anchored Referring and Re-identification for Long-Term Grounding in Fixed-View Videos**
-
-- Paper: <https://arxiv.org/abs/2603.07758>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/ar2-4fv_anchored_…](https://papernotes.org/CVPR2026/object_detection/ar2-4fv_anchored_referring_and_re-identification_for_long-term_grounding_in_fixe/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/ar2-4fv_anchor…](https://en.papernotes.org/CVPR2026/object_detection/ar2-4fv_anchored_referring_and_re-identification_for_long-term_grounding_in_fixe/)
-
-**Small Target Detection Based on Mask-Enhanced Attention Fusion of Visible and Infrared Remote Sensing Images**
-
-- Paper: <https://arxiv.org/abs/2603.06925>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/small_target_dete…](https://papernotes.org/CVPR2026/object_detection/small_target_detection_based_on_mask-enhanced_attention_fusion_of_visible_and_in/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/small_target_d…](https://en.papernotes.org/CVPR2026/object_detection/small_target_detection_based_on_mask-enhanced_attention_fusion_of_visible_and_in/)
-
-**PaQ-DETR: Learning Pattern and Quality-Aware Dynamic Queries for Object Detection**
-
-- Paper: <https://arxiv.org/abs/2603.06917>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/paq-detr_learning…](https://papernotes.org/CVPR2026/object_detection/paq-detr_learning_pattern_and_quality-aware_dynamic_queries_for_object_detection/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/paq-detr_learn…](https://en.papernotes.org/CVPR2026/object_detection/paq-detr_learning_pattern_and_quality-aware_dynamic_queries_for_object_detection/)
-
-**Beyond Caption-Based Queries for Video Moment Retrieval**
-
-- Paper: <https://arxiv.org/abs/2603.02363>
-- Project: <https://davidpujol.github.io/beyond-vmr/>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/beyond_caption-ba…](https://papernotes.org/CVPR2026/object_detection/beyond_caption-based_queries_for_video_moment_retrieval/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/beyond_caption…](https://en.papernotes.org/CVPR2026/object_detection/beyond_caption-based_queries_for_video_moment_retrieval/)
-
-**Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection**
-
-- Paper: <https://arxiv.org/abs/2603.02286>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/beyond_prompt_deg…](https://papernotes.org/CVPR2026/object_detection/beyond_prompt_degradation_prototype-guided_dual-pool_prompting_for_incremental_o/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/beyond_prompt_…](https://en.papernotes.org/CVPR2026/object_detection/beyond_prompt_degradation_prototype-guided_dual-pool_prompting_for_incremental_o/)
-
-**EW-DETR: Evolving World Object Detection via Incremental Low-Rank DEtection TRansformer**
-
-- Paper: <https://arxiv.org/abs/2602.20985>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/ew-detr_evolving_…](https://papernotes.org/CVPR2026/object_detection/ew-detr_evolving_world_object_detection_via_incremental_low-rank_detection_trans/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/ew-detr_evolvi…](https://en.papernotes.org/CVPR2026/object_detection/ew-detr_evolving_world_object_detection_via_incremental_low-rank_detection_trans/)
-
-**Learning Multi-Modal Prototypes for Cross-Domain Few-Shot Object Detection** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2602.18811>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/learning_multi-mo…](https://papernotes.org/CVPR2026/object_detection/learning_multi-modal_prototypes_for_cross-domain_few-shot_object_detection/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/learning_multi…](https://en.papernotes.org/CVPR2026/object_detection/learning_multi-modal_prototypes_for_cross-domain_few-shot_object_detection/)
-
-**Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection**
-
-- Paper: <https://arxiv.org/abs/2512.17514>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/foundation_model_…](https://papernotes.org/CVPR2026/object_detection/foundation_model_priors_enhance_object_focus_in_feature_space_for_source-free_ob/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/foundation_mod…](https://en.papernotes.org/CVPR2026/object_detection/foundation_model_priors_enhance_object_focus_in_feature_space_for_source-free_ob/)
-
-**CompAgent: An Agentic Framework for Visual Compliance Verification** · 🛠️ Workshop
-
-- Paper: <https://arxiv.org/abs/2511.00171>
-- Notes (Chinese): [papernotes.org/CVPR2026/object_detection/compagent_an_agen…](https://papernotes.org/CVPR2026/object_detection/compagent_an_agentic_framework_for_visual_compliance_verification/)
-- Notes (English): [en.papernotes.org/CVPR2026/object_detection/compagent_an_a…](https://en.papernotes.org/CVPR2026/object_detection/compagent_an_agentic_framework_for_visual_compliance_verification/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
 <a id="image_restoration"></a>
 
-## 🖼️ Image Restoration · `image_restoration` · 33 papers
+## 🖼️ Image Restoration · `image_restoration` · 34 papers
 
 **TM-BSN: Triangular-Masked Blind-Spot Network for Real-World Self-Supervised Image Denoising**
 
@@ -7834,6 +7984,13 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/image_restoration/phasr_generalize…](https://papernotes.org/CVPR2026/image_restoration/phasr_generalized_image_shadow_removal_with_physically_aligned_priors/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_restoration/phasr_general…](https://en.papernotes.org/CVPR2026/image_restoration/phasr_generalized_image_shadow_removal_with_physically_aligned_priors/)
 
+**ReflexSplit: Single Image Reflection Separation via Layer Fusion-Separation**
+
+- Paper: <https://arxiv.org/abs/2601.17468>
+- Code: <https://github.com/wuw2135/ReflexSplit>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_restoration/reflexsplit_sing…](https://papernotes.org/CVPR2026/image_restoration/reflexsplit_single_image_reflection_separation_via_layer_fusion-separation/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/reflexsplit_sing…](https://en.papernotes.org/CVPR2026/llm_evaluation/reflexsplit_single_image_reflection_separation_via_layer_fusion-separation/)
+
 **Winner of CVPR2026 NTIRE Challenge on Image Shadow Removal: Semantic and Geometric Guidance for Shadow Removal via Cascaded Refinement**
 
 - Paper: <https://arxiv.org/abs/2604.16177>
@@ -7851,6 +8008,12 @@
 - Paper: <https://arxiv.org/abs/2604.07994>
 - Notes (Chinese): [papernotes.org/CVPR2026/image_restoration/sat_selective_ag…](https://papernotes.org/CVPR2026/image_restoration/sat_selective_aggregation_transformer_for_image_super_resolution/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_restoration/sat_selective…](https://en.papernotes.org/CVPR2026/image_restoration/sat_selective_aggregation_transformer_for_image_super_resolution/)
+
+**AceTone: Bridging Words and Colors for Conditional Image Grading**
+
+- Paper: <https://arxiv.org/abs/2604.00530>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_restoration/acetone_bridging…](https://papernotes.org/CVPR2026/image_restoration/acetone_bridging_words_and_colors_for_conditional_image_grading/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/acetone_…](https://en.papernotes.org/CVPR2026/reinforcement_learning/acetone_bridging_words_and_colors_for_conditional_image_grading/)
 
 **Beyond Ground-Truth: Leveraging Image Quality Priors for Real-World Image Restoration**
 
@@ -7876,6 +8039,13 @@
 - Paper: <https://arxiv.org/abs/2603.26385>
 - Notes (Chinese): [papernotes.org/CVPR2026/image_restoration/rar_restore_asse…](https://papernotes.org/CVPR2026/image_restoration/rar_restore_assess_repeat_a_unified_framework_for_iterative_image_restoration/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_restoration/rar_restore_a…](https://en.papernotes.org/CVPR2026/image_restoration/rar_restore_assess_repeat_a_unified_framework_for_iterative_image_restoration/)
+
+**EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions**
+
+- Paper: <https://arxiv.org/abs/2603.25135>
+- Project: <https://taegyoun88.github.io/EgoXtreme/>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/egoxtreme_a_da…](https://papernotes.org/CVPR2026/video_understanding/egoxtreme_a_dataset_for_robust_object_pose_estimation_in_egocentric_views_under_/)
+- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/egoxtreme_a…](https://en.papernotes.org/CVPR2026/video_understanding/egoxtreme_a_dataset_for_robust_object_pose_estimation_in_egocentric_views_under_/)
 
 **BluRef: Unsupervised Image Deblurring with Dense-Matching References**
 
@@ -7943,18 +8113,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/image_restoration/finpercep_rm_a_f…](https://papernotes.org/CVPR2026/image_restoration/finpercep_rm_a_fine_grained_reward_model_and_co_evolutionary_curriculum_for_rl_ba/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_restoration/finpercep_rm_…](https://en.papernotes.org/CVPR2026/image_restoration/finpercep_rm_a_fine_grained_reward_model_and_co_evolutionary_curriculum_for_rl_ba/)
 
-**MoLingo: Motion-Language Alignment for Text-to-Motion Generation**
-
-- Paper: <https://arxiv.org/abs/2512.13840>
-- Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/molingo_motion…](https://papernotes.org/CVPR2026/human_understanding/molingo_motion-language_alignment_for_text-to-motion_generation/)
-- Notes (English): [en.papernotes.org/CVPR2026/human_understanding/molingo_mot…](https://en.papernotes.org/CVPR2026/human_understanding/molingo_motion-language_alignment_for_text-to-motion_generation/)
-
-**Blink: Dynamic Visual Token Resolution for Enhanced Multimodal Understanding**
-
-- Paper: <https://arxiv.org/abs/2512.10548>
-- Notes (Chinese): [papernotes.org/CVPR2026/image_restoration/blink_dynamic_vi…](https://papernotes.org/CVPR2026/image_restoration/blink_dynamic_visual_token_resolution_for_enhanced_multimodal_understanding/)
-- Notes (English): [en.papernotes.org/CVPR2026/image_restoration/blink_dynamic…](https://en.papernotes.org/CVPR2026/image_restoration/blink_dynamic_visual_token_resolution_for_enhanced_multimodal_understanding/)
-
 **Beyond the Ground Truth: Enhanced Supervision for Image Restoration**
 
 - Paper: <https://arxiv.org/abs/2512.03932>
@@ -7983,9 +8141,388 @@
 
 ---
 
+<a id="self_supervised"></a>
+
+## 🔄 Self-Supervised Learning · `self_supervised` · 30 papers
+
+**TrackMAE: Video Representation Learning via Track Mask and Predict**
+
+- Paper: <https://arxiv.org/abs/2603.27268>
+- Code: <https://github.com/rvandeghen/TrackMAE>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/trackmae_video_rep…](https://papernotes.org/CVPR2026/self_supervised/trackmae_video_representation_learning_via_track_mask_and_predict/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/trackmae_video_…](https://en.papernotes.org/CVPR2026/self_supervised/trackmae_video_representation_learning_via_track_mask_and_predict/)
+
+**Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery**
+
+- Paper: <https://arxiv.org/abs/2603.19918>
+- Code: <https://github.com/zhou-9527/AnaLogical-GCD>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/learning_like_huma…](https://papernotes.org/CVPR2026/self_supervised/learning_like_humans_analogical_concept_learning_for_generalized_category_discov/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/learning_like_hu…](https://en.papernotes.org/CVPR2026/llm_evaluation/learning_like_humans_analogical_concept_learning_for_generalized_category_discov/)
+
+**Representation Learning for Spatiotemporal Physical Systems**
+
+- Paper: <https://arxiv.org/abs/2603.13227>
+- Code: <https://github.com/helenqu/physical-representation-learning>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/representation_lea…](https://papernotes.org/CVPR2026/self_supervised/representation_learning_for_spatiotemporal_physica/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/representation_…](https://en.papernotes.org/CVPR2026/self_supervised/representation_learning_for_spatiotemporal_physica/)
+
+**TeFlow: Enabling Multi-frame Supervision for Self-Supervised Feed-forward Scene Flow Estimation**
+
+- Paper: <https://arxiv.org/abs/2602.19053>
+- Code: <https://github.com/KTH-RPL/OpenSceneFlow>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/teflow_enabling_mu…](https://papernotes.org/CVPR2026/self_supervised/teflow_enabling_multi-frame_supervision_for_self-supervised_feed-forward_scene_f/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/teflow_enabling…](https://en.papernotes.org/CVPR2026/self_supervised/teflow_enabling_multi-frame_supervision_for_self-supervised_feed-forward_scene_f/)
+
+**TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction**
+
+- Paper: <https://arxiv.org/abs/2512.02341>
+- Code: <https://github.com/Xian-Bei/TALO>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/talo_pushing_3d_vi…](https://papernotes.org/CVPR2026/self_supervised/talo_pushing_3d_vision_foundation_models_towards_globally_consistent_online_reco/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/talo_pushing_3d…](https://en.papernotes.org/CVPR2026/self_supervised/talo_pushing_3d_vision_foundation_models_towards_globally_consistent_online_reco/)
+
+**D2Dewarp: Dual Dimensions Geometric Representation Learning Based Document Image Dewarping**
+
+- Paper: <https://arxiv.org/abs/2507.08492>
+- Code: <https://github.com/xiaomore/D2Dewarp>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/d2dewarp_dual_dime…](https://papernotes.org/CVPR2026/self_supervised/d2dewarp_dual_dimensions_geometric_representation_learning_based_document_image_/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/d2dewarp_dual_d…](https://en.papernotes.org/CVPR2026/self_supervised/d2dewarp_dual_dimensions_geometric_representation_learning_based_document_image_/)
+
+**CHEEM: Continual Learning by Reuse, New, Adapt and Skip -- A Hierarchical Exploration-Exploitation Approach**
+
+- Paper: <https://arxiv.org/abs/2303.08250>
+- Code: <https://github.com/savadikarc/cheem>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/cheem_continual_le…](https://papernotes.org/CVPR2026/self_supervised/cheem_continual_learning_by_reuse_new_adapt_and_skip_--_a_hierarchical_explorati/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_efficiency/cheem_continual_…](https://en.papernotes.org/CVPR2026/llm_efficiency/cheem_continual_learning_by_reuse_new_adapt_and_skip_--_a_hierarchical_explorati/)
+
+**HyCal: A Training-Free Prototype Calibration Method for Cross-Discipline Few-Shot Class-Incremental Learning**
+
+- Paper: <https://arxiv.org/abs/2604.15678>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/hycal_training_fre…](https://papernotes.org/CVPR2026/self_supervised/hycal_training_free_prototype_calibration_for_cross_discipline_fscil/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/hycal_training_f…](https://en.papernotes.org/CVPR2026/llm_evaluation/hycal_training_free_prototype_calibration_for_cross_discipline_fscil/)
+
+**Robustness of Vision Foundation Models to Common Perturbations**
+
+- Paper: <https://arxiv.org/abs/2604.14973>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/robustness_of_visi…](https://papernotes.org/CVPR2026/self_supervised/robustness_of_vision_foundation_models_to_common_perturbations/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/robustness_of_v…](https://en.papernotes.org/CVPR2026/self_supervised/robustness_of_vision_foundation_models_to_common_perturbations/)
+
+**OmniGCD: Abstracting Generalized Category Discovery for Modality Agnosticism**
+
+- Paper: <https://arxiv.org/abs/2604.14762>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/omnigcd_abstractin…](https://papernotes.org/CVPR2026/self_supervised/omnigcd_abstracting_generalized_category_discovery_for_modality_agnosticism/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/omnigcd_abstrac…](https://en.papernotes.org/CVPR2026/self_supervised/omnigcd_abstracting_generalized_category_discovery_for_modality_agnosticism/)
+
+**Chain-of-Models Pre-Training: Rethinking Training Acceleration of Vision Foundation Models**
+
+- Paper: <https://arxiv.org/abs/2604.12391>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/com_pt_chain_of_mo…](https://papernotes.org/CVPR2026/self_supervised/com_pt_chain_of_models_pretraining/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/com_pt_chain_of…](https://en.papernotes.org/CVPR2026/self_supervised/com_pt_chain_of_models_pretraining/)
+
+**UniGeoCLIP: Unified Geospatial Contrastive Learning**
+
+- Paper: <https://arxiv.org/abs/2604.11668>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/unigeoclip_geospat…](https://papernotes.org/CVPR2026/self_supervised/unigeoclip_geospatial_contrastive/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/unigeoclip_geos…](https://en.papernotes.org/CVPR2026/self_supervised/unigeoclip_geospatial_contrastive/)
+
+**CraterBench-R: Instance-Level Crater Retrieval for Planetary Scale** · 🛠️ Workshop
+
+- Paper: <https://arxiv.org/abs/2604.06245>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/craterbench-r_inst…](https://papernotes.org/CVPR2026/self_supervised/craterbench-r_instance-level_crater_retrieval_for_planetary_scale/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/craterbench-r_i…](https://en.papernotes.org/CVPR2026/self_supervised/craterbench-r_instance-level_crater_retrieval_for_planetary_scale/)
+
+**Group-DINOmics: Incorporating People Dynamics into DINO for Self-supervised Group Activity Feature Learning**
+
+- Paper: <https://arxiv.org/abs/2604.04467>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/group_dinomics_inc…](https://papernotes.org/CVPR2026/self_supervised/group_dinomics_incorporating_people_dynamics_into_dino_for_self_supervised_group_activity_feature_learning/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/group_dinomics_…](https://en.papernotes.org/CVPR2026/self_supervised/group_dinomics_incorporating_people_dynamics_into_dino_for_self_supervised_group_activity_feature_learning/)
+
+**Mine-JEPA: In-Domain Self-Supervised Learning for Mine-Like Object Classification in Side-Scan Sonar** · 🛠️ Workshop
+
+- Paper: <https://arxiv.org/abs/2604.00383>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/mine-jepa_in-domai…](https://papernotes.org/CVPR2026/self_supervised/mine-jepa_in-domain_self-supervised_learning_for_mine-like_object_classification/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/mine-jepa_in-do…](https://en.papernotes.org/CVPR2026/self_supervised/mine-jepa_in-domain_self-supervised_learning_for_mine-like_object_classification/)
+
+**Suppressing Non-Semantic Noise in Masked Image Modeling Representations**
+
+- Paper: <https://arxiv.org/abs/2604.00172>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/suppressing_non-se…](https://papernotes.org/CVPR2026/self_supervised/suppressing_non-semantic_noise_in_masked_image_modeling_representations/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/suppressing_non…](https://en.papernotes.org/CVPR2026/self_supervised/suppressing_non-semantic_noise_in_masked_image_modeling_representations/)
+
+**Reframing Long-Tailed Learning via Loss Landscape Geometry**
+
+- Paper: <https://arxiv.org/abs/2603.21217>
+- Project: <https://gkp-gsa.github.io/>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/reframing_long-tai…](https://papernotes.org/CVPR2026/self_supervised/reframing_long-tailed_learning_via_loss_landscape_geometry/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/reframing_long-t…](https://en.papernotes.org/CVPR2026/llm_evaluation/reframing_long-tailed_learning_via_loss_landscape_geometry/)
+
+**BoSS: A Best-of-Strategies Selector as an Oracle for Deep Active Learning**
+
+- Paper: <https://arxiv.org/abs/2603.13109>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/boss_a_best-of-str…](https://papernotes.org/CVPR2026/self_supervised/boss_a_best-of-strategies_selector_as_an_oracle_for_deep_active_learning/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/boss_a_best-of-…](https://en.papernotes.org/CVPR2026/self_supervised/boss_a_best-of-strategies_selector_as_an_oracle_for_deep_active_learning/)
+
+**Breaking the Tuning Barrier: Zero-Hyperparameters Yield Multi-Corner Analysis Via Learned Priors**
+
+- Paper: <https://arxiv.org/abs/2603.13092>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/breaking_the_tunin…](https://papernotes.org/CVPR2026/self_supervised/breaking_the_tuning_barrier_zerohyperparameters_yi/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/breaking_the_tu…](https://en.papernotes.org/CVPR2026/self_supervised/breaking_the_tuning_barrier_zero-hyperparameters_yield_multi-corner_analysis_via/)
+
+**Text-Phase Synergy Network with Dual Priors for Unsupervised Cross-Domain Image Retrieval**
+
+- Paper: <https://arxiv.org/abs/2603.12711>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/text-phase_synergy…](https://papernotes.org/CVPR2026/self_supervised/text-phase_synergy_network_with_dual_priors_for_unsupervised_cross-domain_image_/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/text-phase_syne…](https://en.papernotes.org/CVPR2026/self_supervised/text-phase_synergy_network_with_dual_priors_for_unsupervised_cross-domain_image_/)
+
+**Shape-of-You: Fused Gromov-Wasserstein Optimal Transport for Semantic Correspondence in-the-Wild**
+
+- Paper: <https://arxiv.org/abs/2603.11618>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/shape-of-you_fused…](https://papernotes.org/CVPR2026/self_supervised/shape-of-you_fused_gromov-wasserstein_optimal_transport_for_semantic_corresponde/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/shape-of-you_fu…](https://en.papernotes.org/CVPR2026/self_supervised/shape-of-you_fused_gromov-wasserstein_optimal_transport_for_semantic_corresponde/)
+
+**DiverseDiT: Towards Diverse Representation Learning in Diffusion Transformers**
+
+- Paper: <https://arxiv.org/abs/2603.04239>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/diversedit_towards…](https://papernotes.org/CVPR2026/self_supervised/diversedit_towards_diverse_representation_learning_in_diffusion_transformers/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/diversedit_towa…](https://en.papernotes.org/CVPR2026/self_supervised/diversedit_towards_diverse_representation_learning_in_diffusion_transformers/)
+
+**Temporal Imbalance of Positive and Negative Supervision in Class-Incremental Learning**
+
+- Paper: <https://arxiv.org/abs/2603.02280>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/temporal_imbalance…](https://papernotes.org/CVPR2026/self_supervised/temporal_imbalance_of_positive_and_negative_supervision_in_class-incremental_lea/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/temporal_imbalan…](https://en.papernotes.org/CVPR2026/llm_evaluation/temporal_imbalance_of_positive_and_negative_supervision_in_class-incremental_lea/)
+
+**Vision Transformers Need More Than Registers**
+
+- Paper: <https://arxiv.org/abs/2602.22394>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/vision_transformer…](https://papernotes.org/CVPR2026/self_supervised/vision_transformers_need_more_than_registers/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/vision_transfor…](https://en.papernotes.org/CVPR2026/self_supervised/vision_transformers_need_more_than_registers/)
+
+**GeoBridge: A Semantic-Anchored Multi-View Foundation Model for Geo-Localization**
+
+- Paper: <https://arxiv.org/abs/2512.02697>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/geobridge_semantic…](https://papernotes.org/CVPR2026/self_supervised/geobridge_semantic-anchored_multi-view_foundation_model_for_geo-localization/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/geobridge_seman…](https://en.papernotes.org/CVPR2026/self_supervised/geobridge_semantic-anchored_multi-view_foundation_model_for_geo-localization/)
+
+**A Stitch in Time: Learning Procedural Workflow via Self-Supervised Plackett-Luce Ranking**
+
+- Paper: <https://arxiv.org/abs/2511.17805>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/a_stitch_in_time_l…](https://papernotes.org/CVPR2026/self_supervised/a_stitch_in_time_learning_procedural_workflow_via_self_supervised_plackett_luce_r/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/a_stitch_in_tim…](https://en.papernotes.org/CVPR2026/self_supervised/a_stitch_in_time_learning_procedural_workflow_via_self_supervised_plackett_luce_r/)
+
+**Neighbor GRPO: Contrastive ODE Policy Optimization Aligns Flow Models**
+
+- Paper: <https://arxiv.org/abs/2511.16955>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/neighbor_grpo_con…](https://papernotes.org/CVPR2026/image_generation/neighbor_grpo_contrastive_ode_policy_optimization_aligns_flow_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/image_generation/neighbor_grpo_…](https://en.papernotes.org/CVPR2026/image_generation/neighbor_grpo_contrastive_ode_policy_optimization_aligns_flow_models/)
+
+**Free-Grained Hierarchical Visual Recognition**
+
+- Paper: <https://arxiv.org/abs/2510.14737>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/free-grained_hiera…](https://papernotes.org/CVPR2026/self_supervised/free-grained_hierarchical_visual_recognition/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/free-grained_hie…](https://en.papernotes.org/CVPR2026/llm_evaluation/free-grained_hierarchical_visual_recognition/)
+
+**VT-Intrinsic: Physics-Based Decomposition of Reflectance and Shading using a Single Visible-Thermal Image Pair**
+
+- Paper: <https://arxiv.org/abs/2509.10388>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/vt-intrinsic_physi…](https://papernotes.org/CVPR2026/self_supervised/vt-intrinsic_physics-based_decomposition_of_reflectance_and_shading_using_a_sing/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/vt-intrinsic_ph…](https://en.papernotes.org/CVPR2026/self_supervised/vt-intrinsic_physics-based_decomposition_of_reflectance_and_shading_using_a_sing/)
+
+**Hier-COS: Making Deep Features Hierarchy-aware via Composition of Orthogonal Subspaces**
+
+- Paper: <https://arxiv.org/abs/2503.07853>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/hier-cos_making_de…](https://papernotes.org/CVPR2026/self_supervised/hier-cos_making_deep_features_hierarchy-aware_via_composition_of_orthogonal_subs/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/hier-cos_making_…](https://en.papernotes.org/CVPR2026/llm_evaluation/hier-cos_making_deep_features_hierarchy-aware_via_composition_of_orthogonal_subs/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
+<a id="llm_safety"></a>
+
+## 🔒 LLM Safety · `llm_safety` · 28 papers
+
+**FairLLaVA: Fairness-Aware Parameter-Efficient Fine-Tuning for Large Vision-Language Assistants**
+
+- Paper: <https://arxiv.org/abs/2603.26008>
+- Code: <https://github.com/bhosalems/FairLLaVA>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/fairllava_fairness-awar…](https://papernotes.org/CVPR2026/llm_safety/fairllava_fairness-aware_parameter-efficient_fine-tuning_for_large_vision-langua/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/fairllava_fairness-a…](https://en.papernotes.org/CVPR2026/llm_safety/fairllava_fairness-aware_parameter-efficient_fine-tuning_for_large_vision-langua/)
+
+**Designing to Forget: Deep Semi-parametric Models for Unlearning**
+
+- Paper: <https://arxiv.org/abs/2603.22870>
+- Code: <https://github.com/amberyzheng/spm_unlearning>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/designing_to_forget_dee…](https://papernotes.org/CVPR2026/llm_safety/designing_to_forget_deep_semi-parametric_models_for_unlearning/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/designing_to_forget_…](https://en.papernotes.org/CVPR2026/llm_safety/designing_to_forget_deep_semi-parametric_models_for_unlearning/)
+
+**Multi-Paradigm Collaborative Adversarial Attack Against Multi-Modal Large Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.04846>
+- Code: <https://github.com/LiYuanBoJNU/MPCAttack>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/multi-paradigm_collabor…](https://papernotes.org/CVPR2026/llm_safety/multi-paradigm_collaborative_adversarial_attack_against_multi-modal_large_langua/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/multi-paradigm_colla…](https://en.papernotes.org/CVPR2026/llm_safety/multi-paradigm_collaborative_adversarial_attack_against_multi-modal_large_langua/)
+
+**TRivia: Self-supervised Fine-tuning of Vision-Language Models for Table Recognition**
+
+- Paper: <https://arxiv.org/abs/2512.01248>
+- Code: <https://github.com/HKU-TASR/TRivia>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/trivia_self-supervi…](https://papernotes.org/CVPR2026/multimodal_vlm/trivia_self-supervised_fine-tuning_of_vision-language_models_for_table_recogniti/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/trivia_self-supe…](https://en.papernotes.org/CVPR2026/multimodal_vlm/trivia_self-supervised_fine-tuning_of_vision-language_models_for_table_recogniti/)
+
+**V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs**
+
+- Paper: <https://arxiv.org/abs/2511.20223>
+- Code: <https://github.com/Summu77/V-Attack>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/v-attack_targeting_dise…](https://papernotes.org/CVPR2026/llm_safety/v-attack_targeting_disentangled_value_features_for_controllable_adversarial_atta/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/v-attack_targeting_d…](https://en.papernotes.org/CVPR2026/llm_safety/v-attack_targeting_disentangled_value_features_for_controllable_adversarial_atta/)
+
+**Learning from Oblivion: Predicting Knowledge Overflowed Weights via Retrodiction of Forgetting**
+
+- Paper: <https://arxiv.org/abs/2508.05059>
+- Code: <https://github.com/jjh6297/KNOW>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/learning_from_oblivion_…](https://papernotes.org/CVPR2026/llm_safety/learning_from_oblivion_predicting_knowledge_overflowed_weights_via_retrodiction_/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/learning_from_oblivi…](https://en.papernotes.org/CVPR2026/llm_safety/learning_from_oblivion_predicting_knowledge_overflowed_weights_via_retrodiction_/)
+
+**DAMP: Class Unlearning via Depth-Aware Removal of Forget-Specific Directions**
+
+- Paper: <https://arxiv.org/abs/2604.15166>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/damp_class_unlearning_v…](https://papernotes.org/CVPR2026/llm_safety/damp_class_unlearning_via_depth_aware_removal_of_forget_specific_directions/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/damp_class_unlearnin…](https://en.papernotes.org/CVPR2026/llm_safety/damp_class_unlearning_via_depth_aware_removal_of_forget_specific_directions/)
+
+**Phantasia: Context-Adaptive Backdoors in Vision Language Models** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2604.08395>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/phantasia_context-adapt…](https://papernotes.org/CVPR2026/llm_safety/phantasia_context-adaptive_backdoors_in_vision_language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/phantasia_context-ad…](https://en.papernotes.org/CVPR2026/llm_safety/phantasia_context-adaptive_backdoors_in_vision_language_models/)
+
+**Beyond the Global Scores: Fine-Grained Token Grounding as a Robust Detector of LVLM Hallucinations**
+
+- Paper: <https://arxiv.org/abs/2604.04863>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/beyond_global_scores_fi…](https://papernotes.org/CVPR2026/llm_safety/beyond_global_scores_fine_grained_token_grounding_as_robust_detector_of_lvlm_hallucinations/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/beyond_global_scores…](https://en.papernotes.org/CVPR2026/llm_safety/beyond_global_scores_fine_grained_token_grounding_as_robust_detector_of_lvlm_hallucinations/)
+
+**The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models**
+
+- Paper: <https://arxiv.org/abs/2604.04857>
+- Notes (Chinese): [papernotes.org/CVPR2026/autonomous_driving/blind_spot_of_a…](https://papernotes.org/CVPR2026/autonomous_driving/blind_spot_of_adaptation_quantifying_and_mitigating_forgetting_in_fine_tuned_driving_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/autonomous_driving/blind_spot_o…](https://en.papernotes.org/CVPR2026/autonomous_driving/blind_spot_of_adaptation_quantifying_and_mitigating_forgetting_in_fine_tuned_driving_models/)
+
+**Unsafe2Safe: Controllable Image Anonymization for Downstream Utility** · 🛠️ Workshop
+
+- Paper: <https://arxiv.org/abs/2603.28605>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/unsafe2safe_controllabl…](https://papernotes.org/CVPR2026/llm_safety/unsafe2safe_controllable_image_anonymization_for_downstream_utility/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/unsafe2safe_controll…](https://en.papernotes.org/CVPR2026/llm_safety/unsafe2safe_controllable_image_anonymization_for_downstream_utility/)
+
+**Demographic Fairness in Multimodal LLMs: A Benchmark of Gender and Ethnicity Bias in Face Verification**
+
+- Paper: <https://arxiv.org/abs/2603.25613>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/demographic_fairness_in…](https://papernotes.org/CVPR2026/llm_safety/demographic_fairness_in_multimodal_llms_a_benchmark_of_gender_and_ethnicity_bias/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/demographic_fairness…](https://en.papernotes.org/CVPR2026/llm_safety/demographic_fairness_in_multimodal_llms_a_benchmark_of_gender_and_ethnicity_bias/)
+
+**Select, Hypothesize and Verify: Towards Verified Neuron Concept Interpretation**
+
+- Paper: <https://arxiv.org/abs/2603.24953>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/select_hypothesize_and_…](https://papernotes.org/CVPR2026/llm_safety/select_hypothesize_and_verify_towards_verified_neuron_concept_interpretation/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/select_hypothesize_a…](https://en.papernotes.org/CVPR2026/llm_safety/select_hypothesize_and_verify_towards_verified_neuron_concept_interpretation/)
+
+**Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.21484>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/which_concepts_to_forge…](https://papernotes.org/CVPR2026/llm_safety/which_concepts_to_forget_and_how_to_refuse_decomposing_concepts_for_continual_un/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/which_concepts_to_fo…](https://en.papernotes.org/CVPR2026/llm_safety/which_concepts_to_forget_and_how_to_refuse_decomposing_concepts_for_continual_un/)
+
+**Elastic Weight Consolidation Done Right for Continual Learning**
+
+- Paper: <https://arxiv.org/abs/2603.18596>
+- Notes (Chinese): [papernotes.org/CVPR2026/model_compression/elastic_weight_c…](https://papernotes.org/CVPR2026/model_compression/elastic_weight_consolidation_done_right_for_continual_learning/)
+- Notes (English): [en.papernotes.org/CVPR2026/model_compression/elastic_weigh…](https://en.papernotes.org/CVPR2026/model_compression/elastic_weight_consolidation_done_right_for_continual_learning/)
+
+**RAZOR: Ratio-Aware Layer Editing for Targeted Unlearning in Vision Transformers and Diffusion Models** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2603.14819>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/razor_ratio-aware_layer…](https://papernotes.org/CVPR2026/llm_safety/razor_ratio-aware_layer_editing_for_targeted_unlearning_in_vision_transformers_a/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/razor_ratio-aware_la…](https://en.papernotes.org/CVPR2026/llm_safety/razor_ratio-aware_layer_editing_for_targeted_unlearning_in_vision_transformers_a/)
+
+**A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks**
+
+- Paper: <https://arxiv.org/abs/2603.12998>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/a_closedform_solution_f…](https://papernotes.org/CVPR2026/llm_safety/a_closedform_solution_for_debiasing_visionlanguage/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/a_closedform_solutio…](https://en.papernotes.org/CVPR2026/llm_safety/a_closedform_solution_for_debiasing_visionlanguage/)
+
+**Test-Time Attention Purification for Backdoored Large Vision Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.12989>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/test-time_attention_pur…](https://papernotes.org/CVPR2026/llm_safety/test-time_attention_purification_for_backdoored_large_vision_language_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/test-time_attention_…](https://en.papernotes.org/CVPR2026/llm_safety/test-time_attention_purification_for_backdoored_large_vision_language_models/)
+
+**PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing**
+
+- Paper: <https://arxiv.org/abs/2603.04598>
+- Notes (Chinese): [papernotes.org/CVPR2026/information_retrieval/pinpoint_eva…](https://papernotes.org/CVPR2026/information_retrieval/pinpoint_evaluation_of_composed_image_retrieval_with_explicit_negatives_multi-im/)
+- Notes (English): [en.papernotes.org/CVPR2026/information_retrieval/pinpoint_…](https://en.papernotes.org/CVPR2026/information_retrieval/pinpoint_evaluation_of_composed_image_retrieval_with_explicit_negatives_multi-im/)
+
+**Interpretable Debiasing of Vision-Language Models for Social Fairness**
+
+- Paper: <https://arxiv.org/abs/2602.24014>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/interpretable_debiasing…](https://papernotes.org/CVPR2026/llm_safety/interpretable_debiasing_of_vision-language_models_for_social_fairness/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/interpretable_debias…](https://en.papernotes.org/CVPR2026/llm_safety/interpretable_debiasing_of_vision-language_models_for_social_fairness/)
+
+**Pixels Don't Lie (But Your Detector Might): Bootstrapping MLLM-as-a-Judge for Trustworthy Deepfake Detection and Reasoning Supervision**
+
+- Paper: <https://arxiv.org/abs/2602.19715>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/pixels_dont_lie_but_you…](https://papernotes.org/CVPR2026/llm_safety/pixels_dont_lie_but_your_detector_might_bootstrapping_mllm-as-a-judge_for_trustw/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/pixels_dont_lie_but_…](https://en.papernotes.org/CVPR2026/llm_safety/pixels_dont_lie_but_your_detector_might_bootstrapping_mllm-as-a-judge_for_trustw/)
+
+**TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection**
+
+- Paper: <https://arxiv.org/abs/2512.10652>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/tridf_evaluating_percep…](https://papernotes.org/CVPR2026/llm_safety/tridf_evaluating_perception_detection_and_hallucination_for_interpretable_deepfa/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/tridf_evaluating_per…](https://en.papernotes.org/CVPR2026/llm_safety/tridf_evaluating_perception_detection_and_hallucination_for_interpretable_deepfa/)
+
+**SineProject: Machine Unlearning for Stable Vision Language Alignment**
+
+- Paper: <https://arxiv.org/abs/2511.18444>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/sineproject_machine_unl…](https://papernotes.org/CVPR2026/llm_safety/sineproject_machine_unlearning_for_stable_vision_language_alignment/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/sineproject_machine_…](https://en.papernotes.org/CVPR2026/llm_safety/sineproject_machine_unlearning_for_stable_vision_language_alignment/)
+
+**Association and Consolidation: Evolutionary Memory-Enhanced Incremental Multi-View Clustering**
+
+- Paper: <https://arxiv.org/abs/2509.14544>
+- Notes (Chinese): [papernotes.org/CVPR2026/model_compression/association_and_…](https://papernotes.org/CVPR2026/model_compression/association_and_consolidation_evolutionary_memory-enhanced_incremental_multi-vie/)
+- Notes (English): [en.papernotes.org/CVPR2026/model_compression/association_a…](https://en.papernotes.org/CVPR2026/model_compression/association_and_consolidation_evolutionary_memory-enhanced_incremental_multi-vie/)
+
+**IAG: Input-aware Backdoor Attack on VLM-based Visual Grounding**
+
+- Paper: <https://arxiv.org/abs/2508.09456>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/iag_input-aware_backdoo…](https://papernotes.org/CVPR2026/llm_safety/iag_input-aware_backdoor_attack_on_vlm-based_visual_grounding/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/iag_input-aware_back…](https://en.papernotes.org/CVPR2026/llm_safety/iag_input-aware_backdoor_attack_on_vlm-based_visual_grounding/)
+
+**Do Vision-Language Models Leak What They Learn? Adaptive Token-Weighted Model Inversion Attacks**
+
+- Paper: <https://arxiv.org/abs/2508.04097>
+- Project: <https://ngoc-nguyen-0.github.io/SMI_AW/>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/vlm_model_inversion_ada…](https://papernotes.org/CVPR2026/llm_safety/vlm_model_inversion_adaptive_token_weight/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/vlm_model_inversion_…](https://en.papernotes.org/CVPR2026/llm_safety/vlm_model_inversion_adaptive_token_weight/)
+
+**AutoDebias: Automated Framework for Debiasing Text-to-Image Models**
+
+- Paper: <https://arxiv.org/abs/2508.00445>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/autodebias_automa…](https://papernotes.org/CVPR2026/image_generation/autodebias_automated_framework_for_debiasing_text-to-image_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/image_generation/autodebias_aut…](https://en.papernotes.org/CVPR2026/image_generation/autodebias_automated_framework_for_debiasing_text-to-image_models/)
+
+**Perturb and Recover: Fine-tuning for Effective Backdoor Removal from CLIP** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2412.00727>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/perturb_and_recover_fin…](https://papernotes.org/CVPR2026/llm_safety/perturb_and_recover_fine-tuning_for_effective_backdoor_removal_from_clip/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/perturb_and_recover_…](https://en.papernotes.org/CVPR2026/llm_safety/perturb_and_recover_fine-tuning_for_effective_backdoor_removal_from_clip/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
 <a id="interpretability"></a>
 
-## 🔬 Interpretability · `interpretability` · 30 papers
+## 🔬 Interpretability · `interpretability` · 27 papers
 
 **Inside-Out: Measuring Generalization in Vision Transformers Through Inner Workings** · ⭐ Highlight
 
@@ -8000,13 +8537,6 @@
 - Code: <https://github.com/euleryuan/A3-Align>
 - Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/a3_towards_advertis…](https://papernotes.org/CVPR2026/multimodal_vlm/a3_towards_advertising_aesthetic_assessment/)
 - Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/a3_towards_adver…](https://en.papernotes.org/CVPR2026/multimodal_vlm/a3_towards_advertising_aesthetic_assessment/)
-
-**SteelDefectX: A Coarse-to-Fine Vision-Language Dataset and Benchmark for Generalizable Steel Surface Defect Detection**
-
-- Paper: <https://arxiv.org/abs/2603.21824>
-- Code: <https://github.com/Zhaosxian/SteelDefectX>
-- Notes (Chinese): [papernotes.org/CVPR2026/interpretability/steeldefectx_a_co…](https://papernotes.org/CVPR2026/interpretability/steeldefectx_a_coarse-to-fine_vision-language_dataset_and_benchmark_for_generali/)
-- Notes (English): [en.papernotes.org/CVPR2026/interpretability/steeldefectx_a…](https://en.papernotes.org/CVPR2026/interpretability/steeldefectx_a_coarse-to-fine_vision-language_dataset_and_benchmark_for_generali/)
 
 **CoVR-R:Reason-Aware Composed Video Retrieval** · 📖 Findings
 
@@ -8029,26 +8559,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/interpretability/cut_to_the_chase_…](https://papernotes.org/CVPR2026/interpretability/cut_to_the_chase_training-free_multimodal_summarization_via_chain-of-events/)
 - Notes (English): [en.papernotes.org/CVPR2026/interpretability/cut_to_the_cha…](https://en.papernotes.org/CVPR2026/interpretability/cut_to_the_chase_training-free_multimodal_summarization_via_chain-of-events/)
 
-**SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling**
-
-- Paper: <https://arxiv.org/abs/2602.23013>
-- Code: <https://github.com/CLendering/SubspaceAD>
-- Notes (Chinese): [papernotes.org/CVPR2026/interpretability/subspacead_traini…](https://papernotes.org/CVPR2026/interpretability/subspacead_training-free_few-shot_anomaly_detection_via_subspace_modeling/)
-- Notes (English): [en.papernotes.org/CVPR2026/interpretability/subspacead_tra…](https://en.papernotes.org/CVPR2026/interpretability/subspacead_training-free_few-shot_anomaly_detection_via_subspace_modeling/)
-
 **Draft and Refine with Visual Experts**
 
 - Paper: <https://arxiv.org/abs/2511.11005>
 - Code: <https://github.com/EavnJeong/Draft-and-Refine-with-Visual-Experts>
 - Notes (Chinese): [papernotes.org/CVPR2026/interpretability/draft_and_refine_…](https://papernotes.org/CVPR2026/interpretability/draft_and_refine_with_visual_experts/)
 - Notes (English): [en.papernotes.org/CVPR2026/interpretability/draft_and_refi…](https://en.papernotes.org/CVPR2026/interpretability/draft_and_refine_with_visual_experts/)
-
-**Text-guided Fine-Grained Video Anomaly Understanding** · 🛠️ Workshop
-
-- Paper: <https://arxiv.org/abs/2511.00524>
-- Code: <https://github.com/momiji-bit/T-VAU>
-- Notes (Chinese): [papernotes.org/CVPR2026/interpretability/text-guided_fine-…](https://papernotes.org/CVPR2026/interpretability/text-guided_fine-grained_video_anomaly_understanding/)
-- Notes (English): [en.papernotes.org/CVPR2026/interpretability/text-guided_fi…](https://en.papernotes.org/CVPR2026/interpretability/text-guided_fine-grained_video_anomaly_understanding/)
 
 **Neurodynamics-Driven Coupled Neural P Systems for Multi-Focus Image Fusion**
 
@@ -8112,12 +8628,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/interpretability/edit-as-act_goal-…](https://papernotes.org/CVPR2026/interpretability/edit-as-act_goal-regressive_planning_for_open-vocabulary_3d_indoor_scene_editing/)
 - Notes (English): [en.papernotes.org/CVPR2026/interpretability/edit-as-act_go…](https://en.papernotes.org/CVPR2026/interpretability/edit-as-act_goal-regressive_planning_for_open-vocabulary_3d_indoor_scene_editing/)
 
-**Towards Faithful Multimodal Concept Bottleneck Models**
-
-- Paper: <https://arxiv.org/abs/2603.13163>
-- Notes (Chinese): [papernotes.org/CVPR2026/interpretability/towards_faithful_…](https://papernotes.org/CVPR2026/interpretability/towards_faithful_multimodal_concept_bottleneck_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/interpretability/towards_faithf…](https://en.papernotes.org/CVPR2026/interpretability/towards_faithful_multimodal_concept_bottleneck_models/)
-
 **Geometry-Guided Camera Motion Understanding in VideoLLMs**
 
 - Paper: <https://arxiv.org/abs/2603.13119>
@@ -8160,6 +8670,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/interpretability/viro_robust_and_e…](https://papernotes.org/CVPR2026/interpretability/viro_robust_and_efficient_neuro-symbolic_reasoning_with_verification_for_referri/)
 - Notes (English): [en.papernotes.org/CVPR2026/interpretability/viro_robust_an…](https://en.papernotes.org/CVPR2026/interpretability/viro_robust_and_efficient_neuro-symbolic_reasoning_with_verification_for_referri/)
 
+**Blink: Dynamic Visual Token Resolution for Enhanced Multimodal Understanding**
+
+- Paper: <https://arxiv.org/abs/2512.10548>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_restoration/blink_dynamic_vi…](https://papernotes.org/CVPR2026/image_restoration/blink_dynamic_visual_token_resolution_for_enhanced_multimodal_understanding/)
+- Notes (English): [en.papernotes.org/CVPR2026/image_restoration/blink_dynamic…](https://en.papernotes.org/CVPR2026/image_restoration/blink_dynamic_visual_token_resolution_for_enhanced_multimodal_understanding/)
+
 **ERMoE: Eigen-Reparameterized Mixture-of-Experts for Stable Routing and Interpretable Specialization**
 
 - Paper: <https://arxiv.org/abs/2511.10971>
@@ -8182,542 +8698,9 @@
 
 ---
 
-<a id="llm_evaluation"></a>
-
-## 📊 LLM Evaluation · `llm_evaluation` · 28 papers
-
-**HeSS: Head Sensitivity Score for Sparsity Redistribution in VGGT**
-
-- Paper: <https://arxiv.org/abs/2603.25336>
-- Code: <https://github.com/libary753/HeSS>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/hess_head_sensitivi…](https://papernotes.org/CVPR2026/llm_evaluation/hess_head_sensitivity_score_for_sparsity_redistribution_in_vggt/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/hess_head_sensit…](https://en.papernotes.org/CVPR2026/llm_evaluation/hess_head_sensitivity_score_for_sparsity_redistribution_in_vggt/)
-
-**Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery**
-
-- Paper: <https://arxiv.org/abs/2603.19918>
-- Code: <https://github.com/zhou-9527/AnaLogical-GCD>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/learning_like_human…](https://papernotes.org/CVPR2026/llm_evaluation/learning_like_humans_analogical_concept_learning_for_generalized_category_discov/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/learning_like_hu…](https://en.papernotes.org/CVPR2026/llm_evaluation/learning_like_humans_analogical_concept_learning_for_generalized_category_discov/)
-
-**RL-ScanIQA: Reinforcement-Learned Scanpaths for Blind 360°Image Quality Assessment**
-
-- Paper: <https://arxiv.org/abs/2603.14297>
-- Code: <https://github.com/wangyuji1/RLScanIQA>
-- Notes (Chinese): [papernotes.org/CVPR2026/model_compression/rl-scaniqa_reinf…](https://papernotes.org/CVPR2026/model_compression/rl-scaniqa_reinforcement-learned_scanpaths_for_blind_360image_quality_assessment/)
-- Notes (English): [en.papernotes.org/CVPR2026/model_compression/rl-scaniqa_re…](https://en.papernotes.org/CVPR2026/model_compression/rl-scaniqa_reinforcement-learned_scanpaths_for_blind_360image_quality_assessment/)
-
-**Cross-Scale Pansharpening via ScaleFormer and the PanScale Benchmark**
-
-- Paper: <https://arxiv.org/abs/2603.00543>
-- Code: <https://github.com/caoke-963/ScaleFormer>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/cross-scale_panshar…](https://papernotes.org/CVPR2026/llm_evaluation/cross-scale_pansharpening_via_scaleformer_and_the_panscale_benchmark/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/cross-scale_pans…](https://en.papernotes.org/CVPR2026/llm_evaluation/cross-scale_pansharpening_via_scaleformer_and_the_panscale_benchmark/)
-
-**ReflexSplit: Single Image Reflection Separation via Layer Fusion-Separation**
-
-- Paper: <https://arxiv.org/abs/2601.17468>
-- Code: <https://github.com/wuw2135/ReflexSplit>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/reflexsplit_single_…](https://papernotes.org/CVPR2026/llm_evaluation/reflexsplit_single_image_reflection_separation_via_layer_fusion-separation/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/reflexsplit_sing…](https://en.papernotes.org/CVPR2026/llm_evaluation/reflexsplit_single_image_reflection_separation_via_layer_fusion-separation/)
-
-**Enhancing Out-of-Distribution Detection with Extended Logit Normalization**
-
-- Paper: <https://arxiv.org/abs/2504.11434>
-- Code: <https://github.com/limchaos/ElogitNorm>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/enhancing_out-of-di…](https://papernotes.org/CVPR2026/llm_evaluation/enhancing_out-of-distribution_detection_with_extended_logit_normalization/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/enhancing_out-of…](https://en.papernotes.org/CVPR2026/llm_evaluation/enhancing_out-of-distribution_detection_with_extended_logit_normalization/)
-
-**HyCal: A Training-Free Prototype Calibration Method for Cross-Discipline Few-Shot Class-Incremental Learning**
-
-- Paper: <https://arxiv.org/abs/2604.15678>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/hycal_training_free…](https://papernotes.org/CVPR2026/llm_evaluation/hycal_training_free_prototype_calibration_for_cross_discipline_fscil/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/hycal_training_f…](https://en.papernotes.org/CVPR2026/llm_evaluation/hycal_training_free_prototype_calibration_for_cross_discipline_fscil/)
-
-**VGA-Bench: A Unified Benchmark for Video Aesthetics and Generation Quality Evaluation**
-
-- Paper: <https://arxiv.org/abs/2604.10127>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/vga_bench_unified_b…](https://papernotes.org/CVPR2026/llm_evaluation/vga_bench_unified_benchmark_for_video_aesthetics_and_generation_quality/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/vga_bench_unifie…](https://en.papernotes.org/CVPR2026/llm_evaluation/vga_bench_unified_benchmark_for_video_aesthetics_and_generation_quality/)
-
-**R2G: A Multi-View Circuit Graph Benchmark Suite from RTL to GDSII**
-
-- Paper: <https://arxiv.org/abs/2604.08810>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/r2g_multi_view_circ…](https://papernotes.org/CVPR2026/llm_evaluation/r2g_multi_view_circuit_graph_benchmark_suite_from_rtl_to_gdsii/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/r2g_multi_view_c…](https://en.papernotes.org/CVPR2026/llm_evaluation/r2g_multi_view_circuit_graph_benchmark_suite_from_rtl_to_gdsii/)
-
-**SparseCam4D: Spatio-Temporally Consistent 4D Reconstruction from Sparse Cameras**
-
-- Paper: <https://arxiv.org/abs/2603.26481>
-- Project: <https://inspatio.github.io/sparse-cam4d/>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/sparsecam4d_spatio-…](https://papernotes.org/CVPR2026/llm_evaluation/sparsecam4d_spatio-temporally_consistent_4d_reconstruction_from_sparse_cameras/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/sparsecam4d_spat…](https://en.papernotes.org/CVPR2026/llm_evaluation/sparsecam4d_spatio-temporally_consistent_4d_reconstruction_from_sparse_cameras/)
-
-**Pioneering Perceptual Video Fluency Assessment: A Novel Task with Benchmark Dataset and Baseline** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2603.26055>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/pioneering_perceptu…](https://papernotes.org/CVPR2026/llm_evaluation/pioneering_perceptual_video_fluency_assessment_a_novel_task_with_benchmark_datas/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/pioneering_perce…](https://en.papernotes.org/CVPR2026/llm_evaluation/pioneering_perceptual_video_fluency_assessment_a_novel_task_with_benchmark_datas/)
-
-**TacSIm: A Dataset and Benchmark for Football Tactical Style Imitation**
-
-- Paper: <https://arxiv.org/abs/2603.25199>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/tacsim_a_dataset_an…](https://papernotes.org/CVPR2026/llm_evaluation/tacsim_a_dataset_and_benchmark_for_football_tactical_style_imitation/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/tacsim_a_dataset…](https://en.papernotes.org/CVPR2026/llm_evaluation/tacsim_a_dataset_and_benchmark_for_football_tactical_style_imitation/)
-
-**Reframing Long-Tailed Learning via Loss Landscape Geometry**
-
-- Paper: <https://arxiv.org/abs/2603.21217>
-- Project: <https://gkp-gsa.github.io/>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/reframing_long-tail…](https://papernotes.org/CVPR2026/llm_evaluation/reframing_long-tailed_learning_via_loss_landscape_geometry/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/reframing_long-t…](https://en.papernotes.org/CVPR2026/llm_evaluation/reframing_long-tailed_learning_via_loss_landscape_geometry/)
-
-**Anchoring and Rescaling Attention for Semantically Coherent Inbetweening**
-
-- Paper: <https://arxiv.org/abs/2603.17651>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/anchoring_and_resca…](https://papernotes.org/CVPR2026/llm_evaluation/anchoring_and_rescaling_attention_for_semantically_coherent_inbetweening/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/anchoring_and_re…](https://en.papernotes.org/CVPR2026/llm_evaluation/anchoring_and_rescaling_attention_for_semantically_coherent_inbetweening/)
-
-**Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models**
-
-- Paper: <https://arxiv.org/abs/2603.13215>
-- Project: <https://glab-caltech.github.io/STEVOBench/>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/out_of_sight_out_of…](https://papernotes.org/CVPR2026/llm_evaluation/out_of_sight_out_of_mind_evaluating_state_evolutio/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/out_of_sight_out…](https://en.papernotes.org/CVPR2026/llm_evaluation/out_of_sight_out_of_mind_evaluating_state_evolutio/)
-
-**ACE-Merging: Data-Free Model Merging with Adaptive Covariance Estimation**
-
-- Paper: <https://arxiv.org/abs/2603.02945>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/ace-merging_data-fr…](https://papernotes.org/CVPR2026/llm_evaluation/ace-merging_data-free_model_merging_with_adaptive_covariance_estimation/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/ace-merging_data…](https://en.papernotes.org/CVPR2026/llm_evaluation/ace-merging_data-free_model_merging_with_adaptive_covariance_estimation/)
-
-**Temporal Imbalance of Positive and Negative Supervision in Class-Incremental Learning**
-
-- Paper: <https://arxiv.org/abs/2603.02280>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/temporal_imbalance_…](https://papernotes.org/CVPR2026/llm_evaluation/temporal_imbalance_of_positive_and_negative_supervision_in_class-incremental_lea/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/temporal_imbalan…](https://en.papernotes.org/CVPR2026/llm_evaluation/temporal_imbalance_of_positive_and_negative_supervision_in_class-incremental_lea/)
-
-**Weakly Supervised Video Anomaly Detection with Anomaly-Connected Components and Intention Reasoning**
-
-- Paper: <https://arxiv.org/abs/2603.00550>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/weakly_supervised_v…](https://papernotes.org/CVPR2026/llm_evaluation/weakly_supervised_video_anomaly_detection_with_anomaly-connected_components_and_/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/weakly_supervise…](https://en.papernotes.org/CVPR2026/llm_evaluation/weakly_supervised_video_anomaly_detection_with_anomaly-connected_components_and_/)
-
-**Face Time Traveller : Travel Through Ages Without Losing Identity** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2602.22819>
-- Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/face_time_trav…](https://papernotes.org/CVPR2026/human_understanding/face_time_traveller_travel_through_ages_without_losing_identity/)
-- Notes (English): [en.papernotes.org/CVPR2026/human_understanding/face_time_t…](https://en.papernotes.org/CVPR2026/human_understanding/face_time_traveller_travel_through_ages_without_losing_identity/)
-
-**Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning**
-
-- Paper: <https://arxiv.org/abs/2602.20157>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/flow3r_factored_flo…](https://papernotes.org/CVPR2026/llm_evaluation/flow3r_factored_flow_prediction_for_scalable_visual_geometry_learning/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/flow3r_factored_…](https://en.papernotes.org/CVPR2026/llm_evaluation/flow3r_factored_flow_prediction_for_scalable_visual_geometry_learning/)
-
-**Unified Primitive Proxies for Structured Shape Completion**
-
-- Paper: <https://arxiv.org/abs/2601.00759>
-- Project: <https://unico-completion.github.io>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/unified_primitive_p…](https://papernotes.org/CVPR2026/llm_evaluation/unified_primitive_proxies_for_structured_shape_completion/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/unified_primitiv…](https://en.papernotes.org/CVPR2026/llm_evaluation/unified_primitive_proxies_for_structured_shape_completion/)
-
-**CryoHype: Reconstructing a thousand cryo-EM structures with transformer-based hypernetworks**
-
-- Paper: <https://arxiv.org/abs/2512.06332>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/cryohype_reconstruc…](https://papernotes.org/CVPR2026/llm_evaluation/cryohype_reconstructing_a_thousand_cryo-em_structures_with_transformer-based_hyp/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/cryohype_reconst…](https://en.papernotes.org/CVPR2026/llm_evaluation/cryohype_reconstructing_a_thousand_cryo-em_structures_with_transformer-based_hyp/)
-
-**Free-Grained Hierarchical Visual Recognition**
-
-- Paper: <https://arxiv.org/abs/2510.14737>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/free-grained_hierar…](https://papernotes.org/CVPR2026/llm_evaluation/free-grained_hierarchical_visual_recognition/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/free-grained_hie…](https://en.papernotes.org/CVPR2026/llm_evaluation/free-grained_hierarchical_visual_recognition/)
-
-**AdaBet: Gradient-free Layer Selection for Efficient Training of Deep Neural Networks**
-
-- Paper: <https://arxiv.org/abs/2510.03101>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/adabet_gradient-fre…](https://papernotes.org/CVPR2026/llm_evaluation/adabet_gradient-free_layer_selection_for_efficient_training_of_deep_neural_netwo/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/adabet_gradient-…](https://en.papernotes.org/CVPR2026/llm_evaluation/adabet_gradient-free_layer_selection_for_efficient_training_of_deep_neural_netwo/)
-
-**Dual Band Thermal Videography: Separating Time-Varying Reflection and Emission Near Ambient Conditions**
-
-- Paper: <https://arxiv.org/abs/2509.11334>
-- Notes (Chinese): [papernotes.org/CVPR2026/others/dual_band_thermal_videograp…](https://papernotes.org/CVPR2026/others/dual_band_thermal_videography_separating_time-varying_reflection_and_emission_ne/)
-- Notes (English): [en.papernotes.org/CVPR2026/others/dual_band_thermal_videog…](https://en.papernotes.org/CVPR2026/others/dual_band_thermal_videography_separating_time-varying_reflection_and_emission_ne/)
-
-**PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion**
-
-- Paper: <https://arxiv.org/abs/2505.22564>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/prism_video_dataset…](https://papernotes.org/CVPR2026/llm_evaluation/prism_video_dataset_condensation_with_progressive_refinement_and_insertion_for_s/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/prism_video_data…](https://en.papernotes.org/CVPR2026/llm_evaluation/prism_video_dataset_condensation_with_progressive_refinement_and_insertion_for_s/)
-
-**Semi-Supervised Conformal Prediction With Unlabeled Nonconformity Score**
-
-- Paper: <https://arxiv.org/abs/2505.21147>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/semi-supervised_con…](https://papernotes.org/CVPR2026/llm_evaluation/semi-supervised_conformal_prediction_with_unlabeled_nonconformity_score/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/semi-supervised_…](https://en.papernotes.org/CVPR2026/llm_evaluation/semi-supervised_conformal_prediction_with_unlabeled_nonconformity_score/)
-
-**Hier-COS: Making Deep Features Hierarchy-aware via Composition of Orthogonal Subspaces**
-
-- Paper: <https://arxiv.org/abs/2503.07853>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_evaluation/hier-cos_making_dee…](https://papernotes.org/CVPR2026/llm_evaluation/hier-cos_making_deep_features_hierarchy-aware_via_composition_of_orthogonal_subs/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/hier-cos_making_…](https://en.papernotes.org/CVPR2026/llm_evaluation/hier-cos_making_deep_features_hierarchy-aware_via_composition_of_orthogonal_subs/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
-<a id="llm_safety"></a>
-
-## 🔒 LLM Safety · `llm_safety` · 28 papers
-
-**FairLLaVA: Fairness-Aware Parameter-Efficient Fine-Tuning for Large Vision-Language Assistants**
-
-- Paper: <https://arxiv.org/abs/2603.26008>
-- Code: <https://github.com/bhosalems/FairLLaVA>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/fairllava_fairness-awar…](https://papernotes.org/CVPR2026/llm_safety/fairllava_fairness-aware_parameter-efficient_fine-tuning_for_large_vision-langua/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/fairllava_fairness-a…](https://en.papernotes.org/CVPR2026/llm_safety/fairllava_fairness-aware_parameter-efficient_fine-tuning_for_large_vision-langua/)
-
-**Designing to Forget: Deep Semi-parametric Models for Unlearning**
-
-- Paper: <https://arxiv.org/abs/2603.22870>
-- Code: <https://github.com/amberyzheng/spm_unlearning>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/designing_to_forget_dee…](https://papernotes.org/CVPR2026/llm_safety/designing_to_forget_deep_semi-parametric_models_for_unlearning/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/designing_to_forget_…](https://en.papernotes.org/CVPR2026/llm_safety/designing_to_forget_deep_semi-parametric_models_for_unlearning/)
-
-**Multi-Paradigm Collaborative Adversarial Attack Against Multi-Modal Large Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.04846>
-- Code: <https://github.com/LiYuanBoJNU/MPCAttack>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/multi-paradigm_collabor…](https://papernotes.org/CVPR2026/llm_safety/multi-paradigm_collaborative_adversarial_attack_against_multi-modal_large_langua/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/multi-paradigm_colla…](https://en.papernotes.org/CVPR2026/llm_safety/multi-paradigm_collaborative_adversarial_attack_against_multi-modal_large_langua/)
-
-**TRivia: Self-supervised Fine-tuning of Vision-Language Models for Table Recognition**
-
-- Paper: <https://arxiv.org/abs/2512.01248>
-- Code: <https://github.com/HKU-TASR/TRivia>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/trivia_self-supervised_…](https://papernotes.org/CVPR2026/llm_safety/trivia_self-supervised_fine-tuning_of_vision-language_models_for_table_recogniti/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/trivia_self-supervis…](https://en.papernotes.org/CVPR2026/llm_safety/trivia_self-supervised_fine-tuning_of_vision-language_models_for_table_recogniti/)
-
-**V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs**
-
-- Paper: <https://arxiv.org/abs/2511.20223>
-- Code: <https://github.com/Summu77/V-Attack>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/v-attack_targeting_dise…](https://papernotes.org/CVPR2026/llm_safety/v-attack_targeting_disentangled_value_features_for_controllable_adversarial_atta/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/v-attack_targeting_d…](https://en.papernotes.org/CVPR2026/llm_safety/v-attack_targeting_disentangled_value_features_for_controllable_adversarial_atta/)
-
-**Learning from Oblivion: Predicting Knowledge Overflowed Weights via Retrodiction of Forgetting**
-
-- Paper: <https://arxiv.org/abs/2508.05059>
-- Code: <https://github.com/jjh6297/KNOW>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/learning_from_oblivion_…](https://papernotes.org/CVPR2026/llm_safety/learning_from_oblivion_predicting_knowledge_overflowed_weights_via_retrodiction_/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/learning_from_oblivi…](https://en.papernotes.org/CVPR2026/llm_safety/learning_from_oblivion_predicting_knowledge_overflowed_weights_via_retrodiction_/)
-
-**DAMP: Class Unlearning via Depth-Aware Removal of Forget-Specific Directions**
-
-- Paper: <https://arxiv.org/abs/2604.15166>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/damp_class_unlearning_v…](https://papernotes.org/CVPR2026/llm_safety/damp_class_unlearning_via_depth_aware_removal_of_forget_specific_directions/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/damp_class_unlearnin…](https://en.papernotes.org/CVPR2026/llm_safety/damp_class_unlearning_via_depth_aware_removal_of_forget_specific_directions/)
-
-**Phantasia: Context-Adaptive Backdoors in Vision Language Models** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2604.08395>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/phantasia_context-adapt…](https://papernotes.org/CVPR2026/llm_safety/phantasia_context-adaptive_backdoors_in_vision_language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/phantasia_context-ad…](https://en.papernotes.org/CVPR2026/llm_safety/phantasia_context-adaptive_backdoors_in_vision_language_models/)
-
-**Beyond the Global Scores: Fine-Grained Token Grounding as a Robust Detector of LVLM Hallucinations**
-
-- Paper: <https://arxiv.org/abs/2604.04863>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/beyond_global_scores_fi…](https://papernotes.org/CVPR2026/llm_safety/beyond_global_scores_fine_grained_token_grounding_as_robust_detector_of_lvlm_hallucinations/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/beyond_global_scores…](https://en.papernotes.org/CVPR2026/llm_safety/beyond_global_scores_fine_grained_token_grounding_as_robust_detector_of_lvlm_hallucinations/)
-
-**The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models**
-
-- Paper: <https://arxiv.org/abs/2604.04857>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/blind_spot_of_adaptatio…](https://papernotes.org/CVPR2026/llm_safety/blind_spot_of_adaptation_quantifying_and_mitigating_forgetting_in_fine_tuned_driving_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/blind_spot_of_adapta…](https://en.papernotes.org/CVPR2026/llm_safety/blind_spot_of_adaptation_quantifying_and_mitigating_forgetting_in_fine_tuned_driving_models/)
-
-**Unsafe2Safe: Controllable Image Anonymization for Downstream Utility** · 🛠️ Workshop
-
-- Paper: <https://arxiv.org/abs/2603.28605>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/unsafe2safe_controllabl…](https://papernotes.org/CVPR2026/llm_safety/unsafe2safe_controllable_image_anonymization_for_downstream_utility/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/unsafe2safe_controll…](https://en.papernotes.org/CVPR2026/llm_safety/unsafe2safe_controllable_image_anonymization_for_downstream_utility/)
-
-**Demographic Fairness in Multimodal LLMs: A Benchmark of Gender and Ethnicity Bias in Face Verification**
-
-- Paper: <https://arxiv.org/abs/2603.25613>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/demographic_fairness_in…](https://papernotes.org/CVPR2026/llm_safety/demographic_fairness_in_multimodal_llms_a_benchmark_of_gender_and_ethnicity_bias/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/demographic_fairness…](https://en.papernotes.org/CVPR2026/llm_safety/demographic_fairness_in_multimodal_llms_a_benchmark_of_gender_and_ethnicity_bias/)
-
-**Select, Hypothesize and Verify: Towards Verified Neuron Concept Interpretation**
-
-- Paper: <https://arxiv.org/abs/2603.24953>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/select_hypothesize_and_…](https://papernotes.org/CVPR2026/llm_safety/select_hypothesize_and_verify_towards_verified_neuron_concept_interpretation/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/select_hypothesize_a…](https://en.papernotes.org/CVPR2026/llm_safety/select_hypothesize_and_verify_towards_verified_neuron_concept_interpretation/)
-
-**Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.21484>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/which_concepts_to_forge…](https://papernotes.org/CVPR2026/llm_safety/which_concepts_to_forget_and_how_to_refuse_decomposing_concepts_for_continual_un/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/which_concepts_to_fo…](https://en.papernotes.org/CVPR2026/llm_safety/which_concepts_to_forget_and_how_to_refuse_decomposing_concepts_for_continual_un/)
-
-**Elastic Weight Consolidation Done Right for Continual Learning**
-
-- Paper: <https://arxiv.org/abs/2603.18596>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/elastic_weight_consolid…](https://papernotes.org/CVPR2026/llm_safety/elastic_weight_consolidation_done_right_for_continual_learning/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/elastic_weight_conso…](https://en.papernotes.org/CVPR2026/llm_safety/elastic_weight_consolidation_done_right_for_continual_learning/)
-
-**RAZOR: Ratio-Aware Layer Editing for Targeted Unlearning in Vision Transformers and Diffusion Models** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2603.14819>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/razor_ratio-aware_layer…](https://papernotes.org/CVPR2026/llm_safety/razor_ratio-aware_layer_editing_for_targeted_unlearning_in_vision_transformers_a/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/razor_ratio-aware_la…](https://en.papernotes.org/CVPR2026/llm_safety/razor_ratio-aware_layer_editing_for_targeted_unlearning_in_vision_transformers_a/)
-
-**A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks**
-
-- Paper: <https://arxiv.org/abs/2603.12998>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/a_closedform_solution_f…](https://papernotes.org/CVPR2026/llm_safety/a_closedform_solution_for_debiasing_visionlanguage/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/a_closedform_solutio…](https://en.papernotes.org/CVPR2026/llm_safety/a_closedform_solution_for_debiasing_visionlanguage/)
-
-**Test-Time Attention Purification for Backdoored Large Vision Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.12989>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/test-time_attention_pur…](https://papernotes.org/CVPR2026/llm_safety/test-time_attention_purification_for_backdoored_large_vision_language_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/test-time_attention_…](https://en.papernotes.org/CVPR2026/llm_safety/test-time_attention_purification_for_backdoored_large_vision_language_models/)
-
-**PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing**
-
-- Paper: <https://arxiv.org/abs/2603.04598>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/pinpoint_evaluation_of_…](https://papernotes.org/CVPR2026/llm_safety/pinpoint_evaluation_of_composed_image_retrieval_with_explicit_negatives_multi-im/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/pinpoint_evaluation_…](https://en.papernotes.org/CVPR2026/llm_safety/pinpoint_evaluation_of_composed_image_retrieval_with_explicit_negatives_multi-im/)
-
-**Interpretable Debiasing of Vision-Language Models for Social Fairness**
-
-- Paper: <https://arxiv.org/abs/2602.24014>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/interpretable_debiasing…](https://papernotes.org/CVPR2026/llm_safety/interpretable_debiasing_of_vision-language_models_for_social_fairness/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/interpretable_debias…](https://en.papernotes.org/CVPR2026/llm_safety/interpretable_debiasing_of_vision-language_models_for_social_fairness/)
-
-**Pixels Don't Lie (But Your Detector Might): Bootstrapping MLLM-as-a-Judge for Trustworthy Deepfake Detection and Reasoning Supervision**
-
-- Paper: <https://arxiv.org/abs/2602.19715>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/pixels_dont_lie_but_you…](https://papernotes.org/CVPR2026/llm_safety/pixels_dont_lie_but_your_detector_might_bootstrapping_mllm-as-a-judge_for_trustw/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/pixels_dont_lie_but_…](https://en.papernotes.org/CVPR2026/llm_safety/pixels_dont_lie_but_your_detector_might_bootstrapping_mllm-as-a-judge_for_trustw/)
-
-**TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection**
-
-- Paper: <https://arxiv.org/abs/2512.10652>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/tridf_evaluating_percep…](https://papernotes.org/CVPR2026/llm_safety/tridf_evaluating_perception_detection_and_hallucination_for_interpretable_deepfa/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/tridf_evaluating_per…](https://en.papernotes.org/CVPR2026/llm_safety/tridf_evaluating_perception_detection_and_hallucination_for_interpretable_deepfa/)
-
-**SineProject: Machine Unlearning for Stable Vision Language Alignment**
-
-- Paper: <https://arxiv.org/abs/2511.18444>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/sineproject_machine_unl…](https://papernotes.org/CVPR2026/llm_safety/sineproject_machine_unlearning_for_stable_vision_language_alignment/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/sineproject_machine_…](https://en.papernotes.org/CVPR2026/llm_safety/sineproject_machine_unlearning_for_stable_vision_language_alignment/)
-
-**Association and Consolidation: Evolutionary Memory-Enhanced Incremental Multi-View Clustering**
-
-- Paper: <https://arxiv.org/abs/2509.14544>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/association_and_consoli…](https://papernotes.org/CVPR2026/llm_safety/association_and_consolidation_evolutionary_memory-enhanced_incremental_multi-vie/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/association_and_cons…](https://en.papernotes.org/CVPR2026/llm_safety/association_and_consolidation_evolutionary_memory-enhanced_incremental_multi-vie/)
-
-**IAG: Input-aware Backdoor Attack on VLM-based Visual Grounding**
-
-- Paper: <https://arxiv.org/abs/2508.09456>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/iag_input-aware_backdoo…](https://papernotes.org/CVPR2026/llm_safety/iag_input-aware_backdoor_attack_on_vlm-based_visual_grounding/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/iag_input-aware_back…](https://en.papernotes.org/CVPR2026/llm_safety/iag_input-aware_backdoor_attack_on_vlm-based_visual_grounding/)
-
-**Do Vision-Language Models Leak What They Learn? Adaptive Token-Weighted Model Inversion Attacks**
-
-- Paper: <https://arxiv.org/abs/2508.04097>
-- Project: <https://ngoc-nguyen-0.github.io/SMI_AW/>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/vlm_model_inversion_ada…](https://papernotes.org/CVPR2026/llm_safety/vlm_model_inversion_adaptive_token_weight/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/vlm_model_inversion_…](https://en.papernotes.org/CVPR2026/llm_safety/vlm_model_inversion_adaptive_token_weight/)
-
-**AutoDebias: Automated Framework for Debiasing Text-to-Image Models**
-
-- Paper: <https://arxiv.org/abs/2508.00445>
-- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/autodebias_automa…](https://papernotes.org/CVPR2026/image_generation/autodebias_automated_framework_for_debiasing_text-to-image_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/image_generation/autodebias_aut…](https://en.papernotes.org/CVPR2026/image_generation/autodebias_automated_framework_for_debiasing_text-to-image_models/)
-
-**Perturb and Recover: Fine-tuning for Effective Backdoor Removal from CLIP** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2412.00727>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/perturb_and_recover_fin…](https://papernotes.org/CVPR2026/llm_safety/perturb_and_recover_fine-tuning_for_effective_backdoor_removal_from_clip/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/perturb_and_recover_…](https://en.papernotes.org/CVPR2026/llm_safety/perturb_and_recover_fine-tuning_for_effective_backdoor_removal_from_clip/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
-<a id="self_supervised"></a>
-
-## 🔄 Self-Supervised Learning · `self_supervised` · 25 papers
-
-**TrackMAE: Video Representation Learning via Track Mask and Predict**
-
-- Paper: <https://arxiv.org/abs/2603.27268>
-- Code: <https://github.com/rvandeghen/TrackMAE>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/trackmae_video_rep…](https://papernotes.org/CVPR2026/self_supervised/trackmae_video_representation_learning_via_track_mask_and_predict/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/trackmae_video_…](https://en.papernotes.org/CVPR2026/self_supervised/trackmae_video_representation_learning_via_track_mask_and_predict/)
-
-**Representation Learning for Spatiotemporal Physical Systems**
-
-- Paper: <https://arxiv.org/abs/2603.13227>
-- Code: <https://github.com/helenqu/physical-representation-learning>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/representation_lea…](https://papernotes.org/CVPR2026/self_supervised/representation_learning_for_spatiotemporal_physica/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/representation_…](https://en.papernotes.org/CVPR2026/self_supervised/representation_learning_for_spatiotemporal_physica/)
-
-**TeFlow: Enabling Multi-frame Supervision for Self-Supervised Feed-forward Scene Flow Estimation**
-
-- Paper: <https://arxiv.org/abs/2602.19053>
-- Code: <https://github.com/KTH-RPL/OpenSceneFlow>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/teflow_enabling_mu…](https://papernotes.org/CVPR2026/self_supervised/teflow_enabling_multi-frame_supervision_for_self-supervised_feed-forward_scene_f/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/teflow_enabling…](https://en.papernotes.org/CVPR2026/self_supervised/teflow_enabling_multi-frame_supervision_for_self-supervised_feed-forward_scene_f/)
-
-**TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction**
-
-- Paper: <https://arxiv.org/abs/2512.02341>
-- Code: <https://github.com/Xian-Bei/TALO>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/talo_pushing_3d_vi…](https://papernotes.org/CVPR2026/self_supervised/talo_pushing_3d_vision_foundation_models_towards_globally_consistent_online_reco/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/talo_pushing_3d…](https://en.papernotes.org/CVPR2026/self_supervised/talo_pushing_3d_vision_foundation_models_towards_globally_consistent_online_reco/)
-
-**D2Dewarp: Dual Dimensions Geometric Representation Learning Based Document Image Dewarping**
-
-- Paper: <https://arxiv.org/abs/2507.08492>
-- Code: <https://github.com/xiaomore/D2Dewarp>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/d2dewarp_dual_dime…](https://papernotes.org/CVPR2026/self_supervised/d2dewarp_dual_dimensions_geometric_representation_learning_based_document_image_/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/d2dewarp_dual_d…](https://en.papernotes.org/CVPR2026/self_supervised/d2dewarp_dual_dimensions_geometric_representation_learning_based_document_image_/)
-
-**SphOR: A Representation Learning Perspective on Open-set Recognition for Identifying Unknown Classes in Deep Learning Models** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2503.08049>
-- Code: <https://github.com/nadarasarbahavan/SpHOR>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/sphor_a_representa…](https://papernotes.org/CVPR2026/self_supervised/sphor_a_representation_learning_perspective_on_open-set_recognition_for_identify/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/sphor_a_represe…](https://en.papernotes.org/CVPR2026/self_supervised/sphor_a_representation_learning_perspective_on_open-set_recognition_for_identify/)
-
-**Robustness of Vision Foundation Models to Common Perturbations**
-
-- Paper: <https://arxiv.org/abs/2604.14973>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/robustness_of_visi…](https://papernotes.org/CVPR2026/self_supervised/robustness_of_vision_foundation_models_to_common_perturbations/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/robustness_of_v…](https://en.papernotes.org/CVPR2026/self_supervised/robustness_of_vision_foundation_models_to_common_perturbations/)
-
-**Chain-of-Models Pre-Training: Rethinking Training Acceleration of Vision Foundation Models**
-
-- Paper: <https://arxiv.org/abs/2604.12391>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/com_pt_chain_of_mo…](https://papernotes.org/CVPR2026/self_supervised/com_pt_chain_of_models_pretraining/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/com_pt_chain_of…](https://en.papernotes.org/CVPR2026/self_supervised/com_pt_chain_of_models_pretraining/)
-
-**UniGeoCLIP: Unified Geospatial Contrastive Learning**
-
-- Paper: <https://arxiv.org/abs/2604.11668>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/unigeoclip_geospat…](https://papernotes.org/CVPR2026/self_supervised/unigeoclip_geospatial_contrastive/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/unigeoclip_geos…](https://en.papernotes.org/CVPR2026/self_supervised/unigeoclip_geospatial_contrastive/)
-
-**CraterBench-R: Instance-Level Crater Retrieval for Planetary Scale** · 🛠️ Workshop
-
-- Paper: <https://arxiv.org/abs/2604.06245>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/craterbench-r_inst…](https://papernotes.org/CVPR2026/self_supervised/craterbench-r_instance-level_crater_retrieval_for_planetary_scale/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/craterbench-r_i…](https://en.papernotes.org/CVPR2026/self_supervised/craterbench-r_instance-level_crater_retrieval_for_planetary_scale/)
-
-**Group-DINOmics: Incorporating People Dynamics into DINO for Self-supervised Group Activity Feature Learning**
-
-- Paper: <https://arxiv.org/abs/2604.04467>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/group_dinomics_inc…](https://papernotes.org/CVPR2026/self_supervised/group_dinomics_incorporating_people_dynamics_into_dino_for_self_supervised_group_activity_feature_learning/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/group_dinomics_…](https://en.papernotes.org/CVPR2026/self_supervised/group_dinomics_incorporating_people_dynamics_into_dino_for_self_supervised_group_activity_feature_learning/)
-
-**Mine-JEPA: In-Domain Self-Supervised Learning for Mine-Like Object Classification in Side-Scan Sonar** · 🛠️ Workshop
-
-- Paper: <https://arxiv.org/abs/2604.00383>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/mine-jepa_in-domai…](https://papernotes.org/CVPR2026/self_supervised/mine-jepa_in-domain_self-supervised_learning_for_mine-like_object_classification/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/mine-jepa_in-do…](https://en.papernotes.org/CVPR2026/self_supervised/mine-jepa_in-domain_self-supervised_learning_for_mine-like_object_classification/)
-
-**Suppressing Non-Semantic Noise in Masked Image Modeling Representations**
-
-- Paper: <https://arxiv.org/abs/2604.00172>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/suppressing_non-se…](https://papernotes.org/CVPR2026/self_supervised/suppressing_non-semantic_noise_in_masked_image_modeling_representations/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/suppressing_non…](https://en.papernotes.org/CVPR2026/self_supervised/suppressing_non-semantic_noise_in_masked_image_modeling_representations/)
-
-**BoSS: A Best-of-Strategies Selector as an Oracle for Deep Active Learning**
-
-- Paper: <https://arxiv.org/abs/2603.13109>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/boss_a_best-of-str…](https://papernotes.org/CVPR2026/self_supervised/boss_a_best-of-strategies_selector_as_an_oracle_for_deep_active_learning/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/boss_a_best-of-…](https://en.papernotes.org/CVPR2026/self_supervised/boss_a_best-of-strategies_selector_as_an_oracle_for_deep_active_learning/)
-
-**Breaking the Tuning Barrier: Zero-Hyperparameters Yield Multi-Corner Analysis Via Learned Priors**
-
-- Paper: <https://arxiv.org/abs/2603.13092>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/breaking_the_tunin…](https://papernotes.org/CVPR2026/self_supervised/breaking_the_tuning_barrier_zerohyperparameters_yi/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/breaking_the_tu…](https://en.papernotes.org/CVPR2026/self_supervised/breaking_the_tuning_barrier_zero-hyperparameters_yield_multi-corner_analysis_via/)
-
-**GeoChemAD: Benchmarking Unsupervised Geochemical Anomaly Detection for Mineral Exploration**
-
-- Paper: <https://arxiv.org/abs/2603.13068>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/geochemad_benchmar…](https://papernotes.org/CVPR2026/self_supervised/geochemad_benchmarking_unsupervised_geochemical_anomaly_detection_for_mineral_ex/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/geochemad_bench…](https://en.papernotes.org/CVPR2026/self_supervised/geochemad_benchmarking_unsupervised_geochemical_anomaly_detection_for_mineral_ex/)
-
-**Text-Phase Synergy Network with Dual Priors for Unsupervised Cross-Domain Image Retrieval**
-
-- Paper: <https://arxiv.org/abs/2603.12711>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/text-phase_synergy…](https://papernotes.org/CVPR2026/self_supervised/text-phase_synergy_network_with_dual_priors_for_unsupervised_cross-domain_image_/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/text-phase_syne…](https://en.papernotes.org/CVPR2026/self_supervised/text-phase_synergy_network_with_dual_priors_for_unsupervised_cross-domain_image_/)
-
-**Shape-of-You: Fused Gromov-Wasserstein Optimal Transport for Semantic Correspondence in-the-Wild**
-
-- Paper: <https://arxiv.org/abs/2603.11618>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/shape-of-you_fused…](https://papernotes.org/CVPR2026/self_supervised/shape-of-you_fused_gromov-wasserstein_optimal_transport_for_semantic_corresponde/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/shape-of-you_fu…](https://en.papernotes.org/CVPR2026/self_supervised/shape-of-you_fused_gromov-wasserstein_optimal_transport_for_semantic_corresponde/)
-
-**DiverseDiT: Towards Diverse Representation Learning in Diffusion Transformers**
-
-- Paper: <https://arxiv.org/abs/2603.04239>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/diversedit_towards…](https://papernotes.org/CVPR2026/self_supervised/diversedit_towards_diverse_representation_learning_in_diffusion_transformers/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/diversedit_towa…](https://en.papernotes.org/CVPR2026/self_supervised/diversedit_towards_diverse_representation_learning_in_diffusion_transformers/)
-
-**BD-Merging: Bias-Aware Dynamic Model Merging with Evidence-Guided Contrastive Learning**
-
-- Paper: <https://arxiv.org/abs/2603.03920>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/bd-merging_bias-aw…](https://papernotes.org/CVPR2026/self_supervised/bd-merging_bias-aware_dynamic_model_merging_with_evidence-guided_contrastive_lea/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/bd-merging_bias…](https://en.papernotes.org/CVPR2026/self_supervised/bd-merging_bias-aware_dynamic_model_merging_with_evidence-guided_contrastive_lea/)
-
-**Vision Transformers Need More Than Registers**
-
-- Paper: <https://arxiv.org/abs/2602.22394>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/vision_transformer…](https://papernotes.org/CVPR2026/self_supervised/vision_transformers_need_more_than_registers/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/vision_transfor…](https://en.papernotes.org/CVPR2026/self_supervised/vision_transformers_need_more_than_registers/)
-
-**LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency**
-
-- Paper: <https://arxiv.org/abs/2602.18735>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/las-comp_zero-shot…](https://papernotes.org/CVPR2026/self_supervised/las-comp_zero-shot_3d_completion_with_latent-spatial_consistency/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/las-comp_zero-s…](https://en.papernotes.org/CVPR2026/self_supervised/las-comp_zero-shot_3d_completion_with_latent-spatial_consistency/)
-
-**GeoBridge: A Semantic-Anchored Multi-View Foundation Model for Geo-Localization**
-
-- Paper: <https://arxiv.org/abs/2512.02697>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/geobridge_semantic…](https://papernotes.org/CVPR2026/self_supervised/geobridge_semantic-anchored_multi-view_foundation_model_for_geo-localization/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/geobridge_seman…](https://en.papernotes.org/CVPR2026/self_supervised/geobridge_semantic-anchored_multi-view_foundation_model_for_geo-localization/)
-
-**A Stitch in Time: Learning Procedural Workflow via Self-Supervised Plackett-Luce Ranking**
-
-- Paper: <https://arxiv.org/abs/2511.17805>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/a_stitch_in_time_l…](https://papernotes.org/CVPR2026/self_supervised/a_stitch_in_time_learning_procedural_workflow_via_self_supervised_plackett_luce_r/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/a_stitch_in_tim…](https://en.papernotes.org/CVPR2026/self_supervised/a_stitch_in_time_learning_procedural_workflow_via_self_supervised_plackett_luce_r/)
-
-**VT-Intrinsic: Physics-Based Decomposition of Reflectance and Shading using a Single Visible-Thermal Image Pair**
-
-- Paper: <https://arxiv.org/abs/2509.10388>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/vt-intrinsic_physi…](https://papernotes.org/CVPR2026/self_supervised/vt-intrinsic_physics-based_decomposition_of_reflectance_and_shading_using_a_sing/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/vt-intrinsic_ph…](https://en.papernotes.org/CVPR2026/self_supervised/vt-intrinsic_physics-based_decomposition_of_reflectance_and_shading_using_a_sing/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
 <a id="ai_safety"></a>
 
-## 🛡️ AI Safety · `ai_safety` · 19 papers
+## 🛡️ AI Safety · `ai_safety` · 23 papers
 
 **FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift**
 
@@ -8768,6 +8751,20 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/ai_safety/fedre_a_representation_e…](https://papernotes.org/CVPR2026/ai_safety/fedre_a_representation_entanglement_framework_for_model-heterogeneous_federated_/)
 - Notes (English): [en.papernotes.org/CVPR2026/ai_safety/fedre_a_representatio…](https://en.papernotes.org/CVPR2026/ai_safety/fedre_a_representation_entanglement_framework_for_model-heterogeneous_federated_/)
 
+**Enhancing Out-of-Distribution Detection with Extended Logit Normalization**
+
+- Paper: <https://arxiv.org/abs/2504.11434>
+- Code: <https://github.com/limchaos/ElogitNorm>
+- Notes (Chinese): [papernotes.org/CVPR2026/ai_safety/enhancing_out-of-distrib…](https://papernotes.org/CVPR2026/ai_safety/enhancing_out-of-distribution_detection_with_extended_logit_normalization/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/enhancing_out-of…](https://en.papernotes.org/CVPR2026/llm_evaluation/enhancing_out-of-distribution_detection_with_extended_logit_normalization/)
+
+**SphOR: A Representation Learning Perspective on Open-set Recognition for Identifying Unknown Classes in Deep Learning Models** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2503.08049>
+- Code: <https://github.com/nadarasarbahavan/SpHOR>
+- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/sphor_a_representa…](https://papernotes.org/CVPR2026/self_supervised/sphor_a_representation_learning_perspective_on_open-set_recognition_for_identify/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/sphor_a_represe…](https://en.papernotes.org/CVPR2026/self_supervised/sphor_a_representation_learning_perspective_on_open-set_recognition_for_identify/)
+
 **SubFLOT: Submodel Extraction for Efficient and Personalized Federated Learning via Optimal Transport**
 
 - Paper: <https://arxiv.org/abs/2604.06631>
@@ -8804,6 +8801,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/ai_safety/fedafd_multimodal_federa…](https://papernotes.org/CVPR2026/ai_safety/fedafd_multimodal_federated_learning_via_adversarial_fusion_and_distillation/)
 - Notes (English): [en.papernotes.org/CVPR2026/ai_safety/fedafd_multimodal_fed…](https://en.papernotes.org/CVPR2026/ai_safety/fedafd_multimodal_federated_learning_via_adversarial_fusion_and_distillation/)
 
+**$φ$-DPO: Fairness Direct Preference Optimization Approach to Continual Learning in Large Multimodal Models**
+
+- Paper: <https://arxiv.org/abs/2602.22601>
+- Notes (Chinese): [papernotes.org/CVPR2026/ai_safety/φ-dpo_fairness_direct_pr…](https://papernotes.org/CVPR2026/ai_safety/φ-dpo_fairness_direct_preference_optimization_approach_to_continual_learning_in_/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/φ-dpo_fairness_di…](https://en.papernotes.org/CVPR2026/llm_alignment/φ-dpo_fairness_direct_preference_optimization_approach_to_continual_learning_in_/)
+
 **ProxyFL: A Proxy-Guided Framework for Federated Semi-Supervised Learning**
 
 - Paper: <https://arxiv.org/abs/2602.21078>
@@ -8821,6 +8824,12 @@
 - Paper: <https://arxiv.org/abs/2602.20053>
 - Notes (Chinese): [papernotes.org/CVPR2026/ai_safety/decoupling_defense_strat…](https://papernotes.org/CVPR2026/ai_safety/decoupling_defense_strategies_for_robust_image_watermarking/)
 - Notes (English): [en.papernotes.org/CVPR2026/ai_safety/decoupling_defense_st…](https://en.papernotes.org/CVPR2026/ai_safety/decoupling_defense_strategies_for_robust_image_watermarking/)
+
+**Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery**
+
+- Paper: <https://arxiv.org/abs/2602.19910>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/multi-modal_represe…](https://papernotes.org/CVPR2026/multimodal_vlm/multi-modal_representation_learning_via_semi-supervised_rate_reduction_for_gener/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/multi-modal_repr…](https://en.papernotes.org/CVPR2026/multimodal_vlm/multi-modal_representation_learning_via_semi-supervised_rate_reduction_for_gener/)
 
 **TIACam: Text-Anchored Invariant Feature Learning with Auto-Augmentation for Camera-Robust Zero-Watermarking**
 
@@ -8844,147 +8853,9 @@
 
 ---
 
-<a id="reinforcement_learning"></a>
-
-## 🎮 Reinforcement Learning · `reinforcement_learning` · 19 papers
-
-**RoboAgent: Chaining Basic Capabilities for Embodied Task Planning**
-
-- Paper: <https://arxiv.org/abs/2604.07774>
-- Code: <https://github.com/woyut/RoboAgent_CVPR26>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/roboagent_c…](https://papernotes.org/CVPR2026/reinforcement_learning/roboagent_chaining_basic_capabilities_for_embodied_task_planning/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/roboagen…](https://en.papernotes.org/CVPR2026/reinforcement_learning/roboagent_chaining_basic_capabilities_for_embodied_task_planning/)
-
-**BRIDGE: Multimodal-to-Text Retrieval via Reinforcement-Learned Query Alignment** · 🛠️ Workshop
-
-- Paper: <https://arxiv.org/abs/2604.07201>
-- Code: <https://github.com/mm-bright/multimodal-reasoning-retrieval>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/bridge_mult…](https://papernotes.org/CVPR2026/reinforcement_learning/bridge_multimodal-to-text_retrieval_via_reinforcement-learned_query_alignment/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/bridge_m…](https://en.papernotes.org/CVPR2026/reinforcement_learning/bridge_multimodal-to-text_retrieval_via_reinforcement-learned_query_alignment/)
-
-**Reasoning-Driven Anomaly Detection and Localization with Image-Level Supervision**
-
-- Paper: <https://arxiv.org/abs/2603.27179>
-- Code: <https://github.com/YizhouJin313/ReADL>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/reasoning-d…](https://papernotes.org/CVPR2026/reinforcement_learning/reasoning-driven_anomaly_detection_and_localization_with_image-level_supervision/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/reasonin…](https://en.papernotes.org/CVPR2026/reinforcement_learning/reasoning-driven_anomaly_detection_and_localization_with_image-level_supervision/)
-
-**MSRL: Scaling Generative Multimodal Reward Modeling via Multi-Stage Reinforcement Learning**
-
-- Paper: <https://arxiv.org/abs/2603.25108>
-- Code: <https://github.com/wangclnlp/MSRL>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/msrl_scalin…](https://papernotes.org/CVPR2026/reinforcement_learning/msrl_scaling_generative_multimodal_reward_modeling/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/msrl_sca…](https://en.papernotes.org/CVPR2026/reinforcement_learning/msrl_scaling_generative_multimodal_reward_modeling/)
-
-**Seeing is Improving: Visual Feedback for Iterative Text Layout Refinement**
-
-- Paper: <https://arxiv.org/abs/2603.22187>
-- Code: <https://github.com/FolSpark/VFLM>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/seeing_is_i…](https://papernotes.org/CVPR2026/reinforcement_learning/seeing_is_improving_visual_feedback_for_iterative_text_layout_refinement/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/seeing_i…](https://en.papernotes.org/CVPR2026/reinforcement_learning/seeing_is_improving_visual_feedback_for_iterative_text_layout_refinement/)
-
-**Lifelong Imitation Learning with Multimodal Latent Replay and Incremental Adjustment**
-
-- Paper: <https://arxiv.org/abs/2603.10929>
-- Code: <https://github.com/yfqi/lifelong_mlr_ifa>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/lifelong_im…](https://papernotes.org/CVPR2026/reinforcement_learning/lifelong_imitation_learning_multimodal_latent_rep/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/lifelong…](https://en.papernotes.org/CVPR2026/reinforcement_learning/lifelong_imitation_learning_multimodal_latent_rep/)
-
-**Specificity-aware reinforcement learning for fine-grained open-world classification**
-
-- Paper: <https://arxiv.org/abs/2603.03197>
-- Code: <https://github.com/s-angheben/SpeciaRL>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/specificity…](https://papernotes.org/CVPR2026/reinforcement_learning/specificity-aware_reinforcement_learning_for_fine-grained_open-world_classificat/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/specific…](https://en.papernotes.org/CVPR2026/reinforcement_learning/specificity-aware_reinforcement_learning_for_fine-grained_open-world_classificat/)
-
-**Reinforce to Learn, Elect to Reason: A Dual Paradigm for Video Reasoning**
-
-- Paper: <https://arxiv.org/abs/2604.04379>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/reinforce_t…](https://papernotes.org/CVPR2026/reinforcement_learning/reinforce_to_learn_elect_to_reason_a_dual_paradigm_for_video_reasoning/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/reinforc…](https://en.papernotes.org/CVPR2026/reinforcement_learning/reinforce_to_learn_elect_to_reason_a_dual_paradigm_for_video_reasoning/)
-
-**AceTone: Bridging Words and Colors for Conditional Image Grading**
-
-- Paper: <https://arxiv.org/abs/2604.00530>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/acetone_bri…](https://papernotes.org/CVPR2026/reinforcement_learning/acetone_bridging_words_and_colors_for_conditional_image_grading/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/acetone_…](https://en.papernotes.org/CVPR2026/reinforcement_learning/acetone_bridging_words_and_colors_for_conditional_image_grading/)
-
-**AnyDoc: Enhancing Document Generation via Large-Scale HTML/CSS Data Synthesis and Height-Aware Reinforcement Optimization**
-
-- Paper: <https://arxiv.org/abs/2603.25118>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/anydoc_enha…](https://papernotes.org/CVPR2026/reinforcement_learning/anydoc_enhancing_document_generation_via_large-scale_htmlcss_data_synthesis_and_/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/anydoc_e…](https://en.papernotes.org/CVPR2026/reinforcement_learning/anydoc_enhancing_document_generation_via_large-scale_htmlcss_data_synthesis_and_/)
-
-**Anticipatory Planning for Multimodal AI Agents** · 📖 Findings
-
-- Paper: <https://arxiv.org/abs/2603.16777>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/anticipator…](https://papernotes.org/CVPR2026/reinforcement_learning/anticipatory_planning_for_multimodal_ai_agents/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/anticipa…](https://en.papernotes.org/CVPR2026/reinforcement_learning/anticipatory_planning_for_multimodal_ai_agents/)
-
-**RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset**
-
-- Paper: <https://arxiv.org/abs/2603.11811>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/radar_close…](https://papernotes.org/CVPR2026/reinforcement_learning/radar_closedloop_robotic_data_generation_via_seman/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/radar_cl…](https://en.papernotes.org/CVPR2026/reinforcement_learning/radar_closedloop_robotic_data_generation_via_seman/)
-
-**Rethinking Camera Choice: An Empirical Study on Fisheye Camera Properties in Robotic Manipulation**
-
-- Paper: <https://arxiv.org/abs/2603.02139>
-- Project: <https://robo-fisheye.github.io/>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/rethinking_…](https://papernotes.org/CVPR2026/reinforcement_learning/rethinking_camera_choice_an_empirical_study_on_fisheye_camera_properties_in_robo/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/rethinki…](https://en.papernotes.org/CVPR2026/reinforcement_learning/rethinking_camera_choice_an_empirical_study_on_fisheye_camera_properties_in_robo/)
-
-**Cross-modal Identity Mapping: Minimizing Information Loss in Modality Conversion via Reinforcement Learning**
-
-- Paper: <https://arxiv.org/abs/2603.01696>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/cross-modal…](https://papernotes.org/CVPR2026/reinforcement_learning/cross-modal_identity_mapping_minimizing_information_loss_in_modality_conversion_/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/cross-mo…](https://en.papernotes.org/CVPR2026/reinforcement_learning/cross-modal_identity_mapping_minimizing_information_loss_in_modality_conversion_/)
-
-**GeoWorld: Geometric World Models**
-
-- Paper: <https://arxiv.org/abs/2602.23058>
-- Project: <https://steve-zeyu-zhang.github.io/GeoWorld>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/geoworld_ge…](https://papernotes.org/CVPR2026/reinforcement_learning/geoworld_geometric_world_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/geoworld…](https://en.papernotes.org/CVPR2026/reinforcement_learning/geoworld_geometric_world_models/)
-
-**GraspLDP: Towards Generalizable Grasping Policy via Latent Diffusion**
-
-- Paper: <https://arxiv.org/abs/2602.22862>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/graspldp_to…](https://papernotes.org/CVPR2026/reinforcement_learning/graspldp_towards_generalizable_grasping_policy_via_latent_diffusion/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/graspldp…](https://en.papernotes.org/CVPR2026/reinforcement_learning/graspldp_towards_generalizable_grasping_policy_via_latent_diffusion/)
-
-**CCCaption: Dual-Reward Reinforcement Learning for Complete and Correct Image Captioning**
-
-- Paper: <https://arxiv.org/abs/2602.21655>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/cccaption_d…](https://papernotes.org/CVPR2026/reinforcement_learning/cccaption_dual-reward_reinforcement_learning_for_complete_and_correct_image_capt/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/cccaptio…](https://en.papernotes.org/CVPR2026/reinforcement_learning/cccaption_dual-reward_reinforcement_learning_for_complete_and_correct_image_capt/)
-
-**See It, Say It, Sorted: An Iterative Training-Free Framework for Visually-Grounded Multimodal Reasoning in LVLMs**
-
-- Paper: <https://arxiv.org/abs/2602.21497>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/see_it_say_…](https://papernotes.org/CVPR2026/reinforcement_learning/see_it_say_it_sorted_an_iterative_training-free_framework_for_visually-grounded_/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/see_it_s…](https://en.papernotes.org/CVPR2026/reinforcement_learning/see_it_say_it_sorted_an_iterative_training-free_framework_for_visually-grounded_/)
-
-**ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering**
-
-- Paper: <https://arxiv.org/abs/2511.22715>
-- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/reag_reason…](https://papernotes.org/CVPR2026/reinforcement_learning/reag_reasoning-augmented_generation_for_knowledge-based_visual_question_answerin/)
-- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/reag_rea…](https://en.papernotes.org/CVPR2026/reinforcement_learning/reag_reasoning-augmented_generation_for_knowledge-based_visual_question_answerin/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
 <a id="audio_speech"></a>
 
 ## 🎵 Audio & Speech · `audio_speech` · 16 papers
-
-**Semantic Audio-Visual Navigation in Continuous Environments**
-
-- Paper: <https://arxiv.org/abs/2603.19660>
-- Code: <https://github.com/yichenzeng24/SAVN-CE>
-- Notes (Chinese): [papernotes.org/CVPR2026/audio_speech/semantic_audio-visual…](https://papernotes.org/CVPR2026/audio_speech/semantic_audio-visual_navigation_in_continuous_environments/)
-- Notes (English): [en.papernotes.org/CVPR2026/audio_speech/semantic_audio-vis…](https://en.papernotes.org/CVPR2026/audio_speech/semantic_audio-visual_navigation_in_continuous_environments/)
 
 **OmniSonic: Towards Universal and Holistic Audio Generation from Video and Text**
 
@@ -9073,6 +8944,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/audio_speech/babyvlm-v2_toward_dev…](https://papernotes.org/CVPR2026/audio_speech/babyvlm-v2_toward_developmentally_grounded_pretraining_and_benchmarking_of_visio/)
 - Notes (English): [en.papernotes.org/CVPR2026/audio_speech/babyvlm-v2_toward_…](https://en.papernotes.org/CVPR2026/audio_speech/babyvlm-v2_toward_developmentally_grounded_pretraining_and_benchmarking_of_visio/)
 
+**Hear What Matters! Text-conditioned Selective Video-to-Audio Generation**
+
+- Paper: <https://arxiv.org/abs/2512.02650>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/hear_what_matt…](https://papernotes.org/CVPR2026/video_understanding/hear_what_matters_text-conditioned_selective_video-to-audio_generation/)
+- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/hear_what_m…](https://en.papernotes.org/CVPR2026/video_understanding/hear_what_matters_text-conditioned_selective_video-to-audio_generation/)
+
 **Cleaning the Pool: Progressive Filtering of Unlabeled Pools in Deep Active Learning**
 
 - Paper: <https://arxiv.org/abs/2511.22344>
@@ -9083,96 +8960,192 @@
 
 ---
 
-<a id="llm_agent"></a>
+<a id="llm_reasoning"></a>
 
-## 🦾 LLM Agent · `llm_agent` · 14 papers
+## 💡 LLM Reasoning · `llm_reasoning` · 14 papers
 
-**SceneAssistant: A Visual Feedback Agent for Open-Vocabulary 3D Scene Generation**
+**Understanding and Mitigating Hallucinations in Multimodal Chain-of-Thought Models**
 
-- Paper: <https://arxiv.org/abs/2603.12238>
-- Code: <https://github.com/ROUJINN/SceneAssistant>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/sceneassistant_a_visual_…](https://papernotes.org/CVPR2026/llm_agent/sceneassistant_a_visual_feedback_agent_for_openvoc/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/sceneassistant_a_visu…](https://en.papernotes.org/CVPR2026/llm_agent/sceneassistant_a_visual_feedback_agent_for_openvoc/)
+- Paper: <https://arxiv.org/abs/2603.27201>
+- Code: <https://github.com/ASGO-MM/MCoT-hallucination>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/understanding_and_mi…](https://papernotes.org/CVPR2026/llm_reasoning/understanding_and_mitigating_hallucinations_in_multimodal_chain-of-thought_model/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/understanding_and…](https://en.papernotes.org/CVPR2026/llm_reasoning/understanding_and_mitigating_hallucinations_in_multimodal_chain-of-thought_model/)
 
-**Think, Then Verify: A Hypothesis-Verification Multi-Agent Framework for Long Video Understanding**
+**Scalable Object Relation Encoding for Better 3D Spatial Reasoning in Large Language Models**
 
-- Paper: <https://arxiv.org/abs/2603.04977>
-- Code: <https://github.com/Haorane/VideoHV-Agent>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/think_then_verify_a_hypo…](https://papernotes.org/CVPR2026/llm_agent/think_then_verify_a_hypothesis-verification_multi-agent_framework_for_long_video/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/think_then_verify_a_h…](https://en.papernotes.org/CVPR2026/llm_agent/think_then_verify_a_hypothesis-verification_multi-agent_framework_for_long_video/)
+- Paper: <https://arxiv.org/abs/2603.24721>
+- Code: <https://github.com/oceanflowlab/QuatRoPE>
+- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/scalable_object_relation…](https://papernotes.org/CVPR2026/3d_vision/scalable_object_relation_encoding_for_better_3d_spatial_reasoning_in_large_langu/)
+- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/scalable_object_relat…](https://en.papernotes.org/CVPR2026/3d_vision/scalable_object_relation_encoding_for_better_3d_spatial_reasoning_in_large_langu/)
 
-**ARGOS: Who, Where, and When in Agentic Multi-Camera Person Search**
+**E-comIQ-ZH: A Human-Aligned Dataset and Benchmark for Fine-Grained Evaluation of E-commerce Posters with Chain-of-Thought**
 
-- Paper: <https://arxiv.org/abs/2604.12762>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/argos_agentic_multi_came…](https://papernotes.org/CVPR2026/llm_agent/argos_agentic_multi_camera_person_search/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/argos_agentic_multi_c…](https://en.papernotes.org/CVPR2026/llm_agent/argos_agentic_multi_camera_person_search/)
+- Paper: <https://arxiv.org/abs/2602.21698>
+- Code: <https://github.com/4mm7/E-comIQ-ZH>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/e-comiq-zh_a_human-a…](https://papernotes.org/CVPR2026/llm_reasoning/e-comiq-zh_a_human-aligned_dataset_and_benchmark_for_fine-grained_evaluation_of_/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/e-comiq-zh_a_huma…](https://en.papernotes.org/CVPR2026/llm_reasoning/e-comiq-zh_a_human-aligned_dataset_and_benchmark_for_fine-grained_evaluation_of_/)
 
-**Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding**
+**SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models**
 
-- Paper: <https://arxiv.org/abs/2603.26211>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/towards_gui_agents_visio…](https://papernotes.org/CVPR2026/llm_agent/towards_gui_agents_vision-language_diffusion_models_for_gui_grounding/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/towards_gui_agents_vi…](https://en.papernotes.org/CVPR2026/llm_agent/towards_gui_agents_vision-language_diffusion_models_for_gui_grounding/)
+- Paper: <https://arxiv.org/abs/2602.20901>
+- Code: <https://github.com/xieyc99/SpatiaLQA>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/spatialqa_a_benchma…](https://papernotes.org/CVPR2026/multimodal_vlm/spatialqa_a_benchmark_for_evaluating_spatial_logical_reasoning_in_vision-languag/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/spatialqa_a_benc…](https://en.papernotes.org/CVPR2026/multimodal_vlm/spatialqa_a_benchmark_for_evaluating_spatial_logical_reasoning_in_vision-languag/)
 
-**CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare** · 📖 Findings
+**Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models**
 
-- Paper: <https://arxiv.org/abs/2603.24157>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/carepilot_a_multi-agent_…](https://papernotes.org/CVPR2026/llm_agent/carepilot_a_multi-agent_framework_for_long-horizon_computer_task_automation_in_h/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/carepilot_a_multi-age…](https://en.papernotes.org/CVPR2026/llm_agent/carepilot_a_multi-agent_framework_for_long-horizon_computer_task_automation_in_h/)
+- Paper: <https://arxiv.org/abs/2604.03179>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/understanding_the_ro…](https://papernotes.org/CVPR2026/llm_reasoning/understanding_the_role_of_hallucination_in_reinforcement_post-training_of_multim/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/understanding_the…](https://en.papernotes.org/CVPR2026/llm_reasoning/understanding_the_role_of_hallucination_in_reinforcement_post-training_of_multim/)
 
-**Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos**
+**GRAZE: Grounded Refinement and Motion-Aware Zero-Shot Event Localization** · 🛠️ Workshop
 
-- Paper: <https://arxiv.org/abs/2603.22529>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/ego2web_a_web_agent_benc…](https://papernotes.org/CVPR2026/llm_agent/ego2web_a_web_agent_benchmark_grounded_in_egocentric_videos/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/ego2web_a_web_agent_b…](https://en.papernotes.org/CVPR2026/llm_agent/ego2web_a_web_agent_benchmark_grounded_in_egocentric_videos/)
+- Paper: <https://arxiv.org/abs/2604.01383>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/graze_grounded_refin…](https://papernotes.org/CVPR2026/llm_reasoning/graze_grounded_refinement_and_motion-aware_zero-shot_event_localization/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/graze_grounded_re…](https://en.papernotes.org/CVPR2026/llm_reasoning/graze_grounded_refinement_and_motion-aware_zero-shot_event_localization/)
 
-**GUI-CEval: A Hierarchical and Comprehensive Chinese Benchmark for Mobile GUI Agents**
+**Reinforcing Structured Chain-of-Thought for Video Understanding**
 
-- Paper: <https://arxiv.org/abs/2603.15039>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/gui-ceval_a_hierarchical…](https://papernotes.org/CVPR2026/llm_agent/gui-ceval_a_hierarchical_and_comprehensive_chinese_benchmark_for_mobile_gui_agen/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/gui-ceval_a_hierarchi…](https://en.papernotes.org/CVPR2026/llm_agent/gui-ceval_a_hierarchical_and_comprehensive_chinese_benchmark_for_mobile_gui_agen/)
+- Paper: <https://arxiv.org/abs/2603.25942>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/reinforcing_structur…](https://papernotes.org/CVPR2026/llm_reasoning/reinforcing_structured_chain-of-thought_for_video_understanding/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/reinforcing_struc…](https://en.papernotes.org/CVPR2026/llm_reasoning/reinforcing_structured_chain-of-thought_for_video_understanding/)
 
-**HATS: Hardness-Aware Trajectory Synthesis for GUI Agents**
+**Think 360°: Evaluating the Width-centric Reasoning Capability of MLLMs Beyond Depth**
 
-- Paper: <https://arxiv.org/abs/2603.12138>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/hats_hardness-aware_traj…](https://papernotes.org/CVPR2026/llm_agent/hats_hardness-aware_trajectory_synthesis_for_gui_agents/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/hats_hardness-aware_t…](https://en.papernotes.org/CVPR2026/llm_agent/hats_hardness-aware_trajectory_synthesis_for_gui_agents/)
+- Paper: <https://arxiv.org/abs/2603.22689>
+- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/think_360_evaluatin…](https://papernotes.org/CVPR2026/multimodal_vlm/think_360_evaluating_the_width-centric_reasoning_capability_of_mllms_beyond_dept/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/think_360_evalua…](https://en.papernotes.org/CVPR2026/multimodal_vlm/think_360_evaluating_the_width-centric_reasoning_capability_of_mllms_beyond_dept/)
 
-**NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code**
+**Step-CoT: Stepwise Visual Chain-of-Thought for Medical Visual Question Answering**
 
-- Paper: <https://arxiv.org/abs/2603.00805>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/nerfify_multiagent_nerf_…](https://papernotes.org/CVPR2026/llm_agent/nerfify_multiagent_nerf_paper_to_code/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/nerfify_multiagent_ne…](https://en.papernotes.org/CVPR2026/llm_agent/nerfify_multiagent_nerf_paper_to_code/)
+- Paper: <https://arxiv.org/abs/2603.13878>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/step-cot_stepwise_vi…](https://papernotes.org/CVPR2026/llm_reasoning/step-cot_stepwise_visual_chain-of-thought_for_medical_visual_question_answering/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/step-cot_stepwise…](https://en.papernotes.org/CVPR2026/llm_reasoning/step-cot_stepwise_visual_chain-of-thought_for_medical_visual_question_answering/)
 
-**Hierarchical Long Video Understanding with Audiovisual Entity Cohesion and Agentic Search**
+**VisRef: Visual Refocusing while Thinking Improves Test-Time Scaling in Multi-Modal Large Reasoning Models**
 
-- Paper: <https://arxiv.org/abs/2601.13719>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/haven_hierarchical_long_…](https://papernotes.org/CVPR2026/llm_agent/haven_hierarchical_long_video_understanding_audiovisual_entity/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/haven_hierarchical_lo…](https://en.papernotes.org/CVPR2026/llm_agent/haven_hierarchical_long_video_understanding_audiovisual_entity/)
+- Paper: <https://arxiv.org/abs/2603.00207>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/visref_visual_refocu…](https://papernotes.org/CVPR2026/llm_reasoning/visref_visual_refocusing_test_time_scaling/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/visref_visual_ref…](https://en.papernotes.org/CVPR2026/llm_reasoning/visref_visual_refocusing_test_time_scaling/)
 
-**EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration** · 📖 Findings
+**EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence**
 
-- Paper: <https://arxiv.org/abs/2512.19396>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/echotrail-gui_building_a…](https://papernotes.org/CVPR2026/llm_agent/echotrail-gui_building_actionable_memory_for_gui_agents_via_critic-guided_self-e/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/echotrail-gui_buildin…](https://en.papernotes.org/CVPR2026/llm_agent/echotrail-gui_building_actionable_memory_for_gui_agents_via_critic-guided_self-e/)
+- Paper: <https://arxiv.org/abs/2512.15160>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/eaglevision_a_dual-s…](https://papernotes.org/CVPR2026/llm_reasoning/eaglevision_a_dual-stage_framework_with_bev-grounding-based_chain-of-thought_for/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/eaglevision_a_dua…](https://en.papernotes.org/CVPR2026/llm_reasoning/eaglevision_a_dual-stage_framework_with_bev-grounding-based_chain-of-thought_for/)
 
-**WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning**
+**Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving**
 
-- Paper: <https://arxiv.org/abs/2512.02425>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/worldmm_dynamic_multimod…](https://papernotes.org/CVPR2026/llm_agent/worldmm_dynamic_multimodal_memory_agent_for_long_video_reasoning/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/worldmm_dynamic_multi…](https://en.papernotes.org/CVPR2026/llm_agent/worldmm_dynamic_multimodal_memory_agent_for_long_video_reasoning/)
+- Paper: <https://arxiv.org/abs/2512.10226>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/latent_chain-of-thou…](https://papernotes.org/CVPR2026/llm_reasoning/latent_chain-of-thought_world_modeling_for_end-to-end_autonomous_driving/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/latent_chain-of-t…](https://en.papernotes.org/CVPR2026/llm_reasoning/latent_chain-of-thought_world_modeling_for_end-to-end_autonomous_driving/)
 
-**REALM: An MLLM-Agent Framework for Open World 3D Reasoning Segmentation and Editing on Gaussian Splatting**
+**Masking Matters: Unlocking the Spatial Reasoning Capabilities of LLMs for 3D Scene-Language Understanding**
 
-- Paper: <https://arxiv.org/abs/2510.16410>
-- Project: <https://ChangyueShi.github.io/REALM>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/realm_mllm_agent_3d_reas…](https://papernotes.org/CVPR2026/llm_agent/realm_mllm_agent_3d_reasoning_gaussian/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/realm_mllm_agent_3d_r…](https://en.papernotes.org/CVPR2026/llm_agent/realm_mllm_agent_3d_reasoning_gaussian/)
+- Paper: <https://arxiv.org/abs/2512.02487>
+- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/masking_matters_unlockin…](https://papernotes.org/CVPR2026/3d_vision/masking_matters_unlocking_the_spatial_reasoning_capabilities_of_llms_for_3d_scen/)
+- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/masking_matters_unloc…](https://en.papernotes.org/CVPR2026/3d_vision/masking_matters_unlocking_the_spatial_reasoning_capabilities_of_llms_for_3d_scen/)
 
-**Gen-n-Val: Agentic Image Data Generation and Validation**
+**Rationale-Enhanced Decoding for Multi-modal Chain-of-Thought**
 
-- Paper: <https://arxiv.org/abs/2506.04676>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/gen_n_val_agentic_image_…](https://papernotes.org/CVPR2026/llm_agent/gen_n_val_agentic_image_data_generation_and_validation/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/gen_n_val_agentic_ima…](https://en.papernotes.org/CVPR2026/llm_agent/gen_n_val_agentic_image_data_generation_and_validation/)
+- Paper: <https://arxiv.org/abs/2507.07685>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/rationale-enhanced_d…](https://papernotes.org/CVPR2026/llm_reasoning/rationale-enhanced_decoding_for_multi-modal_chain-of-thought/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/rationale-enhance…](https://en.papernotes.org/CVPR2026/llm_reasoning/rationale-enhanced_decoding_for_multi-modal_chain-of-thought/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
+<a id="computational_biology"></a>
+
+## 🧬 Computational Biology · `computational_biology` · 14 papers
+
+**Cell-Type Prototype-Informed Neural Network for Gene Expression Estimation from Pathology Images**
+
+- Paper: <https://arxiv.org/abs/2603.18461>
+- Code: <https://github.com/naivete5656/CPNN>
+- Notes (Chinese): [papernotes.org/CVPR2026/computational_biology/cell-type_pr…](https://papernotes.org/CVPR2026/computational_biology/cell-type_prototype-informed_neural_network_for_gene_expression_estimation_from_/)
+- Notes (English): [en.papernotes.org/CVPR2026/computational_biology/cell-type…](https://en.papernotes.org/CVPR2026/computational_biology/cell-type_prototype-informed_neural_network_for_gene_expression_estimation_from_/)
+
+**Hyperbolic Busemann Neural Networks**
+
+- Paper: <https://arxiv.org/abs/2602.18858>
+- Code: <https://github.com/GitZH-Chen/HBNN>
+- Notes (Chinese): [papernotes.org/CVPR2026/computational_biology/hyperbolic_b…](https://papernotes.org/CVPR2026/computational_biology/hyperbolic_busemann_neural_networks/)
+- Notes (English): [en.papernotes.org/CVPR2026/graph_learning/hyperbolic_busem…](https://en.papernotes.org/CVPR2026/graph_learning/hyperbolic_busemann_neural_networks/)
+
+**Sampling-Aware 3D Spatial Analysis in Multiplexed Imaging** · 🛠️ Workshop
+
+- Paper: <https://arxiv.org/abs/2604.07890>
+- Notes (Chinese): [papernotes.org/CVPR2026/computational_biology/sampling-awa…](https://papernotes.org/CVPR2026/computational_biology/sampling-aware_3d_spatial_analysis_in_multiplexed_imaging/)
+- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/sampling-aware_3d_spa…](https://en.papernotes.org/CVPR2026/3d_vision/sampling-aware_3d_spatial_analysis_in_multiplexed_imaging/)
+
+**MUST: Modality-Specific Representation-Aware Transformer for Diffusion-Enhanced Survival Prediction with Missing Modality**
+
+- Paper: <https://arxiv.org/abs/2603.26071>
+- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/must_modality-spec…](https://papernotes.org/CVPR2026/medical_imaging/must_modality-specific_representation-aware_transformer_for_diffusion-enhanced_s/)
+- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/must_modality-s…](https://en.papernotes.org/CVPR2026/medical_imaging/must_modality-specific_representation-aware_transformer_for_diffusion-enhanced_s/)
+
+**Cross-Slice Knowledge Transfer via Masked Multi-Modal Heterogeneous Graph Contrastive Learning for Spatial Gene Expression Inference**
+
+- Paper: <https://arxiv.org/abs/2603.22821>
+- Notes (Chinese): [papernotes.org/CVPR2026/computational_biology/cross-slice_…](https://papernotes.org/CVPR2026/computational_biology/cross-slice_knowledge_transfer_via_masked_multi-modal_heterogeneous_graph_contra/)
+- Notes (English): [en.papernotes.org/CVPR2026/computational_biology/cross-sli…](https://en.papernotes.org/CVPR2026/computational_biology/cross-slice_knowledge_transfer_via_masked_multi-modal_heterogeneous_graph_contra/)
+
+**Adapting a Pre-trained Single-Cell Foundation Model to Spatial Gene Expression Generation from Histology Images**
+
+- Paper: <https://arxiv.org/abs/2603.19766>
+- Notes (Chinese): [papernotes.org/CVPR2026/computational_biology/adapting_a_p…](https://papernotes.org/CVPR2026/computational_biology/adapting_a_pre-trained_single-cell_foundation_model_to_spatial_gene_expression_g/)
+- Notes (English): [en.papernotes.org/CVPR2026/image_generation/adapting_a_pre…](https://en.papernotes.org/CVPR2026/image_generation/adapting_a_pre-trained_single-cell_foundation_model_to_spatial_gene_expression_g/)
+
+**Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos**
+
+- Paper: <https://arxiv.org/abs/2603.13185>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/towards_spatio…](https://papernotes.org/CVPR2026/video_understanding/towards_spatio-temporal_world_scene_graph_generation_from_monocular_videos/)
+- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/towards_spa…](https://en.papernotes.org/CVPR2026/video_understanding/towards_spatio-temporal_world_scene_graph_generation_from_monocular_videos/)
+
+**Multimodal Protein Language Models for Enzyme Kinetic Parameters: From Substrate Recognition to Conformational Adaptation**
+
+- Paper: <https://arxiv.org/abs/2603.12845>
+- Notes (Chinese): [papernotes.org/CVPR2026/computational_biology/multimodal_p…](https://papernotes.org/CVPR2026/computational_biology/multimodal_protein_language_models_for_enzyme_kinetic_parameters_from_substrate_/)
+- Notes (English): [en.papernotes.org/CVPR2026/computational_biology/multimoda…](https://en.papernotes.org/CVPR2026/computational_biology/multimodal_protein_language_models_for_enzyme_kinetic_parameters_from_substrate_/)
+
+**SHREC: A Spectral Embedding-Based Approach for Ab-Initio Reconstruction of Helical Molecules**
+
+- Paper: <https://arxiv.org/abs/2603.12307>
+- Notes (Chinese): [papernotes.org/CVPR2026/computational_biology/shrec_a_spec…](https://papernotes.org/CVPR2026/computational_biology/shrec_a_spectral_embedding-based_approach_for_ab-initio_reconstruction_of_helica/)
+- Notes (English): [en.papernotes.org/CVPR2026/others/shrec_a_spectral_embeddi…](https://en.papernotes.org/CVPR2026/others/shrec_a_spectral_embedding-based_approach_for_ab-initio_reconstruction_of_helica/)
+
+**Automated Detection of Malignant Lesions in the Ovary Using Deep Learning Models and XAI**
+
+- Paper: <https://arxiv.org/abs/2603.11818>
+- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/automated_detectio…](https://papernotes.org/CVPR2026/medical_imaging/automated_detection_of_malignant_lesions_in_the_ov/)
+- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/automated_detec…](https://en.papernotes.org/CVPR2026/medical_imaging/automated_detection_of_malignant_lesions_in_the_ov/)
+
+**CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis**
+
+- Paper: <https://arxiv.org/abs/2602.21637>
+- Notes (Chinese): [papernotes.org/CVPR2026/computational_biology/care_a_molec…](https://papernotes.org/CVPR2026/computational_biology/care_a_molecular-guided_foundation_model_with_adaptive_region_modeling_for_whole/)
+- Notes (English): [en.papernotes.org/CVPR2026/computational_biology/care_a_mo…](https://en.papernotes.org/CVPR2026/computational_biology/care_a_molecular-guided_foundation_model_with_adaptive_region_modeling_for_whole/)
+
+**Stronger Normalization-Free Transformers**
+
+- Paper: <https://arxiv.org/abs/2512.10938>
+- Notes (Chinese): [papernotes.org/CVPR2026/computational_biology/stronger_nor…](https://papernotes.org/CVPR2026/computational_biology/stronger_normalization-free_transformers/)
+- Notes (English): [en.papernotes.org/CVPR2026/others/stronger_normalization-f…](https://en.papernotes.org/CVPR2026/others/stronger_normalization-free_transformers/)
+
+**CryoHype: Reconstructing a thousand cryo-EM structures with transformer-based hypernetworks**
+
+- Paper: <https://arxiv.org/abs/2512.06332>
+- Notes (Chinese): [papernotes.org/CVPR2026/computational_biology/cryohype_rec…](https://papernotes.org/CVPR2026/computational_biology/cryohype_reconstructing_a_thousand_cryo-em_structures_with_transformer-based_hyp/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/cryohype_reconst…](https://en.papernotes.org/CVPR2026/llm_evaluation/cryohype_reconstructing_a_thousand_cryo-em_structures_with_transformer-based_hyp/)
+
+**cryoSENSE: Compressive Sensing Enables High-throughput Microscopy with Sparse and Generative Priors on the Protein Cryo-EM Image Manifold**
+
+- Paper: <https://arxiv.org/abs/2511.12931>
+- Project: <https://cryosense.github.io>
+- Notes (Chinese): [papernotes.org/CVPR2026/computational_biology/cryosense_co…](https://papernotes.org/CVPR2026/computational_biology/cryosense_compressive_sensing_enables_high-throughput_microscopy_with_sparse_and/)
+- Notes (English): [en.papernotes.org/CVPR2026/computational_biology/cryosense…](https://en.papernotes.org/CVPR2026/computational_biology/cryosense_compressive_sensing_enables_high-throughput_microscopy_with_sparse_and/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -9180,7 +9153,7 @@
 
 <a id="remote_sensing"></a>
 
-## 🛰️ Remote Sensing · `remote_sensing` · 13 papers
+## 🛰️ Remote Sensing · `remote_sensing` · 14 papers
 
 **RHO: Robust Holistic OSM-Based Metric Cross-View Geo-Localization**
 
@@ -9202,6 +9175,13 @@
 - Code: <https://github.com/nju-cite/DynaSpec>
 - Notes (Chinese): [papernotes.org/CVPR2026/remote_sensing/exploring_spatiotem…](https://papernotes.org/CVPR2026/remote_sensing/exploring_spatiotemporal_feature_propagation_for_video-level_compressive_spectra/)
 - Notes (English): [en.papernotes.org/CVPR2026/remote_sensing/exploring_spatio…](https://en.papernotes.org/CVPR2026/remote_sensing/exploring_spatiotemporal_feature_propagation_for_video-level_compressive_spectra/)
+
+**Cross-Scale Pansharpening via ScaleFormer and the PanScale Benchmark**
+
+- Paper: <https://arxiv.org/abs/2603.00543>
+- Code: <https://github.com/caoke-963/ScaleFormer>
+- Notes (Chinese): [papernotes.org/CVPR2026/remote_sensing/cross-scale_panshar…](https://papernotes.org/CVPR2026/remote_sensing/cross-scale_pansharpening_via_scaleformer_and_the_panscale_benchmark/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/cross-scale_pans…](https://en.papernotes.org/CVPR2026/llm_evaluation/cross-scale_pansharpening_via_scaleformer_and_the_panscale_benchmark/)
 
 **Are Pretrained Image Matchers Good Enough for SAR-Optical Satellite Registration?**
 
@@ -9267,213 +9247,240 @@
 
 ---
 
-<a id="llm_reasoning"></a>
+<a id="reinforcement_learning"></a>
 
-## 💡 LLM Reasoning · `llm_reasoning` · 12 papers
+## 🎮 Reinforcement Learning · `reinforcement_learning` · 13 papers
 
-**Understanding and Mitigating Hallucinations in Multimodal Chain-of-Thought Models**
+**BRIDGE: Multimodal-to-Text Retrieval via Reinforcement-Learned Query Alignment** · 🛠️ Workshop
 
-- Paper: <https://arxiv.org/abs/2603.27201>
-- Code: <https://github.com/ASGO-MM/MCoT-hallucination>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/understanding_and_mi…](https://papernotes.org/CVPR2026/llm_reasoning/understanding_and_mitigating_hallucinations_in_multimodal_chain-of-thought_model/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/understanding_and…](https://en.papernotes.org/CVPR2026/llm_reasoning/understanding_and_mitigating_hallucinations_in_multimodal_chain-of-thought_model/)
+- Paper: <https://arxiv.org/abs/2604.07201>
+- Code: <https://github.com/mm-bright/multimodal-reasoning-retrieval>
+- Notes (Chinese): [papernotes.org/CVPR2026/information_retrieval/bridge_multi…](https://papernotes.org/CVPR2026/information_retrieval/bridge_multimodal-to-text_retrieval_via_reinforcement-learned_query_alignment/)
+- Notes (English): [en.papernotes.org/CVPR2026/information_retrieval/bridge_mu…](https://en.papernotes.org/CVPR2026/information_retrieval/bridge_multimodal-to-text_retrieval_via_reinforcement-learned_query_alignment/)
 
-**E-comIQ-ZH: A Human-Aligned Dataset and Benchmark for Fine-Grained Evaluation of E-commerce Posters with Chain-of-Thought**
+**MSRL: Scaling Generative Multimodal Reward Modeling via Multi-Stage Reinforcement Learning**
 
-- Paper: <https://arxiv.org/abs/2602.21698>
-- Code: <https://github.com/4mm7/E-comIQ-ZH>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/e-comiq-zh_a_human-a…](https://papernotes.org/CVPR2026/llm_reasoning/e-comiq-zh_a_human-aligned_dataset_and_benchmark_for_fine-grained_evaluation_of_/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/e-comiq-zh_a_huma…](https://en.papernotes.org/CVPR2026/llm_reasoning/e-comiq-zh_a_human-aligned_dataset_and_benchmark_for_fine-grained_evaluation_of_/)
+- Paper: <https://arxiv.org/abs/2603.25108>
+- Code: <https://github.com/wangclnlp/MSRL>
+- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/msrl_scalin…](https://papernotes.org/CVPR2026/reinforcement_learning/msrl_scaling_generative_multimodal_reward_modeling/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/msrl_sca…](https://en.papernotes.org/CVPR2026/reinforcement_learning/msrl_scaling_generative_multimodal_reward_modeling/)
 
-**Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models**
+**Seeing is Improving: Visual Feedback for Iterative Text Layout Refinement**
 
-- Paper: <https://arxiv.org/abs/2604.03179>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/understanding_the_ro…](https://papernotes.org/CVPR2026/llm_reasoning/understanding_the_role_of_hallucination_in_reinforcement_post-training_of_multim/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/understanding_the…](https://en.papernotes.org/CVPR2026/llm_reasoning/understanding_the_role_of_hallucination_in_reinforcement_post-training_of_multim/)
+- Paper: <https://arxiv.org/abs/2603.22187>
+- Code: <https://github.com/FolSpark/VFLM>
+- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/seeing_is_i…](https://papernotes.org/CVPR2026/reinforcement_learning/seeing_is_improving_visual_feedback_for_iterative_text_layout_refinement/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/seeing_i…](https://en.papernotes.org/CVPR2026/reinforcement_learning/seeing_is_improving_visual_feedback_for_iterative_text_layout_refinement/)
 
-**GRAZE: Grounded Refinement and Motion-Aware Zero-Shot Event Localization** · 🛠️ Workshop
+**Specificity-aware reinforcement learning for fine-grained open-world classification**
 
-- Paper: <https://arxiv.org/abs/2604.01383>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/graze_grounded_refin…](https://papernotes.org/CVPR2026/llm_reasoning/graze_grounded_refinement_and_motion-aware_zero-shot_event_localization/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/graze_grounded_re…](https://en.papernotes.org/CVPR2026/llm_reasoning/graze_grounded_refinement_and_motion-aware_zero-shot_event_localization/)
+- Paper: <https://arxiv.org/abs/2603.03197>
+- Code: <https://github.com/s-angheben/SpeciaRL>
+- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/specificity…](https://papernotes.org/CVPR2026/reinforcement_learning/specificity-aware_reinforcement_learning_for_fine-grained_open-world_classificat/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/specific…](https://en.papernotes.org/CVPR2026/reinforcement_learning/specificity-aware_reinforcement_learning_for_fine-grained_open-world_classificat/)
 
-**Reinforcing Structured Chain-of-Thought for Video Understanding**
+**Refining Few-Step Text-to-Multiview Diffusion via Reinforcement Learning**
 
-- Paper: <https://arxiv.org/abs/2603.25942>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/reinforcing_structur…](https://papernotes.org/CVPR2026/llm_reasoning/reinforcing_structured_chain-of-thought_for_video_understanding/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/reinforcing_struc…](https://en.papernotes.org/CVPR2026/llm_reasoning/reinforcing_structured_chain-of-thought_for_video_understanding/)
+- Paper: <https://arxiv.org/abs/2505.20107>
+- Code: <https://github.com/ZiyiZhang27/MVC-ZigAL>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/refining_few-step…](https://papernotes.org/CVPR2026/image_generation/refining_few-step_text-to-multiview_diffusion_via_reinforcement_learning/)
+- Notes (English): [en.papernotes.org/CVPR2026/image_generation/refining_few-s…](https://en.papernotes.org/CVPR2026/image_generation/refining_few-step_text-to-multiview_diffusion_via_reinforcement_learning/)
 
-**Step-CoT: Stepwise Visual Chain-of-Thought for Medical Visual Question Answering**
+**Reinforce to Learn, Elect to Reason: A Dual Paradigm for Video Reasoning**
 
-- Paper: <https://arxiv.org/abs/2603.13878>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/step-cot_stepwise_vi…](https://papernotes.org/CVPR2026/llm_reasoning/step-cot_stepwise_visual_chain-of-thought_for_medical_visual_question_answering/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/step-cot_stepwise…](https://en.papernotes.org/CVPR2026/llm_reasoning/step-cot_stepwise_visual_chain-of-thought_for_medical_visual_question_answering/)
+- Paper: <https://arxiv.org/abs/2604.04379>
+- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/reinforce_t…](https://papernotes.org/CVPR2026/reinforcement_learning/reinforce_to_learn_elect_to_reason_a_dual_paradigm_for_video_reasoning/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/reinforc…](https://en.papernotes.org/CVPR2026/reinforcement_learning/reinforce_to_learn_elect_to_reason_a_dual_paradigm_for_video_reasoning/)
 
-**Beyond Geometry: Artistic Disparity Synthesis for Immersive 2D-to-3D**
+**AnyDoc: Enhancing Document Generation via Large-Scale HTML/CSS Data Synthesis and Height-Aware Reinforcement Optimization**
 
-- Paper: <https://arxiv.org/abs/2603.05906>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/beyond_geometry_arti…](https://papernotes.org/CVPR2026/llm_reasoning/beyond_geometry_artistic_disparity_synthesis_for_immersive_2d-to-3d/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/beyond_geometry_a…](https://en.papernotes.org/CVPR2026/llm_reasoning/beyond_geometry_artistic_disparity_synthesis_for_immersive_2d-to-3d/)
+- Paper: <https://arxiv.org/abs/2603.25118>
+- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/anydoc_enha…](https://papernotes.org/CVPR2026/reinforcement_learning/anydoc_enhancing_document_generation_via_large-scale_htmlcss_data_synthesis_and_/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/anydoc_e…](https://en.papernotes.org/CVPR2026/reinforcement_learning/anydoc_enhancing_document_generation_via_large-scale_htmlcss_data_synthesis_and_/)
 
-**VisRef: Visual Refocusing while Thinking Improves Test-Time Scaling in Multi-Modal Large Reasoning Models**
+**Anticipatory Planning for Multimodal AI Agents** · 📖 Findings
 
-- Paper: <https://arxiv.org/abs/2603.00207>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/visref_visual_refocu…](https://papernotes.org/CVPR2026/llm_reasoning/visref_visual_refocusing_test_time_scaling/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/visref_visual_ref…](https://en.papernotes.org/CVPR2026/llm_reasoning/visref_visual_refocusing_test_time_scaling/)
+- Paper: <https://arxiv.org/abs/2603.16777>
+- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/anticipator…](https://papernotes.org/CVPR2026/reinforcement_learning/anticipatory_planning_for_multimodal_ai_agents/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/anticipa…](https://en.papernotes.org/CVPR2026/reinforcement_learning/anticipatory_planning_for_multimodal_ai_agents/)
 
-**EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence**
+**Cross-modal Identity Mapping: Minimizing Information Loss in Modality Conversion via Reinforcement Learning**
 
-- Paper: <https://arxiv.org/abs/2512.15160>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/eaglevision_a_dual-s…](https://papernotes.org/CVPR2026/llm_reasoning/eaglevision_a_dual-stage_framework_with_bev-grounding-based_chain-of-thought_for/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/eaglevision_a_dua…](https://en.papernotes.org/CVPR2026/llm_reasoning/eaglevision_a_dual-stage_framework_with_bev-grounding-based_chain-of-thought_for/)
+- Paper: <https://arxiv.org/abs/2603.01696>
+- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/cross-modal…](https://papernotes.org/CVPR2026/reinforcement_learning/cross-modal_identity_mapping_minimizing_information_loss_in_modality_conversion_/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/cross-mo…](https://en.papernotes.org/CVPR2026/reinforcement_learning/cross-modal_identity_mapping_minimizing_information_loss_in_modality_conversion_/)
 
-**Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving**
+**GeoWorld: Geometric World Models**
 
-- Paper: <https://arxiv.org/abs/2512.10226>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/latent_chain-of-thou…](https://papernotes.org/CVPR2026/llm_reasoning/latent_chain-of-thought_world_modeling_for_end-to-end_autonomous_driving/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/latent_chain-of-t…](https://en.papernotes.org/CVPR2026/llm_reasoning/latent_chain-of-thought_world_modeling_for_end-to-end_autonomous_driving/)
+- Paper: <https://arxiv.org/abs/2602.23058>
+- Project: <https://steve-zeyu-zhang.github.io/GeoWorld>
+- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/geoworld_ge…](https://papernotes.org/CVPR2026/reinforcement_learning/geoworld_geometric_world_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/geoworld…](https://en.papernotes.org/CVPR2026/reinforcement_learning/geoworld_geometric_world_models/)
 
-**Rationale-Enhanced Decoding for Multi-modal Chain-of-Thought**
+**CCCaption: Dual-Reward Reinforcement Learning for Complete and Correct Image Captioning**
 
-- Paper: <https://arxiv.org/abs/2507.07685>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/rationale-enhanced_d…](https://papernotes.org/CVPR2026/llm_reasoning/rationale-enhanced_decoding_for_multi-modal_chain-of-thought/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/rationale-enhance…](https://en.papernotes.org/CVPR2026/llm_reasoning/rationale-enhanced_decoding_for_multi-modal_chain-of-thought/)
+- Paper: <https://arxiv.org/abs/2602.21655>
+- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/cccaption_d…](https://papernotes.org/CVPR2026/reinforcement_learning/cccaption_dual-reward_reinforcement_learning_for_complete_and_correct_image_capt/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/cccaptio…](https://en.papernotes.org/CVPR2026/reinforcement_learning/cccaption_dual-reward_reinforcement_learning_for_complete_and_correct_image_capt/)
 
-**Harnessing Chain-of-Thought Reasoning in Multimodal Large Language Models for Face Anti-Spoofing**
+**See It, Say It, Sorted: An Iterative Training-Free Framework for Visually-Grounded Multimodal Reasoning in LVLMs**
 
-- Paper: <https://arxiv.org/abs/2506.01783>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/harnessing_chain-of-…](https://papernotes.org/CVPR2026/llm_reasoning/harnessing_chain-of-thought_reasoning_in_multimodal_large_language_models_for_fa/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/harnessing_chain-…](https://en.papernotes.org/CVPR2026/llm_reasoning/harnessing_chain-of-thought_reasoning_in_multimodal_large_language_models_for_fa/)
+- Paper: <https://arxiv.org/abs/2602.21497>
+- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/see_it_say_…](https://papernotes.org/CVPR2026/reinforcement_learning/see_it_say_it_sorted_an_iterative_training-free_framework_for_visually-grounded_/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/see_it_s…](https://en.papernotes.org/CVPR2026/reinforcement_learning/see_it_say_it_sorted_an_iterative_training-free_framework_for_visually-grounded_/)
 
-<p align="right"><a href="#top">⬆ Back to top</a></p>
+**ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering**
 
----
-
-<a id="llm_alignment"></a>
-
-## ⚖️ Alignment / RLHF · `llm_alignment` · 10 papers
-
-**Bias at the End of the Score: Demographic Biases in Reward Models for T2I**
-
-- Paper: <https://arxiv.org/abs/2604.13305>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_alignment/bias_reward_models_t2i](https://papernotes.org/CVPR2026/llm_alignment/bias_reward_models_t2i/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/bias_reward_model…](https://en.papernotes.org/CVPR2026/llm_alignment/bias_reward_models_t2i/)
-
-**Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models**
-
-- Paper: <https://arxiv.org/abs/2603.22094>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_alignment/principled_steering_…](https://papernotes.org/CVPR2026/llm_alignment/principled_steering_via_null-space_projection_for_jailbreak_defense_in_vision-la/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/principled_steeri…](https://en.papernotes.org/CVPR2026/llm_alignment/principled_steering_via_null-space_projection_for_jailbreak_defense_in_vision-la/)
-
-**GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering**
-
-- Paper: <https://arxiv.org/abs/2603.15616>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_alignment/glyphprinter_region-…](https://papernotes.org/CVPR2026/llm_alignment/glyphprinter_region-grouped_direct_preference_optimization_for_glyph-accurate_vi/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/glyphprinter_regi…](https://en.papernotes.org/CVPR2026/llm_alignment/glyphprinter_region-grouped_direct_preference_optimization_for_glyph-accurate_vi/)
-
-**PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization**
-
-- Paper: <https://arxiv.org/abs/2603.13228>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_alignment/physmodpo_physically…](https://papernotes.org/CVPR2026/llm_alignment/physmodpo_physicallyplausible_humanoid_motion_with/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/physmodpo_physica…](https://en.papernotes.org/CVPR2026/llm_alignment/physmodpo_physicallyplausible_humanoid_motion_with/)
-
-**Bases of Steerable Kernels for Equivariant CNNs: From 2D Rotations to the Lorentz Group**
-
-- Paper: <https://arxiv.org/abs/2603.12459>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_alignment/bases_of_steerable_k…](https://papernotes.org/CVPR2026/llm_alignment/bases_of_steerable_kernels_for_equivariant_cnns_from_2d_rotations_to_the_lorentz/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/bases_of_steerabl…](https://en.papernotes.org/CVPR2026/llm_alignment/bases_of_steerable_kernels_for_equivariant_cnns_fr/)
-
-**MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization**
-
-- Paper: <https://arxiv.org/abs/2603.03192>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_alignment/mod-dpo_towards_miti…](https://papernotes.org/CVPR2026/llm_alignment/mod-dpo_towards_mitigating_cross-modal_hallucinations_in_omni_llms_using_modalit/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/mod-dpo_towards_m…](https://en.papernotes.org/CVPR2026/llm_alignment/mod-dpo_towards_mitigating_cross-modal_hallucinations_in_omni_llms_using_modalit/)
-
-**Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation**
-
-- Paper: <https://arxiv.org/abs/2603.00526>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_alignment/mesh-pro_asynchronou…](https://papernotes.org/CVPR2026/llm_alignment/mesh-pro_asynchronous_advantage-guided_ranking_preference_optimization_for_artis/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/mesh-pro_asynchro…](https://en.papernotes.org/CVPR2026/llm_alignment/mesh-pro_asynchronous_advantage-guided_ranking_preference_optimization_for_artis/)
-
-**$φ$-DPO: Fairness Direct Preference Optimization Approach to Continual Learning in Large Multimodal Models**
-
-- Paper: <https://arxiv.org/abs/2602.22601>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_alignment/φ-dpo_fairness_direc…](https://papernotes.org/CVPR2026/llm_alignment/φ-dpo_fairness_direct_preference_optimization_approach_to_continual_learning_in_/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/φ-dpo_fairness_di…](https://en.papernotes.org/CVPR2026/llm_alignment/φ-dpo_fairness_direct_preference_optimization_approach_to_continual_learning_in_/)
-
-**Mind the Generative Details: Direct Localized Detail Preference Optimization for Video Diffusion Models**
-
-- Paper: <https://arxiv.org/abs/2601.04068>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_alignment/mind_the_generative_…](https://papernotes.org/CVPR2026/llm_alignment/mind_the_generative_details_direct_localized_detail_preference_optimization_for_/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/mind_the_generati…](https://en.papernotes.org/CVPR2026/llm_alignment/mind_the_generative_details_direct_localized_detail_preference_optimization_for_/)
-
-**MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models**
-
-- Paper: <https://arxiv.org/abs/2511.20629>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_alignment/mapreduce_lora_advan…](https://papernotes.org/CVPR2026/llm_alignment/mapreduce_lora_advancing_the_pareto_front_in_multi-preference_optimization_for_g/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/mapreduce_lora_ad…](https://en.papernotes.org/CVPR2026/llm_alignment/mapreduce_lora_advancing_the_pareto_front_in_multi-preference_optimization_for_g/)
+- Paper: <https://arxiv.org/abs/2511.22715>
+- Notes (Chinese): [papernotes.org/CVPR2026/reinforcement_learning/reag_reason…](https://papernotes.org/CVPR2026/reinforcement_learning/reag_reasoning-augmented_generation_for_knowledge-based_visual_question_answerin/)
+- Notes (English): [en.papernotes.org/CVPR2026/reinforcement_learning/reag_rea…](https://en.papernotes.org/CVPR2026/reinforcement_learning/reag_reasoning-augmented_generation_for_knowledge-based_visual_question_answerin/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
 ---
 
-<a id="llm_nlp"></a>
+<a id="llm_agent"></a>
 
-## 💬 LLM / NLP · `llm_nlp` · 9 papers
+## 🦾 LLM Agent · `llm_agent` · 11 papers
 
-**Bi-CMPStereo: Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo**
+**SceneAssistant: A Visual Feedback Agent for Open-Vocabulary 3D Scene Generation**
 
-- Paper: <https://arxiv.org/abs/2604.15312>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_nlp/bi_cmpstereo_bidirectional…](https://papernotes.org/CVPR2026/llm_nlp/bi_cmpstereo_bidirectional_cross_modal_prompting_for_event_frame_asymmetric_stereo/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/bi_cmpstereo_bidirectio…](https://en.papernotes.org/CVPR2026/llm_nlp/bi_cmpstereo_bidirectional_cross_modal_prompting_for_event_frame_asymmetric_stereo/)
+- Paper: <https://arxiv.org/abs/2603.12238>
+- Code: <https://github.com/ROUJINN/SceneAssistant>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/sceneassistant_a_visual_…](https://papernotes.org/CVPR2026/llm_agent/sceneassistant_a_visual_feedback_agent_for_openvoc/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/sceneassistant_a_visu…](https://en.papernotes.org/CVPR2026/llm_agent/sceneassistant_a_visual_feedback_agent_for_openvoc/)
 
-**Perception Programs: Unlocking Visual Tool Reasoning in Language Models**
+**ARGOS: Who, Where, and When in Agentic Multi-Camera Person Search**
 
-- Paper: <https://arxiv.org/abs/2604.12896>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_nlp/perception_programs_visual…](https://papernotes.org/CVPR2026/llm_nlp/perception_programs_visual_tool_reasoning/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/perception_programs_vis…](https://en.papernotes.org/CVPR2026/llm_nlp/perception_programs_visual_tool_reasoning/)
+- Paper: <https://arxiv.org/abs/2604.12762>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/argos_agentic_multi_came…](https://papernotes.org/CVPR2026/llm_agent/argos_agentic_multi_camera_person_search/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/argos_agentic_multi_c…](https://en.papernotes.org/CVPR2026/llm_agent/argos_agentic_multi_camera_person_search/)
 
-**Sign Language Recognition in the Age of LLMs**
+**Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding**
 
-- Paper: <https://arxiv.org/abs/2604.11225>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_nlp/sign_language_recognition_…](https://papernotes.org/CVPR2026/llm_nlp/sign_language_recognition_llms/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/sign_language_recogniti…](https://en.papernotes.org/CVPR2026/llm_nlp/sign_language_recognition_llms/)
+- Paper: <https://arxiv.org/abs/2603.26211>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/towards_gui_agents_visio…](https://papernotes.org/CVPR2026/llm_agent/towards_gui_agents_vision-language_diffusion_models_for_gui_grounding/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/towards_gui_agents_vi…](https://en.papernotes.org/CVPR2026/llm_agent/towards_gui_agents_vision-language_diffusion_models_for_gui_grounding/)
 
-**GUIDE: Guided Updates for In-context Decision Evolution in LLM-Driven Spacecraft Operations** · 🛠️ Workshop
+**Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos**
 
-- Paper: <https://arxiv.org/abs/2603.27306>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_nlp/guide_guided_updates_for_i…](https://papernotes.org/CVPR2026/llm_nlp/guide_guided_updates_for_in-context_decision_evolution_in_llm-driven_spacecraft_/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/guide_guided_updates_fo…](https://en.papernotes.org/CVPR2026/llm_nlp/guide_guided_updates_for_in-context_decision_evolution_in_llm-driven_spacecraft_/)
+- Paper: <https://arxiv.org/abs/2603.22529>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/ego2web_a_web_agent_benc…](https://papernotes.org/CVPR2026/llm_agent/ego2web_a_web_agent_benchmark_grounded_in_egocentric_videos/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/ego2web_a_web_agent_b…](https://en.papernotes.org/CVPR2026/llm_agent/ego2web_a_web_agent_benchmark_grounded_in_egocentric_videos/)
 
-**PhysVid: Physics Aware Local Conditioning for Generative Video Models**
+**GUI-CEval: A Hierarchical and Comprehensive Chinese Benchmark for Mobile GUI Agents**
 
-- Paper: <https://arxiv.org/abs/2603.26285>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_nlp/physvid_physics_aware_loca…](https://papernotes.org/CVPR2026/llm_nlp/physvid_physics_aware_local_conditioning_for_generative_video_models/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/physvid_physics_aware_l…](https://en.papernotes.org/CVPR2026/llm_nlp/physvid_physics_aware_local_conditioning_for_generative_video_models/)
+- Paper: <https://arxiv.org/abs/2603.15039>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/gui-ceval_a_hierarchical…](https://papernotes.org/CVPR2026/llm_agent/gui-ceval_a_hierarchical_and_comprehensive_chinese_benchmark_for_mobile_gui_agen/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/gui-ceval_a_hierarchi…](https://en.papernotes.org/CVPR2026/llm_agent/gui-ceval_a_hierarchical_and_comprehensive_chinese_benchmark_for_mobile_gui_agen/)
 
-**Boosting Quantitive and Spatial Awareness for Zero-Shot Object Counting**
+**HATS: Hardness-Aware Trajectory Synthesis for GUI Agents**
 
-- Paper: <https://arxiv.org/abs/2603.16129>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_nlp/boosting_quantitive_and_sp…](https://papernotes.org/CVPR2026/llm_nlp/boosting_quantitive_and_spatial_awareness_for_zero-shot_object_counting/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/boosting_quantitive_and…](https://en.papernotes.org/CVPR2026/llm_nlp/boosting_quantitive_and_spatial_awareness_for_zero-shot_object_counting/)
+- Paper: <https://arxiv.org/abs/2603.12138>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/hats_hardness-aware_traj…](https://papernotes.org/CVPR2026/llm_agent/hats_hardness-aware_trajectory_synthesis_for_gui_agents/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/hats_hardness-aware_t…](https://en.papernotes.org/CVPR2026/llm_agent/hats_hardness-aware_trajectory_synthesis_for_gui_agents/)
 
-**Composing Concepts from Images and Videos via Concept-prompt Binding**
+**Hierarchical Long Video Understanding with Audiovisual Entity Cohesion and Agentic Search**
 
-- Paper: <https://arxiv.org/abs/2512.09824>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_nlp/composing_concepts_from_im…](https://papernotes.org/CVPR2026/llm_nlp/composing_concepts_from_images_and_videos_via_concept-prompt_binding/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/composing_concepts_from…](https://en.papernotes.org/CVPR2026/llm_nlp/composing_concepts_from_images_and_videos_via_concept-prompt_binding/)
+- Paper: <https://arxiv.org/abs/2601.13719>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/haven_hierarchical_long_…](https://papernotes.org/CVPR2026/llm_agent/haven_hierarchical_long_video_understanding_audiovisual_entity/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/haven_hierarchical_lo…](https://en.papernotes.org/CVPR2026/llm_agent/haven_hierarchical_long_video_understanding_audiovisual_entity/)
 
-**CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection**
+**EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration** · 📖 Findings
 
-- Paper: <https://arxiv.org/abs/2508.03447>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_nlp/cops_conditional_prompt_sy…](https://papernotes.org/CVPR2026/llm_nlp/cops_conditional_prompt_synthesis_for_zero-shot_anomaly_detection/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/cops_conditional_prompt…](https://en.papernotes.org/CVPR2026/llm_nlp/cops_conditional_prompt_synthesis_for_zero-shot_anomaly_detection/)
+- Paper: <https://arxiv.org/abs/2512.19396>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/echotrail-gui_building_a…](https://papernotes.org/CVPR2026/llm_agent/echotrail-gui_building_actionable_memory_for_gui_agents_via_critic-guided_self-e/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/echotrail-gui_buildin…](https://en.papernotes.org/CVPR2026/llm_agent/echotrail-gui_building_actionable_memory_for_gui_agents_via_critic-guided_self-e/)
 
-**SketchDeco: Training-Free Latent Composition for Precise Sketch Colourisation**
+**WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning**
 
-- Paper: <https://arxiv.org/abs/2405.18716>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_nlp/sketchdeco_training-free_l…](https://papernotes.org/CVPR2026/llm_nlp/sketchdeco_training-free_latent_composition_for_precise_sketch_colourisation/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/sketchdeco_training-fre…](https://en.papernotes.org/CVPR2026/llm_nlp/sketchdeco_training-free_latent_composition_for_precise_sketch_colourisation/)
+- Paper: <https://arxiv.org/abs/2512.02425>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/worldmm_dynamic_multimod…](https://papernotes.org/CVPR2026/llm_agent/worldmm_dynamic_multimodal_memory_agent_for_long_video_reasoning/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/worldmm_dynamic_multi…](https://en.papernotes.org/CVPR2026/llm_agent/worldmm_dynamic_multimodal_memory_agent_for_long_video_reasoning/)
+
+**REALM: An MLLM-Agent Framework for Open World 3D Reasoning Segmentation and Editing on Gaussian Splatting**
+
+- Paper: <https://arxiv.org/abs/2510.16410>
+- Project: <https://ChangyueShi.github.io/REALM>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/realm_mllm_agent_3d_reas…](https://papernotes.org/CVPR2026/llm_agent/realm_mllm_agent_3d_reasoning_gaussian/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/realm_mllm_agent_3d_r…](https://en.papernotes.org/CVPR2026/llm_agent/realm_mllm_agent_3d_reasoning_gaussian/)
+
+**Gen-n-Val: Agentic Image Data Generation and Validation**
+
+- Paper: <https://arxiv.org/abs/2506.04676>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/gen_n_val_agentic_image_…](https://papernotes.org/CVPR2026/llm_agent/gen_n_val_agentic_image_data_generation_and_validation/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/gen_n_val_agentic_ima…](https://en.papernotes.org/CVPR2026/llm_agent/gen_n_val_agentic_image_data_generation_and_validation/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
+<a id="optimization"></a>
+
+## 📐 Optimization & Theory · `optimization` · 10 papers
+
+**BlazeFL: Fast and Deterministic Federated Learning Simulation**
+
+- Paper: <https://arxiv.org/abs/2604.03606>
+- Code: <https://github.com/kitsuyaazuma/blazefl>
+- Notes (Chinese): [papernotes.org/CVPR2026/optimization/blazefl_fast_and_dete…](https://papernotes.org/CVPR2026/optimization/blazefl_fast_and_deterministic_federated_learning_simulation/)
+- Notes (English): [en.papernotes.org/CVPR2026/optimization/blazefl_fast_and_d…](https://en.papernotes.org/CVPR2026/optimization/blazefl_fast_and_deterministic_federated_learning_simulation/)
+
+**UniFusion: A Unified Image Fusion Framework with Robust Representation and Source-Aware Preservation**
+
+- Paper: <https://arxiv.org/abs/2603.14214>
+- Code: <https://github.com/dusongcheng/UniFusion>
+- Notes (Chinese): [papernotes.org/CVPR2026/optimization/unifusion_a_unified_i…](https://papernotes.org/CVPR2026/optimization/unifusion_a_unified_image_fusion_framework_with_robust_representation_and_source/)
+- Notes (English): [en.papernotes.org/CVPR2026/optimization/unifusion_a_unifie…](https://en.papernotes.org/CVPR2026/optimization/unifusion_a_unified_image_fusion_framework_with_robust_representation_and_source/)
+
+**OTPrune: Distribution-Aligned Visual Token Pruning via Optimal Transport**
+
+- Paper: <https://arxiv.org/abs/2602.20205>
+- Code: <https://github.com/xiwenc1/OTPrune>
+- Notes (Chinese): [papernotes.org/CVPR2026/optimization/otprune_distribution-…](https://papernotes.org/CVPR2026/optimization/otprune_distribution-aligned_visual_token_pruning_via_optimal_transport/)
+- Notes (English): [en.papernotes.org/CVPR2026/optimization/otprune_distributi…](https://en.papernotes.org/CVPR2026/optimization/otprune_distribution-aligned_visual_token_pruning_via_optimal_transport/)
+
+**Conditional Factuality Controlled LLMs with Generalization Certificates via Conformal Sampling**
+
+- Paper: <https://arxiv.org/abs/2603.27403>
+- Notes (Chinese): [papernotes.org/CVPR2026/optimization/conditional_factualit…](https://papernotes.org/CVPR2026/optimization/conditional_factuality_controlled_llms_with_generalization_certificates_via_conf/)
+- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/conditional_fact…](https://en.papernotes.org/CVPR2026/multimodal_vlm/conditional_factuality_controlled_llms_with_generalization_certificates_via_conf/)
+
+**SCOPE: Semantic Coreset with Orthogonal Projection Embeddings for Federated learning**
+
+- Paper: <https://arxiv.org/abs/2603.12976>
+- Notes (Chinese): [papernotes.org/CVPR2026/optimization/scope_semantic_corese…](https://papernotes.org/CVPR2026/optimization/scope_semantic_coreset_with_orthogonal_projection_embeddings_for_federated_learn/)
+- Notes (English): [en.papernotes.org/CVPR2026/optimization/scope_semantic_cor…](https://en.papernotes.org/CVPR2026/optimization/scope_semantic_coreset_with_orthogonal_projection_embeddings_for_federated_learn/)
+
+**Dynamic Momentum Recalibration in Online Gradient Learning**
+
+- Paper: <https://arxiv.org/abs/2603.06120>
+- Notes (Chinese): [papernotes.org/CVPR2026/optimization/dynamic_momentum_reca…](https://papernotes.org/CVPR2026/optimization/dynamic_momentum_recalibration_in_online_gradient_learning/)
+- Notes (English): [en.papernotes.org/CVPR2026/optimization/dynamic_momentum_r…](https://en.papernotes.org/CVPR2026/optimization/dynamic_momentum_recalibration_in_online_gradient_learning/)
+
+**Fed-ADE: Adaptive Learning Rate for Federated Post-adaptation under Distribution Shift**
+
+- Paper: <https://arxiv.org/abs/2603.01040>
+- Notes (Chinese): [papernotes.org/CVPR2026/optimization/fed-ade_adaptive_lear…](https://papernotes.org/CVPR2026/optimization/fed-ade_adaptive_learning_rate_for_federated_post-adaptation_under_distribution_/)
+- Notes (English): [en.papernotes.org/CVPR2026/optimization/fed-ade_adaptive_l…](https://en.papernotes.org/CVPR2026/optimization/fed-ade_adaptive_learning_rate_for_federated_post-adaptation_under_distribution_/)
+
+**The Power of Decaying Steps: Enhancing Attack Stability and Transferability for Sign-based Optimizers**
+
+- Paper: <https://arxiv.org/abs/2602.19096>
+- Notes (Chinese): [papernotes.org/CVPR2026/optimization/the_power_of_decaying…](https://papernotes.org/CVPR2026/optimization/the_power_of_decaying_steps_enhancing_attack_stability_and_transferability_for_s/)
+- Notes (English): [en.papernotes.org/CVPR2026/optimization/the_power_of_decay…](https://en.papernotes.org/CVPR2026/optimization/the_power_of_decaying_steps_enhancing_attack_stability_and_transferability_for_s/)
+
+**Semi-Supervised Conformal Prediction With Unlabeled Nonconformity Score**
+
+- Paper: <https://arxiv.org/abs/2505.21147>
+- Notes (Chinese): [papernotes.org/CVPR2026/optimization/semi-supervised_confo…](https://papernotes.org/CVPR2026/optimization/semi-supervised_conformal_prediction_with_unlabeled_nonconformity_score/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/semi-supervised_…](https://en.papernotes.org/CVPR2026/llm_evaluation/semi-supervised_conformal_prediction_with_unlabeled_nonconformity_score/)
+
+**Enhancing Visual Representation with Textual Semantics: Textual Semantics-Powered Prototypes for Heterogeneous Federated Learning**
+
+- Paper: <https://arxiv.org/abs/2503.13543>
+- Notes (Chinese): [papernotes.org/CVPR2026/optimization/enhancing_visual_repr…](https://papernotes.org/CVPR2026/optimization/enhancing_visual_representation_with_textual_semantics_textual_semantics_powered_p/)
+- Notes (English): [en.papernotes.org/CVPR2026/optimization/enhancing_visual_r…](https://en.papernotes.org/CVPR2026/optimization/enhancing_visual_representation_with_textual_semantics_textual_semantics_powered_p/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -9481,7 +9488,7 @@
 
 <a id="information_retrieval"></a>
 
-## 🔍 Information Retrieval / RAG · `information_retrieval` · 9 papers
+## 🔍 Information Retrieval / RAG · `information_retrieval` · 10 papers
 
 **HIVE: Query, Hypothesize, Verify An LLM Framework for Multimodal Reasoning-Intensive Retrieval** · 🛠️ Workshop
 
@@ -9496,6 +9503,13 @@
 - Code: <https://github.com/oonat/ezpc>
 - Notes (Chinese): [papernotes.org/CVPR2026/information_retrieval/explaining_c…](https://papernotes.org/CVPR2026/information_retrieval/explaining_clip_zero-shot_predictions_through_concepts/)
 - Notes (English): [en.papernotes.org/CVPR2026/information_retrieval/explainin…](https://en.papernotes.org/CVPR2026/information_retrieval/explaining_clip_zero-shot_predictions_through_concepts/)
+
+**RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation**
+
+- Paper: <https://arxiv.org/abs/2603.03617>
+- Code: <https://github.com/IdolLab/RAGTrack>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/ragtrack_langu…](https://papernotes.org/CVPR2026/video_understanding/ragtrack_language-aware_rgbt_tracking_with_retrieval-augmented_generation/)
+- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/ragtrack_la…](https://en.papernotes.org/CVPR2026/video_understanding/ragtrack_language-aware_rgbt_tracking_with_retrieval-augmented_generation/)
 
 **Beyond Global Similarity: Towards Fine-Grained, Multi-Condition Multimodal Retrieval**
 
@@ -9540,124 +9554,8 @@
 **StoryTailor:A Zero-Shot Pipeline for Action-Rich Multi-Subject Visual Narratives**
 
 - Paper: <https://arxiv.org/abs/2602.21273>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_efficiency/storytailora_zero-s…](https://papernotes.org/CVPR2026/llm_efficiency/storytailora_zero-shot_pipeline_for_action-rich_multi-subject_visual_narratives/)
+- Notes (Chinese): [papernotes.org/CVPR2026/video_generation/storytailora_zero…](https://papernotes.org/CVPR2026/video_generation/storytailora_zero-shot_pipeline_for_action-rich_multi-subject_visual_narratives/)
 - Notes (English): [en.papernotes.org/CVPR2026/llm_efficiency/storytailora_zer…](https://en.papernotes.org/CVPR2026/llm_efficiency/storytailora_zero-shot_pipeline_for_action-rich_multi-subject_visual_narratives/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
-<a id="llm_pretraining"></a>
-
-## 📚 LLM Pretraining · `llm_pretraining` · 8 papers
-
-**Linking Modality Isolation in Heterogeneous Collaborative Perception**
-
-- Paper: <https://arxiv.org/abs/2603.00609>
-- Code: <https://github.com/cxliu0314/CodeAlign>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_pretraining/linking_modality_i…](https://papernotes.org/CVPR2026/llm_pretraining/linking_modality_isolation_in_heterogeneous_collaborative_perception/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_pretraining/linking_modalit…](https://en.papernotes.org/CVPR2026/llm_pretraining/linking_modality_isolation_in_heterogeneous_collaborative_perception/)
-
-**LottieGPT: Tokenizing Vector Animation for Autoregressive Generation**
-
-- Paper: <https://arxiv.org/abs/2604.11792>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_pretraining/lottiegpt_vector_a…](https://papernotes.org/CVPR2026/llm_pretraining/lottiegpt_vector_animation_generation/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_pretraining/lottiegpt_vecto…](https://en.papernotes.org/CVPR2026/llm_pretraining/lottiegpt_vector_animation_generation/)
-
-**Evidential Transformation Network: Turning Pretrained Models into Evidential Models for Post-hoc Uncertainty Estimation**
-
-- Paper: <https://arxiv.org/abs/2604.08627>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_pretraining/evidential_transfo…](https://papernotes.org/CVPR2026/llm_pretraining/evidential_transformation_network_post_hoc_uncertainty_estimation/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_pretraining/evidential_tran…](https://en.papernotes.org/CVPR2026/llm_pretraining/evidential_transformation_network_post_hoc_uncertainty_estimation/)
-
-**MXNorm: Reusing MXFP block scales for efficient tensor normalisation**
-
-- Paper: <https://arxiv.org/abs/2603.13180>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_pretraining/mxnorm_reusing_mxf…](https://papernotes.org/CVPR2026/llm_pretraining/mxnorm_reusing_mxfp_block_scales_for_efficient_tensor_normalisation/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_pretraining/mxnorm_reusing_…](https://en.papernotes.org/CVPR2026/llm_pretraining/mxnorm_reusing_mxfp_block_scales_for_efficient_tensor_normalisation/)
-
-**FlowMotion: Training-Free Flow Guidance for Video Motion Transfer**
-
-- Paper: <https://arxiv.org/abs/2603.06289>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_pretraining/flowmotion_trainin…](https://papernotes.org/CVPR2026/llm_pretraining/flowmotion_training-free_flow_guidance_for_video_motion_transfer/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_pretraining/flowmotion_trai…](https://en.papernotes.org/CVPR2026/llm_pretraining/flowmotion_training-free_flow_guidance_for_video_motion_transfer/)
-
-**Model Merging in the Essential Subspace**
-
-- Paper: <https://arxiv.org/abs/2602.20208>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_pretraining/model_merging_in_t…](https://papernotes.org/CVPR2026/llm_pretraining/model_merging_in_the_essential_subspace/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_pretraining/model_merging_i…](https://en.papernotes.org/CVPR2026/llm_pretraining/model_merging_in_the_essential_subspace/)
-
-**Defending Unauthorized Model Merging via Dual-Stage Weight Protection**
-
-- Paper: <https://arxiv.org/abs/2511.11851>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_pretraining/defending_unauthor…](https://papernotes.org/CVPR2026/llm_pretraining/defending_unauthorized_model_merging_via_dual-stage_weight_protection/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_pretraining/defending_unaut…](https://en.papernotes.org/CVPR2026/llm_pretraining/defending_unauthorized_model_merging_via_dual-stage_weight_protection/)
-
-**Watch and Learn: Learning to Use Computers from Online Videos**
-
-- Paper: <https://arxiv.org/abs/2510.04673>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_pretraining/watch_and_learn_le…](https://papernotes.org/CVPR2026/llm_pretraining/watch_and_learn_learning_to_use_computers_from_online_videos/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_pretraining/watch_and_learn…](https://en.papernotes.org/CVPR2026/llm_pretraining/watch_and_learn_learning_to_use_computers_from_online_videos/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
-<a id="optimization"></a>
-
-## 📐 Optimization & Theory · `optimization` · 8 papers
-
-**BlazeFL: Fast and Deterministic Federated Learning Simulation**
-
-- Paper: <https://arxiv.org/abs/2604.03606>
-- Code: <https://github.com/kitsuyaazuma/blazefl>
-- Notes (Chinese): [papernotes.org/CVPR2026/optimization/blazefl_fast_and_dete…](https://papernotes.org/CVPR2026/optimization/blazefl_fast_and_deterministic_federated_learning_simulation/)
-- Notes (English): [en.papernotes.org/CVPR2026/optimization/blazefl_fast_and_d…](https://en.papernotes.org/CVPR2026/optimization/blazefl_fast_and_deterministic_federated_learning_simulation/)
-
-**UniFusion: A Unified Image Fusion Framework with Robust Representation and Source-Aware Preservation**
-
-- Paper: <https://arxiv.org/abs/2603.14214>
-- Code: <https://github.com/dusongcheng/UniFusion>
-- Notes (Chinese): [papernotes.org/CVPR2026/optimization/unifusion_a_unified_i…](https://papernotes.org/CVPR2026/optimization/unifusion_a_unified_image_fusion_framework_with_robust_representation_and_source/)
-- Notes (English): [en.papernotes.org/CVPR2026/optimization/unifusion_a_unifie…](https://en.papernotes.org/CVPR2026/optimization/unifusion_a_unified_image_fusion_framework_with_robust_representation_and_source/)
-
-**OTPrune: Distribution-Aligned Visual Token Pruning via Optimal Transport**
-
-- Paper: <https://arxiv.org/abs/2602.20205>
-- Code: <https://github.com/xiwenc1/OTPrune>
-- Notes (Chinese): [papernotes.org/CVPR2026/optimization/otprune_distribution-…](https://papernotes.org/CVPR2026/optimization/otprune_distribution-aligned_visual_token_pruning_via_optimal_transport/)
-- Notes (English): [en.papernotes.org/CVPR2026/optimization/otprune_distributi…](https://en.papernotes.org/CVPR2026/optimization/otprune_distribution-aligned_visual_token_pruning_via_optimal_transport/)
-
-**SCOPE: Semantic Coreset with Orthogonal Projection Embeddings for Federated learning**
-
-- Paper: <https://arxiv.org/abs/2603.12976>
-- Notes (Chinese): [papernotes.org/CVPR2026/optimization/scope_semantic_corese…](https://papernotes.org/CVPR2026/optimization/scope_semantic_coreset_with_orthogonal_projection_embeddings_for_federated_learn/)
-- Notes (English): [en.papernotes.org/CVPR2026/optimization/scope_semantic_cor…](https://en.papernotes.org/CVPR2026/optimization/scope_semantic_coreset_with_orthogonal_projection_embeddings_for_federated_learn/)
-
-**Dynamic Momentum Recalibration in Online Gradient Learning**
-
-- Paper: <https://arxiv.org/abs/2603.06120>
-- Notes (Chinese): [papernotes.org/CVPR2026/optimization/dynamic_momentum_reca…](https://papernotes.org/CVPR2026/optimization/dynamic_momentum_recalibration_in_online_gradient_learning/)
-- Notes (English): [en.papernotes.org/CVPR2026/optimization/dynamic_momentum_r…](https://en.papernotes.org/CVPR2026/optimization/dynamic_momentum_recalibration_in_online_gradient_learning/)
-
-**Fed-ADE: Adaptive Learning Rate for Federated Post-adaptation under Distribution Shift**
-
-- Paper: <https://arxiv.org/abs/2603.01040>
-- Notes (Chinese): [papernotes.org/CVPR2026/optimization/fed-ade_adaptive_lear…](https://papernotes.org/CVPR2026/optimization/fed-ade_adaptive_learning_rate_for_federated_post-adaptation_under_distribution_/)
-- Notes (English): [en.papernotes.org/CVPR2026/optimization/fed-ade_adaptive_l…](https://en.papernotes.org/CVPR2026/optimization/fed-ade_adaptive_learning_rate_for_federated_post-adaptation_under_distribution_/)
-
-**The Power of Decaying Steps: Enhancing Attack Stability and Transferability for Sign-based Optimizers**
-
-- Paper: <https://arxiv.org/abs/2602.19096>
-- Notes (Chinese): [papernotes.org/CVPR2026/optimization/the_power_of_decaying…](https://papernotes.org/CVPR2026/optimization/the_power_of_decaying_steps_enhancing_attack_stability_and_transferability_for_s/)
-- Notes (English): [en.papernotes.org/CVPR2026/optimization/the_power_of_decay…](https://en.papernotes.org/CVPR2026/optimization/the_power_of_decaying_steps_enhancing_attack_stability_and_transferability_for_s/)
-
-**Enhancing Visual Representation with Textual Semantics: Textual Semantics-Powered Prototypes for Heterogeneous Federated Learning**
-
-- Paper: <https://arxiv.org/abs/2503.13543>
-- Notes (Chinese): [papernotes.org/CVPR2026/optimization/enhancing_visual_repr…](https://papernotes.org/CVPR2026/optimization/enhancing_visual_representation_with_textual_semantics_textual_semantics_powered_p/)
-- Notes (English): [en.papernotes.org/CVPR2026/optimization/enhancing_visual_r…](https://en.papernotes.org/CVPR2026/optimization/enhancing_visual_representation_with_textual_semantics_textual_semantics_powered_p/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -9681,12 +9579,11 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/graph_learning/mario_multimodal_gr…](https://papernotes.org/CVPR2026/graph_learning/mario_multimodal_graph_reasoning_with_large_language_models/)
 - Notes (English): [en.papernotes.org/CVPR2026/graph_learning/mario_multimodal…](https://en.papernotes.org/CVPR2026/graph_learning/mario_multimodal_graph_reasoning_with_large_language_models/)
 
-**Hyperbolic Busemann Neural Networks**
+**R2G: A Multi-View Circuit Graph Benchmark Suite from RTL to GDSII**
 
-- Paper: <https://arxiv.org/abs/2602.18858>
-- Code: <https://github.com/GitZH-Chen/HBNN>
-- Notes (Chinese): [papernotes.org/CVPR2026/graph_learning/hyperbolic_busemann…](https://papernotes.org/CVPR2026/graph_learning/hyperbolic_busemann_neural_networks/)
-- Notes (English): [en.papernotes.org/CVPR2026/graph_learning/hyperbolic_busem…](https://en.papernotes.org/CVPR2026/graph_learning/hyperbolic_busemann_neural_networks/)
+- Paper: <https://arxiv.org/abs/2604.08810>
+- Notes (Chinese): [papernotes.org/CVPR2026/graph_learning/r2g_multi_view_circ…](https://papernotes.org/CVPR2026/graph_learning/r2g_multi_view_circuit_graph_benchmark_suite_from_rtl_to_gdsii/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/r2g_multi_view_c…](https://en.papernotes.org/CVPR2026/llm_evaluation/r2g_multi_view_circuit_graph_benchmark_suite_from_rtl_to_gdsii/)
 
 **Graph-to-Frame RAG: Visual-Space Knowledge Fusion for Training-Free and Auditable Video Reasoning**
 
@@ -9716,9 +9613,54 @@
 
 ---
 
+<a id="llm_pretraining"></a>
+
+## 📚 LLM Pretraining · `llm_pretraining` · 6 papers
+
+**Linking Modality Isolation in Heterogeneous Collaborative Perception**
+
+- Paper: <https://arxiv.org/abs/2603.00609>
+- Code: <https://github.com/cxliu0314/CodeAlign>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_pretraining/linking_modality_i…](https://papernotes.org/CVPR2026/llm_pretraining/linking_modality_isolation_in_heterogeneous_collaborative_perception/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_pretraining/linking_modalit…](https://en.papernotes.org/CVPR2026/llm_pretraining/linking_modality_isolation_in_heterogeneous_collaborative_perception/)
+
+**Evidential Transformation Network: Turning Pretrained Models into Evidential Models for Post-hoc Uncertainty Estimation**
+
+- Paper: <https://arxiv.org/abs/2604.08627>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_pretraining/evidential_transfo…](https://papernotes.org/CVPR2026/llm_pretraining/evidential_transformation_network_post_hoc_uncertainty_estimation/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_pretraining/evidential_tran…](https://en.papernotes.org/CVPR2026/llm_pretraining/evidential_transformation_network_post_hoc_uncertainty_estimation/)
+
+**MaskAdapt: Learning Flexible Motion Adaptation via Mask-Invariant Prior for Physics-Based Characters**
+
+- Paper: <https://arxiv.org/abs/2603.29272>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/maskadapt_lear…](https://papernotes.org/CVPR2026/video_understanding/maskadapt_learning_flexible_motion_adaptation_via_mask-invariant_prior_for_physi/)
+- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/maskadapt_l…](https://en.papernotes.org/CVPR2026/video_understanding/maskadapt_learning_flexible_motion_adaptation_via_mask-invariant_prior_for_physi/)
+
+**Influence Malleability in Linearized Attention: Dual Implications of Non-Convergent NTK Dynamics**
+
+- Paper: <https://arxiv.org/abs/2603.13085>
+- Notes (Chinese): [papernotes.org/CVPR2026/robotics/influence_malleability_in…](https://papernotes.org/CVPR2026/robotics/influence_malleability_in_linearized_attention_dual_implications_of_non-converge/)
+- Notes (English): [en.papernotes.org/CVPR2026/robotics/influence_malleability…](https://en.papernotes.org/CVPR2026/robotics/influence_malleability_in_linearized_attention_dual_implications_of_non-converge/)
+
+**Watch and Learn: Learning to Use Computers from Online Videos**
+
+- Paper: <https://arxiv.org/abs/2510.04673>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_pretraining/watch_and_learn_le…](https://papernotes.org/CVPR2026/llm_pretraining/watch_and_learn_learning_to_use_computers_from_online_videos/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_pretraining/watch_and_learn…](https://en.papernotes.org/CVPR2026/llm_pretraining/watch_and_learn_learning_to_use_computers_from_online_videos/)
+
+**Enhancing accuracy of uncertainty estimation in appearance-based gaze tracking with probabilistic evaluation and calibration**
+
+- Paper: <https://arxiv.org/abs/2501.14894>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/enhancing_accu…](https://papernotes.org/CVPR2026/video_understanding/enhancing_accuracy_of_uncertainty_estimation_in_appearance-based_gaze_tracking_w/)
+- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/enhancing_a…](https://en.papernotes.org/CVPR2026/video_understanding/enhancing_accuracy_of_uncertainty_estimation_in_appearance-based_gaze_tracking_w/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
 <a id="time_series"></a>
 
-## 📈 Time Series · `time_series` · 6 papers
+## 📈 Time Series · `time_series` · 5 papers
 
 **PFGNet: A Fully Convolutional Frequency-Guided Peripheral Gating Network for Efficient Spatiotemporal Predictive Learning**
 
@@ -9726,13 +9668,6 @@
 - Code: <https://github.com/fhjdqaq/PFGNet>
 - Notes (Chinese): [papernotes.org/CVPR2026/time_series/pfgnet_a_fully_convolu…](https://papernotes.org/CVPR2026/time_series/pfgnet_a_fully_convolutional_frequency-guided_peripheral_gating_network_for_effi/)
 - Notes (English): [en.papernotes.org/CVPR2026/time_series/pfgnet_a_fully_conv…](https://en.papernotes.org/CVPR2026/time_series/pfgnet_a_fully_convolutional_frequency-guided_peripheral_gating_network_for_effi/)
-
-**A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens**
-
-- Paper: <https://arxiv.org/abs/2604.04913>
-- Project: <https://deltatok.github.io>
-- Notes (Chinese): [papernotes.org/CVPR2026/time_series/a_frame_is_worth_one_t…](https://papernotes.org/CVPR2026/time_series/a_frame_is_worth_one_token_efficient_generative_world_modeling_with_delta_tokens/)
-- Notes (English): [en.papernotes.org/CVPR2026/time_series/a_frame_is_worth_on…](https://en.papernotes.org/CVPR2026/time_series/a_frame_is_worth_one_token_efficient_generative_world_modeling_with_delta_tokens/)
 
 **L2GTX: From Local to Global Time Series Explanations**
 
@@ -9762,9 +9697,86 @@
 
 ---
 
+<a id="multi_agent"></a>
+
+## 📂 multi_agent · `multi_agent` · 5 papers
+
+**Think, Then Verify: A Hypothesis-Verification Multi-Agent Framework for Long Video Understanding**
+
+- Paper: <https://arxiv.org/abs/2603.04977>
+- Code: <https://github.com/Haorane/VideoHV-Agent>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/think_then_verify_a_hypo…](https://papernotes.org/CVPR2026/llm_agent/think_then_verify_a_hypothesis-verification_multi-agent_framework_for_long_video/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/think_then_verify_a_h…](https://en.papernotes.org/CVPR2026/llm_agent/think_then_verify_a_hypothesis-verification_multi-agent_framework_for_long_video/)
+
+**SVAgent: Storyline-Guided Long Video Understanding via Cross-Modal Multi-Agent Collaboration**
+
+- Paper: <https://arxiv.org/abs/2604.05079>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/svagent_storyl…](https://papernotes.org/CVPR2026/video_understanding/svagent_storyline_guided_long_video_understanding_via_cross_modal_multi_agent_collaboration/)
+- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/svagent_sto…](https://en.papernotes.org/CVPR2026/video_understanding/svagent_storyline_guided_long_video_understanding_via_cross_modal_multi_agent_collaboration/)
+
+**Towards Context-Aware Image Anonymization with Multi-Agent Reasoning** · 🛠️ Workshop
+
+- Paper: <https://arxiv.org/abs/2603.27817>
+- Notes (Chinese): [papernotes.org/CVPR2026/segmentation/towards_context-aware…](https://papernotes.org/CVPR2026/segmentation/towards_context-aware_image_anonymization_with_multi-agent_reasoning/)
+- Notes (English): [en.papernotes.org/CVPR2026/segmentation/towards_context-aw…](https://en.papernotes.org/CVPR2026/segmentation/towards_context-aware_image_anonymization_with_multi-agent_reasoning/)
+
+**CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare** · 📖 Findings
+
+- Paper: <https://arxiv.org/abs/2603.24157>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/carepilot_a_multi-agent_…](https://papernotes.org/CVPR2026/llm_agent/carepilot_a_multi-agent_framework_for_long-horizon_computer_task_automation_in_h/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/carepilot_a_multi-age…](https://en.papernotes.org/CVPR2026/llm_agent/carepilot_a_multi-agent_framework_for_long-horizon_computer_task_automation_in_h/)
+
+**NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code**
+
+- Paper: <https://arxiv.org/abs/2603.00805>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/nerfify_multiagent_nerf_…](https://papernotes.org/CVPR2026/llm_agent/nerfify_multiagent_nerf_paper_to_code/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/nerfify_multiagent_ne…](https://en.papernotes.org/CVPR2026/llm_agent/nerfify_multiagent_nerf_paper_to_code/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
+<a id="social_computing"></a>
+
+## 👥 Social Computing · `social_computing` · 5 papers
+
+**Learning from Synthetic Data via Provenance-Based Input Gradient Guidance**
+
+- Paper: <https://arxiv.org/abs/2604.02946>
+- Notes (Chinese): [papernotes.org/CVPR2026/social_computing/learning_from_syn…](https://papernotes.org/CVPR2026/social_computing/learning_from_synthetic_data_via_provenance-based_input_gradient_guidance/)
+- Notes (English): [en.papernotes.org/CVPR2026/social_computing/learning_from_…](https://en.papernotes.org/CVPR2026/social_computing/learning_from_synthetic_data_via_provenance-based_input_gradient_guidance/)
+
+**Bridging Pixels and Words: Mask-Aware Local Semantic Fusion for Multimodal Media Verification**
+
+- Paper: <https://arxiv.org/abs/2603.26052>
+- Notes (Chinese): [papernotes.org/CVPR2026/social_computing/bridging_pixels_a…](https://papernotes.org/CVPR2026/social_computing/bridging_pixels_and_words_mask-aware_local_semantic_fusion_for_multimodal_media_/)
+- Notes (English): [en.papernotes.org/CVPR2026/social_computing/bridging_pixel…](https://en.papernotes.org/CVPR2026/social_computing/bridging_pixels_and_words_mask-aware_local_semantic_fusion_for_multimodal_media_/)
+
+**Probabilistic Concept Graph Reasoning for Multimodal Misinformation Detection**
+
+- Paper: <https://arxiv.org/abs/2603.25203>
+- Notes (Chinese): [papernotes.org/CVPR2026/social_computing/probabilistic_con…](https://papernotes.org/CVPR2026/social_computing/probabilistic_concept_graph_reasoning_for_multimodal_misinformation_detection/)
+- Notes (English): [en.papernotes.org/CVPR2026/social_computing/probabilistic_…](https://en.papernotes.org/CVPR2026/social_computing/probabilistic_concept_graph_reasoning_for_multimodal_misinformation_detection/)
+
+**As Language Models Scale, Low-order Linear Depth Dynamics Emerge**
+
+- Paper: <https://arxiv.org/abs/2603.12541>
+- Notes (Chinese): [papernotes.org/CVPR2026/social_computing/as_language_model…](https://papernotes.org/CVPR2026/social_computing/as_language_models_scale_low-order_linear_depth_dynamics_emerge/)
+- Notes (English): [en.papernotes.org/CVPR2026/social_computing/as_language_mo…](https://en.papernotes.org/CVPR2026/social_computing/as_language_models_scale_low-order_linear_depth_dynamics_emerge/)
+
+**Revisiting Unknowns: Towards Effective and Efficient Open-Set Active Learning**
+
+- Paper: <https://arxiv.org/abs/2603.07898>
+- Notes (Chinese): [papernotes.org/CVPR2026/social_computing/revisiting_unknow…](https://papernotes.org/CVPR2026/social_computing/revisiting_unknowns_towards_effective_and_efficient_open-set_active_learning/)
+- Notes (English): [en.papernotes.org/CVPR2026/social_computing/revisiting_unk…](https://en.papernotes.org/CVPR2026/social_computing/revisiting_unknowns_towards_effective_and_efficient_open-set_active_learning/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
 <a id="signal_comm"></a>
 
-## 📡 Signal & Communications · `signal_comm` · 6 papers
+## 📡 Signal & Communications · `signal_comm` · 5 papers
 
 **Dual-Imbalance Continual Learning for Real-World Food Recognition**
 
@@ -9779,11 +9791,11 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/signal_comm/clay_conditional_visua…](https://papernotes.org/CVPR2026/signal_comm/clay_conditional_visual_similarity/)
 - Notes (English): [en.papernotes.org/CVPR2026/signal_comm/clay_conditional_vi…](https://en.papernotes.org/CVPR2026/signal_comm/clay_conditional_visual_similarity/)
 
-**ChartNet: A Million-Scale, High-Quality Multimodal Dataset for Robust Chart Understanding**
+**On the Robustness of Diffusion-Based Image Compression to Bit-Flip Errors**
 
-- Paper: <https://arxiv.org/abs/2603.27064>
-- Notes (Chinese): [papernotes.org/CVPR2026/signal_comm/chartnet_a_million-sca…](https://papernotes.org/CVPR2026/signal_comm/chartnet_a_million-scale_high-quality_multimodal_dataset_for_robust_chart_unders/)
-- Notes (English): [en.papernotes.org/CVPR2026/signal_comm/chartnet_a_million-…](https://en.papernotes.org/CVPR2026/signal_comm/chartnet_a_million-scale_high-quality_multimodal_dataset_for_robust_chart_unders/)
+- Paper: <https://arxiv.org/abs/2604.05743>
+- Notes (Chinese): [papernotes.org/CVPR2026/model_compression/on_the_robustnes…](https://papernotes.org/CVPR2026/model_compression/on_the_robustness_of_diffusion-based_image_compression_to_bit-flip_errors/)
+- Notes (English): [en.papernotes.org/CVPR2026/model_compression/on_the_robust…](https://en.papernotes.org/CVPR2026/model_compression/on_the_robustness_of_diffusion-based_image_compression_to_bit-flip_errors/)
 
 **AcTTA: Rethinking Test-Time Adaptation via Dynamic Activation**
 
@@ -9798,43 +9810,70 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/model_compression/frequency_switch…](https://papernotes.org/CVPR2026/model_compression/frequency_switching_mechanism_for_parameter-ecient_multi-task_learning/)
 - Notes (English): [en.papernotes.org/CVPR2026/model_compression/frequency_swi…](https://en.papernotes.org/CVPR2026/model_compression/frequency_switching_mechanism_for_parameter-ecient_multi-task_learning/)
 
-**FAAR: Efficient Frequency-Aware Multi-Task Fine-Tuning via Automatic Rank Selection**
+<p align="right"><a href="#top">⬆ Back to top</a></p>
 
-- Paper: <https://arxiv.org/abs/2603.20403>
-- Notes (Chinese): [papernotes.org/CVPR2026/signal_comm/faar_efficient_frequen…](https://papernotes.org/CVPR2026/signal_comm/faar_efficient_frequency-aware_multi-task_fine-tuning_via_automatic_rank_selecti/)
-- Notes (English): [en.papernotes.org/CVPR2026/signal_comm/faar_efficient_freq…](https://en.papernotes.org/CVPR2026/signal_comm/faar_efficient_frequency-aware_multi-task_fine-tuning_via_automatic_rank_selecti/)
+---
+
+<a id="physics"></a>
+
+## ⚛️ Physics & Scientific Computing · `physics` · 4 papers
+
+**High-Quality and Efficient Turbulence Mitigation with Events**
+
+- Paper: <https://arxiv.org/abs/2603.20708>
+- Code: <https://github.com/Xavier667/EHETM>
+- Notes (Chinese): [papernotes.org/CVPR2026/physics/high-quality_and_efficient…](https://papernotes.org/CVPR2026/physics/high-quality_and_efficient_turbulence_mitigation_with_events/)
+- Notes (English): [en.papernotes.org/CVPR2026/physics/high-quality_and_effici…](https://en.papernotes.org/CVPR2026/physics/high-quality_and_efficient_turbulence_mitigation_with_events/)
+
+**Towards Faithful Multimodal Concept Bottleneck Models**
+
+- Paper: <https://arxiv.org/abs/2603.13163>
+- Notes (Chinese): [papernotes.org/CVPR2026/interpretability/towards_faithful_…](https://papernotes.org/CVPR2026/interpretability/towards_faithful_multimodal_concept_bottleneck_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/interpretability/towards_faithf…](https://en.papernotes.org/CVPR2026/interpretability/towards_faithful_multimodal_concept_bottleneck_models/)
+
+**Continuous Exposure-Time Modeling for Realistic Atmospheric Turbulence Synthesis**
+
+- Paper: <https://arxiv.org/abs/2603.01398>
+- Notes (Chinese): [papernotes.org/CVPR2026/physics/continuous_exposure-time_m…](https://papernotes.org/CVPR2026/physics/continuous_exposure-time_modeling_for_realistic_atmospheric_turbulence_synthesis/)
+- Notes (English): [en.papernotes.org/CVPR2026/physics/continuous_exposure-tim…](https://en.papernotes.org/CVPR2026/physics/continuous_exposure-time_modeling_for_realistic_atmospheric_turbulence_synthesis/)
+
+**NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training**
+
+- Paper: <https://arxiv.org/abs/2602.22059>
+- Notes (Chinese): [papernotes.org/CVPR2026/physics/nestor_a_nested_moe-based_…](https://papernotes.org/CVPR2026/physics/nestor_a_nested_moe-based_neural_operator_for_large-scale_pde_pre-training/)
+- Notes (English): [en.papernotes.org/CVPR2026/physics/nestor_a_nested_moe-bas…](https://en.papernotes.org/CVPR2026/physics/nestor_a_nested_moe-based_neural_operator_for_large-scale_pde_pre-training/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
 ---
 
-<a id="social_computing"></a>
+<a id="llm_nlp"></a>
 
-## 👥 Social Computing · `social_computing` · 4 papers
+## 💬 LLM / NLP · `llm_nlp` · 4 papers
 
-**Learning from Synthetic Data via Provenance-Based Input Gradient Guidance**
+**Perception Programs: Unlocking Visual Tool Reasoning in Language Models**
 
-- Paper: <https://arxiv.org/abs/2604.02946>
-- Notes (Chinese): [papernotes.org/CVPR2026/social_computing/learning_from_syn…](https://papernotes.org/CVPR2026/social_computing/learning_from_synthetic_data_via_provenance-based_input_gradient_guidance/)
-- Notes (English): [en.papernotes.org/CVPR2026/social_computing/learning_from_…](https://en.papernotes.org/CVPR2026/social_computing/learning_from_synthetic_data_via_provenance-based_input_gradient_guidance/)
+- Paper: <https://arxiv.org/abs/2604.12896>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_nlp/perception_programs_visual…](https://papernotes.org/CVPR2026/llm_nlp/perception_programs_visual_tool_reasoning/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/perception_programs_vis…](https://en.papernotes.org/CVPR2026/llm_nlp/perception_programs_visual_tool_reasoning/)
 
-**Bridging Pixels and Words: Mask-Aware Local Semantic Fusion for Multimodal Media Verification**
+**GUIDE: Guided Updates for In-context Decision Evolution in LLM-Driven Spacecraft Operations** · 🛠️ Workshop
 
-- Paper: <https://arxiv.org/abs/2603.26052>
-- Notes (Chinese): [papernotes.org/CVPR2026/social_computing/bridging_pixels_a…](https://papernotes.org/CVPR2026/social_computing/bridging_pixels_and_words_mask-aware_local_semantic_fusion_for_multimodal_media_/)
-- Notes (English): [en.papernotes.org/CVPR2026/social_computing/bridging_pixel…](https://en.papernotes.org/CVPR2026/social_computing/bridging_pixels_and_words_mask-aware_local_semantic_fusion_for_multimodal_media_/)
+- Paper: <https://arxiv.org/abs/2603.27306>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_nlp/guide_guided_updates_for_i…](https://papernotes.org/CVPR2026/llm_nlp/guide_guided_updates_for_in-context_decision_evolution_in_llm-driven_spacecraft_/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/guide_guided_updates_fo…](https://en.papernotes.org/CVPR2026/llm_nlp/guide_guided_updates_for_in-context_decision_evolution_in_llm-driven_spacecraft_/)
 
-**As Language Models Scale, Low-order Linear Depth Dynamics Emerge**
+**PhysVid: Physics Aware Local Conditioning for Generative Video Models**
 
-- Paper: <https://arxiv.org/abs/2603.12541>
-- Notes (Chinese): [papernotes.org/CVPR2026/social_computing/as_language_model…](https://papernotes.org/CVPR2026/social_computing/as_language_models_scale_low-order_linear_depth_dynamics_emerge/)
-- Notes (English): [en.papernotes.org/CVPR2026/social_computing/as_language_mo…](https://en.papernotes.org/CVPR2026/social_computing/as_language_models_scale_low-order_linear_depth_dynamics_emerge/)
+- Paper: <https://arxiv.org/abs/2603.26285>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_generation/physvid_physics_a…](https://papernotes.org/CVPR2026/video_generation/physvid_physics_aware_local_conditioning_for_generative_video_models/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_nlp/physvid_physics_aware_l…](https://en.papernotes.org/CVPR2026/llm_nlp/physvid_physics_aware_local_conditioning_for_generative_video_models/)
 
-**Revisiting Unknowns: Towards Effective and Efficient Open-Set Active Learning**
+**Face Time Traveller : Travel Through Ages Without Losing Identity** · 📖 Findings
 
-- Paper: <https://arxiv.org/abs/2603.07898>
-- Notes (Chinese): [papernotes.org/CVPR2026/social_computing/revisiting_unknow…](https://papernotes.org/CVPR2026/social_computing/revisiting_unknowns_towards_effective_and_efficient_open-set_active_learning/)
-- Notes (English): [en.papernotes.org/CVPR2026/social_computing/revisiting_unk…](https://en.papernotes.org/CVPR2026/social_computing/revisiting_unknowns_towards_effective_and_efficient_open-set_active_learning/)
+- Paper: <https://arxiv.org/abs/2602.22819>
+- Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/face_time_trav…](https://papernotes.org/CVPR2026/human_understanding/face_time_traveller_travel_through_ages_without_losing_identity/)
+- Notes (English): [en.papernotes.org/CVPR2026/human_understanding/face_time_t…](https://en.papernotes.org/CVPR2026/human_understanding/face_time_traveller_travel_through_ages_without_losing_identity/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -9868,60 +9907,6 @@
 
 ---
 
-<a id="scientific_computing"></a>
-
-## 🧮 Scientific Computing · `scientific_computing` · 3 papers
-
-**High-Quality and Efficient Turbulence Mitigation with Events**
-
-- Paper: <https://arxiv.org/abs/2603.20708>
-- Code: <https://github.com/Xavier667/EHETM>
-- Notes (Chinese): [papernotes.org/CVPR2026/scientific_computing/high-quality_…](https://papernotes.org/CVPR2026/scientific_computing/high-quality_and_efficient_turbulence_mitigation_with_events/)
-- Notes (English): [en.papernotes.org/CVPR2026/scientific_computing/high-quali…](https://en.papernotes.org/CVPR2026/scientific_computing/high-quality_and_efficient_turbulence_mitigation_with_events/)
-
-**Continuous Exposure-Time Modeling for Realistic Atmospheric Turbulence Synthesis**
-
-- Paper: <https://arxiv.org/abs/2603.01398>
-- Notes (Chinese): [papernotes.org/CVPR2026/scientific_computing/continuous_ex…](https://papernotes.org/CVPR2026/scientific_computing/continuous_exposure-time_modeling_for_realistic_atmospheric_turbulence_synthesis/)
-- Notes (English): [en.papernotes.org/CVPR2026/scientific_computing/continuous…](https://en.papernotes.org/CVPR2026/scientific_computing/continuous_exposure-time_modeling_for_realistic_atmospheric_turbulence_synthesis/)
-
-**NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training**
-
-- Paper: <https://arxiv.org/abs/2602.22059>
-- Notes (Chinese): [papernotes.org/CVPR2026/scientific_computing/nestor_a_nest…](https://papernotes.org/CVPR2026/scientific_computing/nestor_a_nested_moe-based_neural_operator_for_large-scale_pde_pre-training/)
-- Notes (English): [en.papernotes.org/CVPR2026/scientific_computing/nestor_a_n…](https://en.papernotes.org/CVPR2026/scientific_computing/nestor_a_nested_moe-based_neural_operator_for_large-scale_pde_pre-training/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
-<a id="llm_efficiency"></a>
-
-## ⚡ LLM Efficiency · `llm_efficiency` · 3 papers
-
-**CHEEM: Continual Learning by Reuse, New, Adapt and Skip -- A Hierarchical Exploration-Exploitation Approach**
-
-- Paper: <https://arxiv.org/abs/2303.08250>
-- Code: <https://github.com/savadikarc/cheem>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_efficiency/cheem_continual_lea…](https://papernotes.org/CVPR2026/llm_efficiency/cheem_continual_learning_by_reuse_new_adapt_and_skip_--_a_hierarchical_explorati/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_efficiency/cheem_continual_…](https://en.papernotes.org/CVPR2026/llm_efficiency/cheem_continual_learning_by_reuse_new_adapt_and_skip_--_a_hierarchical_explorati/)
-
-**Benchmarking PhD-Level Coding in 3D Geometric Computer Vision**
-
-- Paper: <https://arxiv.org/abs/2603.30038>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_efficiency/benchmarking_phd-le…](https://papernotes.org/CVPR2026/llm_efficiency/benchmarking_phd-level_coding_in_3d_geometric_computer_vision/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_efficiency/benchmarking_phd…](https://en.papernotes.org/CVPR2026/llm_efficiency/benchmarking_phd-level_coding_in_3d_geometric_computer_vision/)
-
-**SparVAR: Exploring Sparsity in Visual AutoRegressive Modeling for Training-Free Acceleration**
-
-- Paper: <https://arxiv.org/abs/2602.04361>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_efficiency/sparvar_exploring_s…](https://papernotes.org/CVPR2026/llm_efficiency/sparvar_exploring_sparsity_in_visual_autoregressive_modeling_for_training-free_a/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_efficiency/sparvar_explorin…](https://en.papernotes.org/CVPR2026/llm_efficiency/sparvar_exploring_sparsity_in_visual_autoregressive_modeling_for_training-free_a/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
 <a id="knowledge_editing"></a>
 
 ## ✏️ Knowledge Editing · `knowledge_editing` · 2 papers
@@ -9937,6 +9922,26 @@
 - Paper: <https://arxiv.org/abs/2603.12743>
 - Notes (Chinese): [papernotes.org/CVPR2026/knowledge_editing/mokus_leveraging…](https://papernotes.org/CVPR2026/knowledge_editing/mokus_leveraging_crossmodal_knowledge_transfer_for/)
 - Notes (English): [en.papernotes.org/CVPR2026/knowledge_editing/mokus_leverag…](https://en.papernotes.org/CVPR2026/knowledge_editing/mokus_leveraging_crossmodal_knowledge_transfer_for/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
+<a id="llm_alignment"></a>
+
+## ⚖️ Alignment / RLHF · `llm_alignment` · 2 papers
+
+**Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models**
+
+- Paper: <https://arxiv.org/abs/2603.22094>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_alignment/principled_steering_…](https://papernotes.org/CVPR2026/llm_alignment/principled_steering_via_null-space_projection_for_jailbreak_defense_in_vision-la/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/principled_steeri…](https://en.papernotes.org/CVPR2026/llm_alignment/principled_steering_via_null-space_projection_for_jailbreak_defense_in_vision-la/)
+
+**Bases of Steerable Kernels for Equivariant CNNs: From 2D Rotations to the Lorentz Group**
+
+- Paper: <https://arxiv.org/abs/2603.12459>
+- Notes (Chinese): [papernotes.org/CVPR2026/llm_alignment/bases_of_steerable_k…](https://papernotes.org/CVPR2026/llm_alignment/bases_of_steerable_kernels_for_equivariant_cnns_from_2d_rotations_to_the_lorentz/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/bases_of_steerabl…](https://en.papernotes.org/CVPR2026/llm_alignment/bases_of_steerable_kernels_for_equivariant_cnns_fr/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -9958,6 +9963,21 @@
 - Paper: <https://arxiv.org/abs/2604.01600>
 - Notes (Chinese): [papernotes.org/CVPR2026/code_intelligence/mm-recoder_advan…](https://papernotes.org/CVPR2026/code_intelligence/mm-recoder_advancing_chart-to-code_generation_with_reinforcement_learning_and_se/)
 - Notes (English): [en.papernotes.org/CVPR2026/code_intelligence/mm-recoder_ad…](https://en.papernotes.org/CVPR2026/code_intelligence/mm-recoder_advancing_chart-to-code_generation_with_reinforcement_learning_and_se/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
+<a id="medical_nlp"></a>
+
+## 🩺 Medical NLP · `medical_nlp` · 1 papers
+
+**Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data**
+
+- Paper: <https://arxiv.org/abs/2508.01450>
+- Code: <https://github.com/mihara-bot/DIQ>
+- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/towards_efficient_…](https://papernotes.org/CVPR2026/medical_imaging/towards_efficient_medical_reasoning_with_minimal_fine-tuning_data/)
+- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/towards_efficie…](https://en.papernotes.org/CVPR2026/medical_imaging/towards_efficient_medical_reasoning_with_minimal_fine-tuning_data/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -9992,6 +10012,20 @@
 
 ---
 
+<a id="earth_science"></a>
+
+## 🌍 Earth Science · `earth_science` · 1 papers
+
+**GeoChemAD: Benchmarking Unsupervised Geochemical Anomaly Detection for Mineral Exploration**
+
+- Paper: <https://arxiv.org/abs/2603.13068>
+- Notes (Chinese): [papernotes.org/CVPR2026/earth_science/geochemad_benchmarki…](https://papernotes.org/CVPR2026/earth_science/geochemad_benchmarking_unsupervised_geochemical_anomaly_detection_for_mineral_ex/)
+- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/geochemad_bench…](https://en.papernotes.org/CVPR2026/self_supervised/geochemad_benchmarking_unsupervised_geochemical_anomaly_detection_for_mineral_ex/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
 <a id="multilingual_mt"></a>
 
 ## 🌐 Multilingual & MT · `multilingual_mt` · 1 papers
@@ -10006,30 +10040,9 @@
 
 ---
 
-<a id="physics"></a>
-
-## ⚛️ Physics · `physics` · 1 papers
-
-**QKD: Quantum-Gated Task-interaction Knowledge Distillation for Class-Incremental Learning**
-
-- Paper: <https://arxiv.org/abs/2604.11112>
-- Notes (Chinese): [papernotes.org/CVPR2026/physics/qkd_quantum_gated_incremen…](https://papernotes.org/CVPR2026/physics/qkd_quantum_gated_incremental_learning/)
-- Notes (English): [en.papernotes.org/CVPR2026/physics/qkd_quantum_gated_incre…](https://en.papernotes.org/CVPR2026/physics/qkd_quantum_gated_incremental_learning/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
 <a id="others"></a>
 
-## 📂 Others · `others` · 94 papers
-
-**Novel Anomaly Detection Scenarios and Evaluation Metrics to Address the Ambiguity in the Definition of Normal Samples** · 🛠️ Workshop
-
-- Paper: <https://arxiv.org/abs/2604.07097>
-- Code: <https://github.com/ReijiSoftmaxSaito/Scenario>
-- Notes (Chinese): [papernotes.org/CVPR2026/others/novel_anomaly_detection_sce…](https://papernotes.org/CVPR2026/others/novel_anomaly_detection_scenarios_and_evaluation_metrics_to_address_the_ambiguit/)
-- Notes (English): [en.papernotes.org/CVPR2026/others/novel_anomaly_detection_…](https://en.papernotes.org/CVPR2026/others/novel_anomaly_detection_scenarios_and_evaluation_metrics_to_address_the_ambiguit/)
+## 📂 Others · `others` · 92 papers
 
 **AdaSFormer: Adaptive Serialized Transformers for Monocular Semantic Scene Completion from Indoor Environments**
 
@@ -10037,6 +10050,20 @@
 - Code: <https://github.com/alanWXZ/AdaSFormer>
 - Notes (Chinese): [papernotes.org/CVPR2026/others/adasformer_adaptive_seriali…](https://papernotes.org/CVPR2026/others/adasformer_adaptive_serialized_transformers_for_monocular_semantic_scene_complet/)
 - Notes (English): [en.papernotes.org/CVPR2026/others/adasformer_adaptive_seri…](https://en.papernotes.org/CVPR2026/others/adasformer_adaptive_serialized_transformers_for_monocular_semantic_scene_complet/)
+
+**Towards Training-Free Scene Text Editing**
+
+- Paper: <https://arxiv.org/abs/2603.24571>
+- Code: <https://github.com/lyb18758/TextFlow>
+- Notes (Chinese): [papernotes.org/CVPR2026/robotics/towards_training-free_sce…](https://papernotes.org/CVPR2026/robotics/towards_training-free_scene_text_editing/)
+- Notes (English): [en.papernotes.org/CVPR2026/robotics/towards_training-free_…](https://en.papernotes.org/CVPR2026/robotics/towards_training-free_scene_text_editing/)
+
+**RL-ScanIQA: Reinforcement-Learned Scanpaths for Blind 360°Image Quality Assessment**
+
+- Paper: <https://arxiv.org/abs/2603.14297>
+- Code: <https://github.com/wangyuji1/RLScanIQA>
+- Notes (Chinese): [papernotes.org/CVPR2026/model_compression/rl-scaniqa_reinf…](https://papernotes.org/CVPR2026/model_compression/rl-scaniqa_reinforcement-learned_scanpaths_for_blind_360image_quality_assessment/)
+- Notes (English): [en.papernotes.org/CVPR2026/model_compression/rl-scaniqa_re…](https://en.papernotes.org/CVPR2026/model_compression/rl-scaniqa_reinforcement-learned_scanpaths_for_blind_360image_quality_assessment/)
 
 **SDF-Net: Structure-Aware Disentangled Feature Learning for Opticall-SAR Ship Re-identification**
 
@@ -10093,12 +10120,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/marco_semantic_correspon…](https://papernotes.org/CVPR2026/3d_vision/marco_semantic_correspondence/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/marco_semantic_corres…](https://en.papernotes.org/CVPR2026/3d_vision/marco_semantic_correspondence/)
 
-**Depth Adaptive Efficient Visual Autoregressive Modeling**
-
-- Paper: <https://arxiv.org/abs/2604.17286>
-- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/depthvar_depth_ad…](https://papernotes.org/CVPR2026/image_generation/depthvar_depth_adaptive_var/)
-- Notes (English): [en.papernotes.org/CVPR2026/image_generation/depthvar_depth…](https://en.papernotes.org/CVPR2026/image_generation/depthvar_depth_adaptive_var/)
-
 **Understanding and Enforcing Weight Disentanglement in Task Arithmetic**
 
 - Paper: <https://arxiv.org/abs/2604.17078>
@@ -10134,12 +10155,6 @@
 - Paper: <https://arxiv.org/abs/2604.15310>
 - Notes (Chinese): [papernotes.org/CVPR2026/image_generation/tokenlight_precis…](https://papernotes.org/CVPR2026/image_generation/tokenlight_precise_lighting_control_in_images_using_attribute_tokens/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/tokenlight_pre…](https://en.papernotes.org/CVPR2026/image_generation/tokenlight_precise_lighting_control_in_images_using_attribute_tokens/)
-
-**OmniGCD: Abstracting Generalized Category Discovery for Modality Agnosticism**
-
-- Paper: <https://arxiv.org/abs/2604.14762>
-- Notes (Chinese): [papernotes.org/CVPR2026/self_supervised/omnigcd_abstractin…](https://papernotes.org/CVPR2026/self_supervised/omnigcd_abstracting_generalized_category_discovery_for_modality_agnosticism/)
-- Notes (English): [en.papernotes.org/CVPR2026/self_supervised/omnigcd_abstrac…](https://en.papernotes.org/CVPR2026/self_supervised/omnigcd_abstracting_generalized_category_discovery_for_modality_agnosticism/)
 
 **G-MIXER: Geodesic Mixup-based Implicit Semantic Expansion and Explicit Semantic Re-ranking for Zero-Shot Composed Image Retrieval**
 
@@ -10285,6 +10300,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/deepshapematchingkit_acc…](https://papernotes.org/CVPR2026/3d_vision/deepshapematchingkit_accelerated_functional_map_solver/)
 - Notes (English): [en.papernotes.org/CVPR2026/3d_vision/deepshapematchingkit_…](https://en.papernotes.org/CVPR2026/3d_vision/deepshapematchingkit_accelerated_functional_map_solver/)
 
+**VGA-Bench: A Unified Benchmark for Video Aesthetics and Generation Quality Evaluation**
+
+- Paper: <https://arxiv.org/abs/2604.10127>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_generation/vga_bench_unified…](https://papernotes.org/CVPR2026/video_generation/vga_bench_unified_benchmark_for_video_aesthetics_and_generation_quality/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/vga_bench_unifie…](https://en.papernotes.org/CVPR2026/llm_evaluation/vga_bench_unified_benchmark_for_video_aesthetics_and_generation_quality/)
+
 **Intra-finger Variability of Diffusion-based Latent Fingerprint Generation**
 
 - Paper: <https://arxiv.org/abs/2604.10040>
@@ -10344,18 +10365,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/responses_fall_shor…](https://papernotes.org/CVPR2026/multimodal_vlm/responses_fall_short_of_understanding_gap_between_internal_representations_and_responses_in_vdu/)
 - Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/responses_fall_s…](https://en.papernotes.org/CVPR2026/multimodal_vlm/responses_fall_short_of_understanding_gap_between_internal_representations_and_responses_in_vdu/)
 
-**Next-Scale Autoregressive Models for Text-to-Motion Generation**
-
-- Paper: <https://arxiv.org/abs/2604.03799>
-- Notes (Chinese): [papernotes.org/CVPR2026/others/next-scale_autoregressive_m…](https://papernotes.org/CVPR2026/others/next-scale_autoregressive_models_for_text-to-motion_generation/)
-- Notes (English): [en.papernotes.org/CVPR2026/others/next-scale_autoregressiv…](https://en.papernotes.org/CVPR2026/others/next-scale_autoregressive_models_for_text-to-motion_generation/)
-
-**UniSpector: Towards Universal Open-set Defect Recognition via Spectral-Contrastive Visual Prompting**
-
-- Paper: <https://arxiv.org/abs/2604.02905>
-- Notes (Chinese): [papernotes.org/CVPR2026/others/unispector_towards_universa…](https://papernotes.org/CVPR2026/others/unispector_towards_universal_open-set_defect_recognition_via_spectral-contrastiv/)
-- Notes (English): [en.papernotes.org/CVPR2026/others/unispector_towards_unive…](https://en.papernotes.org/CVPR2026/others/unispector_towards_universal_open-set_defect_recognition_via_spectral-contrastiv/)
-
 **GardenDesigner: Encoding Aesthetic Principles into Jiangnan Garden Construction via a Chain of Agents**
 
 - Paper: <https://arxiv.org/abs/2604.01777>
@@ -10405,13 +10414,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/ai_safety/one-to-more_high-fidelit…](https://papernotes.org/CVPR2026/ai_safety/one-to-more_high-fidelity_training-free_anomaly_generation_with_attention_control/)
 - Notes (English): [en.papernotes.org/CVPR2026/ai_safety/one-to-more_high-fide…](https://en.papernotes.org/CVPR2026/ai_safety/one-to-more_high-fidelity_training-free_anomaly_generation_with_attention_control/)
 
-**GazeOnce360: Fisheye-Based 360° Multi-Person Gaze Estimation with Global-Local Feature Fusion**
-
-- Paper: <https://arxiv.org/abs/2603.17161>
-- Project: <https://caizhuojiang.github.io/GazeOnce360/>
-- Notes (Chinese): [papernotes.org/CVPR2026/others/gazeonce360_fisheye-based_3…](https://papernotes.org/CVPR2026/others/gazeonce360_fisheye-based_360_multi-person_gaze_estimation_with_global-local_fea/)
-- Notes (English): [en.papernotes.org/CVPR2026/others/gazeonce360_fisheye-base…](https://en.papernotes.org/CVPR2026/others/gazeonce360_fisheye-based_360_multi-person_gaze_estimation_with_global-local_fea/)
-
 **FlowComposer: Composable Flows for Compositional Zero-Shot Learning**
 
 - Paper: <https://arxiv.org/abs/2603.16641>
@@ -10460,11 +10462,11 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/others/dirpa_addressing_prior_shif…](https://papernotes.org/CVPR2026/others/dirpa_addressing_prior_shift_in_imbalanced_fewshot/)
 - Notes (English): [en.papernotes.org/CVPR2026/others/dirpa_addressing_prior_s…](https://en.papernotes.org/CVPR2026/others/dirpa_addressing_prior_shift_in_imbalanced_fewshot/)
 
-**SHREC: A Spectral Embedding-Based Approach for Ab-Initio Reconstruction of Helical Molecules**
+**Just-in-Time: Training-Free Spatial Acceleration for Diffusion Transformers**
 
-- Paper: <https://arxiv.org/abs/2603.12307>
-- Notes (Chinese): [papernotes.org/CVPR2026/others/shrec_a_spectral_embedding-…](https://papernotes.org/CVPR2026/others/shrec_a_spectral_embedding-based_approach_for_ab-initio_reconstruction_of_helica/)
-- Notes (English): [en.papernotes.org/CVPR2026/others/shrec_a_spectral_embeddi…](https://en.papernotes.org/CVPR2026/others/shrec_a_spectral_embedding-based_approach_for_ab-initio_reconstruction_of_helica/)
+- Paper: <https://arxiv.org/abs/2603.10744>
+- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/just-in-time_trai…](https://papernotes.org/CVPR2026/image_generation/just-in-time_training-free_spatial_acceleration_for_diffusion_transformers/)
+- Notes (English): [en.papernotes.org/CVPR2026/image_generation/just-in-time_t…](https://en.papernotes.org/CVPR2026/image_generation/just-in-time_training-free_spatial_acceleration_for_diffusion_transformers/)
 
 **BiCLIP: Domain Canonicalization via Structured Geometric Transformation**
 
@@ -10477,12 +10479,6 @@
 - Paper: <https://arxiv.org/abs/2603.07988>
 - Notes (Chinese): [papernotes.org/CVPR2026/others/teamhoi_learning_a_unified_…](https://papernotes.org/CVPR2026/others/teamhoi_learning_a_unified_policy_for_cooperative_human-object_interactions_with/)
 - Notes (English): [en.papernotes.org/CVPR2026/others/teamhoi_learning_a_unifi…](https://en.papernotes.org/CVPR2026/others/teamhoi_learning_a_unified_policy_for_cooperative_human-object_interactions_with/)
-
-**Integration of deep generative Anomaly Detection algorithm in high-speed industrial line**
-
-- Paper: <https://arxiv.org/abs/2603.07577>
-- Notes (Chinese): [papernotes.org/CVPR2026/others/integration_of_deep_generat…](https://papernotes.org/CVPR2026/others/integration_of_deep_generative_anomaly_detection_algorithm_in_high-speed_industr/)
-- Notes (English): [en.papernotes.org/CVPR2026/others/integration_of_deep_gene…](https://en.papernotes.org/CVPR2026/others/integration_of_deep_generative_anomaly_detection_algorithm_in_high-speed_industr/)
 
 **NaiLIA: Multimodal Nail Design Retrieval Based on Dense Intent Descriptions and Palette Queries** · 📖 Findings
 
@@ -10526,18 +10522,6 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/human_understanding/vibes_a_conver…](https://papernotes.org/CVPR2026/human_understanding/vibes_a_conversational_agent_with_behaviorally_intelligent_3d_virtual_body/)
 - Notes (English): [en.papernotes.org/CVPR2026/human_understanding/vibes_a_con…](https://en.papernotes.org/CVPR2026/human_understanding/vibes_a_conversational_agent_with_behaviorally_intelligent_3d_virtual_body/)
 
-**CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction**
-
-- Paper: <https://arxiv.org/abs/2512.11988>
-- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/cari4d_category_agnostic…](https://papernotes.org/CVPR2026/3d_vision/cari4d_category_agnostic_4d_reconstruction_of_human_object_interaction/)
-- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/cari4d_category_agnos…](https://en.papernotes.org/CVPR2026/3d_vision/cari4d_category_agnostic_4d_reconstruction_of_human_object_interaction/)
-
-**Stronger Normalization-Free Transformers**
-
-- Paper: <https://arxiv.org/abs/2512.10938>
-- Notes (Chinese): [papernotes.org/CVPR2026/others/stronger_normalization-free…](https://papernotes.org/CVPR2026/others/stronger_normalization-free_transformers/)
-- Notes (English): [en.papernotes.org/CVPR2026/others/stronger_normalization-f…](https://en.papernotes.org/CVPR2026/others/stronger_normalization-free_transformers/)
-
 **Relational Visual Similarity**
 
 - Paper: <https://arxiv.org/abs/2512.07833>
@@ -10557,6 +10541,12 @@
 - Notes (Chinese): [papernotes.org/CVPR2026/others/vit3_unlocking_test_time_tr…](https://papernotes.org/CVPR2026/others/vit3_unlocking_test_time_training_in_vision/)
 - Notes (English): [en.papernotes.org/CVPR2026/others/vit3_unlocking_test_time…](https://en.papernotes.org/CVPR2026/others/vit3_unlocking_test_time_training_in_vision/)
 
+**CycleManip: Enabling Cyclic Task Manipulation via Effective Historical Perception and Understanding**
+
+- Paper: <https://arxiv.org/abs/2512.01022>
+- Notes (Chinese): [papernotes.org/CVPR2026/robotics/cyclemanip_enabling_cycli…](https://papernotes.org/CVPR2026/robotics/cyclemanip_enabling_cyclic_task_manipulation_via_effective_historical_percepti/)
+- Notes (English): [en.papernotes.org/CVPR2026/robotics/cyclemanip_enabling_cy…](https://en.papernotes.org/CVPR2026/robotics/cyclemanip_enabling_cyclic_task_manipulation_via_effective_historical_percepti/)
+
 **SciPostGen: Bridging the Gap between Scientific Papers and Poster Layouts**
 
 - Paper: <https://arxiv.org/abs/2511.22490>
@@ -10568,6 +10558,24 @@
 - Paper: <https://arxiv.org/abs/2511.22039>
 - Notes (Chinese): [papernotes.org/CVPR2026/autonomous_driving/sparseworld_tc_…](https://papernotes.org/CVPR2026/autonomous_driving/sparseworld_tc_trajectory_conditioned_sparse_occupancy_world_model/)
 - Notes (English): [en.papernotes.org/CVPR2026/autonomous_driving/sparseworld_…](https://en.papernotes.org/CVPR2026/autonomous_driving/sparseworld_tc_trajectory_conditioned_sparse_occupancy_world_model/)
+
+**Ninja Codes: Neurally Generated Fiducial Markers for Stealthy 6-DoF Tracking**
+
+- Paper: <https://arxiv.org/abs/2510.18976>
+- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/ninja_codes_ne…](https://papernotes.org/CVPR2026/video_understanding/ninja_codes_neurally_generated_fiducial_markers_for_stealthy_6-dof_tracking/)
+- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/ninja_codes…](https://en.papernotes.org/CVPR2026/video_understanding/ninja_codes_neurally_generated_fiducial_markers_for_stealthy_6-dof_tracking/)
+
+**AdaBet: Gradient-free Layer Selection for Efficient Training of Deep Neural Networks**
+
+- Paper: <https://arxiv.org/abs/2510.03101>
+- Notes (Chinese): [papernotes.org/CVPR2026/model_compression/adabet_gradient-…](https://papernotes.org/CVPR2026/model_compression/adabet_gradient-free_layer_selection_for_efficient_training_of_deep_neural_netwo/)
+- Notes (English): [en.papernotes.org/CVPR2026/llm_evaluation/adabet_gradient-…](https://en.papernotes.org/CVPR2026/llm_evaluation/adabet_gradient-free_layer_selection_for_efficient_training_of_deep_neural_netwo/)
+
+**Dual Band Thermal Videography: Separating Time-Varying Reflection and Emission Near Ambient Conditions**
+
+- Paper: <https://arxiv.org/abs/2509.11334>
+- Notes (Chinese): [papernotes.org/CVPR2026/others/dual_band_thermal_videograp…](https://papernotes.org/CVPR2026/others/dual_band_thermal_videography_separating_time-varying_reflection_and_emission_ne/)
+- Notes (English): [en.papernotes.org/CVPR2026/others/dual_band_thermal_videog…](https://en.papernotes.org/CVPR2026/others/dual_band_thermal_videography_separating_time-varying_reflection_and_emission_ne/)
 
 **HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition**
 

@@ -21,43 +21,43 @@
 
 ## 📑 Topic Index
 
-### Visual Perception · 1169 papers
+### Visual Perception · 1193 papers
 
-[🧊 3D Vision **585**](#3d_vision) · [✂️ Segmentation **188**](#segmentation) · [📹 Video Understanding **130**](#video_understanding) · [🧑 Human Understanding **109**](#human_understanding) · [🖼️ Image Restoration **80**](#image_restoration) · [🎯 Object Detection **56**](#object_detection) · [🛰️ Remote Sensing **21**](#remote_sensing)
+[🧊 3D Vision **588**](#3d_vision) · [✂️ Segmentation **185**](#segmentation) · [🧑 Human Understanding **124**](#human_understanding) · [📹 Video Understanding **113**](#video_understanding) · [🎯 Object Detection **83**](#object_detection) · [🖼️ Image Restoration **78**](#image_restoration) · [🛰️ Remote Sensing **22**](#remote_sensing)
 
-### Generation & Multimodal · 930 papers
+### Generation & Multimodal · 937 papers
 
-[🎨 Image Generation **487**](#image_generation) · [🧩 Multimodal VLM **265**](#multimodal_vlm) · [🎬 Video Generation **138**](#video_generation) · [🎵 Audio & Speech **36**](#audio_speech) · [🔎 AIGC Detection **4**](#aigc_detection)
+[🎨 Image Generation **489**](#image_generation) · [🧩 Multimodal VLM **268**](#multimodal_vlm) · [🎬 Video Generation **141**](#video_generation) · [🎵 Audio & Speech **35**](#audio_speech) · [🔎 AIGC Detection **4**](#aigc_detection)
 
-### Decision & Embodied · 252 papers
+### Science & Cross-Disciplinary · 249 papers
 
-[🚗 Autonomous Driving **185**](#autonomous_driving) · [🤖 Robotics & Embodied AI **51**](#robotics) · [🎮 Reinforcement Learning **14**](#reinforcement_learning) · [🎁 Recommender Systems **2**](#recommender)
+[🏥 Medical Imaging **142**](#medical_imaging) · [🛡️ AI Safety **65**](#ai_safety) · [🧬 Computational Biology **16**](#computational_biology) · [👥 Social Computing **12**](#social_computing) · [⚛️ Physics & Scientific Computing **7**](#physics) · [📡 Signal & Communications **5**](#signal_comm) · [🌍 Earth Science **1**](#earth_science) · [🩺 Medical NLP **1**](#medical_nlp)
 
-### Science & Cross-Disciplinary · 238 papers
+### Decision & Embodied · 236 papers
 
-[🏥 Medical Imaging **162**](#medical_imaging) · [🛡️ AI Safety **52**](#ai_safety) · [👥 Social Computing **12**](#social_computing) · [📡 Signal & Communications **8**](#signal_comm) · [🧮 Scientific Computing **3**](#scientific_computing) · [⚛️ Physics **1**](#physics)
+[🚗 Autonomous Driving **175**](#autonomous_driving) · [🤖 Robotics & Embodied AI **50**](#robotics) · [🎮 Reinforcement Learning **9**](#reinforcement_learning) · [🎁 Recommender Systems **2**](#recommender)
 
-### Foundations & Theory · 217 papers
+### Foundations & Theory · 231 papers
 
-[📦 Model Compression **106**](#model_compression) · [🔄 Self-Supervised Learning **35**](#self_supervised) · [🔬 Interpretability **33**](#interpretability) · [📐 Optimization & Theory **17**](#optimization) · [🕸️ Graph Learning **14**](#graph_learning) · [📈 Time Series **7**](#time_series) · [🔗 Causal Inference **5**](#causal_inference)
+[📦 Model Compression **115**](#model_compression) · [🔄 Self-Supervised Learning **41**](#self_supervised) · [🔬 Interpretability **32**](#interpretability) · [📐 Optimization & Theory **19**](#optimization) · [🕸️ Graph Learning **14**](#graph_learning) · [🔗 Causal Inference **5**](#causal_inference) · [📈 Time Series **5**](#time_series)
 
-### LLM · 167 papers
+### LLM · 106 papers
 
-[📊 LLM Evaluation **57**](#llm_evaluation) · [🔒 LLM Safety **30**](#llm_safety) · [📚 LLM Pretraining **21**](#llm_pretraining) · [⚖️ Alignment / RLHF **20**](#llm_alignment) · [💬 LLM / NLP **16**](#llm_nlp) · [🦾 LLM Agent **9**](#llm_agent) · [💡 LLM Reasoning **8**](#llm_reasoning) · [⚡ LLM Efficiency **5**](#llm_efficiency) · [✏️ Knowledge Editing **1**](#knowledge_editing)
+[🔒 LLM Safety **31**](#llm_safety) · [📚 LLM Pretraining **21**](#llm_pretraining) · [💬 LLM / NLP **19**](#llm_nlp) · [💡 LLM Reasoning **11**](#llm_reasoning) · [🦾 LLM Agent **9**](#llm_agent) · [⚡ LLM Efficiency **6**](#llm_efficiency) · [⚖️ Alignment / RLHF **5**](#llm_alignment) · [📊 LLM Evaluation **3**](#llm_evaluation) · [✏️ Knowledge Editing **1**](#knowledge_editing)
 
-### NLP Applications · 34 papers
+### NLP Applications · 33 papers
 
-[🔍 Information Retrieval / RAG **28**](#information_retrieval) · [🌐 Multilingual & MT **4**](#multilingual_mt) · [✍️ NLP Generation **2**](#nlp_generation)
+[🔍 Information Retrieval / RAG **27**](#information_retrieval) · [✍️ NLP Generation **3**](#nlp_generation) · [🌐 Multilingual & MT **3**](#multilingual_mt)
 
-### Others · 123 papers
+### Others · 145 papers
 
-[📂 Others **123**](#others)
+[📂 Others **142**](#others) · [📂 multi_agent **3**](#multi_agent)
 
 ---
 
 <a id="3d_vision"></a>
 
-## 🧊 3D Vision · `3d_vision` · 585 papers
+## 🧊 3D Vision · `3d_vision` · 588 papers
 
 **SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation**
 
@@ -69,11 +69,6 @@
 
 - Paper: <https://arxiv.org/abs/2408.07967>
 - Code: <https://github.com/InternLandMark/FlashGS>
-
-**Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos**
-
-- Paper: <https://arxiv.org/abs/2603.13185v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/towards_spatio-temporal_…](https://papernotes.org/CVPR2025/3d_vision/towards_spatio-temporal_world_scene_graph_generation_from_monocular_videos/)
 
 **MotionAnymesh: Physics-Grounded Articulation for Simulation-Ready Digital Twins**
 
@@ -183,6 +178,11 @@
 
 - Paper: <https://arxiv.org/abs/2412.10209>
 
+**Dual Exposure Stereo for Extended Dynamic Range 3D Imaging**
+
+- Paper: <https://arxiv.org/abs/2412.02351>
+- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/dual_exposure_stereo_ext…](https://papernotes.org/CVPR2025/3d_vision/dual_exposure_stereo_extended_dr_3d/)
+
 **DepthCues: Evaluating Monocular Depth Perception in Large Vision Models**
 
 - Paper: <https://arxiv.org/abs/2411.17385>
@@ -192,11 +192,6 @@
 
 - Paper: <https://arxiv.org/abs/2411.15205>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/dagsm_disentangled_avata…](https://papernotes.org/CVPR2025/3d_vision/dagsm_disentangled_avatar_generation_with_gs-enhanced_mesh/)
-
-**ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning**
-
-- Paper: <https://arxiv.org/abs/2411.05003>
-- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/recapture_generative_vid…](https://papernotes.org/CVPR2025/3d_vision/recapture_generative_video_camera_controls_for_user-provided_videos_using_masked/)
 
 **Estimating Body and Hand Motion in an Ego-sensed World**
 
@@ -270,11 +265,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xiang_Structured_3D_Latents_for_Scalable_and_Versatile_3D_Generation_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/structured_3d_latents_fo…](https://papernotes.org/CVPR2025/3d_vision/structured_3d_latents_for_scalable_and_versatile_3d_generation/)
-
-**GA3CE: Unconstrained 3D Gaze Estimation with Gaze-Aware 3D Context Encoding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kawana_GA3CE_Unconstrained_3D_Gaze_Estimation_with_Gaze-Aware_3D_Context_Encoding_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/ga3ce_unconstrained_3d_g…](https://papernotes.org/CVPR2025/3d_vision/ga3ce_unconstrained_3d_gaze_estimation_with_gaze-aware_3d_context_encoding/)
 
 **RigGS: Rigging of 3D Gaussians for Modeling Articulated Objects in Videos**
 
@@ -395,6 +385,10 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liang_DIFFER_Disentangling_Identity_Features_via_Semantic_Cues_for_Clothes-Changing_Person_CVPR_2025_paper.html>
 - Code: <https://github.com/xliangp/DIFFER>
 
+**HyperPose: Hypernetwork-Infused Camera Pose Localization and an Extended Cambridge Landmarks Dataset**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ferens_HyperPose_Hypernetwork-Infused_Camera_Pose_Localization_and_an_Extended_Cambridge_Landmarks_CVPR_2025_paper.html>
+
 **Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wei_Mono3DVLT_Monocular-Video-Based_3D_Visual_Language_Tracking_CVPR_2025_paper.html>
@@ -410,6 +404,10 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Glossy_Object_Reconstruction_with_Cost-effective_Polarized_Acquisition_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/glossy_object_reconstruc…](https://papernotes.org/CVPR2025/3d_vision/glossy_object_reconstruction_with_cost-effective_polarized_acquisition/)
+
+**Rectification-specific Supervision and Constrained Estimator for Online Stereo Rectification**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gong_Rectification-specific_Supervision_and_Constrained_Estimator_for_Online_Stereo_Rectification_CVPR_2025_paper.html>
 
 **PartGen: Part-level 3D Generation and Reconstruction with Multi-view Diffusion Models**
 
@@ -448,10 +446,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Identity-preserving_Distillation_Sampling_by_Fixed-Point_Iterator_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/identity-preserving_dist…](https://papernotes.org/CVPR2025/3d_vision/identity-preserving_distillation_sampling_by_fixed-point_iterator/)
-
-**AMR-Transformer: Enabling Efficient Long-range Interaction for Complex Neural Fluid Simulation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xu_AMR-Transformer_Enabling_Efficient_Long-range_Interaction_for_Complex_Neural_Fluid_Simulation_CVPR_2025_paper.html>
 
 **Blurry-Edges: Photon-Limited Depth Estimation from Defocused Boundaries**
 
@@ -577,6 +571,10 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zha_PMA_Towards_Parameter-Efficient_Point_Cloud_Understanding_via_Point_Mamba_Adapter_CVPR_2025_paper.html>
 - Code: <https://github.com/zyh16143998882/PMA>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/pma_towards_parameter-ef…](https://papernotes.org/CVPR2025/3d_vision/pma_towards_parameter-efficient_point_cloud_understanding_via_point_mamba_adapte/)
+
+**All-directional Disparity Estimation for Real-world QPD Images**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yu_All-directional_Disparity_Estimation_for_Real-world_QPD_Images_CVPR_2025_paper.html>
 
 **LC-Mamba: Local and Continuous Mamba with Shifted Windows for Frame Interpolation**
 
@@ -852,11 +850,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Generative_Omnimatte_Learning_to_Decompose_Video_into_Layers_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/generative_omnimatte_lea…](https://papernotes.org/CVPR2025/3d_vision/generative_omnimatte_learning_to_decompose_video_into_layers/)
 
-**Real-IAD D3: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Real-IAD_D3_A_Real-World_2DPseudo-3D3D_Dataset_for_Industrial_Anomaly_Detection_CVPR_2025_paper.html>
-- Project: <https://realiad4ad.github.io/Real-IAD_D3>
-
 **SP3D: Boosting Sparsely-Supervised 3D Object Detection via Accurate Cross-Modal Semantic Prompts**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_SP3D_Boosting_Sparsely-Supervised_3D_Object_Detection_via_Accurate_Cross-Modal_Semantic_CVPR_2025_paper.html>
@@ -881,6 +874,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cao_MVGenMaster_Scaling_Multi-View_Generation_from_Any_Image_via_3D_Priors_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/mvgenmaster_scaling_mult…](https://papernotes.org/CVPR2025/3d_vision/mvgenmaster_scaling_multi-view_generation_from_any_image_via_3d_priors_enhanced_/)
+
+**CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_CADCrafter_Generating_Computer-Aided_Design_Models_from_Unconstrained_Images_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/others/cadcrafter_generating_compu…](https://papernotes.org/CVPR2025/others/cadcrafter_generating_computer-aided_design_models_from_unconstrained_images/)
 
 **Generative Multiview Relighting for 3D Reconstruction under Extreme Illumination Variation**
 
@@ -931,6 +929,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wimbauer_AnyCam_Learning_to_Recover_Camera_Poses_and_Intrinsics_from_Casual_CVPR_2025_paper.html>
 - Project: <https://fwmb.github.io/anycam>
+
+**Pixel-aligned RGB-NIR Stereo Imaging and Dataset for Robot Vision**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Pixel-aligned_RGB-NIR_Stereo_Imaging_and_Dataset_for_Robot_Vision_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/autonomous_driving/pixel-aligned_r…](https://papernotes.org/CVPR2025/autonomous_driving/pixel-aligned_rgb-nir_stereo_imaging_and_dataset_for_robot_vision/)
 
 **PhysGen3D: Crafting a Miniature Interactive World from a Single Image**
 
@@ -1008,6 +1011,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_CraftsMan3D_High-fidelity_Mesh_Generation_with_3D_Native_Diffusion_and_Interactive_CVPR_2025_paper.html>
 
+**HELVIPAD: A Real-World Dataset for Omnidirectional Stereo Depth Estimation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zayene_HELVIPAD_A_Real-World_Dataset_for_Omnidirectional_Stereo_Depth_Estimation_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/autonomous_driving/helvipad_a_real…](https://papernotes.org/CVPR2025/autonomous_driving/helvipad_a_real-world_dataset_for_omnidirectional_stereo_depth_estimation/)
+
 **GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gao_GENMANIP_LLM-driven_Simulation_for_Generalizable_Instruction-Following_Manipulation_CVPR_2025_paper.html>
@@ -1020,6 +1028,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sinitsyn_PRaDA_Projective_Radial_Distortion_Averaging_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/prada_projective_radial_…](https://papernotes.org/CVPR2025/3d_vision/prada_projective_radial_distortion_averaging/)
+
+**ESCAPE: Equivariant Shape Completion via Anchor Point Encoding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bekci_ESCAPE_Equivariant_Shape_Completion_via_Anchor_Point_Encoding_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/human_understanding/escape_equivar…](https://papernotes.org/CVPR2025/human_understanding/escape_equivariant_shape_completion_via_anchor_point_encoding/)
 
 **SPC-GS: Gaussian Splatting with Semantic-Prompt Consistency for Indoor Open-World Free-view Synthesis from Sparse Inputs**
 
@@ -1063,11 +1076,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Coherent_3D_Portrait_Video_Reconstruction_via_Triplane_Fusion_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/coherent_3d_portrait_vid…](https://papernotes.org/CVPR2025/3d_vision/coherent_3d_portrait_video_reconstruction_via_triplane_fusion/)
-
-**ManiVideo: Generating Hand-Object Manipulation Video with Dexterous and Generalizable Grasping**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pang_ManiVideo_Generating_Hand-Object_Manipulation_Video_with_Dexterous_and_Generalizable_Grasping_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/manivideo_generating_han…](https://papernotes.org/CVPR2025/3d_vision/manivideo_generating_hand-object_manipulation_video_with_dexterous_and_generaliz/)
 
 **DOF-GS: Adjustable Depth-of-Field 3D Gaussian Splatting for Post-Capture Refocusing, Defocus Rendering and Blur Removal**
 
@@ -1283,11 +1291,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dal_Cin_AnyMap_Learning_a_General_Camera_Model_for_Structure-from-Motion_with_Unknown_CVPR_2025_paper.html>
 
-**Odd-One-Out: Anomaly Detection by Comparing with Neighbors**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bhunia_Odd-One-Out_Anomaly_Detection_by_Comparing_with_Neighbors_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/odd-one-out_anomaly_dete…](https://papernotes.org/CVPR2025/3d_vision/odd-one-out_anomaly_detection_by_comparing_with_neighbors/)
-
 **SCFlow2: Plug-and-Play Object Pose Refiner with Shape-Constraint Scene Flow**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_SCFlow2_Plug-and-Play_Object_Pose_Refiner_with_Shape-Constraint_Scene_Flow_CVPR_2025_paper.html>
@@ -1331,17 +1334,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Fast3R_Towards_3D_Reconstruction_of_1000_Images_in_One_Forward_CVPR_2025_paper.html>
 - Project: <https://fast3r-3d.github.io>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/fast3r_towards_3d_recons…](https://papernotes.org/CVPR2025/3d_vision/fast3r_towards_3d_reconstruction_of_1000_images_in_one_forward_pass/)
-
-**PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ye_PO3AD_Predicting_Point_Offsets_toward_Better_3D_Point_Cloud_Anomaly_CVPR_2025_paper.html>
-- Code: <https://github.com/yjnanan/PO3AD>
-- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/po3ad_predicting_point_o…](https://papernotes.org/CVPR2025/3d_vision/po3ad_predicting_point_offsets_toward_better_3d_point_cloud_anomaly_detection/)
-
-**PreciseCam: Precise Camera Control for Text-to-Image Generation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bernal-Berdun_PreciseCam_Precise_Camera_Control_for_Text-to-Image_Generation_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/precisecam_precise_camer…](https://papernotes.org/CVPR2025/3d_vision/precisecam_precise_camera_control_for_text-to-image_generation/)
 
 **Geometry in Style: 3D Stylization via Surface Normal Deformation**
 
@@ -1470,6 +1462,10 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hanson_Speedy-Splat_Fast_3D_Gaussian_Splatting_with_Sparse_Pixels_and_Sparse_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/speedy-splat_fast_3d_gau…](https://papernotes.org/CVPR2025/3d_vision/speedy-splat_fast_3d_gaussian_splatting_with_sparse_pixels_and_sparse_primitives/)
 
+**Robust-MVTON: Learning Cross-Pose Feature Alignment and Fusion for Robust Multi-View Virtual Try-On**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Robust-MVTON_Learning_Cross-Pose_Feature_Alignment_and_Fusion_for_Robust_Multi-View_CVPR_2025_paper.html>
+
 **ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_ODHSR_Online_Dense_3D_Reconstruction_of_Humans_and_Scenes_from_CVPR_2025_paper.html>
@@ -1582,10 +1578,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Le_One_Diffusion_to_Generate_Them_All_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/one_diffusion_to_generat…](https://papernotes.org/CVPR2025/3d_vision/one_diffusion_to_generate_them_all/)
-
-**CoSER: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_CoSER_Towards_Consistent_Dense_Multiview_Text-to-Image_Generator_for_3D_Creation_CVPR_2025_paper.html>
 
 **HybridMQA: Exploring Geometry-Texture Interactions for Colored Mesh Quality Assessment**
 
@@ -1785,11 +1777,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lin_AutoURDF_Unsupervised_Robot_Modeling_from_Point_Cloud_Frames_Using_Cluster_CVPR_2025_paper.html>
 
-**ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Iwase_ZeroGrasp_Zero-Shot_Shape_Reconstruction_Enabled_Robotic_Grasping_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/zerograsp_zero-shot_shap…](https://papernotes.org/CVPR2025/3d_vision/zerograsp_zero-shot_shape_reconstruction_enabled_robotic_grasping/)
-
 **PDFactor: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tian_PDFactor_Learning_Tri-Perspective_View_Policy_Diffusion_Field_for_Multi-Task_Robotic_CVPR_2025_paper.html>
@@ -1852,6 +1839,10 @@
 **CamPoint: Boosting Point Cloud Segmentation with Virtual Camera**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_CamPoint_Boosting_Point_Cloud_Segmentation_with_Virtual_Camera_CVPR_2025_paper.html>
+
+**STEREO: A Two-Stage Framework for Adversarially Robust Concept Erasing from Text-to-Image Diffusion Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Srivatsan_STEREO_A_Two-Stage_Framework_for_Adversarially_Robust_Concept_Erasing_from_CVPR_2025_paper.html>
 
 **Scene Map-based Prompt Tuning for Navigation Instruction Generation**
 
@@ -1954,6 +1945,10 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zielonka_Gaussian_Eigen_Models_for_Human_Heads_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/gaussian_eigen_models_fo…](https://papernotes.org/CVPR2025/3d_vision/gaussian_eigen_models_for_human_heads/)
 
+**4D-Fly: Fast 4D Reconstruction from a Single Monocular Video**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_4D-Fly_Fast_4D_Reconstruction_from_a_Single_Monocular_Video_CVPR_2025_paper.html>
+
 **STAR-Edge: Structure-aware Local Spherical Curve Representation for Thin-walled Edge Extraction from Unstructured Point Clouds**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_STAR-Edge_Structure-aware_Local_Spherical_Curve_Representation_for_Thin-walled_Edge_Extraction_CVPR_2025_paper.html>
@@ -2014,11 +2009,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Implicit_Correspondence_Learning_for_Image-to-Point_Cloud_Registration_CVPR_2025_paper.html>
 
-**Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Thakral_Fine-Grained_Erasure_in_Text-to-Image_Diffusion-based_Foundation_Models_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/fine-grained_erasure_in_…](https://papernotes.org/CVPR2025/3d_vision/fine-grained_erasure_in_text-to-image_diffusion-based_foundation_models/)
-
 **GeoDepth: From Point-to-Depth to Plane-to-Depth Modeling for Self-Supervised Monocular Depth Estimation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_GeoDepth_From_Point-to-Depth_to_Plane-to-Depth_Modeling_for_Self-Supervised_Monocular_Depth_CVPR_2025_paper.html>
@@ -2037,12 +2027,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_USP-Gaussian_Unifying_Spike-based_Image_Reconstruction_Pose_Correction_and_Gaussian_Splatting_CVPR_2025_paper.html>
 - Code: <https://github.com/chenkang455/USP-Gaussian>
-
-**QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Shen_QuartDepth_Post-Training_Quantization_for_Real-Time_Depth_Estimation_on_the_Edge_CVPR_2025_paper.html>
-- Code: <https://github.com/shawnricecake/quart-depth>
-- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/quartdepth_post-training…](https://papernotes.org/CVPR2025/3d_vision/quartdepth_post-training_quantization_for_real-time_depth_estimation_on_the_edge/)
 
 **DirectTriGS: Triplane-based Gaussian Splatting Field Representation for 3D Generation**
 
@@ -2117,15 +2101,15 @@
 - Project: <https://stereo4d.github.io>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/stereo4d_learning_how_th…](https://papernotes.org/CVPR2025/3d_vision/stereo4d_learning_how_things_move_in_3d_from_internet_stereo_videos/)
 
+**PS-EIP: Robust Photometric Stereo Based on Event Interval Profile**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kitazawa_PS-EIP_Robust_Photometric_Stereo_Based_on_Event_Interval_Profile_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/time_series/ps-eip_robust_photomet…](https://papernotes.org/CVPR2025/time_series/ps-eip_robust_photometric_stereo_based_on_event_interval_profile/)
+
 **GenPC: Zero-shot Point Cloud Completion via 3D Generative Priors**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_GenPC_Zero-shot_Point_Cloud_Completion_via_3D_Generative_Priors_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/genpc_zero-shot_point_cl…](https://papernotes.org/CVPR2025/3d_vision/genpc_zero-shot_point_cloud_completion_via_3d_generative_priors/)
-
-**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_FoundHand_Large-Scale_Domain-Specific_Learning_for_Controllable_Hand_Image_Generation_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/foundhand_large-scale_do…](https://papernotes.org/CVPR2025/3d_vision/foundhand_large-scale_domain-specific_learning_for_controllable_hand_image_gener/)
 
 **HRAvatar: High-Quality and Relightable Gaussian Head Avatar**
 
@@ -2208,11 +2192,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Zero-shot_3D_Question_Answering_via_Voxel-based_Dynamic_Token_Compression_CVPR_2025_paper.html>
 
-**Compass Control: Multi Object Orientation Control for Text-to-Image Generation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Parihar_Compass_Control_Multi_Object_Orientation_Control_for_Text-to-Image_Generation_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/compass_control_multi_ob…](https://papernotes.org/CVPR2025/3d_vision/compass_control_multi_object_orientation_control_for_text-to-image_generation/)
-
 **Continuous 3D Perception Model with Persistent State**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Continuous_3D_Perception_Model_with_Persistent_State_CVPR_2025_paper.html>
@@ -2267,6 +2246,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zheng_GroomLight_Hybrid_Inverse_Rendering_for_Relightable_Human_Hair_Appearance_Modeling_CVPR_2025_paper.html>
 - Project: <https://syntec-research.github.io/GroomLight>
+
+**SpatialDreamer: Self-supervised Stereo Video Synthesis from Monocular Input**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lv_SpatialDreamer_Self-supervised_Stereo_Video_Synthesis_from_Monocular_Input_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_generation/spatialdreamer_se…](https://papernotes.org/CVPR2025/video_generation/spatialdreamer_self-supervised_stereo_video_synthesis_from_monocular_input/)
 
 **LOD-GS: Achieving Levels of Detail using Scalable Gaussian Soup**
 
@@ -2404,6 +2388,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_EdgeMovingNet_Edge-preserving_Point_Cloud_Reconstruction_via_Joint_Geometry_Features_CVPR_2025_paper.html>
 
+**Targeted Forgetting of Image Subgroups in CLIP Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Targeted_Forgetting_of_Image_Subgroups_in_CLIP_Models_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/model_compression/targeted_forgett…](https://papernotes.org/CVPR2025/model_compression/targeted_forgetting_of_image_subgroups_in_clip_models/)
+
 **SemAlign3D: Semantic Correspondence between RGB-Images through Aligning 3D Object-Class Representations**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wandel_SemAlign3D_Semantic_Correspondence_between_RGB-Images_through_Aligning_3D_Object-Class_Representations_CVPR_2025_paper.html>
@@ -2431,6 +2420,10 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cha_PERSE_Personalized_3D_Generative_Avatars_from_A_Single_Portrait_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/perse_personalized_3d_ge…](https://papernotes.org/CVPR2025/3d_vision/perse_personalized_3d_generative_avatars_from_a_single_portrait/)
+
+**Dynamic Stereotype Theory Induced Micro-expression Recognition with Oriented Deformation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Dynamic_Stereotype_Theory_Induced_Micro-expression_Recognition_with_Oriented_Deformation_CVPR_2025_paper.html>
 
 **EventFly: Event Camera Perception from Ground to the Sky**
 
@@ -2567,6 +2560,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Guo_ArticulatedGS_Self-supervised_Digital_Twin_Modeling_of_Articulated_Objects_using_3D_CVPR_2025_paper.html>
 
+**Leveraging 3D Geometric Priors in 2D Rotation Symmetry Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Seo_Leveraging_3D_Geometric_Priors_in_2D_Rotation_Symmetry_Detection_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/segmentation/leveraging_3d_geometr…](https://papernotes.org/CVPR2025/segmentation/leveraging_3d_geometric_priors_in_2d_rotation_symmetry_detection/)
+
 **Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xie_Vid2Sim_Realistic_and_Interactive_Simulation_from_Video_for_Urban_Navigation_CVPR_2025_paper.html>
@@ -2660,6 +2658,11 @@
 **SpatialCLIP: Learning 3D-aware Image Representations from Spatially Discriminative Language**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_SpatialCLIP_Learning_3D-aware_Image_Representations_from_Spatially_Discriminative_Language_CVPR_2025_paper.html>
+
+**Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yu_Mono2Stereo_A_Benchmark_and_Empirical_Study_for_Stereo_Conversion_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/mono2stereo_a_ben…](https://papernotes.org/CVPR2025/image_generation/mono2stereo_a_benchmark_and_empirical_study_for_stereo_conversion/)
 
 **One-shot 3D Object Canonicalization based on Geometric and Semantic Consistency**
 
@@ -2826,6 +2829,10 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hu_DepthCrafter_Generating_Consistent_Long_Depth_Sequences_for_Open-world_Videos_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/depthcrafter_generating_…](https://papernotes.org/CVPR2025/3d_vision/depthcrafter_generating_consistent_long_depth_sequences_for_open-world_videos/)
 
+**Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_Semi-Supervised_State-Space_Model_with_Dynamic_Stacking_Filter_for_Real-World_Video_CVPR_2025_paper.html>
+
 **SAMBLE: Shape-Specific Point Cloud Sampling for an Optimal Trade-Off Between Local Detail and Global Uniformity**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_SAMBLE_Shape-Specific_Point_Cloud_Sampling_for_an_Optimal_Trade-Off_Between_CVPR_2025_paper.html>
@@ -2908,7 +2915,7 @@
 
 <a id="image_generation"></a>
 
-## 🎨 Image Generation · `image_generation` · 487 papers
+## 🎨 Image Generation · `image_generation` · 489 papers
 
 **InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing**
 
@@ -2945,6 +2952,11 @@
 
 - Paper: <https://arxiv.org/abs/2603.13089v1>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/v-bridge_bridging…](https://papernotes.org/CVPR2025/image_generation/v-bridge_bridging_video_generative_priors_to_versatile_few-shot_image_restoratio/)
+
+**Mitigating Memorization in Text-to-Image Diffusion via Region-Aware Prompt Augmentation and Multimodal Copy Detection**
+
+- Paper: <https://arxiv.org/abs/2603.13070v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/mitigating_memori…](https://papernotes.org/CVPR2025/object_detection/mitigating_memorization_in_text-to-image_diffusion_via_region-aware_prompt_augme/)
 
 **Fractals made Practical: Denoising Diffusion as Partitioned Iterated Function Systems**
 
@@ -3028,11 +3040,6 @@
 - Paper: <https://arxiv.org/abs/2603.10702v1>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/unicom_unified_mu…](https://papernotes.org/CVPR2025/image_generation/unicom_unified_multimodal_modeling_via_compressed_continuous_semantic_representa/)
 
-**Overcoming Visual Clutter in Vision Language Action Models via Concept-Gated Visual Distillation**
-
-- Paper: <https://arxiv.org/abs/2603.10340v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/overcoming_visual…](https://papernotes.org/CVPR2025/image_generation/overcoming_visual_clutter_in_vision_language_action_models_via_concept-gated_vis/)
-
 **Taming Score-Based Denoisers in ADMM: A Convergent Plug-and-Play Framework**
 
 - Paper: <https://arxiv.org/abs/2603.10281v1>
@@ -3067,6 +3074,11 @@
 
 - Paper: <https://arxiv.org/abs/2503.19340>
 
+**InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment**
+
+- Paper: <https://arxiv.org/abs/2503.18454>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/inpo_inversion_prefe…](https://papernotes.org/CVPR2025/llm_alignment/inpo_inversion_preference_optimization_diffusion_alignment/)
+
 **Generative Modeling of Class Probability for Multi-Modal Representation Learning**
 
 - Paper: <https://arxiv.org/abs/2503.17417>
@@ -3084,6 +3096,11 @@
 
 - Paper: <https://arxiv.org/abs/2503.04824>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/proreflow_progres…](https://papernotes.org/CVPR2025/image_generation/proreflow_progressive_reflow_with_decomposed_velocity/)
+
+**Calibrated Multi-Preference Optimization for Aligning Diffusion Models**
+
+- Paper: <https://arxiv.org/abs/2502.02588>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/calibrated_multi-pre…](https://papernotes.org/CVPR2025/llm_alignment/calibrated_multi-preference_optimization_for_aligning_diffusion_models/)
 
 **Dual Diffusion for Unified Image Generation and Understanding**
 
@@ -3131,6 +3148,11 @@
 - Paper: <https://arxiv.org/abs/2408.13509>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/dualanodiff_few_s…](https://papernotes.org/CVPR2025/image_generation/dualanodiff_few_shot_anomaly_image_generation/)
 
+**Aesthetic Post-Training Diffusion Models from Generic Preferences with Step-by-step Preference Optimization**
+
+- Paper: <https://arxiv.org/abs/2406.04314>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/aesthetic_post-train…](https://papernotes.org/CVPR2025/llm_alignment/aesthetic_post-training_diffusion_models_from_generic_preferences_with_step-by-s/)
+
 **PhD: A ChatGPT-Prompted Visual Hallucination Evaluation Dataset**
 
 - Paper: <https://arxiv.org/abs/2403.11116>
@@ -3146,11 +3168,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Nested_Diffusion_Models_Using_Hierarchical_Latent_Priors_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/nested_diffusion_…](https://papernotes.org/CVPR2025/image_generation/nested_diffusion_models_using_hierarchical_latent_priors/)
-
-**DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xiang_DKDM_Data-Free_Knowledge_Distillation_for_Diffusion_Models_with_Any_Architecture_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/dkdm_data-free_kn…](https://papernotes.org/CVPR2025/image_generation/dkdm_data-free_knowledge_distillation_for_diffusion_models_with_any_architecture/)
 
 **Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing**
 
@@ -3175,11 +3192,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_DoraCycle_Domain-Oriented_Adaptation_of_Unified_Generative_Model_in_Multimodal_Cycles_CVPR_2025_paper.html>
 - Code: <https://github.com/showlab/DoraCycle>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/doracycle_domain-…](https://papernotes.org/CVPR2025/image_generation/doracycle_domain-oriented_adaptation_of_unified_generative_model_in_multimodal_c/)
-
-**PhysicsGen: Can Generative Models Learn from Images to Predict Complex Physical Relations?**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Spitznagel_PhysicsGen_Can_Generative_Models_Learn_from_Images_to_Predict_Complex_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/physicsgen_can_ge…](https://papernotes.org/CVPR2025/image_generation/physicsgen_can_generative_models_learn_from_images_to_predict_complex_physical_r/)
 
 **Taste More, Taste Better: Diverse Data and Strong Model Boost Semi-Supervised Crowd Counting**
 
@@ -3206,6 +3218,12 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pippi_Zero-Shot_Styled_Text_Image_Generation_but_Make_It_Autoregressive_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/zero-shot_styled_…](https://papernotes.org/CVPR2025/image_generation/zero-shot_styled_text_image_generation_but_make_it_autoregressive/)
+
+**Aesthetic Post-Training Diffusion Models from Generic Preferences with Step-by-step Preference Optimization**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Aesthetic_Post-Training_Diffusion_Models_from_Generic_Preferences_with_Step-by-step_Preference_CVPR_2025_paper.html>
+- Code: <https://github.com/RockeyCoss/SPO>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/aesthetic_post-train…](https://papernotes.org/CVPR2025/llm_alignment/aesthetic_post-training_diffusion_models_from_generic_preferences_with_step-by-s/)
 
 **SALAD: Skeleton-aware Latent Diffusion for Text-driven Motion Generation and Editing**
 
@@ -3374,11 +3392,6 @@
 - Code: <https://github.com/MischaD/beyondfid>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/image_generation_…](https://papernotes.org/CVPR2025/image_generation/image_generation_diversity_issues_and_how_to_tame_them/)
 
-**Effective Cloud Removal for Remote Sensing Images by an Improved Mean-Reverting Denoising Model with Elucidated Design Space**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Effective_Cloud_Removal_for_Remote_Sensing_Images_by_an_Improved_CVPR_2025_paper.html>
-- Code: <https://github.com/Ly403/EMRDM>
-
 **CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Taubner_CAP4D_Creating_Animatable_4D_Portrait_Avatars_with_Morphable_Multi-View_Diffusion_CVPR_2025_paper.html>
@@ -3396,6 +3409,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lee_SyncSDE_A_Probabilistic_Framework_for_Diffusion_Synchronization_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/syncsde_a_probabi…](https://papernotes.org/CVPR2025/image_generation/syncsde_a_probabilistic_framework_for_diffusion_synchronization/)
+
+**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_MCCD_Multi-Agent_Collaboration-based_Compositional_Diffusion_for_Complex_Text-to-Image_Generation_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/mccd_multi-agent_…](https://papernotes.org/CVPR2025/object_detection/mccd_multi-agent_collaboration-based_compositional_diffusion_for_complex_text-to/)
 
 **Generalizable Object Keypoint Localization from Generative Priors**
 
@@ -3494,11 +3512,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Mind_the_Trojan_Horse_Image_Prompt_Adapter_Enabling_Scalable_and_CVPR_2025_paper.html>
 - Code: <https://github.com/fhdnskfbeuv/attackIPA>
 
-**Synchronized Video-to-Audio Generation via Mel Quantization-Continuum Decomposition**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Synchronized_Video-to-Audio_Generation_via_Mel_Quantization-Continuum_Decomposition_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/synchronized_vide…](https://papernotes.org/CVPR2025/image_generation/synchronized_video-to-audio_generation_via_mel_quantization-continuum_decomposit/)
-
 **ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jia_ChatGen_Automatic_Text-to-Image_Generation_From_FreeStyle_Chatting_CVPR_2025_paper.html>
@@ -3531,11 +3544,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gan_Silence_is_Golden_Leveraging_Adversarial_Examples_to_Nullify_Audio_Control_CVPR_2025_paper.html>
 - Code: <https://github.com/yuangan/Silencer>
-
-**DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhong_DexGrasp_Anything_Towards_Universal_Robotic_Dexterous_Grasping_with_Physics_Awareness_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/dexgrasp_anything…](https://papernotes.org/CVPR2025/image_generation/dexgrasp_anything_towards_universal_robotic_dexterous_grasping_with_physics_awar/)
 
 **CustAny: Customizing Anything from A Single Example**
 
@@ -3730,6 +3738,11 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lin_MVPortrait_Text-Guided_Motion_and_Emotion_Control_for_Multi-view_Vivid_Portrait_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/mvportrait_text-g…](https://papernotes.org/CVPR2025/image_generation/mvportrait_text-guided_motion_and_emotion_control_for_multi-view_vivid_portrait_/)
 
+**Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_Modeling_Thousands_of_Human_Annotators_for_Generalizable_Text-to-Image_Person_Re-identification_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/autonomous_driving/modeling_thousa…](https://papernotes.org/CVPR2025/autonomous_driving/modeling_thousands_of_human_annotators_for_generalizable_text-to-image_person_re/)
+
 **CleanDIFT: Diffusion Features without Noise**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Stracke_CleanDIFT_Diffusion_Features_without_Noise_CVPR_2025_paper.html>
@@ -3763,11 +3776,6 @@
 **StyleSSP: Sampling StartPoint Enhancement for Training-free Diffusion-based Method for Style Transfer**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xu_StyleSSP_Sampling_StartPoint_Enhancement_for_Training-free_Diffusion-based_Method_for_Style_CVPR_2025_paper.html>
-
-**AMO Sampler: Enhancing Text Rendering with Overshooting**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hu_AMO_Sampler_Enhancing_Text_Rendering_with_Overshooting_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/amo_sampler_enhan…](https://papernotes.org/CVPR2025/image_generation/amo_sampler_enhancing_text_rendering_with_overshooting/)
 
 **I2VGuard: Safeguarding Images against Misuse in Diffusion-based Image-to-Video Models**
 
@@ -3940,11 +3948,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hui_An_Image-like_Diffusion_Method_for_Human-Object_Interaction_Detection_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/an_image-like_dif…](https://papernotes.org/CVPR2025/image_generation/an_image-like_diffusion_method_for_human-object_interaction_detection/)
 
-**PersonaBooth: Personalized Text-to-Motion Generation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_PersonaBooth_Personalized_Text-to-Motion_Generation_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/personabooth_pers…](https://papernotes.org/CVPR2025/image_generation/personabooth_personalized_text-to-motion_generation/)
-
 **GraphMimic: Graph-to-Graphs Generative Modeling from Videos for Policy Learning**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_GraphMimic_Graph-to-Graphs_Generative_Modeling_from_Videos_for_Policy_Learning_CVPR_2025_paper.html>
@@ -3985,18 +3988,6 @@
 **ART: Anonymous Region Transformer for Variable Multi-Layer Transparent Image Generation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pu_ART_Anonymous_Region_Transformer_for_Variable_Multi-Layer_Transparent_Image_Generation_CVPR_2025_paper.html>
-
-**Unseen Visual Anomaly Generation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_Unseen_Visual_Anomaly_Generation_CVPR_2025_paper.html>
-- Project: <https://hansunhayden.github.io/CUT.github.io>
-- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/unseen_visual_ano…](https://papernotes.org/CVPR2025/image_generation/unseen_visual_anomaly_generation/)
-
-**T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Qian_T2ICount_Enhancing_Cross-modal_Understanding_for_Zero-Shot_Counting_CVPR_2025_paper.html>
-- Code: <https://github.com/cha15yq/T2ICount>
-- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/t2icount_enhancin…](https://papernotes.org/CVPR2025/image_generation/t2icount_enhancing_cross-modal_understanding_for_zero-shot_counting/)
 
 **RealEdit: Reddit Edits As a Large-scale Empirical Dataset for Image Transformations**
 
@@ -4073,11 +4064,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Peng_BizGen_Advancing_Article-level_Visual_Text_Rendering_for_Infographics_Generation_CVPR_2025_paper.html>
 
-**Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Q-DiT_Accurate_Post-Training_Quantization_for_Diffusion_Transformers_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/q-dit_accurate_po…](https://papernotes.org/CVPR2025/image_generation/q-dit_accurate_post-training_quantization_for_diffusion_transformers/)
-
 **IDProtector: An Adversarial Noise Encoder to Protect Against ID-Preserving Image Generation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Song_IDProtector_An_Adversarial_Noise_Encoder_to_Protect_Against_ID-Preserving_Image_CVPR_2025_paper.html>
@@ -4134,6 +4120,11 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Didolkar_CTRL-O_Language-Controllable_Object-Centric_Visual_Representation_Learning_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/ctrl-o_language-c…](https://papernotes.org/CVPR2025/image_generation/ctrl-o_language-controllable_object-centric_visual_representation_learning/)
 
+**PreciseCam: Precise Camera Control for Text-to-Image Generation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bernal-Berdun_PreciseCam_Precise_Camera_Control_for_Text-to-Image_Generation_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/precisecam_precise_camer…](https://papernotes.org/CVPR2025/3d_vision/precisecam_precise_camera_control_for_text-to-image_generation/)
+
 **MC^2: Multi-concept Guidance for Customized  Multi-concept Generation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_MC2_Multi-concept_Guidance_for_Customized__Multi-concept_Generation_CVPR_2025_paper.html>
@@ -4177,6 +4168,12 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Learning_Hazing_to_Dehazing_Towards_Realistic_Haze_Generation_for_Real-World_CVPR_2025_paper.html>
 - Code: <https://github.com/ruiyi-w/Learning-Hazing-to-Dehazing>
+
+**Curriculum Direct Preference Optimization for Diffusion and Consistency Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Croitoru_Curriculum_Direct_Preference_Optimization_for_Diffusion_and_Consistency_Models_CVPR_2025_paper.html>
+- Code: <https://github.com/CroitoruAlin/Curriculum-DPO>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/curriculum_direct_pr…](https://papernotes.org/CVPR2025/llm_alignment/curriculum_direct_preference_optimization_for_diffusion_and_consistency_models/)
 
 **Personalized Preference Fine-tuning of Diffusion Models**
 
@@ -4225,10 +4222,6 @@
 **Beyond Generation: A Diffusion-based Low-level Feature Extractor for Detecting AI-generated Images**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhong_Beyond_Generation_A_Diffusion-based_Low-level_Feature_Extractor_for_Detecting_AI-generated_CVPR_2025_paper.html>
-
-**Robust-MVTON: Learning Cross-Pose Feature Alignment and Fusion for Robust Multi-View Virtual Try-On**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Robust-MVTON_Learning_Cross-Pose_Feature_Alignment_and_Fusion_for_Robust_Multi-View_CVPR_2025_paper.html>
 
 **Retaining Knowledge and Enhancing Long-Text Representations in CLIP through Dual-Teacher Distillation**
 
@@ -4287,6 +4280,10 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Simsar_LoRACLR_Contrastive_Adaptation_for_Customization_of_Diffusion_Models_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/loraclr_contrasti…](https://papernotes.org/CVPR2025/image_generation/loraclr_contrastive_adaptation_for_customization_of_diffusion_models/)
 
+**Encapsulated Composition of Text-to-Image and Text-to-Video Models for High-Quality Video Synthesis**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Su_Encapsulated_Composition_of_Text-to-Image_and_Text-to-Video_Models_for_High-Quality_Video_CVPR_2025_paper.html>
+
 **Multi-Group Proportional Representations for Text-to-Image Models**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jung_Multi-Group_Proportional_Representations_for_Text-to-Image_Models_CVPR_2025_paper.html>
@@ -4321,6 +4318,10 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Lets_Verify_and_Reinforce_Image_Generation_Step_by_Step_CVPR_2025_paper.html>
 - Code: <https://github.com/ZiyuGuo99/Image-Generation-CoT>
+
+**CoSER: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_CoSER_Towards_Consistent_Dense_Multiview_Text-to-Image_Generator_for_3D_Creation_CVPR_2025_paper.html>
 
 **Self-Learning Hyperspectral and Multispectral Image Fusion via Adaptive Residual Guided Subspace Diffusion Model**
 
@@ -4506,13 +4507,13 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_Dynamic_Motion_Blending_for_Versatile_Motion_Editing_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/dynamic_motion_bl…](https://papernotes.org/CVPR2025/image_generation/dynamic_motion_blending_for_versatile_motion_editing/)
 
+**DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lin_DriveGEN_Generalized_and_Robust_3D_Detection_in_Driving_via_Controllable_CVPR_2025_paper.html>
+
 **FeedEdit: Text-Based Image Editing with Dynamic Feedback Regulation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fu_FeedEdit_Text-Based_Image_Editing_with_Dynamic_Feedback_Regulation_CVPR_2025_paper.html>
-
-**STEREO: A Two-Stage Framework for Adversarially Robust Concept Erasing from Text-to-Image Diffusion Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Srivatsan_STEREO_A_Two-Stage_Framework_for_Adversarially_Robust_Concept_Erasing_from_CVPR_2025_paper.html>
 
 **PTDiffusion: Free Lunch for Generating Optical Illusion Hidden Pictures with Phase-Transferred Diffusion Model**
 
@@ -4533,11 +4534,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fang_Attend_to_Not_Attended_Structure-then-Detail_Token_Merging_for_Post-training_DiT_CVPR_2025_paper.html>
 - Code: <https://github.com/ICTMCG/SDTM>
-
-**One-for-More: Continual Diffusion Model for Anomaly Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_One-for-More_Continual_Diffusion_Model_for_Anomaly_Detection_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/one-for-more_cont…](https://papernotes.org/CVPR2025/image_generation/one-for-more_continual_diffusion_model_for_anomaly_detection/)
 
 **FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation**
 
@@ -4597,6 +4593,11 @@
 - Code: <https://github.com/one-june/FreeMCG>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/derivative-free_d…](https://papernotes.org/CVPR2025/image_generation/derivative-free_diffusion_manifold-constrained_gradient_for_unified_xai/)
 
+**ZoomLDM: Latent Diffusion Model for Multi-scale Image Generation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yellapragada_ZoomLDM_Latent_Diffusion_Model_for_Multi-scale_Image_Generation_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/zoomldm_latent_dif…](https://papernotes.org/CVPR2025/medical_imaging/zoomldm_latent_diffusion_model_for_multi-scale_image_generation/)
+
 **Do Computer Vision Foundation Models Learn the Low-level Characteristics of the Human Visual System?**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cai_Do_Computer_Vision_Foundation_Models_Learn_the_Low-level_Characteristics_of_CVPR_2025_paper.html>
@@ -4626,6 +4627,11 @@
 **Rethinking Training for De-biasing Text-to-Image Generation: Unlocking the Potential of Stable Diffusion**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Rethinking_Training_for_De-biasing_Text-to-Image_Generation_Unlocking_the_Potential_of_CVPR_2025_paper.html>
+
+**Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Thakral_Fine-Grained_Erasure_in_Text-to-Image_Diffusion-based_Foundation_Models_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/fine-grained_erasure_in_…](https://papernotes.org/CVPR2025/3d_vision/fine-grained_erasure_in_text-to-image_diffusion-based_foundation_models/)
 
 **ILIAS: Instance-Level Image retrieval At Scale**
 
@@ -4675,6 +4681,16 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhong_FADA_Fast_Diffusion_Avatar_Synthesis_with_Mixed-Supervised_Multi-CFG_Distillation_CVPR_2025_paper.html>
 - Project: <https://fadavatar.github.io>
 
+**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_FoundHand_Large-Scale_Domain-Specific_Learning_for_Controllable_Hand_Image_Generation_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/foundhand_large-scale_do…](https://papernotes.org/CVPR2025/3d_vision/foundhand_large-scale_domain-specific_learning_for_controllable_hand_image_gener/)
+
+**Boost Your Human Image Generation Model via Direct Preference Optimization**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Na_Boost_Your_Human_Image_Generation_Model_via_Direct_Preference_Optimization_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/boost_your_human_ima…](https://papernotes.org/CVPR2025/llm_alignment/boost_your_human_image_generation_model_via_direct_preference_optimization/)
+
 **Unified Uncertainty-Aware Diffusion for Multi-Agent Trajectory Modeling**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Capellera_Unified_Uncertainty-Aware_Diffusion_for_Multi-Agent_Trajectory_Modeling_CVPR_2025_paper.html>
@@ -4703,6 +4719,10 @@
 **Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/He_Neural_LightRig_Unlocking_Accurate_Object_Normal_and_Material_Estimation_with_CVPR_2025_paper.html>
+
+**Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Qin_Human-centered_Interactive_Learning_via_MLLMs_for_Text-to-Image_Person_Re-identification_CVPR_2025_paper.html>
 
 **Conditional Balance: Improving Multi-Conditioning Trade-Offs in Image Generation**
 
@@ -4765,10 +4785,10 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yu_AnyEdit_Mastering_Unified_High-Quality_Image_Editing_for_Any_Idea_CVPR_2025_paper.html>
 
-**Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection**
+**Compass Control: Multi Object Orientation Control for Text-to-Image Generation**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Beizaee_Correcting_Deviations_from_Normality_A_Reformulated_Diffusion_Model_for_Multi-Class_CVPR_2025_paper.html>
-- Code: <https://github.com/farzad-bz/DeCo-Diff>
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Parihar_Compass_Control_Multi_Object_Orientation_Control_for_Text-to-Image_Generation_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/compass_control_multi_ob…](https://papernotes.org/CVPR2025/3d_vision/compass_control_multi_object_orientation_control_for_text-to-image_generation/)
 
 **DNF: Unconditional 4D Generation with Dictionary-based Neural Fields**
 
@@ -4800,10 +4820,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Shin_Generative_Modeling_of_Class_Probability_for_Multi-Modal_Representation_Learning_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/generative_modeli…](https://papernotes.org/CVPR2025/image_generation/generative_modeling_of_class_probability_for_multi_modal_representation_learning/)
-
-**Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observations**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Discrete_to_Continuous_Generating_Smooth_Transition_Poses_from_Sign_Language_CVPR_2025_paper.html>
 
 **Layer- and Timestep-Adaptive Differentiable Token Compression Ratios for Efficient Diffusion Transformers**
 
@@ -4961,6 +4977,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Qu_SILMM_Self-Improving_Large_Multimodal_Models_for_Compositional_Text-to-Image_Generation_CVPR_2025_paper.html>
 
+**Calibrated Multi-Preference Optimization for Aligning Diffusion Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Calibrated_Multi-Preference_Optimization_for_Aligning_Diffusion_Models_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/calibrated_multi-pre…](https://papernotes.org/CVPR2025/llm_alignment/calibrated_multi-preference_optimization_for_aligning_diffusion_models/)
+
 **Implicit Bias Injection Attacks against Text-to-Image Diffusion Models**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Implicit_Bias_Injection_Attacks_against_Text-to-Image_Diffusion_Models_CVPR_2025_paper.html>
@@ -5004,13 +5025,20 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_OSMamba_Omnidirectional_Spectral_Mamba_with_Dual-Domain_Prior_Generator_for_Exposure_CVPR_2025_paper.html>
 
+**RandAR: Decoder-only Autoregressive Visual Generation in Random Orders**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pang_RandAR_Decoder-only_Autoregressive_Visual_Generation_in_Random_Orders_CVPR_2025_paper.html>
+- Project: <https://rand-ar.github.io/>
+- Notes (Chinese): [papernotes.org/CVPR2025/others/randar_decoder-only_autoreg…](https://papernotes.org/CVPR2025/others/randar_decoder-only_autoregressive_visual_generation_in_random_orders/)
+
 **NoiseCtrl: A Sampling-Algorithm-Agnostic Conditional Generation Method for Diffusion Models**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dai_NoiseCtrl_A_Sampling-Algorithm-Agnostic_Conditional_Generation_Method_for_Diffusion_Models_CVPR_2025_paper.html>
 
-**Satellite Observations Guided Diffusion Model for Accurate Meteorological States at Arbitrary Resolution**
+**InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tu_Satellite_Observations_Guided_Diffusion_Model_for_Accurate_Meteorological_States_at_CVPR_2025_paper.html>
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lu_InPO_Inversion_Preference_Optimization_with_Reparametrized_DDIM_for_Efficient_Diffusion_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/inpo_inversion_prefe…](https://papernotes.org/CVPR2025/llm_alignment/inpo_inversion_preference_optimization_diffusion_alignment/)
 
 **Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions**
 
@@ -5072,11 +5100,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Q-Eval-100K_Evaluating_Visual_Quality_and_Alignment_Level_for_Text-to-Vision_Content_CVPR_2025_paper.html>
 
-**Enhancing Dance-to-Music Generation via Negative Conditioning Latent Diffusion Model**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_Enhancing_Dance-to-Music_Generation_via_Negative_Conditioning_Latent_Diffusion_Model_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/enhancing_dance-t…](https://papernotes.org/CVPR2025/image_generation/enhancing_dance-to-music_generation_via_negative_conditioning_latent_diffusion_m/)
-
 **Spherical Manifold Guided Diffusion Model for Panoramic Image Generation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_Spherical_Manifold_Guided_Diffusion_Model_for_Panoramic_Image_Generation_CVPR_2025_paper.html>
@@ -5087,11 +5110,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Towards_Transformer-Based_Aligned_Generation_with_Self-Coherence_Guidance_CVPR_2025_paper.html>
 - Project: <https://scg-diffusion.github.io/scg-diffusion>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/towards_transform…](https://papernotes.org/CVPR2025/image_generation/towards_transformer-based_aligned_generation_with_self-coherence_guidance/)
-
-**Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yu_Mono2Stereo_A_Benchmark_and_Empirical_Study_for_Stereo_Conversion_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/mono2stereo_a_ben…](https://papernotes.org/CVPR2025/image_generation/mono2stereo_a_benchmark_and_empirical_study_for_stereo_conversion/)
 
 **Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual Stream Diffusion**
 
@@ -5273,7 +5291,7 @@
 
 <a id="multimodal_vlm"></a>
 
-## 🧩 Multimodal VLM · `multimodal_vlm` · 265 papers
+## 🧩 Multimodal VLM · `multimodal_vlm` · 268 papers
 
 **Multimodal OCR: Parse Anything from Documents**
 
@@ -5401,6 +5419,16 @@
 - Paper: <https://arxiv.org/abs/2412.19331>
 - Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/calico_part-focused…](https://papernotes.org/CVPR2025/multimodal_vlm/calico_part-focused_semantic_co-segmentation_with_large_vision-language_models/)
 
+**Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment**
+
+- Paper: <https://arxiv.org/abs/2412.19326>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/task_preference_opti…](https://papernotes.org/CVPR2025/llm_alignment/task_preference_optimization_improving_multimodal_large_language_models_with_vis/)
+
+**ASAP: Advancing Semantic Alignment Promotes Multi-Modal Manipulation Detecting and Grounding**
+
+- Paper: <https://arxiv.org/abs/2412.12718>
+- Notes (Chinese): [papernotes.org/CVPR2025/robotics/asap_advancing_semantic_a…](https://papernotes.org/CVPR2025/robotics/asap_advancing_semantic_alignment_promotes_multi-modal_manipulation_de/)
+
 **Evaluating Vision-Language Models as Evaluators in Path Planning**
 
 - Paper: <https://arxiv.org/abs/2411.18711>
@@ -5410,6 +5438,11 @@
 
 - Paper: <https://arxiv.org/abs/2411.17491>
 - Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/whats_in_the_image_…](https://papernotes.org/CVPR2025/multimodal_vlm/whats_in_the_image_a_deep-dive_into_the_vision_of_vision_language_models/)
+
+**SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization**
+
+- Paper: <https://arxiv.org/abs/2411.11909>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/symdpo_boosting_in-c…](https://papernotes.org/CVPR2025/llm_alignment/symdpo_boosting_in-context_learning_of_large_multimodal_models_with_symbol_demon/)
 
 **Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation**
 
@@ -5424,10 +5457,21 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lai_SnowMaster_Comprehensive_Real-world_Image_Desnowing_via_MLLM_with_Multi-Model_Feedback_CVPR_2025_paper.html>
 
+**SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jia_SymDPO_Boosting_In-Context_Learning_of_Large_Multimodal_Models_with_Symbol_CVPR_2025_paper.html>
+- Code: <https://github.com/APiaoG/SymDPO>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/symdpo_boosting_in-c…](https://papernotes.org/CVPR2025/llm_alignment/symdpo_boosting_in-context_learning_of_large_multimodal_models_with_symbol_demon/)
+
 **Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Stealthy_Backdoor_Attack_in_Self-Supervised_Learning_Vision_Encoders_for_Large_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/stealthy_backdoor_a…](https://papernotes.org/CVPR2025/multimodal_vlm/stealthy_backdoor_attack_in_self-supervised_learning_vision_encoders_for_large_v/)
+
+**Debiasing Multimodal Large Language Models via Noise-Aware Preference Optimization**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Debiasing_Multimodal_Large_Language_Models_via_Noise-Aware_Preference_Optimization_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/debiasing_multimodal…](https://papernotes.org/CVPR2025/llm_alignment/debiasing_multimodal_large_language_models_via_noise-aware_preference_optimizati/)
 
 **SynTab-LLaVA: Enhancing Multimodal Table Understanding with Decoupled Synthesis**
 
@@ -5438,11 +5482,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liao_DocLayLLM_An_Efficient_Multi-modal_Extension_of_Large_Language_Models_for_CVPR_2025_paper.html>
 - Code: <https://github.com/whlscut/DocLayLLM>
-
-**SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_SOLAMI_Social_Vision-Language-Action_Modeling_for_Immersive_Interaction_with_3D_Autonomous_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/solami_social_visio…](https://papernotes.org/CVPR2025/multimodal_vlm/solami_social_vision-language-action_modeling_for_immersive_interaction_with_3d_/)
 
 **Adaptive Markup Language Generation for Contextually-Grounded Visual Document Understanding**
 
@@ -5476,6 +5515,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Miller_SPARC_Score_Prompting_and_Adaptive_Fusion_for_Zero-Shot_Multi-Label_Recognition_CVPR_2025_paper.html>
 - Code: <https://github.com/kjmillerCURIS/SPARC>
+
+**Instruction-based Image Manipulation by Watching How Things Move**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cao_Instruction-based_Image_Manipulation_by_Watching_How_Things_Move_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/robotics/instruction-based_image_m…](https://papernotes.org/CVPR2025/robotics/instruction-based_image_manipulation_by_watching_how_things_move/)
 
 **VidComposition: Can MLLMs Analyze Compositions in Compiled Videos?**
 
@@ -5648,6 +5692,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_EEE-Bench_A_Comprehensive_Multimodal_Electrical_And_Electronics_Engineering_Benchmark_CVPR_2025_paper.html>
 
+**Dynamic Updates for Language Adaptation in Visual-Language Tracking**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Dynamic_Updates_for_Language_Adaptation_in_Visual-Language_Tracking_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/dynamic_update…](https://papernotes.org/CVPR2025/video_understanding/dynamic_updates_for_language_adaptation_in_visual-language_tracking/)
+
 **Evaluating Model Perception of Color Illusions in Photorealistic Scenes**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Mao_Evaluating_Model_Perception_of_Color_Illusions_in_Photorealistic_Scenes_CVPR_2025_paper.html>
@@ -5657,11 +5706,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jung_Is_Right_Right_Enhancing_Object_Orientation_Understanding_in_Multimodal_Large_CVPR_2025_paper.html>
 - Code: <https://github.com/jhCOR/EgoOrientBench>
-
-**Conformal Prediction for Zero-Shot Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Silva-Rodriguez_Conformal_Prediction_for_Zero-Shot_Models_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/conformal_predictio…](https://papernotes.org/CVPR2025/multimodal_vlm/conformal_prediction_for_zero-shot_models/)
 
 **Weakly Supervised Temporal Action Localization via Dual-Prior Collaborative Learning Guided by Multimodal Large Language Models**
 
@@ -5704,6 +5748,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fang_Recognition-Synergistic_Scene_Text_Editing_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/recognition-synergi…](https://papernotes.org/CVPR2025/multimodal_vlm/recognition-synergistic_scene_text_editing/)
+
+**Coarse Correspondences Boost Spatial-Temporal Reasoning in Multimodal Language Model**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Coarse_Correspondences_Boost_Spatial-Temporal_Reasoning_in_Multimodal_Language_Model_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/coarse_corresp…](https://papernotes.org/CVPR2025/video_understanding/coarse_correspondences_boost_spatial-temporal_reasoning_in_multimodal_language_m/)
 
 **On the Zero-shot Adversarial Robustness of Vision-Language Models: A Truly Zero-shot and Training-free Approach**
 
@@ -5875,11 +5924,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhuang_Argus_A_Compact_and_Versatile_Foundation_Model_for_Vision_CVPR_2025_paper.html>
 
-**CLIP-driven Coarse-to-fine Semantic Guidance for Fine-grained Open-set Semi-supervised Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_CLIP-driven_Coarse-to-fine_Semantic_Guidance_for_Fine-grained_Open-set_Semi-supervised_Learning_CVPR_2025_paper.html>
-- Code: <https://github.com/LxxxxK/CFSG-CLIP>
-
 **MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hong_MotionBench_Benchmarking_and_Improving_Fine-grained_Video_Motion_Understanding_for_Vision_CVPR_2025_paper.html>
@@ -5963,12 +6007,6 @@
 - Code: <https://github.com/hey-cjj/MoVE-KD>
 - Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/move-kd_knowledge_d…](https://papernotes.org/CVPR2025/multimodal_vlm/move-kd_knowledge_distillation_for_vlms_with_mixture_of_visual_encoders/)
 
-**Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Towards_Zero-Shot_Anomaly_Detection_and_Reasoning_with_Multimodal_Large_Language_CVPR_2025_paper.html>
-- Project: <https://xujiacong.github.io/Anomaly-OV/>
-- Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/towards_zero-shot_a…](https://papernotes.org/CVPR2025/multimodal_vlm/towards_zero-shot_anomaly_detection_and_reasoning_with_multimodal_large_language/)
-
 **ICT: Image-Object Cross-Level Trusted Intervention for Mitigating Object Hallucination in Large Vision-Language Models**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_ICT_Image-Object_Cross-Level_Trusted_Intervention_for_Mitigating_Object_Hallucination_in_CVPR_2025_paper.html>
@@ -6045,6 +6083,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Mosaic_of_Modalities_A_Comprehensive_Benchmark_for_Multimodal_Graph_Learning_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/mosaic_of_modalitie…](https://papernotes.org/CVPR2025/multimodal_vlm/mosaic_of_modalities_a_comprehensive_benchmark_for_multimodal_graph_learning/)
+
+**ASAP: Advancing Semantic Alignment Promotes Multi-Modal Manipulation Detecting and Grounding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_ASAP_Advancing_Semantic_Alignment_Promotes_Multi-Modal_Manipulation_Detecting_and_Grounding_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/robotics/asap_advancing_semantic_a…](https://papernotes.org/CVPR2025/robotics/asap_advancing_semantic_alignment_promotes_multi-modal_manipulation_de/)
 
 **Correlative and Discriminative Label Grouping for Multi-Label Visual Prompt Tuning**
 
@@ -6149,6 +6192,11 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_LayoutVLM_Differentiable_Optimization_of_3D_Layout_via_Vision-Language_Models_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/layoutvlm_different…](https://papernotes.org/CVPR2025/multimodal_vlm/layoutvlm_differentiable_optimization_of_3d_layout_via_vision-language_models/)
 
+**Less Attention is More: Prompt Transformer for Generalized Category Discovery**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.html>
+- Code: <https://github.com/wendy26zhang/AptGCD>
+
 **CoMM: A Coherent Interleaved Image-Text Dataset for Multimodal Understanding and Generation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_CoMM_A_Coherent_Interleaved_Image-Text_Dataset_for_Multimodal_Understanding_and_CVPR_2025_paper.html>
@@ -6176,10 +6224,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lozano_BIOMEDICA_An_Open_Biomedical_Image-Caption_Archive_Dataset_and_Vision-Language_Models_CVPR_2025_paper.html>
 
-**FRAMES-VQA: Benchmarking Fine-Tuning Robustness across Multi-Modal Shifts in Visual Question Answering**
+**Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_FRAMES-VQA_Benchmarking_Fine-Tuning_Robustness_across_Multi-Modal_Shifts_in_Visual_Question_CVPR_2025_paper.html>
-- Code: <https://github.com/chengyuehuang511/FRAMES-VQA>
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jang_Scalable_Video-to-Dataset_Generation_for_Cross-Platform_Mobile_Agents_CVPR_2025_paper.html>
+- Code: <https://github.com/runamu/monday>
+- Notes (Chinese): [papernotes.org/CVPR2025/robotics/scalable_video-to-dataset…](https://papernotes.org/CVPR2025/robotics/scalable_video-to-dataset_generation_for_cross-platform_mobile_agents/)
 
 **ANNEXE: Unified Analyzing, Answering, and Pixel Grounding for Egocentric Interaction**
 
@@ -6232,10 +6281,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_Visual_and_Semantic_Prompt_Collaboration_for_Generalized_Zero-Shot_Learning_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/visual_and_semantic…](https://papernotes.org/CVPR2025/multimodal_vlm/visual_and_semantic_prompt_collaboration_for_generalized_zero-shot_learning/)
-
-**Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Qin_Human-centered_Interactive_Learning_via_MLLMs_for_Text-to-Image_Person_Re-identification_CVPR_2025_paper.html>
 
 **Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark**
 
@@ -6367,11 +6412,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Cropper_Vision-Language_Model_for_Image_Cropping_through_In-Context_Learning_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/cropper_vision-lang…](https://papernotes.org/CVPR2025/multimodal_vlm/cropper_vision-language_model_for_image_cropping_through_in-context_learning/)
 
-**Synthetic Visual Genome**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Park_Synthetic_Visual_Genome_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/synthetic_visual_ge…](https://papernotes.org/CVPR2025/multimodal_vlm/synthetic_visual_genome/)
-
 **Octopus: Alleviating Hallucination via Dynamic Contrastive Decoding**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Suo_Octopus_Alleviating_Hallucination_via_Dynamic_Contrastive_Decoding_CVPR_2025_paper.html>
@@ -6424,9 +6464,10 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yu_RLAIF-V_Open-Source_AI_Feedback_Leads_to_Super_GPT-4V_Trustworthiness_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/rlaif-v_open-source…](https://papernotes.org/CVPR2025/multimodal_vlm/rlaif-v_open-source_ai_feedback_leads_to_super_gpt-4v_trustworthiness/)
 
-**VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models**
+**CCIN: Compositional Conflict Identification and Neutralization for Composed Image Retrieval**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ye_VERA_Explainable_Video_Anomaly_Detection_via_Verbalized_Learning_of_Vision-Language_CVPR_2025_paper.html>
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tian_CCIN_Compositional_Conflict_Identification_and_Neutralization_for_Composed_Image_Retrieval_CVPR_2025_paper.html>
+- Code: <https://github.com/LikaiTian/CCIN>
 
 **VLsI: Verbalized Layers-to-Interactions from Large to Small Vision Language Models**
 
@@ -6442,11 +6483,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Efficient_Motion-Aware_Video_MLLM_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/efficient_motion-aw…](https://papernotes.org/CVPR2025/multimodal_vlm/efficient_motion-aware_video_mllm/)
-
-**How to Merge Your Multimodal Models Over Time?**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dziadzio_How_to_Merge_Your_Multimodal_Models_Over_Time_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/how_to_merge_your_m…](https://papernotes.org/CVPR2025/multimodal_vlm/how_to_merge_your_multimodal_models_over_time/)
 
 **Identifying and Mitigating Position Bias of Multi-image Vision-Language Models**
 
@@ -6558,7 +6594,7 @@
 
 <a id="segmentation"></a>
 
-## ✂️ Segmentation · `segmentation` · 188 papers
+## ✂️ Segmentation · `segmentation` · 185 papers
 
 **HFP-SAM: Hierarchical Frequency Prompted SAM for Efficient Marine Animal Segmentation**
 
@@ -6662,10 +6698,6 @@
 **FALCON: Fairness Learning via Contrastive Attention Approach to Continual Semantic Scene Understanding**
 
 - Paper: <https://arxiv.org/abs/2311.15965>
-
-**De^2Gaze: Deformable and Decoupled Representation Learning for 3D Gaze Estimation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_De2Gaze_Deformable_and_Decoupled_Representation_Learning_for_3D_Gaze_Estimation_CVPR_2025_paper.html>
 
 **DViN: Dynamic Visual Routing Network for Weakly Supervised Referring Expression Comprehension**
 
@@ -6839,6 +6871,11 @@
 **Seeing Speech and Sound: Distinguishing and Locating Audio Sources in Visual Scenes**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ryu_Seeing_Speech_and_Sound_Distinguishing_and_Locating_Audio_Sources_in_CVPR_2025_paper.html>
+
+**ODA-GAN: Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_ODA-GAN_Orthogonal_Decoupling_Alignment_GAN_Assisted_by_Weakly-supervised_Learning_for_CVPR_2025_paper.html>
+- Code: <https://github.com/ittong/ODA-GAN>
 
 **Audio-Visual Instance Segmentation**
 
@@ -7219,11 +7256,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cho_Robust_3D_Shape_Reconstruction_in_Zero-Shot_from_a_Single_Image_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/segmentation/robust_3d_shape_recon…](https://papernotes.org/CVPR2025/segmentation/robust_3d_shape_reconstruction_in_zero-shot_from_a_single_image_in_the_wild/)
 
-**Holmes-VAU: Towards Long-term Video Anomaly Understanding at Any Granularity**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Holmes-VAU_Towards_Long-term_Video_Anomaly_Understanding_at_Any_Granularity_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/segmentation/holmes-vau_towards_lo…](https://papernotes.org/CVPR2025/segmentation/holmes-vau_towards_long-term_video_anomaly_understanding_at_any_granularity/)
-
 **SmartEraser: Remove Anything from Images using Masked-Region Guidance**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_SmartEraser_Remove_Anything_from_Images_using_Masked-Region_Guidance_CVPR_2025_paper.html>
@@ -7350,15 +7382,10 @@
 - Code: <https://github.com/ShanZard/ROS-SAM>
 - Notes (Chinese): [papernotes.org/CVPR2025/segmentation/ros-sam_high-quality_…](https://papernotes.org/CVPR2025/segmentation/ros-sam_high-quality_interactive_segmentation_for_remote_sensing_moving_object/)
 
-**Leveraging 3D Geometric Priors in 2D Rotation Symmetry Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Seo_Leveraging_3D_Geometric_Priors_in_2D_Rotation_Symmetry_Detection_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/segmentation/leveraging_3d_geometr…](https://papernotes.org/CVPR2025/segmentation/leveraging_3d_geometric_priors_in_2d_rotation_symmetry_detection/)
-
 **Fractal Calibration for Long-tailed Object Detection**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Alexandridis_Fractal_Calibration_for_Long-tailed_Object_Detection_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/segmentation/fractal_calibration_f…](https://papernotes.org/CVPR2025/segmentation/fractal_calibration_for_long-tailed_object_detection/)
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/fractal_calibrati…](https://papernotes.org/CVPR2025/object_detection/fractal_calibration_for_long-tailed_object_detection/)
 
 **MambaVision: A Hybrid Mamba-Transformer Vision Backbone**
 
@@ -7395,10 +7422,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_POSTA_A_Go-to_Framework_for_Customized_Artistic_Poster_Generation_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/segmentation/posta_a_go-to_framewo…](https://papernotes.org/CVPR2025/segmentation/posta_a_go-to_framework_for_customized_artistic_poster_generation/)
-
-**Just Dance with pi! A Poly-modal Inductor for Weakly-supervised Video Anomaly Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Majhi_Just_Dance_with_pi_A_Poly-modal_Inductor_for_Weakly-supervised_Video_CVPR_2025_paper.html>
 
 **DTOS: Dynamic Time Object Sensing with Large Multimodal Model**
 
@@ -7482,7 +7505,7 @@
 
 <a id="autonomous_driving"></a>
 
-## 🚗 Autonomous Driving · `autonomous_driving` · 185 papers
+## 🚗 Autonomous Driving · `autonomous_driving` · 175 papers
 
 **Panoramic Multimodal Semantic Occupancy Prediction for Quadruped Robots**
 
@@ -7658,17 +7681,9 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_OmniDrive_A_Holistic_Vision-Language_Dataset_for_Autonomous_Driving_with_Counterfactual_CVPR_2025_paper.html>
 
-**PillarHist: A Quantization-aware Pillar Feature Encoder based on Height-aware Histogram**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_PillarHist_A_Quantization-aware_Pillar_Feature_Encoder_based_on_Height-aware_Histogram_CVPR_2025_paper.html>
-
 **CroCoDL: Cross-device Collaborative Dataset for Localization**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Blum_CroCoDL_Cross-device_Collaborative_Dataset_for_Localization_CVPR_2025_paper.html>
-
-**Rectification-specific Supervision and Constrained Estimator for Online Stereo Rectification**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gong_Rectification-specific_Supervision_and_Constrained_Estimator_for_Online_Stereo_Rectification_CVPR_2025_paper.html>
 
 **Shape and Texture: What Influences Reliable Optical Flow Estimation?**
 
@@ -7806,11 +7821,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lu_UrbanCAD_Towards_Highly_Controllable_and_Photorealistic_3D_Vehicles_for_Urban_CVPR_2025_paper.html>
 
-**Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_Modeling_Thousands_of_Human_Annotators_for_Generalizable_Text-to-Image_Person_Re-identification_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/autonomous_driving/modeling_thousa…](https://papernotes.org/CVPR2025/autonomous_driving/modeling_thousands_of_human_annotators_for_generalizable_text-to-image_person_re/)
-
 **Tra-MoE: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Tra-MoE_Learning_Trajectory_Prediction_Model_from_Multiple_Domains_for_Adaptive_CVPR_2025_paper.html>
@@ -7853,11 +7863,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hegde_Distilling_Multi-modal_Large_Language_Models_for_Autonomous_Driving_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/autonomous_driving/distilling_mult…](https://papernotes.org/CVPR2025/autonomous_driving/distilling_multi-modal_large_language_models_for_autonomous_driving/)
 
-**Pixel-aligned RGB-NIR Stereo Imaging and Dataset for Robot Vision**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Pixel-aligned_RGB-NIR_Stereo_Imaging_and_Dataset_for_Robot_Vision_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/autonomous_driving/pixel-aligned_r…](https://papernotes.org/CVPR2025/autonomous_driving/pixel-aligned_rgb-nir_stereo_imaging_and_dataset_for_robot_vision/)
-
 **Leveraging Temporal Cues for Semi-Supervised Multi-View 3D Object Detection**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Park_Leveraging_Temporal_Cues_for_Semi-Supervised_Multi-View_3D_Object_Detection_CVPR_2025_paper.html>
@@ -7872,11 +7877,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fan_FreeSim_Toward_Free-viewpoint_Camera_Simulation_in_Driving_Scenes_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/autonomous_driving/freesim_toward_…](https://papernotes.org/CVPR2025/autonomous_driving/freesim_toward_free-viewpoint_camera_simulation_in_driving_scenes/)
-
-**HELVIPAD: A Real-World Dataset for Omnidirectional Stereo Depth Estimation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zayene_HELVIPAD_A_Real-World_Dataset_for_Omnidirectional_Stereo_Depth_Estimation_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/autonomous_driving/helvipad_a_real…](https://papernotes.org/CVPR2025/autonomous_driving/helvipad_a_real-world_dataset_for_omnidirectional_stereo_depth_estimation/)
 
 **GenAssets: Generating in-the-wild 3D Assets in Latent Space**
 
@@ -7906,11 +7906,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Cant_Slow_Me_Down_Learning_Robust_and_Hardware-Adaptive_Object_Detectors_CVPR_2025_paper.html>
 - Code: <https://github.com/Hill-Wu-1998/underload>
-
-**Multi-modal Knowledge Distillation-based Human Trajectory Forecasting**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jeong_Multi-modal_Knowledge_Distillation-based_Human_Trajectory_Forecasting_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/autonomous_driving/multi-modal_kno…](https://papernotes.org/CVPR2025/autonomous_driving/multi-modal_knowledge_distillation-based_human_trajectory_forecasting/)
 
 **Sim-to-Real Causal Transfer: A Metric Learning Approach to Causally-Aware Interaction Representations**
 
@@ -8017,11 +8012,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Oh_3D_Occupancy_Prediction_with_Low-Resolution_Queries_via_Prototype-aware_View_Transformation_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/autonomous_driving/3d_occupancy_pr…](https://papernotes.org/CVPR2025/autonomous_driving/3d_occupancy_prediction_with_low-resolution_queries_via_prototype-aware_view_tra/)
 
-**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_g3D-LF_Generalizable_3D-Language_Feature_Fields_for_Embodied_Tasks_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/autonomous_driving/g3d-lf_generali…](https://papernotes.org/CVPR2025/autonomous_driving/g3d-lf_generalizable_3d-language_feature_fields_for_embodied_tasks/)
-
 **Temporal Action Detection Model Compression by Progressive Block Drop**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Temporal_Action_Detection_Model_Compression_by_Progressive_Block_Drop_CVPR_2025_paper.html>
@@ -8112,10 +8102,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Park_Resilient_Sensor_Fusion_Under_Adverse_Sensor_Failures_via_Multi-Modal_Expert_CVPR_2025_paper.html>
 
-**Track Any Anomalous Object:A Granular Video Anomaly Detection Pipeline**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Track_Any_Anomalous_ObjectA_Granular_Video_Anomaly_Detection_Pipeline_CVPR_2025_paper.html>
-
 **Distilling Monocular Foundation Model for Fine-grained Depth Completion**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Distilling_Monocular_Foundation_Model_for_Fine-grained_Depth_Completion_CVPR_2025_paper.html>
@@ -8136,10 +8122,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liao_DiffusionDrive_Truncated_Diffusion_Model_for_End-to-End_Autonomous_Driving_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/autonomous_driving/diffusiondrive_…](https://papernotes.org/CVPR2025/autonomous_driving/diffusiondrive_truncated_diffusion_model_for_end-to-end_autonomous_driving/)
-
-**DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lin_DriveGEN_Generalized_and_Robust_3D_Detection_in_Driving_via_Controllable_CVPR_2025_paper.html>
 
 **Online Video Understanding: OVBench and VideoChat-Online**
 
@@ -8318,11 +8300,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lin_Prompting_Depth_Anything_for_4K_Resolution_Accurate_Metric_Depth_Estimation_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/autonomous_driving/prompting_depth…](https://papernotes.org/CVPR2025/autonomous_driving/prompting_depth_anything_for_4k_resolution_accurate_metric_depth_estimation/)
 
-**MonoTAKD: Teaching Assistant Knowledge Distillation for Monocular 3D Object Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_MonoTAKD_Teaching_Assistant_Knowledge_Distillation_for_Monocular_3D_Object_Detection_CVPR_2025_paper.html>
-- Code: <https://github.com/hoiliu-0801/MonoTAKD>
-
 **ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Shen_ForestLPR_LiDAR_Place_Recognition_in_Forests_Attentioning_Multiple_BEV_Density_CVPR_2025_paper.html>
@@ -8372,7 +8349,7 @@
 
 <a id="medical_imaging"></a>
 
-## 🏥 Medical Imaging · `medical_imaging` · 162 papers
+## 🏥 Medical Imaging · `medical_imaging` · 142 papers
 
 **NOIR: Neural Operator mapping for Implicit Representations**
 
@@ -8437,11 +8414,6 @@
 - Paper: <https://arxiv.org/abs/2603.13007v1>
 - Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/accelerating_strok…](https://papernotes.org/CVPR2025/medical_imaging/accelerating_stroke_mri_with_diffusion_probabilistic_models_through_large-scale_/)
 
-**Multimodal Protein Language Models for Enzyme Kinetic Parameters: From Substrate Recognition to Conformational Adaptation**
-
-- Paper: <https://arxiv.org/abs/2603.12845v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/multimodal_protein…](https://papernotes.org/CVPR2025/medical_imaging/multimodal_protein_language_models_for_enzyme_kinetic_parameters_from_substrate_/)
-
 **Residual SODAP: Residual Self-Organizing Domain-Adaptive Prompting with Structural Knowledge Preservation for Continual Learning**
 
 - Paper: <https://arxiv.org/abs/2603.12816v1>
@@ -8477,11 +8449,6 @@
 - Paper: <https://arxiv.org/abs/2603.12445v1>
 - Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/unmasking_biases_a…](https://papernotes.org/CVPR2025/medical_imaging/unmasking_biases_and_reliability_concerns_in_convolutional_neural_networks_analy/)
 
-**Surg-R1: A Hierarchical Reasoning Foundation Model for Scalable and Interpretable Surgical Decision Support with Multi-Center Clinical Validation**
-
-- Paper: <https://arxiv.org/abs/2603.12430v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/surg-r1_a_hierarch…](https://papernotes.org/CVPR2025/medical_imaging/surg-r1_a_hierarchical_reasoning_foundation_model_for_scalable_and_interpretable/)
-
 **Human Knowledge Integrated Multi-modal Learning for Single Source Domain Generalization**
 
 - Paper: <https://arxiv.org/abs/2603.12369v1>
@@ -8506,11 +8473,6 @@
 
 - Paper: <https://arxiv.org/abs/2603.11827v1>
 - Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/multimodal_classif…](https://papernotes.org/CVPR2025/medical_imaging/multimodal_classification_of_radiation-induced_contrast_enhancements_and_tumor_r/)
-
-**Automated Detection of Malignant Lesions in the Ovary Using Deep Learning Models and XAI**
-
-- Paper: <https://arxiv.org/abs/2603.11818v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/automated_detectio…](https://papernotes.org/CVPR2025/medical_imaging/automated_detection_of_malignant_lesions_in_the_ovary_using_deep_learning_models/)
 
 **Developing Foundation Models for Universal Segmentation from 3D Whole-Body Positron Emission Tomography**
 
@@ -8597,10 +8559,10 @@
 - Paper: <https://arxiv.org/abs/2602.23447v1>
 - Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/salient_frequency-…](https://papernotes.org/CVPR2025/medical_imaging/salient_frequency-aware_paired_diffusion_for_controllable_long-tail_ct_detection/)
 
-**MR-PLIP: Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation**
+**Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation**
 
-- Paper: <https://arxiv.org/abs/2504.18856>
-- Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/mr_plip_multi_reso…](https://papernotes.org/CVPR2025/medical_imaging/mr_plip_multi_resolution_pathology/)
+- Paper: <https://arxiv.org/abs/2503.04639>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/enhancing_sam_with_e…](https://papernotes.org/CVPR2025/llm_alignment/enhancing_sam_with_efficient_prompting_and_preference_optimization_for_semi-supe/)
 
 **CARL: A Framework for Equivariant Image Registration**
 
@@ -8722,15 +8684,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_VasTSD_Learning_3D_Vascular_Tree-state_Space_Diffusion_Model_for_Angiography_CVPR_2025_paper.html>
 
-**ODA-GAN: Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_ODA-GAN_Orthogonal_Decoupling_Alignment_GAN_Assisted_by_Weakly-supervised_Learning_for_CVPR_2025_paper.html>
-- Code: <https://github.com/ittong/ODA-GAN>
-
-**OralXrays-9: Towards Hospital-Scale Panoramic X-ray Anomaly Detection via Personalized Multi-Object Query-Aware Mining**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_OralXrays-9_Towards_Hospital-Scale_Panoramic_X-ray_Anomaly_Detection_via_Personalized_Multi-Object_CVPR_2025_paper.html>
-
 **dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xie_dFLMoE_Decentralized_Federated_Learning_via_Mixture_of_Experts_for_Medical_CVPR_2025_paper.html>
@@ -8785,10 +8738,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Rokuss_LesionLocator_Zero-Shot_Universal_Tumor_Segmentation_and_Tracking_in_3D_Whole-Body_CVPR_2025_paper.html>
 
-**Robust Multimodal Survival Prediction with Conditional Latent Differentiation Variational AutoEncoder**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Robust_Multimodal_Survival_Prediction_with_Conditional_Latent_Differentiation_Variational_AutoEncoder_CVPR_2025_paper.html>
-
 **T-FAKE: Synthesizing Thermal Images for Facial Landmarking**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Flotho_T-FAKE_Synthesizing_Thermal_Images_for_Facial_Landmarking_CVPR_2025_paper.html>
@@ -8804,10 +8753,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yu_SuperLightNet_Lightweight_Parameter_Aggregation_Network_for_Multimodal_Brain_Tumor_Segmentation_CVPR_2025_paper.html>
 - Code: <https://github.com/WTU1020-Medical-Segmentation/SuperLightNet>
-
-**Learning Heterogeneous Tissues with Mixture of Experts for Gigapixel Whole Slide Images**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Learning_Heterogeneous_Tissues_with_Mixture_of_Experts_for_Gigapixel_Whole_CVPR_2025_paper.html>
 
 **Distilled Prompt Learning for Incomplete Multimodal Survival Prediction**
 
@@ -8866,43 +8811,20 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Heiman_FactCheXcker_Mitigating_Measurement_Hallucinations_in_Chest_X-ray_Report_Generation_Models_CVPR_2025_paper.html>
 - Code: <https://github.com/rajpurkarlab/FactCheXcker>
 
-**UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gu_UniVAD_A_Training-free_Unified_Model_for_Few-shot_Visual_Anomaly_Detection_CVPR_2025_paper.html>
-- Code: <https://github.com/FantasticGNU/UniVAD>
-- Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/univad_a_training-…](https://papernotes.org/CVPR2025/medical_imaging/univad_a_training-free_unified_model_for_few-shot_visual_anomaly_detection/)
-
-**STINR: Deciphering Spatial Transcriptomics via Implicit Neural Representation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Luo_STINR_Deciphering_Spatial_Transcriptomics_via_Implicit_Neural_Representation_CVPR_2025_paper.html>
-
 **Cross-Modal Interactive Perception Network with Mamba for Lung Tumor Segmentation in PET-CT Images**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Mei_Cross-Modal_Interactive_Perception_Network_with_Mamba_for_Lung_Tumor_Segmentation_CVPR_2025_paper.html>
 - Code: <https://github.com/mj129/CIPA>
-
-**Beyond Single-Modal Boundary: Cross-Modal Anomaly Detection through Visual Prototype and Harmonization**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Mao_Beyond_Single-Modal_Boundary_Cross-Modal_Anomaly_Detection_through_Visual_Prototype_and_CVPR_2025_paper.html>
-- Code: <https://github.com/Kerio99/CMAD>
 
 **vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wittmann_vesselFM_A_Foundation_Model_for_Universal_3D_Blood_Vessel_Segmentation_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/vesselfm_a_foundat…](https://papernotes.org/CVPR2025/medical_imaging/vesselfm_a_foundation_model_for_universal_3d_blood_vessel_segmentation/)
 
-**PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Nafez_PatchGuard_Adversarially_Robust_Anomaly_Detection_and_Localization_through_Vision_Transformers_CVPR_2025_paper.html>
-
 **Revisiting MAE Pre-training for 3D Medical Image Segmentation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wald_Revisiting_MAE_Pre-training_for_3D_Medical_Image_Segmentation_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/revisiting_mae_pre…](https://papernotes.org/CVPR2025/medical_imaging/revisiting_mae_pre-training_for_3d_medical_image_segmentation/)
-
-**Multi-modal Contrastive Learning with Negative Sampling Calibration for Phenotypic Drug Discovery**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Rao_Multi-modal_Contrastive_Learning_with_Negative_Sampling_Calibration_for_Phenotypic_Drug_CVPR_2025_paper.html>
 
 **MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments**
 
@@ -8918,9 +8840,10 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Boltzmann_Attention_Sampling_for_Image_Analysis_with_Small_Objects_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/boltzmann_attentio…](https://papernotes.org/CVPR2025/medical_imaging/boltzmann_attention_sampling_for_image_analysis_with_small_objects/)
 
-**MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images**
+**Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ganguly_MERGE_Multi-faceted_Hierarchical_Graph-based_GNN_for_Gene_Expression_Prediction_from_CVPR_2025_paper.html>
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Konwer_Enhancing_SAM_with_Efficient_Prompting_and_Preference_Optimization_for_Semi-supervised_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/enhancing_sam_with_e…](https://papernotes.org/CVPR2025/llm_alignment/enhancing_sam_with_efficient_prompting_and_preference_optimization_for_semi-supe/)
 
 **EchoONE: Segmenting Multiple Echocardiography Planes in One Model**
 
@@ -8938,20 +8861,10 @@
 - Code: <https://github.com/Project-MONAI/VISTA>
 - Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/vista3d_a_unified_…](https://papernotes.org/CVPR2025/medical_imaging/vista3d_a_unified_segmentation_foundation_model_for_3d_medical_imaging/)
 
-**ZoomLDM: Latent Diffusion Model for Multi-scale Image Generation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yellapragada_ZoomLDM_Latent_Diffusion_Model_for_Multi-scale_Image_Generation_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/zoomldm_latent_dif…](https://papernotes.org/CVPR2025/medical_imaging/zoomldm_latent_diffusion_model_for_multi-scale_image_generation/)
-
 **CrossSDF: 3D Reconstruction of Thin Structures From Cross-Sections**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Walker_CrossSDF_3D_Reconstruction_of_Thin_Structures_From_Cross-Sections_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/crosssdf_3d_recons…](https://papernotes.org/CVPR2025/medical_imaging/crosssdf_3d_reconstruction_of_thin_structures_from_cross-sections/)
-
-**Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Qu_Bayesian_Prompt_Flow_Learning_for_Zero-Shot_Anomaly_Detection_CVPR_2025_paper.html>
-- Code: <https://github.com/xiaozhen228/Bayes-PFL>
 
 **Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis**
 
@@ -9017,10 +8930,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kairanda_Thin-Shell-SfT_Fine-Grained_Monocular_Non-rigid_3D_Surface_Tracking_with_Neural_Deformation_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/thin-shell-sft_fin…](https://papernotes.org/CVPR2025/medical_imaging/thin-shell-sft_fine-grained_monocular_non-rigid_3d_surface_tracking_with_neural_/)
 
-**Multi-modal Topology-embedded Graph Learning for Spatially Resolved Genes Prediction from Pathology Images with Prior Gene Similarity Information**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Shi_Multi-modal_Topology-embedded_Graph_Learning_for_Spatially_Resolved_Genes_Prediction_from_CVPR_2025_paper.html>
-
 **Prompt2Perturb (P2P): Text-Guided Diffusion-Based Adversarial Attack on Breast Ultrasound Images**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Medghalchi_Prompt2Perturb_P2P_Text-Guided_Diffusion-Based_Adversarial_Attack_on_Breast_Ultrasound_Images_CVPR_2025_paper.html>
@@ -9047,10 +8956,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_FedBiP_Heterogeneous_One-Shot_Federated_Learning_with_Personalized_Latent_Diffusion_Models_CVPR_2025_paper.html>
 - Code: <https://github.com/HaokunChen245/FedBiP>
 
-**ASIGN: An Anatomy-aware Spatial Imputation Graphic Network for 3D Spatial Transcriptomics**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_ASIGN_An_Anatomy-aware_Spatial_Imputation_Graphic_Network_for_3D_Spatial_CVPR_2025_paper.html>
-
 **MultiMorph: On-demand Atlas Construction**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Abulnaga_MultiMorph_On-demand_Atlas_Construction_CVPR_2025_paper.html>
@@ -9063,10 +8968,6 @@
 **KMD: Koopman Multi-modality Decomposition for Generalized Brain Tumor Segmentation under Incomplete Modalities**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_KMD_Koopman_Multi-modality_Decomposition_for_Generalized_Brain_Tumor_Segmentation_under_CVPR_2025_paper.html>
-
-**A Unified Latent Schrodinger Bridge Diffusion Model for Unsupervised Anomaly Detection and Localization**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Akshay_A_Unified_Latent_Schrodinger_Bridge_Diffusion_Model_for_Unsupervised_Anomaly_CVPR_2025_paper.html>
 
 **The Impact Label Noise and Choice of Threshold has on Cross-Entropy and Soft-Dice in Image Segmentation**
 
@@ -9088,12 +8989,6 @@
 **NSD-Imagery: A Benchmark Dataset for Extending fMRI Vision Decoding Methods to Mental Imagery**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kneeland_NSD-Imagery_A_Benchmark_Dataset_for_Extending_fMRI_Vision_Decoding_Methods_CVPR_2025_paper.html>
-
-**Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lenz_Unsupervised_Foundation_Model-Agnostic_Slide-Level_Representation_Learning_CVPR_2025_paper.html>
-- Code: <https://github.com/KatherLab/COBRA>
-- Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/unsupervised_found…](https://papernotes.org/CVPR2025/medical_imaging/unsupervised_foundation_model-agnostic_slide-level_representation_learning/)
 
 **On the Out-Of-Distribution Generalization of Large Multimodal Models**
 
@@ -9131,11 +9026,6 @@
 - Project: <https://brain-nrds.github.io/>
 - Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/reanimating_images…](https://papernotes.org/CVPR2025/medical_imaging/reanimating_images_using_neural_representations_of_dynamic_stimuli/)
 
-**Knowledge Bridger: Towards Training-Free Missing Modality Completion**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ke_Knowledge_Bridger_Towards_Training-Free_Missing_Modality_Completion_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/knowledge_bridger_…](https://papernotes.org/CVPR2025/medical_imaging/knowledge_bridger_towards_training-free_missing_modality_completion/)
-
 **Multi-modal Medical Diagnosis via Large-small Model Collaboration**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Multi-modal_Medical_Diagnosis_via_Large-small_Model_Collaboration_CVPR_2025_paper.html>
@@ -9154,19 +9044,19 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tao_Dual-view_X-ray_Detection_Can_AI_Detect_Prohibited_Items_from_Dual-view_CVPR_2025_paper.html>
 
-**AA-CLIP: Enhancing Zero-Shot Anomaly Detection via Anomaly-Aware CLIP**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ma_AA-CLIP_Enhancing_Zero-Shot_Anomaly_Detection_via_Anomaly-Aware_CLIP_CVPR_2025_paper.html>
-- Code: <https://github.com/Mwxinnn/AA-CLIP>
-- Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/aa-clip_enhancing_…](https://papernotes.org/CVPR2025/medical_imaging/aa-clip_enhancing_zero-shot_anomaly_detection_via_anomaly-aware_clip/)
-
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
 ---
 
 <a id="video_generation"></a>
 
-## 🎬 Video Generation · `video_generation` · 138 papers
+## 🎬 Video Generation · `video_generation` · 141 papers
+
+**Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models**
+
+- Paper: <https://arxiv.org/abs/2603.13215v1>
+- Project: <https://glab-caltech.github.io/STEVOBench/>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/out_of_sight_out_of…](https://papernotes.org/CVPR2025/llm_evaluation/out_of_sight_out_of_mind_evaluating_state_evolution_in_video_world_models/)
 
 **SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation**
 
@@ -9217,6 +9107,11 @@
 
 - Paper: <https://arxiv.org/abs/2411.19108>
 - Notes (Chinese): [papernotes.org/CVPR2025/video_generation/timestep_embeddin…](https://papernotes.org/CVPR2025/video_generation/timestep_embedding_tells_its_time_to_cache_for_video_diffusion_model/)
+
+**ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning**
+
+- Paper: <https://arxiv.org/abs/2411.05003>
+- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/recapture_generative_vid…](https://papernotes.org/CVPR2025/3d_vision/recapture_generative_video_camera_controls_for_user-provided_videos_using_masked/)
 
 **VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide**
 
@@ -9518,6 +9413,12 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Multi-subject_Open-set_Personalization_in_Video_Generation_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/video_generation/multi-subject_ope…](https://papernotes.org/CVPR2025/video_generation/multi-subject_open-set_personalization_in_video_generation/)
 
+**Wav2Sem: Plug-and-Play Audio Semantic Decoupling for 3D Speech-Driven Facial Animation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Wav2Sem_Plug-and-Play_Audio_Semantic_Decoupling_for_3D_Speech-Driven_Facial_Animation_CVPR_2025_paper.html>
+- Code: <https://github.com/wslh852/Wav2Sem>
+- Notes (Chinese): [papernotes.org/CVPR2025/human_understanding/wav2sem_plug-a…](https://papernotes.org/CVPR2025/human_understanding/wav2sem_plug-and-play_audio_semantic_decoupling_for_3d_speech-driven_facial_anim/)
+
 **VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_VideoScene_Distilling_Video_Diffusion_Model_to_Generate_3D_Scenes_in_CVPR_2025_paper.html>
@@ -9609,10 +9510,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_MovieBench_A_Hierarchical_Movie_Level_Dataset_for_Long_Video_Generation_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/video_generation/moviebench_a_hier…](https://papernotes.org/CVPR2025/video_generation/moviebench_a_hierarchical_movie_level_dataset_for_long_video_generation/)
-
-**Encapsulated Composition of Text-to-Image and Text-to-Video Models for High-Quality Video Synthesis**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Su_Encapsulated_Composition_of_Text-to-Image_and_Text-to-Video_Models_for_High-Quality_Video_CVPR_2025_paper.html>
 
 **VIRES: Video Instance Repainting via Sketch and Text Guided Generation**
 
@@ -9731,11 +9628,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_VidTwin_Video_VAE_with_Decoupled_Structure_and_Dynamics_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/video_generation/vidtwin_video_vae…](https://papernotes.org/CVPR2025/video_generation/vidtwin_video_vae_with_decoupled_structure_and_dynamics/)
 
-**SpatialDreamer: Self-supervised Stereo Video Synthesis from Monocular Input**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lv_SpatialDreamer_Self-supervised_Stereo_Video_Synthesis_from_Monocular_Input_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_generation/spatialdreamer_se…](https://papernotes.org/CVPR2025/video_generation/spatialdreamer_self-supervised_stereo_video_synthesis_from_monocular_input/)
-
 **BF-STVSR: B-Splines and Fourier---Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_BF-STVSR_B-Splines_and_Fourier---Best_Friends_for_High_Fidelity_Spatial-Temporal_Video_CVPR_2025_paper.html>
@@ -9756,6 +9648,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bar_Navigation_World_Models_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/video_generation/navigation_world_…](https://papernotes.org/CVPR2025/video_generation/navigation_world_models/)
+
+**Video Motion Transfer with Diffusion Transformers**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pondaven_Video_Motion_Transfer_with_Diffusion_Transformers_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/image_restoration/video_motion_tra…](https://papernotes.org/CVPR2025/image_restoration/video_motion_transfer_with_diffusion_transformers/)
 
 **Dynamic Camera Poses and Where to Find Them**
 
@@ -9817,6 +9714,10 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_EmotiveTalk_Expressive_Talking_Head_Generation_through_Audio_Information_Decoupling_and_CVPR_2025_paper.html>
 - Project: <https://emotivetalk.github.io/>
 
+**Let's Chorus: Partner-aware Hybrid Song-Driven 3D Head Animation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xie_Lets_Chorus_Partner-aware_Hybrid_Song-Driven_3D_Head_Animation_CVPR_2025_paper.html>
+
 **HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_HumanDreamer_Generating_Controllable_Human-Motion_Videos_via_Decoupled_Generation_CVPR_2025_paper.html>
@@ -9849,651 +9750,19 @@
 
 ---
 
-<a id="video_understanding"></a>
-
-## 📹 Video Understanding · `video_understanding` · 130 papers
-
-**Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously**
-
-- Paper: <https://arxiv.org/abs/2603.12262v1>
-- Code: <https://github.com/1ranGuan/VST>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/video_streamin…](https://papernotes.org/CVPR2025/video_understanding/video_streaming_thinking_videollms_can_watch_and_think_simultaneously/)
-
-**Cross-modal Causal Relation Alignment for Video Question Grounding**
-
-- Paper: <https://arxiv.org/abs/2503.07635>
-- Code: <https://github.com/WissingChen/CRA-GQA>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/cross-modal_ca…](https://papernotes.org/CVPR2025/video_understanding/cross-modal_causal_relation_alignment_for_video_question_grounding/)
-
-**FC-Track: Overlap-Aware Post-Association Correction for Online Multi-Object Tracking**
-
-- Paper: <https://arxiv.org/abs/2603.12758v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/fc-track_overl…](https://papernotes.org/CVPR2025/video_understanding/fc-track_overlap-aware_post-association_correction_for_online_multi-object_track/)
-
-**VCBench: A Streaming Counting Benchmark for Spatial-Temporal State Maintenance in Long Videos**
-
-- Paper: <https://arxiv.org/abs/2603.12703v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/vcbench_a_stre…](https://papernotes.org/CVPR2025/video_understanding/vcbench_a_streaming_counting_benchmark_for_spatial-temporal_state_maintenance_in/)
-
-**BehaviorVLM: Unified Finetuning-Free Behavioral Understanding with Vision-Language Reasoning**
-
-- Paper: <https://arxiv.org/abs/2603.12176v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/behaviorvlm_un…](https://papernotes.org/CVPR2025/video_understanding/behaviorvlm_unified_finetuning-free_behavioral_understanding_with_vision-languag/)
-
-**Beyond Single-Sample: Reliable Multi-Sample Distillation for Video Understanding**
-
-- Paper: <https://arxiv.org/abs/2603.11423v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/beyond_single-…](https://papernotes.org/CVPR2025/video_understanding/beyond_single-sample_reliable_multi-sample_distillation_for_video_understanding/)
-
-**BiM-VFI: Bidirectional Motion Field-Guided Frame Interpolation for Video with Non-uniform Motions**
-
-- Paper: <https://arxiv.org/abs/2412.11365>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/bim-vfi_bidire…](https://papernotes.org/CVPR2025/video_understanding/bim-vfi_bidirectional_motion_field-guided_frame_interpolation_for_video_with_non/)
-
-**Enhancing Video-LLM Reasoning via Agent-of-Thoughts Distillation**
-
-- Paper: <https://arxiv.org/abs/2412.01694>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/enhancing_vide…](https://papernotes.org/CVPR2025/video_understanding/enhancing_video-llm_reasoning_via_agent-of-thoughts_distillation/)
-
-**FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Camiletto_FRAME_Floor-aligned_Representation_for_Avatar_Motion_from_Egocentric_Video_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/frame_floor-al…](https://papernotes.org/CVPR2025/video_understanding/frame_floor-aligned_representation_for_avatar_motion_from_egocentric_video/)
-
-**DrVideo: Document Retrieval Based Long Video Understanding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ma_DrVideo_Document_Retrieval_Based_Long_Video_Understanding_CVPR_2025_paper.html>
-- Code: <https://github.com/Upper9527/DrVideo>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/drvideo_docume…](https://papernotes.org/CVPR2025/video_understanding/drvideo_document_retrieval_based_long_video_understanding/)
-
-**Buffer Anytime: Zero-Shot Video Depth and Normal from Image Priors**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kuang_Buffer_Anytime_Zero-Shot_Video_Depth_and_Normal_from_Image_Priors_CVPR_2025_paper.html>
-
-**MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Qin_MUST_The_First_Dataset_and_Unified_Framework_for_Multispectral_UAV_CVPR_2025_paper.html>
-- Code: <https://github.com/q2479036243/MUST-Multispectral-UAV-Single-Object-Tracking>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/must_the_first…](https://papernotes.org/CVPR2025/video_understanding/must_the_first_dataset_and_unified_framework_for_multispectral_uav_single_object/)
-
-**FSBench: A Figure Skating Benchmark for Advancing Artistic Sports Understanding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gao_FSBench_A_Figure_Skating_Benchmark_for_Advancing_Artistic_Sports_Understanding_CVPR_2025_paper.html>
-- Code: <https://github.com/Moomin-Fin/Ano>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/fsbench_a_figu…](https://papernotes.org/CVPR2025/video_understanding/fsbench_a_figure_skating_benchmark_for_advancing_artistic_sports_understanding/)
-
-**VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by Video Spatiotemporal Augmentation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ren_VISTA_Enhancing_Long-Duration_and_High-Resolution_Video_Understanding_by_Video_Spatiotemporal_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/vista_enhancin…](https://papernotes.org/CVPR2025/video_understanding/vista_enhancing_long-duration_and_high-resolution_video_understanding_by_video_s/)
-
-**DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Alvar_DivPrune_Diversity-based_Visual_Token_Pruning_for_Large_Multimodal_Models_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/divprune_diver…](https://papernotes.org/CVPR2025/video_understanding/divprune_diversity-based_visual_token_pruning_for_large_multimodal_models/)
-
-**STOP: Integrated Spatial-Temporal Dynamic Prompting for Video Understanding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_STOP_Integrated_Spatial-Temporal_Dynamic_Prompting_for_Video_Understanding_CVPR_2025_paper.html>
-- Code: <https://github.com/zhoujiahuan1991/CVPR2025-STOP>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/stop_integrate…](https://papernotes.org/CVPR2025/video_understanding/stop_integrated_spatial-temporal_dynamic_prompting_for_video_understanding/)
-
-**DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Morimitsu_DPFlow_Adaptive_Optical_Flow_Estimation_with_a_Dual-Pyramid_Framework_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/dpflow_adaptiv…](https://papernotes.org/CVPR2025/video_understanding/dpflow_adaptive_optical_flow_estimation_with_a_dual-pyramid_framework/)
-
-**Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xie_Are_Spatial-Temporal_Graph_Convolution_Networks_for_Human_Action_Recognition_Over-Parameterized_CVPR_2025_paper.html>
-- Code: <https://github.com/davelailai/Sparse-ST-GCN>
-
-**Q-Bench-Video: Benchmark the Video Quality Understanding of LMMs**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Q-Bench-Video_Benchmark_the_Video_Quality_Understanding_of_LMMs_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/q-bench-video_…](https://papernotes.org/CVPR2025/video_understanding/q-bench-video_benchmark_the_video_quality_understanding_of_lmms/)
-
-**Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Commonsense_Video_Question_Answering_through_Video-Grounded_Entailment_Tree_Reasoning_CVPR_2025_paper.html>
-
-**Focusing on Tracks for Online Multi-Object Tracking**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Shim_Focusing_on_Tracks_for_Online_Multi-Object_Tracking_CVPR_2025_paper.html>
-
-**WiLoR: End-to-end 3D Hand Localization and Reconstruction in-the-wild**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Potamias_WiLoR_End-to-end_3D_Hand_Localization_and_Reconstruction_in-the-wild_CVPR_2025_paper.html>
-- Project: <https://rolpotamias.github.io/WiLoR>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/wilor_end-to-e…](https://papernotes.org/CVPR2025/video_understanding/wilor_end-to-end_3d_hand_localization_and_reconstruction_in-the-wild/)
-
-**HyperGLM: HyperGraph for Video Scene Graph Generation and Anticipation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Nguyen_HyperGLM_HyperGraph_for_Video_Scene_Graph_Generation_and_Anticipation_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/hyperglm_hyper…](https://papernotes.org/CVPR2025/video_understanding/hyperglm_hypergraph_for_video_scene_graph_generation_and_anticipation/)
-
-**OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding?**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Niu_OVO-Bench_How_Far_is_Your_Video-LLMs_from_Real-World_Online_Video_CVPR_2025_paper.html>
-- Project: <https://joeleelyf.github.io/OVO-Bench>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/ovo-bench_how_…](https://papernotes.org/CVPR2025/video_understanding/ovo-bench_how_far_is_your_video-llms_from_real-world_online_video_understanding/)
-
-**DreamTrack: Dreaming the Future for Multimodal Visual Object Tracking**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Guo_DreamTrack_Dreaming_the_Future_for_Multimodal_Visual_Object_Tracking_CVPR_2025_paper.html>
-
-**Beyond Image Classification: A Video Benchmark and Dual-Branch Hybrid Discrimination Framework for Compositional Zero-Shot Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_Beyond_Image_Classification_A_Video_Benchmark_and_Dual-Branch_Hybrid_Discrimination_CVPR_2025_paper.html>
-
-**Few-shot Personalized Scanpath Prediction**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xue_Few-shot_Personalized_Scanpath_Prediction_CVPR_2025_paper.html>
-- Code: <https://github.com/cvlab-stonybrook/few-shot-scanpath>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/few-shot_perso…](https://papernotes.org/CVPR2025/video_understanding/few-shot_personalized_scanpath_prediction/)
-
-**Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Hybrid-Level_Instruction_Injection_for_Video_Token_Compression_in_Multi-modal_Large_CVPR_2025_paper.html>
-- Code: <https://github.com/lntzm/HICom>
-
-**Event-Equalized Dense Video Captioning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Event-Equalized_Dense_Video_Captioning_CVPR_2025_paper.html>
-
-**EDCFlow: Exploring Temporally Dense Difference Maps for Event-based Optical Flow Estimation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_EDCFlow_Exploring_Temporally_Dense_Difference_Maps_for_Event-based_Optical_Flow_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/edcflow_explor…](https://papernotes.org/CVPR2025/video_understanding/edcflow_exploring_temporally_dense_difference_maps_for_event-based_optical_flow_/)
-
-**Semantic-guided Cross-Modal Prompt Learning for Skeleton-based Zero-shot Action Recognition**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Semantic-guided_Cross-Modal_Prompt_Learning_for_Skeleton-based_Zero-shot_Action_Recognition_CVPR_2025_paper.html>
-
-**VITED: Video Temporal Evidence Distillation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lu_VITED_Video_Temporal_Evidence_Distillation_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/vited_video_te…](https://papernotes.org/CVPR2025/video_understanding/vited_video_temporal_evidence_distillation/)
-
-**LION-FS: Fast & Slow Video-Language Thinker as Online Video Assistant**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_LION-FS_Fast__Slow_Video-Language_Thinker_as_Online_Video_Assistant_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/lion-fs_fast_s…](https://papernotes.org/CVPR2025/video_understanding/lion-fs_fast_slow_video-language_thinker_as_online_video_assistant/)
-
-**Descriptor-In-Pixel : Point-Feature Tracking For Pixel Processor Arrays**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bose_Descriptor-In-Pixel__Point-Feature_Tracking_For_Pixel_Processor_Arrays_CVPR_2025_paper.html>
-
-**TAMT: Temporal-Aware Model Tuning for Cross-Domain Few-Shot Action Recognition**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_TAMT_Temporal-Aware_Model_Tuning_for_Cross-Domain_Few-Shot_Action_Recognition_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/tamt_temporal-…](https://papernotes.org/CVPR2025/video_understanding/tamt_temporal-aware_model_tuning_for_cross-domain_few-shot_action_recognition/)
-
-**LoKi: Low-dimensional KAN for Efficient Fine-tuning Image Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cai_LoKi_Low-dimensional_KAN_for_Efficient_Fine-tuning_Image_Models_CVPR_2025_paper.html>
-
-**Language-Guided Audio-Visual Learning for Long-Term Sports Assessment**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Language-Guided_Audio-Visual_Learning_for_Long-Term_Sports_Assessment_CVPR_2025_paper.html>
-- Code: <https://github.com/XuHuangbiao/MLAVL>
-
-**Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yi_Video-Panda_Parameter-efficient_Alignment_for_Encoder-free_Video-Language_Models_CVPR_2025_paper.html>
-- Project: <https://jh-yi.github.io/Video-Panda>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/video-panda_pa…](https://papernotes.org/CVPR2025/video_understanding/video-panda_parameter-efficient_alignment_for_encoder-free_video-language_models/)
-
-**EgoLife: Towards Egocentric Life Assistant**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_EgoLife_Towards_Egocentric_Life_Assistant_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/egolife_toward…](https://papernotes.org/CVPR2025/video_understanding/egolife_towards_egocentric_life_assistant/)
-
-**Flexible Frame Selection for Efficient Video Reasoning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Buch_Flexible_Frame_Selection_for_Efficient_Video_Reasoning_CVPR_2025_paper.html>
-
-**Number it: Temporal Grounding Videos like Flipping Manga**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Number_it_Temporal_Grounding_Videos_like_Flipping_Manga_CVPR_2025_paper.html>
-- Code: <https://github.com/yongliang-wu/NumPro>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/number_it_temp…](https://papernotes.org/CVPR2025/video_understanding/number_it_temporal_grounding_videos_like_flipping_manga/)
-
-**EnvPoser: Environment-aware Realistic Human Motion Estimation from Sparse Observations with Uncertainty Modeling**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xia_EnvPoser_Environment-aware_Realistic_Human_Motion_Estimation_from_Sparse_Observations_with_CVPR_2025_paper.html>
-- Project: <https://xspc.github.io/EnvPoser/>
-
-**Dynamic Updates for Language Adaptation in Visual-Language Tracking**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Dynamic_Updates_for_Language_Adaptation_in_Visual-Language_Tracking_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/dynamic_update…](https://papernotes.org/CVPR2025/video_understanding/dynamic_updates_for_language_adaptation_in_visual-language_tracking/)
-
-**SeriesBench: A Benchmark for Narrative-Driven Drama Series Understanding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_SeriesBench_A_Benchmark_for_Narrative-Driven_Drama_Series_Understanding_CVPR_2025_paper.html>
-- Code: <https://github.com/zackhxn/SeriesBench-CVPR2025>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/seriesbench_a_…](https://papernotes.org/CVPR2025/video_understanding/seriesbench_a_benchmark_for_narrative-driven_drama_series_understanding/)
-
-**VideoAutoArena: An Automated Arena for Evaluating Large Multimodal Models in Video Analysis through User Simulation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Luo_VideoAutoArena_An_Automated_Arena_for_Evaluating_Large_Multimodal_Models_in_CVPR_2025_paper.html>
-
-**AdaCM^2: On Understanding Extremely Long-Term Video with Adaptive Cross-Modality Memory Reduction**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Man_AdaCM2_On_Understanding_Extremely_Long-Term_Video_with_Adaptive_Cross-Modality_Memory_CVPR_2025_paper.html>
-
-**VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_VideoICL_Confidence-based_Iterative_In-context_Learning_for_Out-of-Distribution_Video_Understanding_CVPR_2025_paper.html>
-
-**Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xue_Similarity-Guided_Layer-Adaptive_Vision_Transformer_for_UAV_Tracking_CVPR_2025_paper.html>
-- Code: <https://github.com/GXNU-ZhongLab/SGLATrack>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/similarity-gui…](https://papernotes.org/CVPR2025/video_understanding/similarity-guided_layer-adaptive_vision_transformer_for_uav_tracking/)
-
-**Coarse Correspondences Boost Spatial-Temporal Reasoning in Multimodal Language Model**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Coarse_Correspondences_Boost_Spatial-Temporal_Reasoning_in_Multimodal_Language_Model_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/coarse_corresp…](https://papernotes.org/CVPR2025/video_understanding/coarse_correspondences_boost_spatial-temporal_reasoning_in_multimodal_language_m/)
-
-**LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Geng_LongVALE_Vision-Audio-Language-Event_Benchmark_Towards_Time-Aware_Omni-Modal_Perception_of_Long_Videos_CVPR_2025_paper.html>
-
-**Localizing Events in Videos with Multimodal Queries**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Localizing_Events_in_Videos_with_Multimodal_Queries_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/localizing_eve…](https://papernotes.org/CVPR2025/video_understanding/localizing_events_in_videos_with_multimodal_queries/)
-
-**LLAVIDAL: A Large LAnguage VIsion Model for Daily Activities of Living**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Reilly_LLAVIDAL_A_Large_LAnguage_VIsion_Model_for_Daily_Activities_of_CVPR_2025_paper.html>
-- Project: <https://adl-x.github.io/>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/llavidal_a_lar…](https://papernotes.org/CVPR2025/video_understanding/llavidal_a_large_language_vision_model_for_daily_activities_of_living/)
-
-**VoCo-LLaMA: Towards Vision Compression with Large Language Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ye_VoCo-LLaMA_Towards_Vision_Compression_with_Large_Language_Models_CVPR_2025_paper.html>
-- Project: <https://yxxxb.github.io/VoCo-LLaMA-page>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/voco-llama_tow…](https://papernotes.org/CVPR2025/video_understanding/voco-llama_towards_vision_compression_with_large_language_models/)
-
-**PURA: Parameter Update-Recovery Test-Time Adaption for RGB-T Tracking**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Shao_PURA_Parameter_Update-Recovery_Test-Time_Adaption_for_RGB-T_Tracking_CVPR_2025_paper.html>
-- Project: <https://melantech.github.io/PURA>
-
-**Motions as Queries: One-Stage Multi-Person Holistic Human Motion Capture**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Motions_as_Queries_One-Stage_Multi-Person_Holistic_Human_Motion_Capture_CVPR_2025_paper.html>
-
-**SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cai_SPMTrack_Spatio-Temporal_Parameter-Efficient_Fine-Tuning_with_Mixture_of_Experts_for_Scalable_CVPR_2025_paper.html>
-- Code: <https://github.com/WenRuiCai/SPMTrack>
-
-**H-MoRe: Learning Human-centric Motion Representation for Action Analysis**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_H-MoRe_Learning_Human-centric_Motion_Representation_for_Action_Analysis_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/h-more_learnin…](https://papernotes.org/CVPR2025/video_understanding/h-more_learning_human-centric_motion_representation_for_action_analysis/)
-
-**Adaptive Keyframe Sampling for Long Video Understanding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Adaptive_Keyframe_Sampling_for_Long_Video_Understanding_CVPR_2025_paper.html>
-- Code: <https://github.com/ncTimTang/AKS>
-
-**Person De-reidentification: A Variation-guided Identity Shift Modeling**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Peng_Person_De-reidentification_A_Variation-guided_Identity_Shift_Modeling_CVPR_2025_paper.html>
-
-**Seq2Time: Sequential Knowledge Transfer for Video LLM Temporal Grounding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Deng_Seq2Time_Sequential_Knowledge_Transfer_for_Video_LLM_Temporal_Grounding_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/seq2time_seque…](https://papernotes.org/CVPR2025/video_understanding/seq2time_sequential_knowledge_transfer_for_video_llm_temporal_grounding/)
-
-**Temporal Alignment-Free Video Matching for Few-shot Action Recognition**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Temporal_Alignment-Free_Video_Matching_for_Few-shot_Action_Recognition_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/temporal_align…](https://papernotes.org/CVPR2025/video_understanding/temporal_alignment-free_video_matching_for_few-shot_action_recognition/)
-
-**Unbiasing through Textual Descriptions: Mitigating Representation Bias in Video Benchmarks**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Shvetsova_Unbiasing_through_Textual_Descriptions_Mitigating_Representation_Bias_in_Video_Benchmarks_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/unbiasing_thro…](https://papernotes.org/CVPR2025/video_understanding/unbiasing_through_textual_descriptions_mitigating_representation_bias_in_video_b/)
-
-**Action Detail Matters: Refining Video Recognition with Local Action Queries**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Action_Detail_Matters_Refining_Video_Recognition_with_Local_Action_Queries_CVPR_2025_paper.html>
-
-**PAVE: Patching and Adapting Video Large Language Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_PAVE_Patching_and_Adapting_Video_Large_Language_Models_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/pave_patching_…](https://papernotes.org/CVPR2025/video_understanding/pave_patching_and_adapting_video_large_language_models/)
-
-**OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_OmniMMI_A_Comprehensive_Multi-modal_Interaction_Benchmark_in_Streaming_Video_Contexts_CVPR_2025_paper.html>
-
-**Video Language Model Pretraining with Spatio-temporal Masking**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Video_Language_Model_Pretraining_with_Spatio-temporal_Masking_CVPR_2025_paper.html>
-
-**Object-Shot Enhanced Grounding Network for Egocentric Video**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Feng_Object-Shot_Enhanced_Grounding_Network_for_Egocentric_Video_CVPR_2025_paper.html>
-- Code: <https://github.com/Yisen-Feng/OSGNet>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/object-shot_en…](https://papernotes.org/CVPR2025/video_understanding/object-shot_enhanced_grounding_network_for_egocentric_video/)
-
-**RELOCATE: A Simple Training-Free Baseline for Visual Query Localization Using Region-Based Representations**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Khosla_RELOCATE_A_Simple_Training-Free_Baseline_for_Visual_Query_Localization_Using_CVPR_2025_paper.html>
-
-**EBS-EKF: Accurate and High Frequency Event-based Star Tracking**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Reed_EBS-EKF_Accurate_and_High_Frequency_Event-based_Star_Tracking_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/ebs-ekf_accura…](https://papernotes.org/CVPR2025/video_understanding/ebs-ekf_accurate_and_high_frequency_event-based_star_tracking/)
-
-**MMVU: Measuring Expert-Level Multi-Discipline Video Understanding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_MMVU_Measuring_Expert-Level_Multi-Discipline_Video_Understanding_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/mmvu_measuring…](https://papernotes.org/CVPR2025/video_understanding/mmvu_measuring_expert-level_multi-discipline_video_understanding/)
-
-**M-LLM Based Video Frame Selection for Efficient Video Understanding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hu_M-LLM_Based_Video_Frame_Selection_for_Efficient_Video_Understanding_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/m-llm_based_vi…](https://papernotes.org/CVPR2025/video_understanding/m-llm_based_video_frame_selection_for_efficient_video_understanding/)
-
-**Multi-Modal Synergistic Implicit Image Enhancement for Efficient Optical Flow Estimation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dai_Multi-Modal_Synergistic_Implicit_Image_Enhancement_for_Efficient_Optical_Flow_Estimation_CVPR_2025_paper.html>
-
-**Heterogeneous Skeleton-Based Action Representation Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Heterogeneous_Skeleton-Based_Action_Representation_Learning_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/heterogeneous_…](https://papernotes.org/CVPR2025/video_understanding/heterogeneous_skeleton-based_action_representation_learning/)
-
-**SEAL: Semantic Attention Learning for Long Video Representation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_SEAL_Semantic_Attention_Learning_for_Long_Video_Representation_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/seal_semantic_…](https://papernotes.org/CVPR2025/video_understanding/seal_semantic_attention_learning_for_long_video_representation/)
-
-**MLVU: Benchmarking Multi-task Long Video Understanding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_MLVU_Benchmarking_Multi-task_Long_Video_Understanding_CVPR_2025_paper.html>
-- Code: <https://github.com/JUNJIE99/MLVU>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/mlvu_benchmark…](https://papernotes.org/CVPR2025/video_understanding/mlvu_benchmarking_multi-task_long_video_understanding/)
-
-**VELOCITI: Benchmarking Video-Language Compositional Reasoning with Strict Entailment**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Saravanan_VELOCITI_Benchmarking_Video-Language_Compositional_Reasoning_with_Strict_Entailment_CVPR_2025_paper.html>
-
-**HuPerFlow: A Comprehensive Benchmark for Human vs. Machine Motion Estimation Comparison**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_HuPerFlow_A_Comprehensive_Benchmark_for_Human_vs._Machine_Motion_Estimation_CVPR_2025_paper.html>
-
-**Temporally Consistent Object-Centric Learning by Contrasting Slots**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Manasyan_Temporally_Consistent_Object-Centric_Learning_by_Contrasting_Slots_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/temporally_con…](https://papernotes.org/CVPR2025/video_understanding/temporally_consistent_object-centric_learning_by_contrasting_slots/)
-
-**STEP: Enhancing Video-LLMs' Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Qiu_STEP_Enhancing_Video-LLMs_Compositional_Reasoning_by_Spatio-Temporal_Graph-guided_Self-Training_CVPR_2025_paper.html>
-
-**HuMoCon: Concept Discovery for Human Motion Understanding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fang_HuMoCon_Concept_Discovery_for_Human_Motion_Understanding_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/humocon_concep…](https://papernotes.org/CVPR2025/video_understanding/humocon_concept_discovery_for_human_motion_understanding/)
-
-**Unsupervised Discovery of Facial Landmarks and Head Pose**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tourani_Unsupervised_Discovery_of_Facial_Landmarks_and_Head_Pose_CVPR_2025_paper.html>
-
-**Simulator HC: Regression-based Online Simulation of Starting Problem-Solution Pairs for Homotopy Continuation in Geometric Vision**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Simulator_HC_Regression-based_Online_Simulation_of_Starting_Problem-Solution_Pairs_for_CVPR_2025_paper.html>
-
-**Apollo:  An Exploration of Video Understanding in Large Multimodal Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zohar_Apollo__An_Exploration_of_Video_Understanding_in_Large_Multimodal_CVPR_2025_paper.html>
-
-**Omnia de EgoTempo: Benchmarking Temporal Understanding of Multi-Modal LLMs in Egocentric Videos**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Plizzari_Omnia_de_EgoTempo_Benchmarking_Temporal_Understanding_of_Multi-Modal_LLMs_in_CVPR_2025_paper.html>
-- Code: <https://github.com/google-research-datasets/egotempo>
-
-**Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Code-as-Monitor_Constraint-aware_Visual_Programming_for_Reactive_and_Proactive_Robotic_Failure_CVPR_2025_paper.html>
-
-**Revealing Key Details to See Differences: A Novel Prototypical Perspective for Skeleton-based Action Recognition**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Revealing_Key_Details_to_See_Differences_A_Novel_Prototypical_Perspective_CVPR_2025_paper.html>
-- Code: <https://github.com/firework8/ProtoGCN>
-
-**Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Bridge_Frame_and_Event_Common_Spatiotemporal_Fusion_for_High-Dynamic_Scene_CVPR_2025_paper.html>
-
-**Graph Neural Network Combining Event Stream and Periodic Aggregation for Low-Latency Event-based Vision**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dampfhoffer_Graph_Neural_Network_Combining_Event_Stream_and_Periodic_Aggregation_for_CVPR_2025_paper.html>
-
-**Bootstrap Your Own Views: Masked Ego-Exo Modeling for Fine-grained View-invariant Video Representations**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Park_Bootstrap_Your_Own_Views_Masked_Ego-Exo_Modeling_for_Fine-grained_View-invariant_CVPR_2025_paper.html>
-- Code: <https://github.com/park-jungin/byov>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/bootstrap_your…](https://papernotes.org/CVPR2025/video_understanding/bootstrap_your_own_views_masked_ego-exo_modeling_for_fine-grained_view-invariant/)
-
-**ETAP: Event-based Tracking of Any Point**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hamann_ETAP_Event-based_Tracking_of_Any_Point_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/etap_event-bas…](https://papernotes.org/CVPR2025/video_understanding/etap_event-based_tracking_of_any_point/)
-
-**BIMBA: Selective-Scan Compression for Long-Range Video Question Answering**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Islam_BIMBA_Selective-Scan_Compression_for_Long-Range_Video_Question_Answering_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/bimba_selectiv…](https://papernotes.org/CVPR2025/video_understanding/bimba_selective-scan_compression_for_long-range_video_question_answering/)
-
-**EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_EgoTextVQA_Towards_Egocentric_Scene-Text_Aware_Video_Question_Answering_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/egotextvqa_tow…](https://papernotes.org/CVPR2025/video_understanding/egotextvqa_towards_egocentric_scene-text_aware_video_question_answering/)
-
-**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fu_Video-MME_The_First-Ever_Comprehensive_Evaluation_Benchmark_of_Multi-modal_LLMs_in_CVPR_2025_paper.html>
-
-**Learning Audio-guided Video Representation with Gated Attention for Video-Text Retrieval**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jeong_Learning_Audio-guided_Video_Representation_with_Gated_Attention_for_Video-Text_Retrieval_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/learning_audio…](https://papernotes.org/CVPR2025/video_understanding/learning_audio-guided_video_representation_with_gated_attention_for_video-text_r/)
-
-**Sound Bridge: Associating Egocentric and Exocentric Videos via Audio Cues**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Sound_Bridge_Associating_Egocentric_and_Exocentric_Videos_via_Audio_Cues_CVPR_2025_paper.html>
-- Code: <https://github.com/shhuangcoder/SoundBridge>
-
-**VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_VideoTree_Adaptive_Tree-based_Video_Representation_for_LLM_Reasoning_on_Long_CVPR_2025_paper.html>
-
-**PlanarSplatting: Accurate Planar Surface Reconstruction in 3 Minutes**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tan_PlanarSplatting_Accurate_Planar_Surface_Reconstruction_in_3_Minutes_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/planarsplattin…](https://papernotes.org/CVPR2025/video_understanding/planarsplatting_accurate_planar_surface_reconstruction_in_3_minutes/)
-
-**MODA: Motion-Drift Augmentation for Inertial Human Motion Analysis**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_MODA_Motion-Drift_Augmentation_for_Inertial_Human_Motion_Analysis_CVPR_2025_paper.html>
-
-**Omni-RGPT: Unifying Image and Video Region-level Understanding via Token Marks**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Heo_Omni-RGPT_Unifying_Image_and_Video_Region-level_Understanding_via_Token_Marks_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/omni-rgpt_unif…](https://papernotes.org/CVPR2025/video_understanding/omni-rgpt_unifying_image_and_video_region-level_understanding_via_token_marks/)
-
-**Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Neuron_Learning_Context-Aware_Evolving_Representations_for_Zero-Shot_Skeleton_Action_Recognition_CVPR_2025_paper.html>
-- Code: <https://github.com/cseeyangchen/Neuron>
-
-**FIFA: Fine-grained Inter-frame Attention for Driver's Video Gaze Estimation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hu_FIFA_Fine-grained_Inter-frame_Attention_for_Drivers_Video_Gaze_Estimation_CVPR_2025_paper.html>
-
-**Efficient Transfer Learning for Video-language Foundation Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Efficient_Transfer_Learning_for_Video-language_Foundation_Models_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/efficient_tran…](https://papernotes.org/CVPR2025/video_understanding/efficient_transfer_learning_for_video-language_foundation_models/)
-
-**GG-SSMs: Graph-Generating State Space Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zubic_GG-SSMs_Graph-Generating_State_Space_Models_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/gg-ssms_graph-…](https://papernotes.org/CVPR2025/video_understanding/gg-ssms_graph-generating_state_space_models/)
-
-**ReWind: Understanding Long Videos with Instructed Learnable Memory**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Diko_ReWind_Understanding_Long_Videos_with_Instructed_Learnable_Memory_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/rewind_underst…](https://papernotes.org/CVPR2025/video_understanding/rewind_understanding_long_videos_with_instructed_learnable_memory/)
-
-**DeCafNet: Delegate and Conquer for Efficient Temporal Grounding in Long Videos**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lu_DeCafNet_Delegate_and_Conquer_for_Efficient_Temporal_Grounding_in_Long_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/decafnet_deleg…](https://papernotes.org/CVPR2025/video_understanding/decafnet_delegate_and_conquer_for_efficient_temporal_grounding_in_long_videos/)
-
-**Context-Enhanced Memory-Refined Transformer for Online Action Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pang_Context-Enhanced_Memory-Refined_Transformer_for_Online_Action_Detection_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/context-enhanc…](https://papernotes.org/CVPR2025/video_understanding/context-enhanced_memory-refined_transformer_for_online_action_detection/)
-
-**HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Azad_HierarQ_Task-Aware_Hierarchical_Q-Former_for_Enhanced_Video_Understanding_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/hierarq_task-a…](https://papernotes.org/CVPR2025/video_understanding/hierarq_task-aware_hierarchical_q-former_for_enhanced_video_understanding/)
-
-**CASP: Compression of Large Multimodal Models Based on Attention Sparsity**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gholami_CASP_Compression_of_Large_Multimodal_Models_Based_on_Attention_Sparsity_CVPR_2025_paper.html>
-
-**VideoGEM: Training-free Action Grounding in Videos**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Vogel_VideoGEM_Training-free_Action_Grounding_in_Videos_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/videogem_train…](https://papernotes.org/CVPR2025/video_understanding/videogem_training-free_action_grounding_in_videos/)
-
-**GRAE-3DMOT: Geometry Relation-Aware Encoder for Online 3D Multi-Object Tracking**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_GRAE-3DMOT_Geometry_Relation-Aware_Encoder_for_Online_3D_Multi-Object_Tracking_CVPR_2025_paper.html>
-
-**Ego4o: Egocentric Human Motion Capture and Understanding from Multi-Modal Input**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Ego4o_Egocentric_Human_Motion_Capture_and_Understanding_from_Multi-Modal_Input_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/ego4o_egocentr…](https://papernotes.org/CVPR2025/video_understanding/ego4o_egocentric_human_motion_capture_and_understanding_from_multi-modal_input/)
-
-**SF2T: Self-supervised Fragment Finetuning of Video-LLMs for Fine-Grained Understanding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hu_SF2T_Self-supervised_Fragment_Finetuning_of_Video-LLMs_for_Fine-Grained_Understanding_CVPR_2025_paper.html>
-
-**Question-Aware Gaussian Experts for Audio-Visual Question Answering**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Question-Aware_Gaussian_Experts_for_Audio-Visual_Question_Answering_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/question-aware…](https://papernotes.org/CVPR2025/video_understanding/question-aware_gaussian_experts_for_audio-visual_question_answering/)
-
-**DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_DPU_Dynamic_Prototype_Updating_for_Multimodal_Out-of-Distribution_Detection_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/dpu_dynamic_pr…](https://papernotes.org/CVPR2025/video_understanding/dpu_dynamic_prototype_updating_for_multimodal_out-of-distribution_detection/)
-
-**Exploring Historical Information for RGBE Visual Tracking with Mamba**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_Exploring_Historical_Information_for_RGBE_Visual_Tracking_with_Mamba_CVPR_2025_paper.html>
-
-**MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_MambaVLT_Time-Evolving_Multimodal_State_Space_Model_for_Vision-Language_Tracking_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/mambavlt_time-…](https://papernotes.org/CVPR2025/video_understanding/mambavlt_time-evolving_multimodal_state_space_model_for_vision-language_tracking/)
-
-**From Sparse Signal to Smooth Motion: Real-Time Motion Generation with Rolling Prediction Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Barquero_From_Sparse_Signal_to_Smooth_Motion_Real-Time_Motion_Generation_with_CVPR_2025_paper.html>
-
-**Towards Universal Soccer Video Understanding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Rao_Towards_Universal_Soccer_Video_Understanding_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/towards_univer…](https://papernotes.org/CVPR2025/video_understanding/towards_universal_soccer_video_understanding/)
-
-**ExpertAF: Expert Actionable Feedback from Video**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ashutosh_ExpertAF_Expert_Actionable_Feedback_from_Video_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/expertaf_exper…](https://papernotes.org/CVPR2025/video_understanding/expertaf_expert_actionable_feedback_from_video/)
-
-**Progress-Aware Video Frame Captioning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xue_Progress-Aware_Video_Frame_Captioning_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/progress-aware…](https://papernotes.org/CVPR2025/video_understanding/progress-aware_video_frame_captioning/)
-
-**On the Consistency of Video Large Language Models in Temporal Comprehension**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jung_On_the_Consistency_of_Video_Large_Language_Models_in_Temporal_CVPR_2025_paper.html>
-- Code: <https://github.com/minjoong507/Consistency-of-Video-LLM>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/on_the_consist…](https://papernotes.org/CVPR2025/video_understanding/on_the_consistency_of_video_large_language_models_in_temporal_comprehension/)
-
-**DynFocus: Dynamic Cooperative Network Empowers LLMs with Video Understanding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Han_DynFocus_Dynamic_Cooperative_Network_Empowers_LLMs_with_Video_Understanding_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/dynfocus_dynam…](https://papernotes.org/CVPR2025/video_understanding/dynfocus_dynamic_cooperative_network_empowers_llms_with_video_understanding/)
-
-**Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Learning_Occlusion-Robust_Vision_Transformers_for_Real-Time_UAV_Tracking_CVPR_2025_paper.html>
-- Code: <https://github.com/wuyou3474/ORTrack>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/learning_occlu…](https://papernotes.org/CVPR2025/video_understanding/learning_occlusion-robust_vision_transformers_for_real-time_uav_tracking/)
-
-**OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pan_OmniManip_Towards_General_Robotic_Manipulation_via_Object-Centric_Interaction_Primitives_as_CVPR_2025_paper.html>
-
-**VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yuan_VideoRefer_Suite_Advancing_Spatial-Temporal_Object_Understanding_with_Video_LLM_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/videorefer_sui…](https://papernotes.org/CVPR2025/video_understanding/videorefer_suite_advancing_spatial-temporal_object_understanding_with_video_llm/)
-
-**Re-thinking Temporal Search for Long-Form Video Understanding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ye_Re-thinking_Temporal_Search_for_Long-Form_Video_Understanding_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/re-thinking_te…](https://papernotes.org/CVPR2025/video_understanding/re-thinking_temporal_search_for_long-form_video_understanding/)
-
-**Viewpoint Rosetta Stone: Unlocking Unpaired Ego-Exo Videos for View-invariant Representation Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Luo_Viewpoint_Rosetta_Stone_Unlocking_Unpaired_Ego-Exo_Videos_for_View-invariant_Representation_CVPR_2025_paper.html>
-
-**Omnidirectional Multi-Object Tracking**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Luo_Omnidirectional_Multi-Object_Tracking_CVPR_2025_paper.html>
-- Code: <https://github.com/xifen523/OmniTrack>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/omnidirectiona…](https://papernotes.org/CVPR2025/video_understanding/omnidirectional_multi-object_tracking/)
-
-**Video Summarization with Large Language Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Video_Summarization_with_Large_Language_Models_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/video_summariz…](https://papernotes.org/CVPR2025/video_understanding/video_summarization_with_large_language_models/)
-
-**Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Building_a_Mind_Palace_Structuring_Environment-Grounded_Semantic_Graphs_for_Effective_CVPR_2025_paper.html>
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
 <a id="human_understanding"></a>
 
-## 🧑 Human Understanding · `human_understanding` · 109 papers
+## 🧑 Human Understanding · `human_understanding` · 124 papers
 
 **Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization**
 
 - Paper: <https://arxiv.org/abs/2412.08376>
 - Code: <https://github.com/ffrivera0/reloc3r>
+
+**PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization**
+
+- Paper: <https://arxiv.org/abs/2603.13228v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/physmodpo_physically…](https://papernotes.org/CVPR2025/llm_alignment/physmodpo_physically-plausible_humanoid_motion_with_preference_optimization/)
 
 **Reference-Free Image Quality Assessment for Virtual Try-On via Human Feedback**
 
@@ -10547,6 +9816,10 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Choi_MVDoppler-Pose_Multi-Modal_Multi-View_mmWave_Sensing_for_Long-Distance_Self-Occluded_Human_Walking_CVPR_2025_paper.html>
 
+**De^2Gaze: Deformable and Decoupled Representation Learning for 3D Gaze Estimation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_De2Gaze_Deformable_and_Decoupled_Representation_Learning_for_3D_Gaze_Estimation_CVPR_2025_paper.html>
+
 **GIVEPose: Gradual Intra-class Variation Elimination for RGB-based Category-Level Object Pose Estimation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_GIVEPose_Gradual_Intra-class_Variation_Elimination_for_RGB-based_Category-Level_Object_Pose_CVPR_2025_paper.html>
@@ -10571,6 +9844,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lai_LLM-driven_Multimodal_and_Multi-Identity_Listening_Head_Generation_CVPR_2025_paper.html>
 
+**GA3CE: Unconstrained 3D Gaze Estimation with Gaze-Aware 3D Context Encoding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kawana_GA3CE_Unconstrained_3D_Gaze_Estimation_with_Gaze-Aware_3D_Context_Encoding_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/human_understanding/ga3ce_unconstr…](https://papernotes.org/CVPR2025/human_understanding/ga3ce_unconstrained_3d_gaze_estimation_with_gaze-aware_3d_context_encoding/)
+
 **Adv-CPG: A Customized Portrait Generation Framework with Facial Adversarial Attacks**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Adv-CPG_A_Customized_Portrait_Generation_Framework_with_Facial_Adversarial_Attacks_CVPR_2025_paper.html>
@@ -10583,6 +9861,12 @@
 **Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Generalizing_Deepfake_Video_Detection_with_Plug-and-Play_Video-Level_Blending_and_Spatiotemporal_CVPR_2025_paper.html>
+
+**WiLoR: End-to-end 3D Hand Localization and Reconstruction in-the-wild**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Potamias_WiLoR_End-to-end_3D_Hand_Localization_and_Reconstruction_in-the-wild_CVPR_2025_paper.html>
+- Project: <https://rolpotamias.github.io/WiLoR>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/wilor_end-to-e…](https://papernotes.org/CVPR2025/video_understanding/wilor_end-to-end_3d_hand_localization_and_reconstruction_in-the-wild/)
 
 **HumanMM: Global Human Motion Recovery from Multi-shot Videos**
 
@@ -10597,6 +9881,11 @@
 **ChainHOI: Joint-based Kinematic Chain Modeling for Human-Object Interaction Generation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zeng_ChainHOI_Joint-based_Kinematic_Chain_Modeling_for_Human-Object_Interaction_Generation_CVPR_2025_paper.html>
+
+**Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jang_Lost_in_Translation_Found_in_Context_Sign_Language_Translation_with_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_pretraining/lost_in_translatio…](https://papernotes.org/CVPR2025/llm_pretraining/lost_in_translation_found_in_context_sign_language_translation_with_contextual_c/)
 
 **FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video**
 
@@ -10624,9 +9913,19 @@
 - Code: <https://github.com/gapszju/RGBAvatar>
 - Notes (Chinese): [papernotes.org/CVPR2025/human_understanding/rgbavatar_redu…](https://papernotes.org/CVPR2025/human_understanding/rgbavatar_reduced_gaussian_blendshapes_for_online_modeling_of_head_avatars/)
 
+**EnvPoser: Environment-aware Realistic Human Motion Estimation from Sparse Observations with Uncertainty Modeling**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xia_EnvPoser_Environment-aware_Realistic_Human_Motion_Estimation_from_Sparse_Observations_with_CVPR_2025_paper.html>
+- Project: <https://xspc.github.io/EnvPoser/>
+
 **Identity-Clothing Similarity Modeling for Unsupervised Clothing Change Person Re-Identification**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pang_Identity-Clothing_Similarity_Modeling_for_Unsupervised_Clothing_Change_Person_Re-Identification_CVPR_2025_paper.html>
+
+**3D Prior Is All You Need: Cross-Task Few-shot 2D Gaze Estimation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_3D_Prior_Is_All_You_Need_Cross-Task_Few-shot_2D_Gaze_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_pretraining/3d_prior_is_all_yo…](https://papernotes.org/CVPR2025/llm_pretraining/3d_prior_is_all_you_need_cross-task_few-shot_2d_gaze_estimation/)
 
 **Cheb-GR: Rethinking K-nearest Neighbor Search in Re-ranking for Person Re-identification**
 
@@ -10648,6 +9947,10 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_WildAvatar_Learning_In-the-wild_3D_Avatars_from_the_Web_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/human_understanding/wildavatar_lea…](https://papernotes.org/CVPR2025/human_understanding/wildavatar_learning_in-the-wild_3d_avatars_from_the_web/)
 
+**Motions as Queries: One-Stage Multi-Person Holistic Human Motion Capture**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Motions_as_Queries_One-Stage_Multi-Person_Holistic_Human_Motion_Capture_CVPR_2025_paper.html>
+
 **ProjAttacker: A Configurable Physical Adversarial Attack for Face Recognition via Projector**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_ProjAttacker_A_Configurable_Physical_Adversarial_Attack_for_Face_Recognition_via_CVPR_2025_paper.html>
@@ -10661,15 +9964,14 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_TIMotion_Temporal_and_Interactive_Framework_for_Efficient_Human-Human_Motion_Generation_CVPR_2025_paper.html>
 
+**Person De-reidentification: A Variation-guided Identity Shift Modeling**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Peng_Person_De-reidentification_A_Variation-guided_Identity_Shift_Modeling_CVPR_2025_paper.html>
+
 **ChatGarment: Garment Estimation, Generation and Editing via Large Language Models**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bian_ChatGarment_Garment_Estimation_Generation_and_Editing_via_Large_Language_Models_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/human_understanding/chatgarment_ga…](https://papernotes.org/CVPR2025/human_understanding/chatgarment_garment_estimation_generation_and_editing_via_large_language_models/)
-
-**ESCAPE: Equivariant Shape Completion via Anchor Point Encoding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bekci_ESCAPE_Equivariant_Shape_Completion_via_Anchor_Point_Encoding_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/human_understanding/escape_equivar…](https://papernotes.org/CVPR2025/human_understanding/escape_equivariant_shape_completion_via_anchor_point_encoding/)
 
 **Recurrent Feature Mining and Keypoint Mixup Padding for Category-Agnostic Pose Estimation**
 
@@ -10686,6 +9988,11 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tang_GaussianIP_Identity-Preserving_Realistic_3D_Human_Generation_via_Human-Centric_Diffusion_Prior_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/human_understanding/gaussianip_ide…](https://papernotes.org/CVPR2025/human_understanding/gaussianip_identity-preserving_realistic_3d_human_generation_via_human-centric_d/)
 
+**PersonaBooth: Personalized Text-to-Motion Generation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_PersonaBooth_Personalized_Text-to-Motion_Generation_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/personabooth_pers…](https://papernotes.org/CVPR2025/image_generation/personabooth_personalized_text-to-motion_generation/)
+
 **Improving the Transferability of Adversarial Attacks on Face Recognition with Diverse Parameters Augmentation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Improving_the_Transferability_of_Adversarial_Attacks_on_Face_Recognition_with_CVPR_2025_paper.html>
@@ -10694,12 +10001,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Learning_from_Synchronization_Self-Supervised_Uncalibrated_Multi-View_Person_Association_in_Challenging_CVPR_2025_paper.html>
 - Code: <https://github.com/CAMMA-public/Self-MVA>
-
-**Wav2Sem: Plug-and-Play Audio Semantic Decoupling for 3D Speech-Driven Facial Animation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Wav2Sem_Plug-and-Play_Audio_Semantic_Decoupling_for_3D_Speech-Driven_Facial_Animation_CVPR_2025_paper.html>
-- Code: <https://github.com/wslh852/Wav2Sem>
-- Notes (Chinese): [papernotes.org/CVPR2025/human_understanding/wav2sem_plug-a…](https://papernotes.org/CVPR2025/human_understanding/wav2sem_plug-and-play_audio_semantic_decoupling_for_3d_speech-driven_facial_anim/)
 
 **Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**
 
@@ -10712,6 +10013,11 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lee_ESC_Erasing_Space_Concept_for_Knowledge_Deletion_CVPR_2025_paper.html>
 - Code: <https://github.com/KU-VGI/ESC>
 - Notes (Chinese): [papernotes.org/CVPR2025/human_understanding/esc_erasing_sp…](https://papernotes.org/CVPR2025/human_understanding/esc_erasing_space_concept_for_knowledge_deletion/)
+
+**Deep Change Monitoring: A Hyperbolic Representative Learning Framework and a Dataset for Long-term Fine-grained Tree Change Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Deep_Change_Monitoring_A_Hyperbolic_Representative_Learning_Framework_and_a_CVPR_2025_paper.html>
+- Code: <https://github.com/liyantett/Tree-Changes-Detection-with-Siamese-Hyperbolic-network>
 
 **Link-based Contrastive Learning for One-Shot Unsupervised Domain Adaptation**
 
@@ -10769,6 +10075,10 @@
 **Mixture of Submodules for Domain Adaptive Person Search**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Mixture_of_Submodules_for_Domain_Adaptive_Person_Search_CVPR_2025_paper.html>
+
+**Unsupervised Discovery of Facial Landmarks and Head Pose**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tourani_Unsupervised_Discovery_of_Facial_Landmarks_and_Head_Pose_CVPR_2025_paper.html>
 
 **RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training**
 
@@ -10850,6 +10160,15 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_One2Any_One-Reference_6D_Pose_Estimation_for_Any_Object_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/human_understanding/one2any_one-re…](https://papernotes.org/CVPR2025/human_understanding/one2any_one-reference_6d_pose_estimation_for_any_object/)
 
+**FIFA: Fine-grained Inter-frame Attention for Driver's Video Gaze Estimation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hu_FIFA_Fine-grained_Inter-frame_Attention_for_Drivers_Video_Gaze_Estimation_CVPR_2025_paper.html>
+
+**Optimal Transport-Guided Source-Free Adaptation for Face Anti-Spoofing**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Optimal_Transport-Guided_Source-Free_Adaptation_for_Face_Anti-Spoofing_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/ai_safety/optimal_transport-guided…](https://papernotes.org/CVPR2025/ai_safety/optimal_transport-guided_source-free_adaptation_for_face_anti-spoofing/)
+
 **ALIEN: Implicit Neural Representations for Human Motion Prediction under Arbitrary Latency**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wei_ALIEN_Implicit_Neural_Representations_for_Human_Motion_Prediction_under_Arbitrary_CVPR_2025_paper.html>
@@ -10866,6 +10185,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bigata_KeyFace_Expressive_Audio-Driven_Facial_Animation_for_Long_Sequences_via_KeyFrame_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/human_understanding/keyface_expres…](https://papernotes.org/CVPR2025/human_understanding/keyface_expressive_audio-driven_facial_animation_for_long_sequences_via_keyframe/)
+
+**FSboard: Over 3 Million Characters of ASL Fingerspelling Collected via Smartphones**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Georg_FSboard_Over_3_Million_Characters_of_ASL_Fingerspelling_Collected_via_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/others/fsboard_over_3_million_char…](https://papernotes.org/CVPR2025/others/fsboard_over_3_million_characters_of_asl_fingerspelling_collected_via_smartphone/)
 
 **LAL: Enhancing 3D Human Motion Prediction with Latency-aware Auxiliary Learning**
 
@@ -10891,10 +10215,19 @@
 - Project: <https://style3d.github.io/design2garmentcode>
 - Notes (Chinese): [papernotes.org/CVPR2025/human_understanding/design2garment…](https://papernotes.org/CVPR2025/human_understanding/design2garmentcode_turning_design_concepts_to_tangible_garments_through_program_/)
 
+**Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observations**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Discrete_to_Continuous_Generating_Smooth_Transition_Poses_from_Sign_Language_CVPR_2025_paper.html>
+
 **Human Motion Instruction Tuning**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Human_Motion_Instruction_Tuning_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/human_understanding/human_motion_i…](https://papernotes.org/CVPR2025/human_understanding/human_motion_instruction_tuning/)
+
+**Ego4o: Egocentric Human Motion Capture and Understanding from Multi-Modal Input**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Ego4o_Egocentric_Human_Motion_Capture_and_Understanding_from_Multi-Modal_Input_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/ego4o_egocentr…](https://papernotes.org/CVPR2025/video_understanding/ego4o_egocentric_human_motion_capture_and_understanding_from_multi-modal_input/)
 
 **PoseBH: Prototypical Multi-Dataset Training Beyond Human Pose Estimation**
 
@@ -10920,9 +10253,10 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_MobileH2R_Learning_Generalizable_Human_to_Mobile_Robot_Handover_Exclusively_from_CVPR_2025_paper.html>
 
-**Dynamic Stereotype Theory Induced Micro-expression Recognition with Oriented Deformation**
+**Enhancing 3D Gaze Estimation in the Wild using Weak Supervision with Gaze Following Labels**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Dynamic_Stereotype_Theory_Induced_Micro-expression_Recognition_with_Oriented_Deformation_CVPR_2025_paper.html>
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Vuillecard_Enhancing_3D_Gaze_Estimation_in_the_Wild_using_Weak_Supervision_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/enhancing_3d_gaze_e…](https://papernotes.org/CVPR2025/llm_evaluation/enhancing_3d_gaze_estimation_in_the_wild_using_weak_supervision_with_gaze_follow/)
 
 **MotionMap: Representing Multimodality in Human Pose Forecasting**
 
@@ -10949,6 +10283,10 @@
 - Code: <https://github.com/rongakowang/FRESA>
 - Notes (Chinese): [papernotes.org/CVPR2025/human_understanding/fresa_feedforw…](https://papernotes.org/CVPR2025/human_understanding/fresa_feedforward_reconstruction_of_personalized_skinned_avatars_from_few_images/)
 
+**From Sparse Signal to Smooth Motion: Real-Time Motion Generation with Rolling Prediction Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Barquero_From_Sparse_Signal_to_Smooth_Motion_Real-Time_Motion_Generation_with_CVPR_2025_paper.html>
+
 **Homogeneous Dynamics Space for Heterogeneous Humans**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Homogeneous_Dynamics_Space_for_Heterogeneous_Humans_CVPR_2025_paper.html>
@@ -10964,10 +10302,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Analyzing_the_Synthetic-to-Real_Domain_Gap_in_3D_Hand_Pose_Estimation_CVPR_2025_paper.html>
 - Code: <https://github.com/delaprada/HandSynthesis>
 - Notes (Chinese): [papernotes.org/CVPR2025/human_understanding/analyzing_the_…](https://papernotes.org/CVPR2025/human_understanding/analyzing_the_synthetic-to-real_domain_gap_in_3d_hand_pose_estimation/)
-
-**Let's Chorus: Partner-aware Hybrid Song-Driven 3D Head Animation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xie_Lets_Chorus_Partner-aware_Hybrid_Song-Driven_3D_Head_Animation_CVPR_2025_paper.html>
 
 **VTON 360: High-Fidelity Virtual Try-On from Any Viewing Direction**
 
@@ -11018,7 +10352,7 @@
 
 <a id="model_compression"></a>
 
-## 📦 Model Compression · `model_compression` · 106 papers
+## 📦 Model Compression · `model_compression` · 115 papers
 
 **APHQ-ViT: Post-Training Quantization with Average Perturbation Hessian Based Reconstruction for Vision Transformers**
 
@@ -11036,10 +10370,15 @@
 - Paper: <https://arxiv.org/abs/2403.18886>
 - Code: <https://github.com/huiyiwang01/SEMA-CL>
 
-**Alternating Gradient Flow Utility: A Unified Metric for Structural Pruning and Dynamic Routing in Deep Networks**
+**MXNorm: Reusing MXFP block scales for efficient tensor normalisation**
 
-- Paper: <https://arxiv.org/abs/2603.12354v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/model_compression/alternating_grad…](https://papernotes.org/CVPR2025/model_compression/alternating_gradient_flow_utility_a_unified_metric_for_structural_pruning_and_dy/)
+- Paper: <https://arxiv.org/abs/2603.13180v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_pretraining/mxnorm_reusing_mxf…](https://papernotes.org/CVPR2025/llm_pretraining/mxnorm_reusing_mxfp_block_scales_for_efficient_tensor_normalisation/)
+
+**Expert Pyramid Tuning: Efficient Parameter Fine-Tuning for Expertise-Driven Task Allocation**
+
+- Paper: <https://arxiv.org/abs/2603.12577v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/robotics/expert_pyramid_tuning_eff…](https://papernotes.org/CVPR2025/robotics/expert_pyramid_tuning_efficient_parameter_fine-tuning_for_expertise-driven_task_/)
 
 **HiAP: A Multi-Granular Stochastic Auto-Pruning Framework for Vision Transformers**
 
@@ -11074,6 +10413,11 @@
 **Perceptual Video Compression with Neural Wrapping**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Khan_Perceptual_Video_Compression_with_Neural_Wrapping_CVPR_2025_paper.html>
+
+**DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xiang_DKDM_Data-Free_Knowledge_Distillation_for_Diffusion_Models_with_Any_Architecture_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/dkdm_data-free_kn…](https://papernotes.org/CVPR2025/image_generation/dkdm_data-free_knowledge_distillation_for_diffusion_models_with_any_architecture/)
 
 **Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**
 
@@ -11121,6 +10465,10 @@
 - Code: <https://github.com/gszfwsb/NCFM>
 - Notes (Chinese): [papernotes.org/CVPR2025/model_compression/dataset_distilla…](https://papernotes.org/CVPR2025/model_compression/dataset_distillation_with_neural_characteristic_function_a_minmax_perspective/)
 
+**PillarHist: A Quantization-aware Pillar Feature Encoder based on Height-aware Histogram**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_PillarHist_A_Quantization-aware_Pillar_Feature_Encoder_based_on_Height-aware_Histogram_CVPR_2025_paper.html>
+
 **What Makes a Good Dataset for Knowledge Distillation?**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Frank_What_Makes_a_Good_Dataset_for_Knowledge_Distillation_CVPR_2025_paper.html>
@@ -11150,6 +10498,11 @@
 **BrepGiff: Lightweight Generation of Complex B-rep with 3D GAT Diffusion**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Guo_BrepGiff_Lightweight_Generation_of_Complex_B-rep_with_3D_GAT_Diffusion_CVPR_2025_paper.html>
+
+**Chapter-Llama: Efficient Chaptering in Hour-Long Videos with LLMs**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ventura_Chapter-Llama_Efficient_Chaptering_in_Hour-Long_Videos_with_LLMs_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/robotics/chapter-llama_efficient_c…](https://papernotes.org/CVPR2025/robotics/chapter-llama_efficient_chaptering_in_hour-long_videos_with_llms/)
 
 **Sensitivity-Aware Efficient Fine-Tuning via Compact Dynamic-Rank Adaptation**
 
@@ -11224,6 +10577,15 @@
 - Code: <https://github.com/EliSpectre/CVPR25-AutoSSVH>
 - Notes (Chinese): [papernotes.org/CVPR2025/model_compression/autossvh_explori…](https://papernotes.org/CVPR2025/model_compression/autossvh_exploring_automated_frame_sampling_for_efficient_self-supervised_video_h/)
 
+**Multi-modal Knowledge Distillation-based Human Trajectory Forecasting**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jeong_Multi-modal_Knowledge_Distillation-based_Human_Trajectory_Forecasting_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/autonomous_driving/multi-modal_kno…](https://papernotes.org/CVPR2025/autonomous_driving/multi-modal_knowledge_distillation-based_human_trajectory_forecasting/)
+
+**Binarized Neural Network for Multi-spectral Image Fusion**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hou_Binarized_Neural_Network_for_Multi-spectral_Image_Fusion_CVPR_2025_paper.html>
+
 **Tripartite Weight-Space Ensemble for Few-Shot Class-Incremental Learning**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Tripartite_Weight-Space_Ensemble_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.html>
@@ -11274,6 +10636,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yu_Temporal_Separation_with_Entropy_Regularization_for_Knowledge_Distillation_in_Spiking_CVPR_2025_paper.html>
 - Code: <https://github.com/yukairong/TSER>
+
+**Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Q-DiT_Accurate_Post-Training_Quantization_for_Diffusion_Transformers_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/q-dit_accurate_po…](https://papernotes.org/CVPR2025/image_generation/q-dit_accurate_post-training_quantization_for_diffusion_transformers/)
 
 **Lessons and Insights from a Unifying Study of Parameter-Efficient Fine-Tuning (PEFT) in Visual Recognition**
 
@@ -11395,6 +10762,12 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yu_SSHNet_Unsupervised_Cross-modal_Homography_Estimation_via_Problem_Reformulation_and_Split_CVPR_2025_paper.html>
 - Code: <https://github.com/Junchen-Yu/SSHNet>
 
+**QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Shen_QuartDepth_Post-Training_Quantization_for_Real-Time_Depth_Estimation_on_the_Edge_CVPR_2025_paper.html>
+- Code: <https://github.com/shawnricecake/quart-depth>
+- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/quartdepth_post-training…](https://papernotes.org/CVPR2025/3d_vision/quartdepth_post-training_quantization_for_real-time_depth_estimation_on_the_edge/)
+
 **Efficient ANN-Guided Distillation: Aligning Rate-based Features of Spiking Neural Networks through Hybrid Block-wise Replacement**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Efficient_ANN-Guided_Distillation_Aligning_Rate-based_Features_of_Spiking_Neural_Networks_CVPR_2025_paper.html>
@@ -11406,6 +10779,10 @@
 **SURGEON: Memory-Adaptive Fully Test-Time Adaptation via Dynamic Activation Sparsity**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ma_SURGEON_Memory-Adaptive_Fully_Test-Time_Adaptation_via_Dynamic_Activation_Sparsity_CVPR_2025_paper.html>
+
+**PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_PassionSR_Post-Training_Quantization_with_Adaptive_Scale_in_One-Step_Diffusion_based_CVPR_2025_paper.html>
 
 **Distilling Long-tailed Datasets**
 
@@ -11443,10 +10820,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/He_CL-LoRA_Continual_Low-Rank_Adaptation_for_Rehearsal-Free_Class-Incremental_Learning_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/model_compression/cl-lora_continua…](https://papernotes.org/CVPR2025/model_compression/cl-lora_continual_low-rank_adaptation_for_rehearsal-free_class-incremental_learn/)
 
-**Simplification Is All You Need against Out-of-Distribution Overconfidence**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Simplification_Is_All_You_Need_against_Out-of-Distribution_Overconfidence_CVPR_2025_paper.html>
-
 **U-Know-DiffPAN: An Uncertainty-aware Knowledge Distillation Diffusion Framework with Details Enhancement for PAN-Sharpening**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_U-Know-DiffPAN_An_Uncertainty-aware_Knowledge_Distillation_Diffusion_Framework_with_Details_Enhancement_CVPR_2025_paper.html>
@@ -11473,11 +10846,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Feng_Linear_Attention_Modeling_for_Learned_Image_Compression_CVPR_2025_paper.html>
 - Code: <https://github.com/sjtu-medialab/RwkvCompress>
 - Notes (Chinese): [papernotes.org/CVPR2025/model_compression/linear_attention…](https://papernotes.org/CVPR2025/model_compression/linear_attention_modeling_for_learned_image_compression/)
-
-**Targeted Forgetting of Image Subgroups in CLIP Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Targeted_Forgetting_of_Image_Subgroups_in_CLIP_Models_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/model_compression/targeted_forgett…](https://papernotes.org/CVPR2025/model_compression/targeted_forgetting_of_image_subgroups_in_clip_models/)
 
 **Multirate Neural Image Compression with Adaptive Lattice Vector Quantization**
 
@@ -11506,11 +10874,21 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Maracani_Accurate_Scene_Text_Recognition_with_Efficient_Model_Scaling_and_Cloze_CVPR_2025_paper.html>
 
+**Less is More: Efficient Model Merging with Binary Task Switch**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Less_is_More_Efficient_Model_Merging_with_Binary_Task_Switch_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/others/less_is_more_efficient_mode…](https://papernotes.org/CVPR2025/others/less_is_more_efficient_model_merging_with_binary_task_switch/)
+
 **ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_ECVC_Exploiting_Non-Local_Correlations_in_Multiple_Frames_for_Contextual_Video_CVPR_2025_paper.html>
 - Code: <https://github.com/JiangWeibeta/ECVC>
 - Notes (Chinese): [papernotes.org/CVPR2025/model_compression/ecvc_exploiting_…](https://papernotes.org/CVPR2025/model_compression/ecvc_exploiting_non-local_correlations_in_multiple_frames_for_contextual_video_c/)
+
+**MonoTAKD: Teaching Assistant Knowledge Distillation for Monocular 3D Object Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_MonoTAKD_Teaching_Assistant_Knowledge_Distillation_for_Monocular_3D_Object_Detection_CVPR_2025_paper.html>
+- Code: <https://github.com/hoiliu-0801/MonoTAKD>
 
 **Layered Image Vectorization via Semantic Simplification**
 
@@ -11547,9 +10925,971 @@
 
 ---
 
+<a id="video_understanding"></a>
+
+## 📹 Video Understanding · `video_understanding` · 113 papers
+
+**Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously**
+
+- Paper: <https://arxiv.org/abs/2603.12262v1>
+- Code: <https://github.com/1ranGuan/VST>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/video_streamin…](https://papernotes.org/CVPR2025/video_understanding/video_streaming_thinking_videollms_can_watch_and_think_simultaneously/)
+
+**Cross-modal Causal Relation Alignment for Video Question Grounding**
+
+- Paper: <https://arxiv.org/abs/2503.07635>
+- Code: <https://github.com/WissingChen/CRA-GQA>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/cross-modal_ca…](https://papernotes.org/CVPR2025/video_understanding/cross-modal_causal_relation_alignment_for_video_question_grounding/)
+
+**FC-Track: Overlap-Aware Post-Association Correction for Online Multi-Object Tracking**
+
+- Paper: <https://arxiv.org/abs/2603.12758v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/fc-track_overl…](https://papernotes.org/CVPR2025/video_understanding/fc-track_overlap-aware_post-association_correction_for_online_multi-object_track/)
+
+**BehaviorVLM: Unified Finetuning-Free Behavioral Understanding with Vision-Language Reasoning**
+
+- Paper: <https://arxiv.org/abs/2603.12176v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/behaviorvlm_un…](https://papernotes.org/CVPR2025/video_understanding/behaviorvlm_unified_finetuning-free_behavioral_understanding_with_vision-languag/)
+
+**Beyond Single-Sample: Reliable Multi-Sample Distillation for Video Understanding**
+
+- Paper: <https://arxiv.org/abs/2603.11423v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/beyond_single-…](https://papernotes.org/CVPR2025/video_understanding/beyond_single-sample_reliable_multi-sample_distillation_for_video_understanding/)
+
+**BiM-VFI: Bidirectional Motion Field-Guided Frame Interpolation for Video with Non-uniform Motions**
+
+- Paper: <https://arxiv.org/abs/2412.11365>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/bim-vfi_bidire…](https://papernotes.org/CVPR2025/video_understanding/bim-vfi_bidirectional_motion_field-guided_frame_interpolation_for_video_with_non/)
+
+**FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Camiletto_FRAME_Floor-aligned_Representation_for_Avatar_Motion_from_Egocentric_Video_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/frame_floor-al…](https://papernotes.org/CVPR2025/video_understanding/frame_floor-aligned_representation_for_avatar_motion_from_egocentric_video/)
+
+**DrVideo: Document Retrieval Based Long Video Understanding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ma_DrVideo_Document_Retrieval_Based_Long_Video_Understanding_CVPR_2025_paper.html>
+- Code: <https://github.com/Upper9527/DrVideo>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/drvideo_docume…](https://papernotes.org/CVPR2025/video_understanding/drvideo_document_retrieval_based_long_video_understanding/)
+
+**Buffer Anytime: Zero-Shot Video Depth and Normal from Image Priors**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kuang_Buffer_Anytime_Zero-Shot_Video_Depth_and_Normal_from_Image_Priors_CVPR_2025_paper.html>
+
+**MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Qin_MUST_The_First_Dataset_and_Unified_Framework_for_Multispectral_UAV_CVPR_2025_paper.html>
+- Code: <https://github.com/q2479036243/MUST-Multispectral-UAV-Single-Object-Tracking>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/must_the_first…](https://papernotes.org/CVPR2025/video_understanding/must_the_first_dataset_and_unified_framework_for_multispectral_uav_single_object/)
+
+**FSBench: A Figure Skating Benchmark for Advancing Artistic Sports Understanding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gao_FSBench_A_Figure_Skating_Benchmark_for_Advancing_Artistic_Sports_Understanding_CVPR_2025_paper.html>
+- Code: <https://github.com/Moomin-Fin/Ano>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/fsbench_a_figu…](https://papernotes.org/CVPR2025/video_understanding/fsbench_a_figure_skating_benchmark_for_advancing_artistic_sports_understanding/)
+
+**VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by Video Spatiotemporal Augmentation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ren_VISTA_Enhancing_Long-Duration_and_High-Resolution_Video_Understanding_by_Video_Spatiotemporal_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/vista_enhancin…](https://papernotes.org/CVPR2025/video_understanding/vista_enhancing_long-duration_and_high-resolution_video_understanding_by_video_s/)
+
+**DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Alvar_DivPrune_Diversity-based_Visual_Token_Pruning_for_Large_Multimodal_Models_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/divprune_diver…](https://papernotes.org/CVPR2025/video_understanding/divprune_diversity-based_visual_token_pruning_for_large_multimodal_models/)
+
+**STOP: Integrated Spatial-Temporal Dynamic Prompting for Video Understanding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_STOP_Integrated_Spatial-Temporal_Dynamic_Prompting_for_Video_Understanding_CVPR_2025_paper.html>
+- Code: <https://github.com/zhoujiahuan1991/CVPR2025-STOP>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/stop_integrate…](https://papernotes.org/CVPR2025/video_understanding/stop_integrated_spatial-temporal_dynamic_prompting_for_video_understanding/)
+
+**DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Morimitsu_DPFlow_Adaptive_Optical_Flow_Estimation_with_a_Dual-Pyramid_Framework_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/dpflow_adaptiv…](https://papernotes.org/CVPR2025/video_understanding/dpflow_adaptive_optical_flow_estimation_with_a_dual-pyramid_framework/)
+
+**Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xie_Are_Spatial-Temporal_Graph_Convolution_Networks_for_Human_Action_Recognition_Over-Parameterized_CVPR_2025_paper.html>
+- Code: <https://github.com/davelailai/Sparse-ST-GCN>
+
+**Q-Bench-Video: Benchmark the Video Quality Understanding of LMMs**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Q-Bench-Video_Benchmark_the_Video_Quality_Understanding_of_LMMs_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/q-bench-video_…](https://papernotes.org/CVPR2025/video_understanding/q-bench-video_benchmark_the_video_quality_understanding_of_lmms/)
+
+**Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Commonsense_Video_Question_Answering_through_Video-Grounded_Entailment_Tree_Reasoning_CVPR_2025_paper.html>
+
+**Focusing on Tracks for Online Multi-Object Tracking**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Shim_Focusing_on_Tracks_for_Online_Multi-Object_Tracking_CVPR_2025_paper.html>
+
+**HyperGLM: HyperGraph for Video Scene Graph Generation and Anticipation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Nguyen_HyperGLM_HyperGraph_for_Video_Scene_Graph_Generation_and_Anticipation_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/hyperglm_hyper…](https://papernotes.org/CVPR2025/video_understanding/hyperglm_hypergraph_for_video_scene_graph_generation_and_anticipation/)
+
+**OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding?**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Niu_OVO-Bench_How_Far_is_Your_Video-LLMs_from_Real-World_Online_Video_CVPR_2025_paper.html>
+- Project: <https://joeleelyf.github.io/OVO-Bench>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/ovo-bench_how_…](https://papernotes.org/CVPR2025/video_understanding/ovo-bench_how_far_is_your_video-llms_from_real-world_online_video_understanding/)
+
+**DreamTrack: Dreaming the Future for Multimodal Visual Object Tracking**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Guo_DreamTrack_Dreaming_the_Future_for_Multimodal_Visual_Object_Tracking_CVPR_2025_paper.html>
+
+**Beyond Image Classification: A Video Benchmark and Dual-Branch Hybrid Discrimination Framework for Compositional Zero-Shot Learning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_Beyond_Image_Classification_A_Video_Benchmark_and_Dual-Branch_Hybrid_Discrimination_CVPR_2025_paper.html>
+
+**Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Hybrid-Level_Instruction_Injection_for_Video_Token_Compression_in_Multi-modal_Large_CVPR_2025_paper.html>
+- Code: <https://github.com/lntzm/HICom>
+
+**Event-Equalized Dense Video Captioning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Event-Equalized_Dense_Video_Captioning_CVPR_2025_paper.html>
+
+**EDCFlow: Exploring Temporally Dense Difference Maps for Event-based Optical Flow Estimation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_EDCFlow_Exploring_Temporally_Dense_Difference_Maps_for_Event-based_Optical_Flow_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/edcflow_explor…](https://papernotes.org/CVPR2025/video_understanding/edcflow_exploring_temporally_dense_difference_maps_for_event-based_optical_flow_/)
+
+**Semantic-guided Cross-Modal Prompt Learning for Skeleton-based Zero-shot Action Recognition**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Semantic-guided_Cross-Modal_Prompt_Learning_for_Skeleton-based_Zero-shot_Action_Recognition_CVPR_2025_paper.html>
+
+**VITED: Video Temporal Evidence Distillation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lu_VITED_Video_Temporal_Evidence_Distillation_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/vited_video_te…](https://papernotes.org/CVPR2025/video_understanding/vited_video_temporal_evidence_distillation/)
+
+**LION-FS: Fast & Slow Video-Language Thinker as Online Video Assistant**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_LION-FS_Fast__Slow_Video-Language_Thinker_as_Online_Video_Assistant_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/lion-fs_fast_s…](https://papernotes.org/CVPR2025/video_understanding/lion-fs_fast_slow_video-language_thinker_as_online_video_assistant/)
+
+**TAMT: Temporal-Aware Model Tuning for Cross-Domain Few-Shot Action Recognition**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_TAMT_Temporal-Aware_Model_Tuning_for_Cross-Domain_Few-Shot_Action_Recognition_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/tamt_temporal-…](https://papernotes.org/CVPR2025/video_understanding/tamt_temporal-aware_model_tuning_for_cross-domain_few-shot_action_recognition/)
+
+**LoKi: Low-dimensional KAN for Efficient Fine-tuning Image Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cai_LoKi_Low-dimensional_KAN_for_Efficient_Fine-tuning_Image_Models_CVPR_2025_paper.html>
+
+**Language-Guided Audio-Visual Learning for Long-Term Sports Assessment**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Language-Guided_Audio-Visual_Learning_for_Long-Term_Sports_Assessment_CVPR_2025_paper.html>
+- Code: <https://github.com/XuHuangbiao/MLAVL>
+
+**Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yi_Video-Panda_Parameter-efficient_Alignment_for_Encoder-free_Video-Language_Models_CVPR_2025_paper.html>
+- Project: <https://jh-yi.github.io/Video-Panda>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/video-panda_pa…](https://papernotes.org/CVPR2025/video_understanding/video-panda_parameter-efficient_alignment_for_encoder-free_video-language_models/)
+
+**EgoLife: Towards Egocentric Life Assistant**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_EgoLife_Towards_Egocentric_Life_Assistant_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/egolife_toward…](https://papernotes.org/CVPR2025/video_understanding/egolife_towards_egocentric_life_assistant/)
+
+**Flexible Frame Selection for Efficient Video Reasoning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Buch_Flexible_Frame_Selection_for_Efficient_Video_Reasoning_CVPR_2025_paper.html>
+
+**Number it: Temporal Grounding Videos like Flipping Manga**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Number_it_Temporal_Grounding_Videos_like_Flipping_Manga_CVPR_2025_paper.html>
+- Code: <https://github.com/yongliang-wu/NumPro>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/number_it_temp…](https://papernotes.org/CVPR2025/video_understanding/number_it_temporal_grounding_videos_like_flipping_manga/)
+
+**SeriesBench: A Benchmark for Narrative-Driven Drama Series Understanding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_SeriesBench_A_Benchmark_for_Narrative-Driven_Drama_Series_Understanding_CVPR_2025_paper.html>
+- Code: <https://github.com/zackhxn/SeriesBench-CVPR2025>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/seriesbench_a_…](https://papernotes.org/CVPR2025/video_understanding/seriesbench_a_benchmark_for_narrative-driven_drama_series_understanding/)
+
+**VideoAutoArena: An Automated Arena for Evaluating Large Multimodal Models in Video Analysis through User Simulation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Luo_VideoAutoArena_An_Automated_Arena_for_Evaluating_Large_Multimodal_Models_in_CVPR_2025_paper.html>
+
+**AdaCM^2: On Understanding Extremely Long-Term Video with Adaptive Cross-Modality Memory Reduction**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Man_AdaCM2_On_Understanding_Extremely_Long-Term_Video_with_Adaptive_Cross-Modality_Memory_CVPR_2025_paper.html>
+
+**VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_VideoICL_Confidence-based_Iterative_In-context_Learning_for_Out-of-Distribution_Video_Understanding_CVPR_2025_paper.html>
+
+**Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xue_Similarity-Guided_Layer-Adaptive_Vision_Transformer_for_UAV_Tracking_CVPR_2025_paper.html>
+- Code: <https://github.com/GXNU-ZhongLab/SGLATrack>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/similarity-gui…](https://papernotes.org/CVPR2025/video_understanding/similarity-guided_layer-adaptive_vision_transformer_for_uav_tracking/)
+
+**Localizing Events in Videos with Multimodal Queries**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Localizing_Events_in_Videos_with_Multimodal_Queries_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/localizing_eve…](https://papernotes.org/CVPR2025/video_understanding/localizing_events_in_videos_with_multimodal_queries/)
+
+**LLAVIDAL: A Large LAnguage VIsion Model for Daily Activities of Living**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Reilly_LLAVIDAL_A_Large_LAnguage_VIsion_Model_for_Daily_Activities_of_CVPR_2025_paper.html>
+- Project: <https://adl-x.github.io/>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/llavidal_a_lar…](https://papernotes.org/CVPR2025/video_understanding/llavidal_a_large_language_vision_model_for_daily_activities_of_living/)
+
+**VoCo-LLaMA: Towards Vision Compression with Large Language Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ye_VoCo-LLaMA_Towards_Vision_Compression_with_Large_Language_Models_CVPR_2025_paper.html>
+- Project: <https://yxxxb.github.io/VoCo-LLaMA-page>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/voco-llama_tow…](https://papernotes.org/CVPR2025/video_understanding/voco-llama_towards_vision_compression_with_large_language_models/)
+
+**SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cai_SPMTrack_Spatio-Temporal_Parameter-Efficient_Fine-Tuning_with_Mixture_of_Experts_for_Scalable_CVPR_2025_paper.html>
+- Code: <https://github.com/WenRuiCai/SPMTrack>
+
+**H-MoRe: Learning Human-centric Motion Representation for Action Analysis**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_H-MoRe_Learning_Human-centric_Motion_Representation_for_Action_Analysis_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/h-more_learnin…](https://papernotes.org/CVPR2025/video_understanding/h-more_learning_human-centric_motion_representation_for_action_analysis/)
+
+**Adaptive Keyframe Sampling for Long Video Understanding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Adaptive_Keyframe_Sampling_for_Long_Video_Understanding_CVPR_2025_paper.html>
+- Code: <https://github.com/ncTimTang/AKS>
+
+**Seq2Time: Sequential Knowledge Transfer for Video LLM Temporal Grounding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Deng_Seq2Time_Sequential_Knowledge_Transfer_for_Video_LLM_Temporal_Grounding_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/seq2time_seque…](https://papernotes.org/CVPR2025/video_understanding/seq2time_sequential_knowledge_transfer_for_video_llm_temporal_grounding/)
+
+**Temporal Alignment-Free Video Matching for Few-shot Action Recognition**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Temporal_Alignment-Free_Video_Matching_for_Few-shot_Action_Recognition_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/temporal_align…](https://papernotes.org/CVPR2025/video_understanding/temporal_alignment-free_video_matching_for_few-shot_action_recognition/)
+
+**Unbiasing through Textual Descriptions: Mitigating Representation Bias in Video Benchmarks**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Shvetsova_Unbiasing_through_Textual_Descriptions_Mitigating_Representation_Bias_in_Video_Benchmarks_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/unbiasing_thro…](https://papernotes.org/CVPR2025/video_understanding/unbiasing_through_textual_descriptions_mitigating_representation_bias_in_video_b/)
+
+**Action Detail Matters: Refining Video Recognition with Local Action Queries**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Action_Detail_Matters_Refining_Video_Recognition_with_Local_Action_Queries_CVPR_2025_paper.html>
+
+**PAVE: Patching and Adapting Video Large Language Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_PAVE_Patching_and_Adapting_Video_Large_Language_Models_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/pave_patching_…](https://papernotes.org/CVPR2025/video_understanding/pave_patching_and_adapting_video_large_language_models/)
+
+**OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_OmniMMI_A_Comprehensive_Multi-modal_Interaction_Benchmark_in_Streaming_Video_Contexts_CVPR_2025_paper.html>
+
+**Video Language Model Pretraining with Spatio-temporal Masking**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Video_Language_Model_Pretraining_with_Spatio-temporal_Masking_CVPR_2025_paper.html>
+
+**Object-Shot Enhanced Grounding Network for Egocentric Video**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Feng_Object-Shot_Enhanced_Grounding_Network_for_Egocentric_Video_CVPR_2025_paper.html>
+- Code: <https://github.com/Yisen-Feng/OSGNet>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/object-shot_en…](https://papernotes.org/CVPR2025/video_understanding/object-shot_enhanced_grounding_network_for_egocentric_video/)
+
+**Anomize: Better Open Vocabulary Video Anomaly Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Anomize_Better_Open_Vocabulary_Video_Anomaly_Detection_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_pretraining/anomize_better_ope…](https://papernotes.org/CVPR2025/llm_pretraining/anomize_better_open_vocabulary_video_anomaly_detection/)
+
+**MMVU: Measuring Expert-Level Multi-Discipline Video Understanding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_MMVU_Measuring_Expert-Level_Multi-Discipline_Video_Understanding_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/mmvu_measuring…](https://papernotes.org/CVPR2025/video_understanding/mmvu_measuring_expert-level_multi-discipline_video_understanding/)
+
+**M-LLM Based Video Frame Selection for Efficient Video Understanding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hu_M-LLM_Based_Video_Frame_Selection_for_Efficient_Video_Understanding_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/m-llm_based_vi…](https://papernotes.org/CVPR2025/video_understanding/m-llm_based_video_frame_selection_for_efficient_video_understanding/)
+
+**Multi-Modal Synergistic Implicit Image Enhancement for Efficient Optical Flow Estimation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dai_Multi-Modal_Synergistic_Implicit_Image_Enhancement_for_Efficient_Optical_Flow_Estimation_CVPR_2025_paper.html>
+
+**Heterogeneous Skeleton-Based Action Representation Learning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Heterogeneous_Skeleton-Based_Action_Representation_Learning_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/heterogeneous_…](https://papernotes.org/CVPR2025/video_understanding/heterogeneous_skeleton-based_action_representation_learning/)
+
+**SEAL: Semantic Attention Learning for Long Video Representation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_SEAL_Semantic_Attention_Learning_for_Long_Video_Representation_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/seal_semantic_…](https://papernotes.org/CVPR2025/video_understanding/seal_semantic_attention_learning_for_long_video_representation/)
+
+**MLVU: Benchmarking Multi-task Long Video Understanding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_MLVU_Benchmarking_Multi-task_Long_Video_Understanding_CVPR_2025_paper.html>
+- Code: <https://github.com/JUNJIE99/MLVU>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/mlvu_benchmark…](https://papernotes.org/CVPR2025/video_understanding/mlvu_benchmarking_multi-task_long_video_understanding/)
+
+**VELOCITI: Benchmarking Video-Language Compositional Reasoning with Strict Entailment**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Saravanan_VELOCITI_Benchmarking_Video-Language_Compositional_Reasoning_with_Strict_Entailment_CVPR_2025_paper.html>
+
+**HuPerFlow: A Comprehensive Benchmark for Human vs. Machine Motion Estimation Comparison**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_HuPerFlow_A_Comprehensive_Benchmark_for_Human_vs._Machine_Motion_Estimation_CVPR_2025_paper.html>
+
+**Temporally Consistent Object-Centric Learning by Contrasting Slots**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Manasyan_Temporally_Consistent_Object-Centric_Learning_by_Contrasting_Slots_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/temporally_con…](https://papernotes.org/CVPR2025/video_understanding/temporally_consistent_object-centric_learning_by_contrasting_slots/)
+
+**STEP: Enhancing Video-LLMs' Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Qiu_STEP_Enhancing_Video-LLMs_Compositional_Reasoning_by_Spatio-Temporal_Graph-guided_Self-Training_CVPR_2025_paper.html>
+
+**HuMoCon: Concept Discovery for Human Motion Understanding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fang_HuMoCon_Concept_Discovery_for_Human_Motion_Understanding_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/humocon_concep…](https://papernotes.org/CVPR2025/video_understanding/humocon_concept_discovery_for_human_motion_understanding/)
+
+**Apollo:  An Exploration of Video Understanding in Large Multimodal Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zohar_Apollo__An_Exploration_of_Video_Understanding_in_Large_Multimodal_CVPR_2025_paper.html>
+
+**Omnia de EgoTempo: Benchmarking Temporal Understanding of Multi-Modal LLMs in Egocentric Videos**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Plizzari_Omnia_de_EgoTempo_Benchmarking_Temporal_Understanding_of_Multi-Modal_LLMs_in_CVPR_2025_paper.html>
+- Code: <https://github.com/google-research-datasets/egotempo>
+
+**Revealing Key Details to See Differences: A Novel Prototypical Perspective for Skeleton-based Action Recognition**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Revealing_Key_Details_to_See_Differences_A_Novel_Prototypical_Perspective_CVPR_2025_paper.html>
+- Code: <https://github.com/firework8/ProtoGCN>
+
+**Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Bridge_Frame_and_Event_Common_Spatiotemporal_Fusion_for_High-Dynamic_Scene_CVPR_2025_paper.html>
+
+**Graph Neural Network Combining Event Stream and Periodic Aggregation for Low-Latency Event-based Vision**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dampfhoffer_Graph_Neural_Network_Combining_Event_Stream_and_Periodic_Aggregation_for_CVPR_2025_paper.html>
+
+**Bootstrap Your Own Views: Masked Ego-Exo Modeling for Fine-grained View-invariant Video Representations**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Park_Bootstrap_Your_Own_Views_Masked_Ego-Exo_Modeling_for_Fine-grained_View-invariant_CVPR_2025_paper.html>
+- Code: <https://github.com/park-jungin/byov>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/bootstrap_your…](https://papernotes.org/CVPR2025/video_understanding/bootstrap_your_own_views_masked_ego-exo_modeling_for_fine-grained_view-invariant/)
+
+**ETAP: Event-based Tracking of Any Point**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hamann_ETAP_Event-based_Tracking_of_Any_Point_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/etap_event-bas…](https://papernotes.org/CVPR2025/video_understanding/etap_event-based_tracking_of_any_point/)
+
+**BIMBA: Selective-Scan Compression for Long-Range Video Question Answering**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Islam_BIMBA_Selective-Scan_Compression_for_Long-Range_Video_Question_Answering_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/bimba_selectiv…](https://papernotes.org/CVPR2025/video_understanding/bimba_selective-scan_compression_for_long-range_video_question_answering/)
+
+**EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_EgoTextVQA_Towards_Egocentric_Scene-Text_Aware_Video_Question_Answering_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/egotextvqa_tow…](https://papernotes.org/CVPR2025/video_understanding/egotextvqa_towards_egocentric_scene-text_aware_video_question_answering/)
+
+**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fu_Video-MME_The_First-Ever_Comprehensive_Evaluation_Benchmark_of_Multi-modal_LLMs_in_CVPR_2025_paper.html>
+
+**Learning Audio-guided Video Representation with Gated Attention for Video-Text Retrieval**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jeong_Learning_Audio-guided_Video_Representation_with_Gated_Attention_for_Video-Text_Retrieval_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/learning_audio…](https://papernotes.org/CVPR2025/video_understanding/learning_audio-guided_video_representation_with_gated_attention_for_video-text_r/)
+
+**Track Any Anomalous Object:A Granular Video Anomaly Detection Pipeline**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Track_Any_Anomalous_ObjectA_Granular_Video_Anomaly_Detection_Pipeline_CVPR_2025_paper.html>
+
+**Sound Bridge: Associating Egocentric and Exocentric Videos via Audio Cues**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Sound_Bridge_Associating_Egocentric_and_Exocentric_Videos_via_Audio_Cues_CVPR_2025_paper.html>
+- Code: <https://github.com/shhuangcoder/SoundBridge>
+
+**MODA: Motion-Drift Augmentation for Inertial Human Motion Analysis**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_MODA_Motion-Drift_Augmentation_for_Inertial_Human_Motion_Analysis_CVPR_2025_paper.html>
+
+**Omni-RGPT: Unifying Image and Video Region-level Understanding via Token Marks**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Heo_Omni-RGPT_Unifying_Image_and_Video_Region-level_Understanding_via_Token_Marks_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/omni-rgpt_unif…](https://papernotes.org/CVPR2025/video_understanding/omni-rgpt_unifying_image_and_video_region-level_understanding_via_token_marks/)
+
+**Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Neuron_Learning_Context-Aware_Evolving_Representations_for_Zero-Shot_Skeleton_Action_Recognition_CVPR_2025_paper.html>
+- Code: <https://github.com/cseeyangchen/Neuron>
+
+**Efficient Transfer Learning for Video-language Foundation Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Efficient_Transfer_Learning_for_Video-language_Foundation_Models_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/efficient_tran…](https://papernotes.org/CVPR2025/video_understanding/efficient_transfer_learning_for_video-language_foundation_models/)
+
+**GG-SSMs: Graph-Generating State Space Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zubic_GG-SSMs_Graph-Generating_State_Space_Models_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/gg-ssms_graph-…](https://papernotes.org/CVPR2025/video_understanding/gg-ssms_graph-generating_state_space_models/)
+
+**Holmes-VAU: Towards Long-term Video Anomaly Understanding at Any Granularity**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Holmes-VAU_Towards_Long-term_Video_Anomaly_Understanding_at_Any_Granularity_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/segmentation/holmes-vau_towards_lo…](https://papernotes.org/CVPR2025/segmentation/holmes-vau_towards_long-term_video_anomaly_understanding_at_any_granularity/)
+
+**ReWind: Understanding Long Videos with Instructed Learnable Memory**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Diko_ReWind_Understanding_Long_Videos_with_Instructed_Learnable_Memory_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/rewind_underst…](https://papernotes.org/CVPR2025/video_understanding/rewind_understanding_long_videos_with_instructed_learnable_memory/)
+
+**DeCafNet: Delegate and Conquer for Efficient Temporal Grounding in Long Videos**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lu_DeCafNet_Delegate_and_Conquer_for_Efficient_Temporal_Grounding_in_Long_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/decafnet_deleg…](https://papernotes.org/CVPR2025/video_understanding/decafnet_delegate_and_conquer_for_efficient_temporal_grounding_in_long_videos/)
+
+**Context-Enhanced Memory-Refined Transformer for Online Action Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pang_Context-Enhanced_Memory-Refined_Transformer_for_Online_Action_Detection_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/context-enhanc…](https://papernotes.org/CVPR2025/video_understanding/context-enhanced_memory-refined_transformer_for_online_action_detection/)
+
+**HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Azad_HierarQ_Task-Aware_Hierarchical_Q-Former_for_Enhanced_Video_Understanding_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/hierarq_task-a…](https://papernotes.org/CVPR2025/video_understanding/hierarq_task-aware_hierarchical_q-former_for_enhanced_video_understanding/)
+
+**CASP: Compression of Large Multimodal Models Based on Attention Sparsity**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gholami_CASP_Compression_of_Large_Multimodal_Models_Based_on_Attention_Sparsity_CVPR_2025_paper.html>
+
+**VideoGEM: Training-free Action Grounding in Videos**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Vogel_VideoGEM_Training-free_Action_Grounding_in_Videos_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/videogem_train…](https://papernotes.org/CVPR2025/video_understanding/videogem_training-free_action_grounding_in_videos/)
+
+**GRAE-3DMOT: Geometry Relation-Aware Encoder for Online 3D Multi-Object Tracking**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_GRAE-3DMOT_Geometry_Relation-Aware_Encoder_for_Online_3D_Multi-Object_Tracking_CVPR_2025_paper.html>
+
+**SF2T: Self-supervised Fragment Finetuning of Video-LLMs for Fine-Grained Understanding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hu_SF2T_Self-supervised_Fragment_Finetuning_of_Video-LLMs_for_Fine-Grained_Understanding_CVPR_2025_paper.html>
+
+**Question-Aware Gaussian Experts for Audio-Visual Question Answering**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Question-Aware_Gaussian_Experts_for_Audio-Visual_Question_Answering_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/question-aware…](https://papernotes.org/CVPR2025/video_understanding/question-aware_gaussian_experts_for_audio-visual_question_answering/)
+
+**DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_DPU_Dynamic_Prototype_Updating_for_Multimodal_Out-of-Distribution_Detection_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/dpu_dynamic_pr…](https://papernotes.org/CVPR2025/video_understanding/dpu_dynamic_prototype_updating_for_multimodal_out-of-distribution_detection/)
+
+**Exploring Historical Information for RGBE Visual Tracking with Mamba**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_Exploring_Historical_Information_for_RGBE_Visual_Tracking_with_Mamba_CVPR_2025_paper.html>
+
+**MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_MambaVLT_Time-Evolving_Multimodal_State_Space_Model_for_Vision-Language_Tracking_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/mambavlt_time-…](https://papernotes.org/CVPR2025/video_understanding/mambavlt_time-evolving_multimodal_state_space_model_for_vision-language_tracking/)
+
+**Towards Universal Soccer Video Understanding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Rao_Towards_Universal_Soccer_Video_Understanding_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/towards_univer…](https://papernotes.org/CVPR2025/video_understanding/towards_universal_soccer_video_understanding/)
+
+**ExpertAF: Expert Actionable Feedback from Video**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ashutosh_ExpertAF_Expert_Actionable_Feedback_from_Video_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/expertaf_exper…](https://papernotes.org/CVPR2025/video_understanding/expertaf_expert_actionable_feedback_from_video/)
+
+**Progress-Aware Video Frame Captioning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xue_Progress-Aware_Video_Frame_Captioning_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/progress-aware…](https://papernotes.org/CVPR2025/video_understanding/progress-aware_video_frame_captioning/)
+
+**On the Consistency of Video Large Language Models in Temporal Comprehension**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jung_On_the_Consistency_of_Video_Large_Language_Models_in_Temporal_CVPR_2025_paper.html>
+- Code: <https://github.com/minjoong507/Consistency-of-Video-LLM>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/on_the_consist…](https://papernotes.org/CVPR2025/video_understanding/on_the_consistency_of_video_large_language_models_in_temporal_comprehension/)
+
+**VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ye_VERA_Explainable_Video_Anomaly_Detection_via_Verbalized_Learning_of_Vision-Language_CVPR_2025_paper.html>
+
+**Just Dance with pi! A Poly-modal Inductor for Weakly-supervised Video Anomaly Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Majhi_Just_Dance_with_pi_A_Poly-modal_Inductor_for_Weakly-supervised_Video_CVPR_2025_paper.html>
+
+**DynFocus: Dynamic Cooperative Network Empowers LLMs with Video Understanding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Han_DynFocus_Dynamic_Cooperative_Network_Empowers_LLMs_with_Video_Understanding_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/dynfocus_dynam…](https://papernotes.org/CVPR2025/video_understanding/dynfocus_dynamic_cooperative_network_empowers_llms_with_video_understanding/)
+
+**Noise-Resistant Video Anomaly Detection via RGB Error-Guided Multiscale Predictive Coding and Dynamic Memory**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hu_Noise-Resistant_Video_Anomaly_Detection_via_RGB_Error-Guided_Multiscale_Predictive_Coding_CVPR_2025_paper.html>
+
+**OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pan_OmniManip_Towards_General_Robotic_Manipulation_via_Object-Centric_Interaction_Primitives_as_CVPR_2025_paper.html>
+
+**VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yuan_VideoRefer_Suite_Advancing_Spatial-Temporal_Object_Understanding_with_Video_LLM_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/videorefer_sui…](https://papernotes.org/CVPR2025/video_understanding/videorefer_suite_advancing_spatial-temporal_object_understanding_with_video_llm/)
+
+**Re-thinking Temporal Search for Long-Form Video Understanding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ye_Re-thinking_Temporal_Search_for_Long-Form_Video_Understanding_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/re-thinking_te…](https://papernotes.org/CVPR2025/video_understanding/re-thinking_temporal_search_for_long-form_video_understanding/)
+
+**Viewpoint Rosetta Stone: Unlocking Unpaired Ego-Exo Videos for View-invariant Representation Learning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Luo_Viewpoint_Rosetta_Stone_Unlocking_Unpaired_Ego-Exo_Videos_for_View-invariant_Representation_CVPR_2025_paper.html>
+
+**Omnidirectional Multi-Object Tracking**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Luo_Omnidirectional_Multi-Object_Tracking_CVPR_2025_paper.html>
+- Code: <https://github.com/xifen523/OmniTrack>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/omnidirectiona…](https://papernotes.org/CVPR2025/video_understanding/omnidirectional_multi-object_tracking/)
+
+**Video Summarization with Large Language Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Video_Summarization_with_Large_Language_Models_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/video_summariz…](https://papernotes.org/CVPR2025/video_understanding/video_summarization_with_large_language_models/)
+
+**Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Building_a_Mind_Palace_Structuring_Environment-Grounded_Semantic_Graphs_for_Effective_CVPR_2025_paper.html>
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
+<a id="object_detection"></a>
+
+## 🎯 Object Detection · `object_detection` · 83 papers
+
+**TornadoNet: Real-Time Building Damage Detection with Ordinal Supervision**
+
+- Paper: <https://arxiv.org/abs/2603.11557v1>
+- Code: <https://github.com/crumeike/TornadoNet>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/tornadonet_real-t…](https://papernotes.org/CVPR2025/object_detection/tornadonet_real-time_building_damage_detection_with_ordinal_supervision/)
+
+**Show, Don't Tell: Detecting Novel Objects by Watching Human Videos**
+
+- Paper: <https://arxiv.org/abs/2603.12751v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/show_dont_tell_de…](https://papernotes.org/CVPR2025/object_detection/show_dont_tell_detecting_novel_objects_by_watching_human_videos/)
+
+**VCBench: A Streaming Counting Benchmark for Spatial-Temporal State Maintenance in Long Videos**
+
+- Paper: <https://arxiv.org/abs/2603.12703v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/vcbench_a_stre…](https://papernotes.org/CVPR2025/video_understanding/vcbench_a_streaming_counting_benchmark_for_spatial-temporal_state_maintenance_in/)
+
+**ABRA: Teleporting Fine-Tuned Knowledge Across Domains for Open-Vocabulary Object Detection**
+
+- Paper: <https://arxiv.org/abs/2603.12409v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/abra_teleporting_…](https://papernotes.org/CVPR2025/object_detection/abra_teleporting_fine-tuned_knowledge_across_domains_for_open-vocabulary_object_/)
+
+**Integration of deep generative Anomaly Detection algorithm in high-speed industrial line**
+
+- Paper: <https://arxiv.org/abs/2603.07577v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/others/integration_of_deep_generat…](https://papernotes.org/CVPR2025/others/integration_of_deep_generative_anomaly_detection_algorithm_in_high-speed_industr/)
+
+**Small Target Detection Based on Mask-Enhanced Attention Fusion of Visible and Infrared Remote Sensing Images**
+
+- Paper: <https://arxiv.org/abs/2603.06925v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/small_target_dete…](https://papernotes.org/CVPR2025/object_detection/small_target_detection_based_on_mask-enhanced_attention_fusion_of_visible_and_in/)
+
+**MulSen-AD: Multi-Sensor Object Anomaly Detection**
+
+- Paper: <https://arxiv.org/abs/2412.14592>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/mulsen_ad_multi_s…](https://papernotes.org/CVPR2025/object_detection/mulsen_ad_multi_sensor_anomaly_detection/)
+
+**DFM: Differentiable Feature Matching for Anomaly Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_DFM_Differentiable_Feature_Matching_for_Anomaly_Detection_CVPR_2025_paper.html>
+
+**PointSR: Self-Regularized Point Supervision for Drone-View Object Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_PointSR_Self-Regularized_Point_Supervision_for_Drone-View_Object_Detection_CVPR_2025_paper.html>
+
+**Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Brain-Inspired_Spiking_Neural_Networks_for_Energy-Efficient_Object_Detection_CVPR_2025_paper.html>
+
+**Believing is Seeing: Unobserved Object Detection using Generative Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bhattacharjee_Believing_is_Seeing_Unobserved_Object_Detection_using_Generative_Models_CVPR_2025_paper.html>
+
+**OW-OVD: Unified Open World and Open Vocabulary Object Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xi_OW-OVD_Unified_Open_World_and_Open_Vocabulary_Object_Detection_CVPR_2025_paper.html>
+- Code: <https://github.com/xxyzll/OW_OVD>
+
+**Boosting Point-Supervised Temporal Action Localization through Integrating Query Reformation and Optimal Transport**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Boosting_Point-Supervised_Temporal_Action_Localization_through_Integrating_Query_Reformation_and_CVPR_2025_paper.html>
+
+**AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_AnomalyNCD_Towards_Novel_Anomaly_Class_Discovery_in_Industrial_Scenarios_CVPR_2025_paper.html>
+- Code: <https://github.com/HUST-SLOW/AnomalyNCD>
+- Notes (Chinese): [papernotes.org/CVPR2025/others/anomalyncd_towards_novel_an…](https://papernotes.org/CVPR2025/others/anomalyncd_towards_novel_anomaly_class_discovery_in_industrial_scenarios/)
+
+**ABBSPO: Adaptive Bounding Box Scaling and Symmetric Prior based Orientation Prediction for Detecting Aerial Image Objects**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lee_ABBSPO_Adaptive_Bounding_Box_Scaling_and_Symmetric_Prior_based_Orientation_CVPR_2025_paper.html>
+
+**SEEN-DA: SEmantic ENtropy guided Domain-aware Attention for Domain Adaptive Object Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_SEEN-DA_SEmantic_ENtropy_guided_Domain-aware_Attention_for_Domain_Adaptive_Object_CVPR_2025_paper.html>
+
+**Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yu_Point2RBox-v2_Rethinking_Point-supervised_Oriented_Object_Detection_with_Spatial_Layout_Among_CVPR_2025_paper.html>
+
+**Interpreting Object-level Foundation Models via Visual Precision Search**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Interpreting_Object-level_Foundation_Models_via_Visual_Precision_Search_CVPR_2025_paper.html>
+- Code: <https://github.com/RuoyuChen10/VPS>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/interpreting_obje…](https://papernotes.org/CVPR2025/object_detection/interpreting_object-level_foundation_models_via_visual_precision_search/)
+
+**PIAD: Pose and Illumination agnostic Anomaly Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_PIAD_Pose_and_Illumination_agnostic_Anomaly_Detection_CVPR_2025_paper.html>
+- Project: <https://kaichen-yang.github.io/piad/>
+
+**Efficient Test-time Adaptive Object Detection via Sensitivity-Guided Pruning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Efficient_Test-time_Adaptive_Object_Detection_via_Sensitivity-Guided_Pruning_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/efficient_test-ti…](https://papernotes.org/CVPR2025/object_detection/efficient_test-time_adaptive_object_detection_via_sensitivity-guided_pruning/)
+
+**Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Wavelet_and_Prototype_Augmented_Query-based_Transformer_for_Pixel-level_Surface_Defect_CVPR_2025_paper.html>
+- Code: <https://github.com/yfhdm/WPFormer>
+
+**GauCho: Gaussian Distributions with Cholesky Decomposition for Oriented Object Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Marques_GauCho_Gaussian_Distributions_with_Cholesky_Decomposition_for_Oriented_Object_Detection_CVPR_2025_paper.html>
+
+**Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Distribution_Prototype_Diffusion_Learning_for_Open-set_Supervised_Anomaly_Detection_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/others/distribution_prototype_diff…](https://papernotes.org/CVPR2025/others/distribution_prototype_diffusion_learning_for_open-set_supervised_anomaly_detect/)
+
+**Mr. DETR: Instructive Multi-Route Training for Detection Transformers**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Mr._DETR_Instructive_Multi-Route_Training_for_Detection_Transformers_CVPR_2025_paper.html>
+- Project: <https://visual-ai.github.io/mrdetr>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/mr_detr_instructi…](https://papernotes.org/CVPR2025/object_detection/mr_detr_instructive_multi-route_training_for_detection_transformers/)
+
+**MANTA: A Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset for Tiny Objects**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fan_MANTA_A_Large-Scale_Multi-View_and_Visual-Text_Anomaly_Detection_Dataset_for_CVPR_2025_paper.html>
+
+**STPro: Spatial and Temporal Progressive Learning for Weakly Supervised Spatio-Temporal Grounding**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Garg_STPro_Spatial_and_Temporal_Progressive_Learning_for_Weakly_Supervised_Spatio-Temporal_CVPR_2025_paper.html>
+
+**Large Self-Supervised Models Bridge the Gap in Domain Adaptive Object Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lavoie_Large_Self-Supervised_Models_Bridge_the_Gap_in_Domain_Adaptive_Object_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/large_self-superv…](https://papernotes.org/CVPR2025/object_detection/large_self-supervised_models_bridge_the_gap_in_domain_adaptive_object_detection/)
+
+**BACON: Improving Clarity of Image Captions via Bag-of-Concept Graphs**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_BACON_Improving_Clarity_of_Image_Captions_via_Bag-of-Concept_Graphs_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/bacon_improving_c…](https://papernotes.org/CVPR2025/object_detection/bacon_improving_clarity_of_image_captions_via_bag-of-concept_graphs/)
+
+**OralXrays-9: Towards Hospital-Scale Panoramic X-ray Anomaly Detection via Personalized Multi-Object Query-Aware Mining**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_OralXrays-9_Towards_Hospital-Scale_Panoramic_X-ray_Anomaly_Detection_via_Personalized_Multi-Object_CVPR_2025_paper.html>
+
+**UniNet: A Contrastive Learning-guided Unified Framework with Feature Selection for Anomaly Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wei_UniNet_A_Contrastive_Learning-guided_Unified_Framework_with_Feature_Selection_for_CVPR_2025_paper.html>
+
+**Seeing More with Less: Human-like Representations in Vision Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gizdov_Seeing_More_with_Less_Human-like_Representations_in_Vision_Models_CVPR_2025_paper.html>
+
+**AeroGen: Enhancing Remote Sensing Object Detection with Diffusion-Driven Data Generation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tang_AeroGen_Enhancing_Remote_Sensing_Object_Detection_with_Diffusion-Driven_Data_Generation_CVPR_2025_paper.html>
+
+**Real-IAD D3: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Real-IAD_D3_A_Real-World_2DPseudo-3D3D_Dataset_for_Industrial_Anomaly_Detection_CVPR_2025_paper.html>
+- Project: <https://realiad4ad.github.io/Real-IAD_D3>
+
+**Saliuitl: Ensemble Salience Guided Recovery of Adversarial Patches against CNNs**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Victorica_Saliuitl_Ensemble_Salience_Guided_Recovery_of_Adversarial_Patches_against_CNNs_CVPR_2025_paper.html>
+
+**Test-Time Backdoor Detection for Object Detection Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Test-Time_Backdoor_Detection_for_Object_Detection_Models_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/test-time_backdoo…](https://papernotes.org/CVPR2025/object_detection/test-time_backdoor_detection_for_object_detection_models/)
+
+**DiGIT: Multi-Dilated Gated Encoder and Central-Adjacent Region Integrated Decoder for Temporal Action Detection Transformer**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_DiGIT_Multi-Dilated_Gated_Encoder_and_Central-Adjacent_Region_Integrated_Decoder_for_CVPR_2025_paper.html>
+
+**Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Guo_Dinomaly_The_Less_Is_More_Philosophy_in_Multi-Class_Unsupervised_Anomaly_CVPR_2025_paper.html>
+
+**Benchmarking Object Detectors under Real-World Distribution Shifts in Satellite Imagery**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Al-Emadi_Benchmarking_Object_Detectors_under_Real-World_Distribution_Shifts_in_Satellite_Imagery_CVPR_2025_paper.html>
+- Code: <https://github.com/RWGAI/RWDS>
+
+**Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sidhu_Search_and_Detect_Training-Free_Long_Tail_Object_Detection_via_Web-Image_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/search_and_detect…](https://papernotes.org/CVPR2025/object_detection/search_and_detect_training-free_long_tail_object_detection_via_web-image_retriev/)
+
+**Unseen Visual Anomaly Generation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_Unseen_Visual_Anomaly_Generation_CVPR_2025_paper.html>
+- Project: <https://hansunhayden.github.io/CUT.github.io>
+- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/unseen_visual_ano…](https://papernotes.org/CVPR2025/image_generation/unseen_visual_anomaly_generation/)
+
+**T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Qian_T2ICount_Enhancing_Cross-modal_Understanding_for_Zero-Shot_Counting_CVPR_2025_paper.html>
+- Code: <https://github.com/cha15yq/T2ICount>
+- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/t2icount_enhancin…](https://papernotes.org/CVPR2025/image_generation/t2icount_enhancing_cross-modal_understanding_for_zero-shot_counting/)
+
+**Odd-One-Out: Anomaly Detection by Comparing with Neighbors**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bhunia_Odd-One-Out_Anomaly_Detection_by_Comparing_with_Neighbors_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/odd-one-out_anomaly_dete…](https://papernotes.org/CVPR2025/3d_vision/odd-one-out_anomaly_detection_by_comparing_with_neighbors/)
+
+**Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Towards_Zero-Shot_Anomaly_Detection_and_Reasoning_with_Multimodal_Large_Language_CVPR_2025_paper.html>
+- Project: <https://xujiacong.github.io/Anomaly-OV/>
+- Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/towards_zero-shot_a…](https://papernotes.org/CVPR2025/multimodal_vlm/towards_zero-shot_anomaly_detection_and_reasoning_with_multimodal_large_language/)
+
+**PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ye_PO3AD_Predicting_Point_Offsets_toward_Better_3D_Point_Cloud_Anomaly_CVPR_2025_paper.html>
+- Code: <https://github.com/yjnanan/PO3AD>
+- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/po3ad_predicting_point_o…](https://papernotes.org/CVPR2025/3d_vision/po3ad_predicting_point_offsets_toward_better_3d_point_cloud_anomaly_detection/)
+
+**SET: Spectral Enhancement for Tiny Object Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_SET_Spectral_Enhancement_for_Tiny_Object_Detection_CVPR_2025_paper.html>
+
+**Multiple Object Tracking as ID Prediction**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gao_Multiple_Object_Tracking_as_ID_Prediction_CVPR_2025_paper.html>
+- Code: <https://github.com/MCG-NJU/MOTIP>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/multiple_object_t…](https://papernotes.org/CVPR2025/object_detection/multiple_object_tracking_as_id_prediction/)
+
+**Detecting Open World Objects via Partial Attribute Assignment**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Detecting_Open_World_Objects_via_Partial_Attribute_Assignment_CVPR_2025_paper.html>
+
+**UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gu_UniVAD_A_Training-free_Unified_Model_for_Few-shot_Visual_Anomaly_Detection_CVPR_2025_paper.html>
+- Code: <https://github.com/FantasticGNU/UniVAD>
+- Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/univad_a_training-…](https://papernotes.org/CVPR2025/medical_imaging/univad_a_training-free_unified_model_for_few-shot_visual_anomaly_detection/)
+
+**VISCO: Benchmarking Fine-Grained Critique and Correction Towards Self-Improvement in Visual Reasoning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_VISCO_Benchmarking_Fine-Grained_Critique_and_Correction_Towards_Self-Improvement_in_Visual_CVPR_2025_paper.html>
+
+**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Object_Detection_using_Event_Camera_A_MoE_Heat_Conduction_based_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/object_detection_…](https://papernotes.org/CVPR2025/object_detection/object_detection_using_event_camera_a_moe_heat_conduction_based_detector_and_a_n/)
+
+**Beyond Single-Modal Boundary: Cross-Modal Anomaly Detection through Visual Prototype and Harmonization**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Mao_Beyond_Single-Modal_Boundary_Cross-Modal_Anomaly_Detection_through_Visual_Prototype_and_CVPR_2025_paper.html>
+- Code: <https://github.com/Kerio99/CMAD>
+
+**Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Luo_Exploring_Intrinsic_Normal_Prototypes_within_a_Single_Image_for_Universal_CVPR_2025_paper.html>
+- Code: <https://github.com/luow23/INP-Former>
+
+**RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_RSAR_Restricted_State_Angle_Resolver_and_Rotated_SAR_Benchmark_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/rsar_restricted_s…](https://papernotes.org/CVPR2025/object_detection/rsar_restricted_state_angle_resolver_and_rotated_sar_benchmark/)
+
+**PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Nafez_PatchGuard_Adversarially_Robust_Anomaly_Detection_and_Localization_through_Vision_Transformers_CVPR_2025_paper.html>
+
+**DynPose: Largely Improving the Efficiency of Human Pose Estimation by a Simple Dynamic Framework**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xu_DynPose_Largely_Improving_the_Efficiency_of_Human_Pose_Estimation_by_CVPR_2025_paper.html>
+- Code: <https://github.com/Aritoria/DynPose>
+
+**Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Multi-Sensor_Object_Anomaly_Detection_Unifying_Appearance_Geometry_and_Internal_Properties_CVPR_2025_paper.html>
+- Code: <https://github.com/ZZZBBBZZZ/MulSen-AD>
+- Notes (Chinese): [papernotes.org/CVPR2025/others/multi-sensor_object_anomaly…](https://papernotes.org/CVPR2025/others/multi-sensor_object_anomaly_detection_unifying_appearance_geometry_and_internal_/)
+
+**Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Towards_Visual_Discrimination_and_Reasoning_of_Real-World_Physical_Dynamics_Physics-Grounded_CVPR_2025_paper.html>
+- Project: <https://guyao2023.github.io/Phys-AD/>
+
+**One-for-More: Continual Diffusion Model for Anomaly Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_One-for-More_Continual_Diffusion_Model_for_Anomaly_Detection_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/one-for-more_cont…](https://papernotes.org/CVPR2025/image_generation/one-for-more_continual_diffusion_model_for_anomaly_detection/)
+
+**ReDiffDet: Rotation-equivariant Diffusion Model for Oriented Object Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_ReDiffDet_Rotation-equivariant_Diffusion_Model_for_Oriented_Object_Detection_CVPR_2025_paper.html>
+
+**Towards RAW Object Detection in Diverse Conditions**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Towards_RAW_Object_Detection_in_Diverse_Conditions_CVPR_2025_paper.html>
+- Code: <https://github.com/lzyhha/AODRaw>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/towards_raw_objec…](https://papernotes.org/CVPR2025/object_detection/towards_raw_object_detection_in_diverse_conditions/)
+
+**Towards Training-free Anomaly Detection with Vision and Language Foundation Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Towards_Training-free_Anomaly_Detection_with_Vision_and_Language_Foundation_Models_CVPR_2025_paper.html>
+- Code: <https://github.com/zhang0jhon/LogSAD>
+
+**Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Qu_Bayesian_Prompt_Flow_Learning_for_Zero-Shot_Anomaly_Detection_CVPR_2025_paper.html>
+- Code: <https://github.com/xiaozhen228/Bayes-PFL>
+
+**Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial and Temporal Attention**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ahmed_Efficient_Event-Based_Object_Detection_A_Hybrid_Neural_Network_with_Spatial_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/efficient_event-b…](https://papernotes.org/CVPR2025/object_detection/efficient_event-based_object_detection_a_hybrid_neural_network_with_spatial_and_/)
+
+**LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fu_LLMDet_Learning_Strong_Open-Vocabulary_Object_Detectors_under_the_Supervision_of_CVPR_2025_paper.html>
+
+**ReRAW: RGB-to-RAW Image Reconstruction via Stratified Sampling for Efficient Object Detection on the Edge**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Berdan_ReRAW_RGB-to-RAW_Image_Reconstruction_via_Stratified_Sampling_for_Efficient_Object_CVPR_2025_paper.html>
+
+**Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Beizaee_Correcting_Deviations_from_Normality_A_Reformulated_Diffusion_Model_for_Multi-Class_CVPR_2025_paper.html>
+- Code: <https://github.com/farzad-bz/DeCo-Diff>
+
+**DEIM: DETR with Improved Matching for Fast Convergence**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_DEIM_DETR_with_Improved_Matching_for_Fast_Convergence_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/deim_detr_with_im…](https://papernotes.org/CVPR2025/object_detection/deim_detr_with_improved_matching_for_fast_convergence/)
+
+**Feature Information Driven Position Gaussian Distribution Estimation for Tiny Object Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bian_Feature_Information_Driven_Position_Gaussian_Distribution_Estimation_for_Tiny_Object_CVPR_2025_paper.html>
+
+**Revisiting Generative Replay for Class Incremental Object Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Revisiting_Generative_Replay_for_Class_Incremental_Object_Detection_CVPR_2025_paper.html>
+- Code: <https://github.com/qiangzai-lv/RGR-IOD>
+
+**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Boosting_Domain_Incremental_Learning_Selecting_the_Optimal_Parameters_is_All_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/boosting_domain_i…](https://papernotes.org/CVPR2025/object_detection/boosting_domain_incremental_learning_selecting_the_optimal_parameters_is_all_you/)
+
+**ROICtrl: Boosting Instance Control for Visual Generation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gu_ROICtrl_Boosting_Instance_Control_for_Visual_Generation_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/roictrl_boosting_…](https://papernotes.org/CVPR2025/object_detection/roictrl_boosting_instance_control_for_visual_generation/)
+
+**Shadow Generation Using Diffusion Model with Geometry Prior**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Shadow_Generation_Using_Diffusion_Model_with_Geometry_Prior_CVPR_2025_paper.html>
+
+**MI-DETR: An Object Detection Model with Multi-time Inquiries Mechanism**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Nan_MI-DETR_An_Object_Detection_Model_with_Multi-time_Inquiries_Mechanism_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/mi-detr_an_object…](https://papernotes.org/CVPR2025/object_detection/mi-detr_an_object_detection_model_with_multi-time_inquiries_mechanism/)
+
+**TailedCore: Few-Shot Sampling for Unsupervised Long-Tail Noisy Anomaly Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jung_TailedCore_Few-Shot_Sampling_for_Unsupervised_Long-Tail_Noisy_Anomaly_Detection_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/others/tailedcore_few-shot_samplin…](https://papernotes.org/CVPR2025/others/tailedcore_few-shot_sampling_for_unsupervised_long-tail_noisy_anomaly_detection/)
+
+**A Unified Latent Schrodinger Bridge Diffusion Model for Unsupervised Anomaly Detection and Localization**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Akshay_A_Unified_Latent_Schrodinger_Bridge_Diffusion_Model_for_Unsupervised_Anomaly_CVPR_2025_paper.html>
+
+**Open-World Objectness Modeling Unifies Novel Object Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Open-World_Objectness_Modeling_Unifies_Novel_Object_Detection_CVPR_2025_paper.html>
+
+**Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/He_Generalized_Diffusion_Detector_Mining_Robust_Features_from_Diffusion_Models_for_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/generalized_diffu…](https://papernotes.org/CVPR2025/object_detection/generalized_diffusion_detector_mining_robust_features_from_diffusion_models_for_/)
+
+**A Hubness Perspective on Representation Learning for Graph-Based Multi-View Clustering**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xu_A_Hubness_Perspective_on_Representation_Learning_for_Graph-Based_Multi-View_Clustering_CVPR_2025_paper.html>
+- Code: <https://github.com/zmxu196/hubREP>
+
+**ProbPose: A Probabilistic Approach to 2D Human Pose Estimation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Purkrabek_ProbPose_A_Probabilistic_Approach_to_2D_Human_Pose_Estimation_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/probpose_a_probab…](https://papernotes.org/CVPR2025/object_detection/probpose_a_probabilistic_approach_to_2d_human_pose_estimation/)
+
+**Percept, Memory, and Imagine: World Feature Simulating for Open-Domain Unknown Object Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Percept_Memory_and_Imagine_World_Feature_Simulating_for_Open-Domain_Unknown_CVPR_2025_paper.html>
+- Code: <https://github.com/AmingWu/WFS>
+
+**AA-CLIP: Enhancing Zero-Shot Anomaly Detection via Anomaly-Aware CLIP**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ma_AA-CLIP_Enhancing_Zero-Shot_Anomaly_Detection_via_Anomaly-Aware_CLIP_CVPR_2025_paper.html>
+- Code: <https://github.com/Mwxinnn/AA-CLIP>
+- Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/aa-clip_enhancing_…](https://papernotes.org/CVPR2025/medical_imaging/aa-clip_enhancing_zero-shot_anomaly_detection_via_anomaly-aware_clip/)
+
+**SimLTD: Simple Supervised and Semi-Supervised Long-Tailed Object Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tran_SimLTD_Simple_Supervised_and_Semi-Supervised_Long-Tailed_Object_Detection_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/simltd_simple_sup…](https://papernotes.org/CVPR2025/object_detection/simltd_simple_supervised_and_semi-supervised_long-tailed_object_detection/)
+
+**Learning Endogenous Attention for Incremental Object Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Song_Learning_Endogenous_Attention_for_Incremental_Object_Detection_CVPR_2025_paper.html>
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
 <a id="image_restoration"></a>
 
-## 🖼️ Image Restoration · `image_restoration` · 80 papers
+## 🖼️ Image Restoration · `image_restoration` · 78 papers
 
 **Towards Universal Computational Aberration Correction in Photographic Cameras: A Comprehensive Benchmark Analysis**
 
@@ -11581,11 +11921,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_A_Polarization-Aided_Transformer_for_Image_Deblurring_via_Motion_Vector_Decomposition_CVPR_2025_paper.html>
 
-**DiffFNO: Diffusion Fourier Neural Operator**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_DiffFNO_Diffusion_Fourier_Neural_Operator_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/image_restoration/difffno_diffusio…](https://papernotes.org/CVPR2025/image_restoration/difffno_diffusion_fourier_neural_operator/)
-
 **Adversarial Diffusion Compression for Real-World Image Super-Resolution**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Adversarial_Diffusion_Compression_for_Real-World_Image_Super-Resolution_CVPR_2025_paper.html>
@@ -11605,6 +11940,11 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xu_URWKV_Unified_RWKV_Model_with_Multi-state_Perspective_for_Low-light_Image_CVPR_2025_paper.html>
 - Code: <https://github.com/FZU-N/URWKV>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_restoration/urwkv_unified_rw…](https://papernotes.org/CVPR2025/image_restoration/urwkv_unified_rwkv_model_with_multi-state_perspective_for_low-light_image_restor/)
+
+**Effective Cloud Removal for Remote Sensing Images by an Improved Mean-Reverting Denoising Model with Elucidated Design Space**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Effective_Cloud_Removal_for_Remote_Sensing_Images_by_an_Improved_CVPR_2025_paper.html>
+- Code: <https://github.com/Ly403/EMRDM>
 
 **ADD: Attribution-Driven Data Augmentation Framework for Boosting Image Super-Resolution**
 
@@ -11823,10 +12163,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fang_Parameterized_Blur_Kernel_Prior_Learning_for_Local_Motion_Deblurring_CVPR_2025_paper.html>
 
-**PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_PassionSR_Post-Training_Quantization_with_Adaptive_Scale_in_One-Step_Diffusion_based_CVPR_2025_paper.html>
-
 **Exploring Semantic Feature Discrimination for Perceptual Image Super-Resolution and Opinion-Unaware No-Reference Image Quality Assessment**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dong_Exploring_Semantic_Feature_Discrimination_for_Perceptual_Image_Super-Resolution_and_Opinion-Unaware_CVPR_2025_paper.html>
@@ -11846,11 +12182,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Meng_EchoMimicV2_Towards_Striking_Simplified_and_Semi-Body_Human_Animation_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_restoration/echomimicv2_towa…](https://papernotes.org/CVPR2025/image_restoration/echomimicv2_towards_striking_simplified_and_semi-body_human_animation/)
-
-**Video Motion Transfer with Diffusion Transformers**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pondaven_Video_Motion_Transfer_with_Diffusion_Transformers_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/image_restoration/video_motion_tra…](https://papernotes.org/CVPR2025/image_restoration/video_motion_transfer_with_diffusion_transformers/)
 
 **Automatic Spectral Calibration of Hyperspectral Images: Method, Dataset and Benchmark**
 
@@ -11942,565 +12273,9 @@
 
 ---
 
-<a id="llm_evaluation"></a>
-
-## 📊 LLM Evaluation · `llm_evaluation` · 57 papers
-
-**Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models**
-
-- Paper: <https://arxiv.org/abs/2603.13215v1>
-- Project: <https://glab-caltech.github.io/STEVOBench/>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/out_of_sight_out_of…](https://papernotes.org/CVPR2025/llm_evaluation/out_of_sight_out_of_mind_evaluating_state_evolution_in_video_world_models/)
-
-**MagicArticulate: Make Your 3D Models Articulation-Ready**
-
-- Paper: <https://arxiv.org/abs/2502.12135>
-- Project: <https://chaoyuesong.github.io/MagicArticulate>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/magicarticulate_mak…](https://papernotes.org/CVPR2025/llm_evaluation/magicarticulate_make_your_3d_models_articulation-ready/)
-
-**AdaptCMVC: Robust Adaption to Incremental Views in Continual Multi-view Clustering**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_AdaptCMVC_Robust_Adaption_to_Incremental_Views_in_Continual_Multi-view_Clustering_CVPR_2025_paper.html>
-
-**SATA: Spatial Autocorrelation Token Analysis for Enhancing the Robustness of Vision Transformers**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Nikzad_SATA_Spatial_Autocorrelation_Token_Analysis_for_Enhancing_the_Robustness_of_CVPR_2025_paper.html>
-- Code: <https://github.com/nick-nikzad/SATA>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/sata_spatial_autoco…](https://papernotes.org/CVPR2025/llm_evaluation/sata_spatial_autocorrelation_token_analysis_for_enhancing_the_robustness_of_visi/)
-
-**Improving Accuracy and Calibration via Differentiated Deep Mutual Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Improving_Accuracy_and_Calibration_via_Differentiated_Deep_Mutual_Learning_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/improving_accuracy_…](https://papernotes.org/CVPR2025/llm_evaluation/improving_accuracy_and_calibration_via_differentiated_deep_mutual_learning/)
-
-**Event Ellipsometer: Event-based Mueller-Matrix Video Imaging**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Maeda_Event_Ellipsometer_Event-based_Mueller-Matrix_Video_Imaging_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/event_ellipsometer_…](https://papernotes.org/CVPR2025/llm_evaluation/event_ellipsometer_event-based_mueller-matrix_video_imaging/)
-
-**Unsupervised Continual Domain Shift Learning with Multi-Prototype Modeling**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_Unsupervised_Continual_Domain_Shift_Learning_with_Multi-Prototype_Modeling_CVPR_2025_paper.html>
-
-**Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Ferret_An_Efficient_Online_Continual_Learning_Framework_under_Varying_Memory_CVPR_2025_paper.html>
-
-**TraF-Align: Trajectory-aware Feature Alignment for Asynchronous Multi-agent Perception**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Song_TraF-Align_Trajectory-aware_Feature_Alignment_for_Asynchronous_Multi-agent_Perception_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/traf-align_trajecto…](https://papernotes.org/CVPR2025/llm_evaluation/traf-align_trajectory-aware_feature_alignment_for_asynchronous_multi-agent_perce/)
-
-**FlexUOD: The Answer to Real-world Unsupervised Image Outlier Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_FlexUOD_The_Answer_to_Real-world_Unsupervised_Image_Outlier_Detection_CVPR_2025_paper.html>
-
-**Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Weakly_Supervised_Contrastive_Adversarial_Training_for_Learning_Robust_Features_from_CVPR_2025_paper.html>
-- Code: <https://github.com/zhang-lilin/WSCAT>
-
-**RoadSocial: A Diverse VideoQA Dataset and Benchmark for Road Event Understanding from Social Video Narratives**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Parikh_RoadSocial_A_Diverse_VideoQA_Dataset_and_Benchmark_for_Road_Event_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/roadsocial_a_divers…](https://papernotes.org/CVPR2025/llm_evaluation/roadsocial_a_diverse_videoqa_dataset_and_benchmark_for_road_event_understanding_/)
-
-**Scene-agnostic Pose Regression for Visual Localization**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zheng_Scene-agnostic_Pose_Regression_for_Visual_Localization_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/scene-agnostic_pose…](https://papernotes.org/CVPR2025/llm_evaluation/scene-agnostic_pose_regression_for_visual_localization/)
-
-**SEC-Prompt:SEmantic Complementary Prompting for Few-Shot Class-Incremental Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SEC-PromptSEmantic_Complementary_Prompting_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/sec-promptsemantic_complem…](https://papernotes.org/CVPR2025/llm_nlp/sec-promptsemantic_complementary_prompting_for_few-shot_class-incremental_learni/)
-
-**KAC: Kolmogorov-Arnold Classifier for Continual Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hu_KAC_Kolmogorov-Arnold_Classifier_for_Continual_Learning_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/kac_kolmogorov-arno…](https://papernotes.org/CVPR2025/llm_evaluation/kac_kolmogorov-arnold_classifier_for_continual_learning/)
-
-**Gradient-Guided Annealing for Domain Generalization**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ballas_Gradient-Guided_Annealing_for_Domain_Generalization_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/gradient-guided_ann…](https://papernotes.org/CVPR2025/llm_evaluation/gradient-guided_annealing_for_domain_generalization/)
-
-**Dense Match Summarization for Faster Two-view Estimation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Astermark_Dense_Match_Summarization_for_Faster_Two-view_Estimation_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/dense_match_summarization_…](https://papernotes.org/CVPR2025/llm_nlp/dense_match_summarization_for_faster_two-view_estimation/)
-
-**Dual Consolidation for Pre-Trained Model-Based Domain-Incremental Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Dual_Consolidation_for_Pre-Trained_Model-Based_Domain-Incremental_Learning_CVPR_2025_paper.html>
-- Code: <https://github.com/Estrella-fugaz/CVPR25-Duct>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/dual_consolidation_…](https://papernotes.org/CVPR2025/llm_evaluation/dual_consolidation_for_pre-trained_model-based_domain-incremental_learning/)
-
-**VinaBench: Benchmark for Faithful and Consistent Visual Narratives**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gao_VinaBench_Benchmark_for_Faithful_and_Consistent_Visual_Narratives_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/vinabench_benchmark…](https://papernotes.org/CVPR2025/llm_evaluation/vinabench_benchmark_for_faithful_and_consistent_visual_narratives/)
-
-**MANTA: A Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset for Tiny Objects**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fan_MANTA_A_Large-Scale_Multi-View_and_Visual-Text_Anomaly_Detection_Dataset_for_CVPR_2025_paper.html>
-
-**Towards Consistent Multi-Task Learning: Unlocking the Potential of Task-Specific Parameters**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Qin_Towards_Consistent_Multi-Task_Learning_Unlocking_the_Potential_of_Task-Specific_Parameters_CVPR_2025_paper.html>
-
-**Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Change3D_Revisiting_Change_Detection_and_Captioning_from_A_Video_Modeling_CVPR_2025_paper.html>
-
-**Seeking Consistent Flat Minima for Better Domain Generalization via Refining Loss Landscapes**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Seeking_Consistent_Flat_Minima_for_Better_Domain_Generalization_via_Refining_CVPR_2025_paper.html>
-
-**Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pei_Seeing_What_Matters_Empowering_CLIP_with_Patch_Generation-to-Selection_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/seeing_what_matters…](https://papernotes.org/CVPR2025/llm_evaluation/seeing_what_matters_empowering_clip_with_patch_generation-to-selection/)
-
-**Practical Solutions to the Relative Pose of Three Calibrated Cameras**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tzamos_Practical_Solutions_to_the_Relative_Pose_of_Three_Calibrated_Cameras_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/practical_solutions…](https://papernotes.org/CVPR2025/llm_evaluation/practical_solutions_to_the_relative_pose_of_three_calibrated_cameras/)
-
-**Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Guo_Dinomaly_The_Less_Is_More_Philosophy_in_Multi-Class_Unsupervised_Anomaly_CVPR_2025_paper.html>
-
-**On the Generalization of Handwritten Text Recognition Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Garrido-Munoz_On_the_Generalization_of_Handwritten_Text_Recognition_Models_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/on_the_generalizati…](https://papernotes.org/CVPR2025/llm_evaluation/on_the_generalization_of_handwritten_text_recognition_models/)
-
-**Deep Change Monitoring: A Hyperbolic Representative Learning Framework and a Dataset for Long-term Fine-grained Tree Change Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Deep_Change_Monitoring_A_Hyperbolic_Representative_Learning_Framework_and_a_CVPR_2025_paper.html>
-- Code: <https://github.com/liyantett/Tree-Changes-Detection-with-Siamese-Hyperbolic-network>
-
-**LoTUS: Large-Scale Machine Unlearning with a Taste of Uncertainty**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Spartalis_LoTUS_Large-Scale_Machine_Unlearning_with_a_Taste_of_Uncertainty_CVPR_2025_paper.html>
-- Code: <https://github.com/cspartalis/LoTUS>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/lotus_large-scale_m…](https://papernotes.org/CVPR2025/llm_evaluation/lotus_large-scale_machine_unlearning_with_a_taste_of_uncertainty/)
-
-**DCEvo: Discriminative Cross-Dimensional Evolutionary Learning for Infrared and Visible Image Fusion**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_DCEvo_Discriminative_Cross-Dimensional_Evolutionary_Learning_for_Infrared_and_Visible_Image_CVPR_2025_paper.html>
-- Code: <https://github.com/Beate-Suy-Zhang/DCEvo>
-
-**SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_SeedVR_Seeding_Infinity_in_Diffusion_Transformer_Towards_Generic_Video_Restoration_CVPR_2025_paper.html>
-
-**ConText-CIR: Learning from Concepts in Text for Composed Image Retrieval**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xing_ConText-CIR_Learning_from_Concepts_in_Text_for_Composed_Image_Retrieval_CVPR_2025_paper.html>
-- Code: <https://github.com/mvrl/ConText-CIR>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/context-cir_learnin…](https://papernotes.org/CVPR2025/llm_evaluation/context-cir_learning_from_concepts_in_text_for_composed_image_retrieval/)
-
-**OODD: Test-time Out-of-Distribution Detection with Dynamic Dictionary**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_OODD_Test-time_Out-of-Distribution_Detection_with_Dynamic_Dictionary_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/oodd_test-time_out-…](https://papernotes.org/CVPR2025/llm_evaluation/oodd_test-time_out-of-distribution_detection_with_dynamic_dictionary/)
-
-**Dual Energy-Based Model with Open-World Uncertainty Estimation for Out-of-distribution Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Dual_Energy-Based_Model_with_Open-World_Uncertainty_Estimation_for_Out-of-distribution_Detection_CVPR_2025_paper.html>
-
-**CGMatch: A Different Perspective of Semi-supervised Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_CGMatch_A_Different_Perspective_of_Semi-supervised_Learning_CVPR_2025_paper.html>
-- Code: <https://github.com/BoCheng-96/CGMatch>
-
-**ComfyBench: Benchmarking LLM-based Agents in ComfyUI for Autonomously Designing Collaborative AI Systems**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xue_ComfyBench_Benchmarking_LLM-based_Agents_in_ComfyUI_for_Autonomously_Designing_Collaborative_CVPR_2025_paper.html>
-- Code: <https://github.com/xxyQwQ/ComfyBench>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/comfybench_benchmar…](https://papernotes.org/CVPR2025/llm_evaluation/comfybench_benchmarking_llm-based_agents_in_comfyui_for_autonomously_designing_c/)
-
-**Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Dora_Sampling_and_Benchmarking_for_3D_Shape_Variational_Auto-Encoders_CVPR_2025_paper.html>
-- Project: <https://aruichen.github.io/Dora/>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/dora_sampling_and_b…](https://papernotes.org/CVPR2025/llm_evaluation/dora_sampling_and_benchmarking_for_3d_shape_variational_auto-encoders/)
-
-**PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hsu_PosterO_Structuring_Layout_Trees_to_Enable_Language_Models_in_Generalized_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/postero_structuring…](https://papernotes.org/CVPR2025/llm_evaluation/postero_structuring_layout_trees_to_enable_language_models_in_generalized_conten/)
-
-**TensoFlow: Tensorial Flow-based Sampler for Inverse Rendering**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gu_TensoFlow_Tensorial_Flow-based_Sampler_for_Inverse_Rendering_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/tensoflow_tensorial…](https://papernotes.org/CVPR2025/llm_evaluation/tensoflow_tensorial_flow-based_sampler_for_inverse_rendering/)
-
-**Sufficient Invariant Learning for Distribution Shift**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Sufficient_Invariant_Learning_for_Distribution_Shift_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/sufficient_invarian…](https://papernotes.org/CVPR2025/llm_evaluation/sufficient_invariant_learning_for_distribution_shift/)
-
-**Polarized Color Screen Matting**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Enomoto_Polarized_Color_Screen_Matting_CVPR_2025_paper.html>
-
-**Exposure-slot: Exposure-centric Representations Learning with Slot-in-Slot Attention for Region-aware Exposure Correction**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jung_Exposure-slot_Exposure-centric_Representations_Learning_with_Slot-in-Slot_Attention_for_Region-aware_Exposure_CVPR_2025_paper.html>
-- Code: <https://github.com/kdhRick2222/Exposure-slot>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/exposure-slot_exposure-cen…](https://papernotes.org/CVPR2025/llm_nlp/exposure-slot_exposure-centric_representations_learning_with_slot-in-slot_attent/)
-
-**Structure-from-Motion with a Non-Parametric Camera Model**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Structure-from-Motion_with_a_Non-Parametric_Camera_Model_CVPR_2025_paper.html>
-- Code: <https://github.com/Ivonne320/GenSfM>
-
-**Uncertainty Weighted Gradients for Model Calibration**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lin_Uncertainty_Weighted_Gradients_for_Model_Calibration_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/uncertainty_weighte…](https://papernotes.org/CVPR2025/llm_evaluation/uncertainty_weighted_gradients_for_model_calibration/)
-
-**RCP-Bench: Benchmarking Robustness for Collaborative Perception Under Diverse Corruptions**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Du_RCP-Bench_Benchmarking_Robustness_for_Collaborative_Perception_Under_Diverse_Corruptions_CVPR_2025_paper.html>
-- Code: <https://github.com/LuckyDush/RCP-Bench>
-
-**NADER: Neural Architecture Design via Multi-Agent Collaboration**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_NADER_Neural_Architecture_Design_via_Multi-Agent_Collaboration_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/nader_neural_archit…](https://papernotes.org/CVPR2025/llm_evaluation/nader_neural_architecture_design_via_multi-agent_collaboration/)
-
-**T-CIL: Temperature Scaling using Adversarial Perturbation for Calibration in Class-Incremental Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hwang_T-CIL_Temperature_Scaling_using_Adversarial_Perturbation_for_Calibration_in_Class-Incremental_CVPR_2025_paper.html>
-
-**DiskVPS: Vanishing Point Detector via Hough Transform in a Disk Region**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_DiskVPS_Vanishing_Point_Detector_via_Hough_Transform_in_a_Disk_CVPR_2025_paper.html>
-
-**Towards In-the-wild 3D Plane Reconstruction from a Single Image**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Towards_In-the-wild_3D_Plane_Reconstruction_from_a_Single_Image_CVPR_2025_paper.html>
-- Code: <https://github.com/jcliu0428/ZeroPlane>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/towards_in-the-wild…](https://papernotes.org/CVPR2025/llm_evaluation/towards_in-the-wild_3d_plane_reconstruction_from_a_single_image/)
-
-**Enhancing 3D Gaze Estimation in the Wild using Weak Supervision with Gaze Following Labels**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Vuillecard_Enhancing_3D_Gaze_Estimation_in_the_Wild_using_Weak_Supervision_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/enhancing_3d_gaze_e…](https://papernotes.org/CVPR2025/llm_evaluation/enhancing_3d_gaze_estimation_in_the_wild_using_weak_supervision_with_gaze_follow/)
-
-**Identifying and Mitigating Spurious Correlation in Multi-Task Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chai_Identifying_and_Mitigating_Spurious_Correlation_in_Multi-Task_Learning_CVPR_2025_paper.html>
-
-**Making Old Film Great Again: Degradation-aware State Space Model for Old Film Restoration**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Mao_Making_Old_Film_Great_Again_Degradation-aware_State_Space_Model_for_CVPR_2025_paper.html>
-- Code: <https://github.com/MaoAYD/MambaOFR>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/making_old_film_gre…](https://papernotes.org/CVPR2025/llm_evaluation/making_old_film_great_again_degradation-aware_state_space_model_for_old_film_res/)
-
-**Forming Auxiliary High-confident Instance-level Loss to Promote Learning from Label Proportions**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ma_Forming_Auxiliary_High-confident_Instance-level_Loss_to_Promote_Learning_from_Label_CVPR_2025_paper.html>
-- Code: <https://github.com/TianhaoMa5/LLP-AHIL>
-
-**Noise-Resistant Video Anomaly Detection via RGB Error-Guided Multiscale Predictive Coding and Dynamic Memory**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hu_Noise-Resistant_Video_Anomaly_Detection_via_RGB_Error-Guided_Multiscale_Predictive_Coding_CVPR_2025_paper.html>
-
-**Potential Field Based Deep Metric Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bhatnagar_Potential_Field_Based_Deep_Metric_Learning_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/potential_field_bas…](https://papernotes.org/CVPR2025/llm_evaluation/potential_field_based_deep_metric_learning/)
-
-**Bridge the Gap: From Weak to Full Supervision for Temporal Action Localization with PseudoFormer**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Bridge_the_Gap_From_Weak_to_Full_Supervision_for_Temporal_CVPR_2025_paper.html>
-
-**Do ImageNet-trained Models Learn Shortcuts? The Impact of Frequency Shortcuts on Generalization**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Do_ImageNet-trained_Models_Learn_Shortcuts_The_Impact_of_Frequency_Shortcuts_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/do_imagenet-trained…](https://papernotes.org/CVPR2025/llm_evaluation/do_imagenet-trained_models_learn_shortcuts_the_impact_of_frequency_shortcuts_on_/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
-<a id="object_detection"></a>
-
-## 🎯 Object Detection · `object_detection` · 56 papers
-
-**TornadoNet: Real-Time Building Damage Detection with Ordinal Supervision**
-
-- Paper: <https://arxiv.org/abs/2603.11557v1>
-- Code: <https://github.com/crumeike/TornadoNet>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/tornadonet_real-t…](https://papernotes.org/CVPR2025/object_detection/tornadonet_real-time_building_damage_detection_with_ordinal_supervision/)
-
-**Mitigating Memorization in Text-to-Image Diffusion via Region-Aware Prompt Augmentation and Multimodal Copy Detection**
-
-- Paper: <https://arxiv.org/abs/2603.13070v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/mitigating_memori…](https://papernotes.org/CVPR2025/object_detection/mitigating_memorization_in_text-to-image_diffusion_via_region-aware_prompt_augme/)
-
-**Show, Don't Tell: Detecting Novel Objects by Watching Human Videos**
-
-- Paper: <https://arxiv.org/abs/2603.12751v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/show_dont_tell_de…](https://papernotes.org/CVPR2025/object_detection/show_dont_tell_detecting_novel_objects_by_watching_human_videos/)
-
-**ABRA: Teleporting Fine-Tuned Knowledge Across Domains for Open-Vocabulary Object Detection**
-
-- Paper: <https://arxiv.org/abs/2603.12409v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/abra_teleporting_…](https://papernotes.org/CVPR2025/object_detection/abra_teleporting_fine-tuned_knowledge_across_domains_for_open-vocabulary_object_/)
-
-**Small Target Detection Based on Mask-Enhanced Attention Fusion of Visible and Infrared Remote Sensing Images**
-
-- Paper: <https://arxiv.org/abs/2603.06925v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/small_target_dete…](https://papernotes.org/CVPR2025/object_detection/small_target_detection_based_on_mask-enhanced_attention_fusion_of_visible_and_in/)
-
-**PointSR: Self-Regularized Point Supervision for Drone-View Object Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_PointSR_Self-Regularized_Point_Supervision_for_Drone-View_Object_Detection_CVPR_2025_paper.html>
-
-**Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Brain-Inspired_Spiking_Neural_Networks_for_Energy-Efficient_Object_Detection_CVPR_2025_paper.html>
-
-**Believing is Seeing: Unobserved Object Detection using Generative Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bhattacharjee_Believing_is_Seeing_Unobserved_Object_Detection_using_Generative_Models_CVPR_2025_paper.html>
-
-**OW-OVD: Unified Open World and Open Vocabulary Object Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xi_OW-OVD_Unified_Open_World_and_Open_Vocabulary_Object_Detection_CVPR_2025_paper.html>
-- Code: <https://github.com/xxyzll/OW_OVD>
-
-**Boosting Point-Supervised Temporal Action Localization through Integrating Query Reformation and Optimal Transport**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Boosting_Point-Supervised_Temporal_Action_Localization_through_Integrating_Query_Reformation_and_CVPR_2025_paper.html>
-
-**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_MCCD_Multi-Agent_Collaboration-based_Compositional_Diffusion_for_Complex_Text-to-Image_Generation_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/mccd_multi-agent_…](https://papernotes.org/CVPR2025/object_detection/mccd_multi-agent_collaboration-based_compositional_diffusion_for_complex_text-to/)
-
-**ABBSPO: Adaptive Bounding Box Scaling and Symmetric Prior based Orientation Prediction for Detecting Aerial Image Objects**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lee_ABBSPO_Adaptive_Bounding_Box_Scaling_and_Symmetric_Prior_based_Orientation_CVPR_2025_paper.html>
-
-**SEEN-DA: SEmantic ENtropy guided Domain-aware Attention for Domain Adaptive Object Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_SEEN-DA_SEmantic_ENtropy_guided_Domain-aware_Attention_for_Domain_Adaptive_Object_CVPR_2025_paper.html>
-
-**Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yu_Point2RBox-v2_Rethinking_Point-supervised_Oriented_Object_Detection_with_Spatial_Layout_Among_CVPR_2025_paper.html>
-
-**Interpreting Object-level Foundation Models via Visual Precision Search**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Interpreting_Object-level_Foundation_Models_via_Visual_Precision_Search_CVPR_2025_paper.html>
-- Code: <https://github.com/RuoyuChen10/VPS>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/interpreting_obje…](https://papernotes.org/CVPR2025/object_detection/interpreting_object-level_foundation_models_via_visual_precision_search/)
-
-**Efficient Test-time Adaptive Object Detection via Sensitivity-Guided Pruning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Efficient_Test-time_Adaptive_Object_Detection_via_Sensitivity-Guided_Pruning_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/efficient_test-ti…](https://papernotes.org/CVPR2025/object_detection/efficient_test-time_adaptive_object_detection_via_sensitivity-guided_pruning/)
-
-**GauCho: Gaussian Distributions with Cholesky Decomposition for Oriented Object Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Marques_GauCho_Gaussian_Distributions_with_Cholesky_Decomposition_for_Oriented_Object_Detection_CVPR_2025_paper.html>
-
-**Mr. DETR: Instructive Multi-Route Training for Detection Transformers**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Mr._DETR_Instructive_Multi-Route_Training_for_Detection_Transformers_CVPR_2025_paper.html>
-- Project: <https://visual-ai.github.io/mrdetr>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/mr_detr_instructi…](https://papernotes.org/CVPR2025/object_detection/mr_detr_instructive_multi-route_training_for_detection_transformers/)
-
-**STPro: Spatial and Temporal Progressive Learning for Weakly Supervised Spatio-Temporal Grounding**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Garg_STPro_Spatial_and_Temporal_Progressive_Learning_for_Weakly_Supervised_Spatio-Temporal_CVPR_2025_paper.html>
-
-**Large Self-Supervised Models Bridge the Gap in Domain Adaptive Object Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lavoie_Large_Self-Supervised_Models_Bridge_the_Gap_in_Domain_Adaptive_Object_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/large_self-superv…](https://papernotes.org/CVPR2025/object_detection/large_self-supervised_models_bridge_the_gap_in_domain_adaptive_object_detection/)
-
-**BACON: Improving Clarity of Image Captions via Bag-of-Concept Graphs**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_BACON_Improving_Clarity_of_Image_Captions_via_Bag-of-Concept_Graphs_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/bacon_improving_c…](https://papernotes.org/CVPR2025/object_detection/bacon_improving_clarity_of_image_captions_via_bag-of-concept_graphs/)
-
-**Seeing More with Less: Human-like Representations in Vision Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gizdov_Seeing_More_with_Less_Human-like_Representations_in_Vision_Models_CVPR_2025_paper.html>
-
-**AeroGen: Enhancing Remote Sensing Object Detection with Diffusion-Driven Data Generation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tang_AeroGen_Enhancing_Remote_Sensing_Object_Detection_with_Diffusion-Driven_Data_Generation_CVPR_2025_paper.html>
-
-**Saliuitl: Ensemble Salience Guided Recovery of Adversarial Patches against CNNs**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Victorica_Saliuitl_Ensemble_Salience_Guided_Recovery_of_Adversarial_Patches_against_CNNs_CVPR_2025_paper.html>
-
-**Test-Time Backdoor Detection for Object Detection Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Test-Time_Backdoor_Detection_for_Object_Detection_Models_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/test-time_backdoo…](https://papernotes.org/CVPR2025/object_detection/test-time_backdoor_detection_for_object_detection_models/)
-
-**DiGIT: Multi-Dilated Gated Encoder and Central-Adjacent Region Integrated Decoder for Temporal Action Detection Transformer**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_DiGIT_Multi-Dilated_Gated_Encoder_and_Central-Adjacent_Region_Integrated_Decoder_for_CVPR_2025_paper.html>
-
-**Benchmarking Object Detectors under Real-World Distribution Shifts in Satellite Imagery**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Al-Emadi_Benchmarking_Object_Detectors_under_Real-World_Distribution_Shifts_in_Satellite_Imagery_CVPR_2025_paper.html>
-- Code: <https://github.com/RWGAI/RWDS>
-
-**Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sidhu_Search_and_Detect_Training-Free_Long_Tail_Object_Detection_via_Web-Image_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/search_and_detect…](https://papernotes.org/CVPR2025/object_detection/search_and_detect_training-free_long_tail_object_detection_via_web-image_retriev/)
-
-**SET: Spectral Enhancement for Tiny Object Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_SET_Spectral_Enhancement_for_Tiny_Object_Detection_CVPR_2025_paper.html>
-
-**Multiple Object Tracking as ID Prediction**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gao_Multiple_Object_Tracking_as_ID_Prediction_CVPR_2025_paper.html>
-- Code: <https://github.com/MCG-NJU/MOTIP>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/multiple_object_t…](https://papernotes.org/CVPR2025/object_detection/multiple_object_tracking_as_id_prediction/)
-
-**Detecting Open World Objects via Partial Attribute Assignment**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Detecting_Open_World_Objects_via_Partial_Attribute_Assignment_CVPR_2025_paper.html>
-
-**VISCO: Benchmarking Fine-Grained Critique and Correction Towards Self-Improvement in Visual Reasoning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_VISCO_Benchmarking_Fine-Grained_Critique_and_Correction_Towards_Self-Improvement_in_Visual_CVPR_2025_paper.html>
-
-**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Object_Detection_using_Event_Camera_A_MoE_Heat_Conduction_based_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/object_detection_…](https://papernotes.org/CVPR2025/object_detection/object_detection_using_event_camera_a_moe_heat_conduction_based_detector_and_a_n/)
-
-**RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_RSAR_Restricted_State_Angle_Resolver_and_Rotated_SAR_Benchmark_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/rsar_restricted_s…](https://papernotes.org/CVPR2025/object_detection/rsar_restricted_state_angle_resolver_and_rotated_sar_benchmark/)
-
-**DynPose: Largely Improving the Efficiency of Human Pose Estimation by a Simple Dynamic Framework**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xu_DynPose_Largely_Improving_the_Efficiency_of_Human_Pose_Estimation_by_CVPR_2025_paper.html>
-- Code: <https://github.com/Aritoria/DynPose>
-
-**ReDiffDet: Rotation-equivariant Diffusion Model for Oriented Object Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_ReDiffDet_Rotation-equivariant_Diffusion_Model_for_Oriented_Object_Detection_CVPR_2025_paper.html>
-
-**Towards RAW Object Detection in Diverse Conditions**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Towards_RAW_Object_Detection_in_Diverse_Conditions_CVPR_2025_paper.html>
-- Code: <https://github.com/lzyhha/AODRaw>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/towards_raw_objec…](https://papernotes.org/CVPR2025/object_detection/towards_raw_object_detection_in_diverse_conditions/)
-
-**Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial and Temporal Attention**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ahmed_Efficient_Event-Based_Object_Detection_A_Hybrid_Neural_Network_with_Spatial_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/efficient_event-b…](https://papernotes.org/CVPR2025/object_detection/efficient_event-based_object_detection_a_hybrid_neural_network_with_spatial_and_/)
-
-**LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fu_LLMDet_Learning_Strong_Open-Vocabulary_Object_Detectors_under_the_Supervision_of_CVPR_2025_paper.html>
-
-**ReRAW: RGB-to-RAW Image Reconstruction via Stratified Sampling for Efficient Object Detection on the Edge**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Berdan_ReRAW_RGB-to-RAW_Image_Reconstruction_via_Stratified_Sampling_for_Efficient_Object_CVPR_2025_paper.html>
-
-**DEIM: DETR with Improved Matching for Fast Convergence**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_DEIM_DETR_with_Improved_Matching_for_Fast_Convergence_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/deim_detr_with_im…](https://papernotes.org/CVPR2025/object_detection/deim_detr_with_improved_matching_for_fast_convergence/)
-
-**Feature Information Driven Position Gaussian Distribution Estimation for Tiny Object Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bian_Feature_Information_Driven_Position_Gaussian_Distribution_Estimation_for_Tiny_Object_CVPR_2025_paper.html>
-
-**Revisiting Generative Replay for Class Incremental Object Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Revisiting_Generative_Replay_for_Class_Incremental_Object_Detection_CVPR_2025_paper.html>
-- Code: <https://github.com/qiangzai-lv/RGR-IOD>
-
-**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Boosting_Domain_Incremental_Learning_Selecting_the_Optimal_Parameters_is_All_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/boosting_domain_i…](https://papernotes.org/CVPR2025/object_detection/boosting_domain_incremental_learning_selecting_the_optimal_parameters_is_all_you/)
-
-**ROICtrl: Boosting Instance Control for Visual Generation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gu_ROICtrl_Boosting_Instance_Control_for_Visual_Generation_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/roictrl_boosting_…](https://papernotes.org/CVPR2025/object_detection/roictrl_boosting_instance_control_for_visual_generation/)
-
-**Shadow Generation Using Diffusion Model with Geometry Prior**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Shadow_Generation_Using_Diffusion_Model_with_Geometry_Prior_CVPR_2025_paper.html>
-
-**MI-DETR: An Object Detection Model with Multi-time Inquiries Mechanism**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Nan_MI-DETR_An_Object_Detection_Model_with_Multi-time_Inquiries_Mechanism_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/mi-detr_an_object…](https://papernotes.org/CVPR2025/object_detection/mi-detr_an_object_detection_model_with_multi-time_inquiries_mechanism/)
-
-**Open-World Objectness Modeling Unifies Novel Object Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Open-World_Objectness_Modeling_Unifies_Novel_Object_Detection_CVPR_2025_paper.html>
-
-**DiffVsgg: Diffusion-Driven Online Video Scene Graph Generation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_DiffVsgg_Diffusion-Driven_Online_Video_Scene_Graph_Generation_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/diffvsgg_diffusio…](https://papernotes.org/CVPR2025/object_detection/diffvsgg_diffusion-driven_online_video_scene_graph_generation/)
-
-**Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/He_Generalized_Diffusion_Detector_Mining_Robust_Features_from_Diffusion_Models_for_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/generalized_diffu…](https://papernotes.org/CVPR2025/object_detection/generalized_diffusion_detector_mining_robust_features_from_diffusion_models_for_/)
-
-**A Hubness Perspective on Representation Learning for Graph-Based Multi-View Clustering**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xu_A_Hubness_Perspective_on_Representation_Learning_for_Graph-Based_Multi-View_Clustering_CVPR_2025_paper.html>
-- Code: <https://github.com/zmxu196/hubREP>
-
-**Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_Semi-Supervised_State-Space_Model_with_Dynamic_Stacking_Filter_for_Real-World_Video_CVPR_2025_paper.html>
-
-**ProbPose: A Probabilistic Approach to 2D Human Pose Estimation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Purkrabek_ProbPose_A_Probabilistic_Approach_to_2D_Human_Pose_Estimation_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/probpose_a_probab…](https://papernotes.org/CVPR2025/object_detection/probpose_a_probabilistic_approach_to_2d_human_pose_estimation/)
-
-**Percept, Memory, and Imagine: World Feature Simulating for Open-Domain Unknown Object Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Percept_Memory_and_Imagine_World_Feature_Simulating_for_Open-Domain_Unknown_CVPR_2025_paper.html>
-- Code: <https://github.com/AmingWu/WFS>
-
-**SimLTD: Simple Supervised and Semi-Supervised Long-Tailed Object Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tran_SimLTD_Simple_Supervised_and_Semi-Supervised_Long-Tailed_Object_Detection_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/simltd_simple_sup…](https://papernotes.org/CVPR2025/object_detection/simltd_simple_supervised_and_semi-supervised_long-tailed_object_detection/)
-
-**Learning Endogenous Attention for Incremental Object Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Song_Learning_Endogenous_Attention_for_Incremental_Object_Detection_CVPR_2025_paper.html>
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
 <a id="ai_safety"></a>
 
-## 🛡️ AI Safety · `ai_safety` · 52 papers
+## 🛡️ AI Safety · `ai_safety` · 65 papers
 
 **STRAP-ViT: Segregated Tokens with Randomized -- Transformations for Defense against Adversarial Patches in ViTs**
 
@@ -12528,14 +12303,27 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Infighting_in_the_Dark_Multi-Label_Backdoor_Attack_in_Federated_Learning_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/ai_safety/infighting_in_the_dark_m…](https://papernotes.org/CVPR2025/ai_safety/infighting_in_the_dark_multi-label_backdoor_attack_in_federated_learning/)
 
+**Leveraging Perturbation Robustness to Enhance Out-of-Distribution Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Leveraging_Perturbation_Robustness_to_Enhance_Out-of-Distribution_Detection_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/optimization/leveraging_perturbati…](https://papernotes.org/CVPR2025/optimization/leveraging_perturbation_robustness_to_enhance_out-of-distribution_detection/)
+
 **EntropyMark: Towards More Harmless Backdoor Watermark via Entropy-based Constraint for Open-source Dataset Copyright Protection**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_EntropyMark_Towards_More_Harmless_Backdoor_Watermark_via_Entropy-based_Constraint_for_CVPR_2025_paper.html>
+
+**CADRef: Robust Out-of-Distribution Detection via Class-Aware Decoupled Relative Feature Leveraging**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ling_CADRef_Robust_Out-of-Distribution_Detection_via_Class-Aware_Decoupled_Relative_Feature_Leveraging_CVPR_2025_paper.html>
 
 **A Unified, Resilient, and Explainable Adversarial Patch Detector**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kumar_A_Unified_Resilient_and_Explainable_Adversarial_Patch_Detector_CVPR_2025_paper.html>
 - Code: <https://github.com/tbvl22/Unified-resilient-and-Explainable-Adversarial-Patch-detector>
+
+**Beyond Clean Training Data: A Versatile and Model-Agnostic Framework for Out-of-Distribution Detection with Contaminated Training Data**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Beyond_Clean_Training_Data_A_Versatile_and_Model-Agnostic_Framework_for_CVPR_2025_paper.html>
 
 **FedAWA: Adaptive Optimization of Aggregation Weights in Federated Learning Using Client Vectors**
 
@@ -12592,6 +12380,11 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_Stacking_Brick_by_Brick_Aligned_Feature_Isolation_for_Incremental_Face_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/ai_safety/stacking_brick_by_brick_…](https://papernotes.org/CVPR2025/ai_safety/stacking_brick_by_brick_aligned_feature_isolation_for_incremental_face_forgery_d/)
 
+**Cross-Rejective Open-Set SAR Image Registration**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Mao_Cross-Rejective_Open-Set_SAR_Image_Registration_CVPR_2025_paper.html>
+- Code: <https://github.com/XDyaoshi/CroR-OSIR-main>
+
 **MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Guo_MOS-Attack_A_Scalable_Multi-objective_Adversarial_Attack_Framework_CVPR_2025_paper.html>
@@ -12600,6 +12393,11 @@
 **Revisiting Fairness in Multitask Learning: A Performance-Driven Approach for Variance Reduction**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Qin_Revisiting_Fairness_in_Multitask_Learning_A_Performance-Driven_Approach_for_Variance_CVPR_2025_paper.html>
+
+**CLIP-driven Coarse-to-fine Semantic Guidance for Fine-grained Open-set Semi-supervised Learning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_CLIP-driven_Coarse-to-fine_Semantic_Guidance_for_Fine-grained_Open-set_Semi-supervised_Learning_CVPR_2025_paper.html>
+- Code: <https://github.com/LxxxxK/CFSG-CLIP>
 
 **A Simple Data Augmentation for Feature Distribution Skewed Federated Learning**
 
@@ -12632,10 +12430,20 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Rethinking_the_Adversarial_Robustness_of_Multi-Exit_Neural_Networks_in_an_CVPR_2025_paper.html>
 
+**H2ST: Hierarchical Two-Sample Tests for Continual Out-of-Distribution Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_H2ST_Hierarchical_Two-Sample_Tests_for_Continual_Out-of-Distribution_Detection_CVPR_2025_paper.html>
+- Code: <https://github.com/YuhangLiuu/H2ST>
+- Notes (Chinese): [papernotes.org/CVPR2025/others/h2st_hierarchical_two-sampl…](https://papernotes.org/CVPR2025/others/h2st_hierarchical_two-sample_tests_for_continual_out-of-distribution_detection/)
+
 **Dynamic Integration of Task-Specific Adapters for Class Incremental Learning**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Dynamic_Integration_of_Task-Specific_Adapters_for_Class_Incremental_Learning_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/ai_safety/dynamic_integration_of_t…](https://papernotes.org/CVPR2025/ai_safety/dynamic_integration_of_task-specific_adapters_for_class_incremental_learning/)
+
+**Enhanced OoD Detection through Cross-Modal Alignment of Multi-Modal Representations**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Enhanced_OoD_Detection_through_Cross-Modal_Alignment_of_Multi-Modal_Representations_CVPR_2025_paper.html>
 
 **Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning**
 
@@ -12647,10 +12455,19 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yuan_Where_the_Devil_Hides_Deepfake_Detectors_Can_No_Longer_Be_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/ai_safety/where_the_devil_hides_de…](https://papernotes.org/CVPR2025/ai_safety/where_the_devil_hides_deepfake_detectors_can_no_longer_be_trusted/)
 
+**OODD: Test-time Out-of-Distribution Detection with Dynamic Dictionary**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_OODD_Test-time_Out-of-Distribution_Detection_with_Dynamic_Dictionary_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/oodd_test-time_out-…](https://papernotes.org/CVPR2025/llm_evaluation/oodd_test-time_out-of-distribution_detection_with_dynamic_dictionary/)
+
 **Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lun_Towards_Effective_and_Sparse_Adversarial_Attack_on_Spiking_Neural_Networks_CVPR_2025_paper.html>
 - Code: <https://github.com/ryime/PDSG-SDA>
+
+**Dual Energy-Based Model with Open-World Uncertainty Estimation for Out-of-distribution Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Dual_Energy-Based_Model_with_Open-World_Uncertainty_Estimation_for_Out-of-distribution_Detection_CVPR_2025_paper.html>
 
 **NoT: Federated Unlearning via Weight Negation**
 
@@ -12670,14 +12487,14 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Attribute-Missing_Multi-view_Graph_Clustering_CVPR_2025_paper.html>
 
+**FRAMES-VQA: Benchmarking Fine-Tuning Robustness across Multi-Modal Shifts in Visual Question Answering**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_FRAMES-VQA_Benchmarking_Fine-Tuning_Robustness_across_Multi-Modal_Shifts_in_Visual_Question_CVPR_2025_paper.html>
+- Code: <https://github.com/chengyuehuang511/FRAMES-VQA>
+
 **pFedMxF: Personalized Federated Class-Incremental Learning with Mixture of Frequency Aggregation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_pFedMxF_Personalized_Federated_Class-Incremental_Learning_with_Mixture_of_Frequency_Aggregation_CVPR_2025_paper.html>
-
-**Optimal Transport-Guided Source-Free Adaptation for Face Anti-Spoofing**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Optimal_Transport-Guided_Source-Free_Adaptation_for_Face_Anti-Spoofing_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/ai_safety/optimal_transport-guided…](https://papernotes.org/CVPR2025/ai_safety/optimal_transport-guided_source-free_adaptation_for_face_anti-spoofing/)
 
 **Beyond Local Sharpness: Communication-Efficient Global Sharpness-aware Minimization for Federated Learning**
 
@@ -12689,6 +12506,10 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xiang_ACAttack_Adaptive_Cross_Attacking_RGB-T_Tracker_via_Multi-Modal_Response_Decoupling_CVPR_2025_paper.html>
 - Code: <https://github.com/Xinyu-Xiang/ACAttack>
 
+**Simplification Is All You Need against Out-of-Distribution Overconfidence**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Simplification_Is_All_You_Need_against_Out-of-Distribution_Overconfidence_CVPR_2025_paper.html>
+
 **Unlearning through Knowledge Overwriting: Reversible Federated Unlearning via Selective Sparse Adapter**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhong_Unlearning_through_Knowledge_Overwriting_Reversible_Federated_Unlearning_via_Selective_Sparse_CVPR_2025_paper.html>
@@ -12696,6 +12517,11 @@
 **Circumventing Shortcuts in Audio-visual Deepfake Detection Datasets with Unsupervised Learning**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Smeu_Circumventing_Shortcuts_in_Audio-visual_Deepfake_Detection_Datasets_with_Unsupervised_Learning_CVPR_2025_paper.html>
+
+**Joint Out-of-Distribution Filtering and Data Discovery Active Learning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Schmidt_Joint_Out-of-Distribution_Filtering_and_Data_Discovery_Active_Learning_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/others/joint_out-of-distribution_f…](https://papernotes.org/CVPR2025/others/joint_out-of-distribution_filtering_and_data_discovery_active_learning/)
 
 **AdMiT: Adaptive Multi-Source Tuning in Dynamic Environments**
 
@@ -12711,10 +12537,21 @@
 - Code: <https://github.com/WL-619/PSBD>
 - Notes (Chinese): [papernotes.org/CVPR2025/ai_safety/psbd_prediction_shift_un…](https://papernotes.org/CVPR2025/ai_safety/psbd_prediction_shift_uncertainty_unlocks_backdoor_detection/)
 
+**Detecting Out-of-Distribution Through the Lens of Neural Collapse**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Detecting_Out-of-Distribution_Through_the_Lens_of_Neural_Collapse_CVPR_2025_paper.html>
+- Code: <https://github.com/litianliu/NCI-OOD>
+- Notes (Chinese): [papernotes.org/CVPR2025/others/detecting_out-of-distributi…](https://papernotes.org/CVPR2025/others/detecting_out-of-distribution_through_the_lens_of_neural_collapse/)
+
 **FedSPA: Generalizable Federated Graph Learning under Homophily Heterogeneity**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tan_FedSPA_Generalizable_Federated_Graph_Learning_under_Homophily_Heterogeneity_CVPR_2025_paper.html>
 - Code: <https://github.com/OakleyTan/FedSPA>
+
+**ProHOC: Probabilistic Hierarchical Out-of-Distribution Classification via Multi-Depth Networks**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wallin_ProHOC_Probabilistic_Hierarchical_Out-of-Distribution_Classification_via_Multi-Depth_Networks_CVPR_2025_paper.html>
+- Code: <https://github.com/walline/prohoc>
 
 **CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP**
 
@@ -12756,7 +12593,7 @@
 
 <a id="robotics"></a>
 
-## 🤖 Robotics & Embodied AI · `robotics` · 51 papers
+## 🤖 Robotics & Embodied AI · `robotics` · 50 papers
 
 **SortScrews: A Dataset and Baseline for Real-time Screw Classification**
 
@@ -12770,35 +12607,15 @@
 - Code: <https://github.com/GL-ZHU925/PanoAffordanceNet>
 - Notes (Chinese): [papernotes.org/CVPR2025/robotics/panoaffordancenet_towards…](https://papernotes.org/CVPR2025/robotics/panoaffordancenet_towards_holistic_affordance_grounding_in_360_indoor_environmen/)
 
-**Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval**
-
-- Paper: <https://arxiv.org/abs/2503.17109>
-- Code: <https://github.com/Pter61/predicir>
-
 **Perceive What Matters: Relevance-Driven Scheduling for Multimodal Streaming Perception**
 
 - Paper: <https://arxiv.org/abs/2603.13176v1>
 - Notes (Chinese): [papernotes.org/CVPR2025/robotics/perceive_what_matters_rel…](https://papernotes.org/CVPR2025/robotics/perceive_what_matters_relevance-driven_scheduling_for_multimodal_streaming_perce/)
 
-**Influence Malleability in Linearized Attention: Dual Implications of Non-Convergent NTK Dynamics**
-
-- Paper: <https://arxiv.org/abs/2603.13085v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/robotics/influence_malleability_in…](https://papernotes.org/CVPR2025/robotics/influence_malleability_in_linearized_attention_dual_implications_of_non-converge/)
-
 **Language-Grounded Decoupled Action Representation for Robotic Manipulation**
 
 - Paper: <https://arxiv.org/abs/2603.12967v1>
 - Notes (Chinese): [papernotes.org/CVPR2025/robotics/language-grounded_decoupl…](https://papernotes.org/CVPR2025/robotics/language-grounded_decoupled_action_representation_for_robotic_manipulation/)
-
-**Coordinated Manipulation of Hybrid Deformable-Rigid Objects in Constrained Environments**
-
-- Paper: <https://arxiv.org/abs/2603.12940>
-- Notes (Chinese): [papernotes.org/CVPR2025/robotics/coordinated_manipulation_…](https://papernotes.org/CVPR2025/robotics/coordinated_manipulation_hybrid_deformable_rigid_objects/)
-
-**Expert Pyramid Tuning: Efficient Parameter Fine-Tuning for Expertise-Driven Task Allocation**
-
-- Paper: <https://arxiv.org/abs/2603.12577v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/robotics/expert_pyramid_tuning_eff…](https://papernotes.org/CVPR2025/robotics/expert_pyramid_tuning_efficient_parameter_fine-tuning_for_expertise-driven_task_/)
 
 **SaPaVe: Towards Active Perception and Manipulation in Vision-Language-Action Models for Robotics**
 
@@ -12811,10 +12628,10 @@
 - Paper: <https://arxiv.org/abs/2603.11071v1>
 - Notes (Chinese): [papernotes.org/CVPR2025/robotics/tinynav_end-to-end_tinyml…](https://papernotes.org/CVPR2025/robotics/tinynav_end-to-end_tinyml_for_real-time_autonomous_navigation_on_microcontroller/)
 
-**ASAP: Advancing Semantic Alignment Promotes Multi-Modal Manipulation Detecting and Grounding**
+**Overcoming Visual Clutter in Vision Language Action Models via Concept-Gated Visual Distillation**
 
-- Paper: <https://arxiv.org/abs/2412.12718>
-- Notes (Chinese): [papernotes.org/CVPR2025/robotics/asap_advancing_semantic_a…](https://papernotes.org/CVPR2025/robotics/asap_advancing_semantic_alignment_promotes_multi-modal_manipulation_de/)
+- Paper: <https://arxiv.org/abs/2603.10340v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/overcoming_visual…](https://papernotes.org/CVPR2025/image_generation/overcoming_visual_clutter_in_vision_language_action_models_via_concept-gated_vis/)
 
 **DynScene: Scalable Generation of Dynamic Robotic Manipulation Scenes for Embodied AI**
 
@@ -12824,24 +12641,40 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Tartan_IMU_A_Light_Foundation_Model_for_Inertial_Positioning_in_CVPR_2025_paper.html>
 
-**UniGoal: Towards Universal Zero-shot Goal-oriented Navigation**
+**Neural Motion Simulator Pushing the Limit of World Models in Reinforcement Learning**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yin_UniGoal_Towards_Universal_Zero-shot_Goal-oriented_Navigation_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/robotics/unigoal_towards_universal…](https://papernotes.org/CVPR2025/robotics/unigoal_towards_universal_zero-shot_goal-oriented_navigation/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hao_Neural_Motion_Simulator_Pushing_the_Limit_of_World_Models_in_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/neural_moti…](https://papernotes.org/CVPR2025/reinforcement_learning/neural_motion_simulator_pushing_the_limit_of_world_models_in_reinforcement_learn/)
 
-**Instruction-based Image Manipulation by Watching How Things Move**
+**SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cao_Instruction-based_Image_Manipulation_by_Watching_How_Things_Move_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/robotics/instruction-based_image_m…](https://papernotes.org/CVPR2025/robotics/instruction-based_image_manipulation_by_watching_how_things_move/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_SOLAMI_Social_Vision-Language-Action_Modeling_for_Immersive_Interaction_with_3D_Autonomous_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/solami_social_visio…](https://papernotes.org/CVPR2025/multimodal_vlm/solami_social_vision-language-action_modeling_for_immersive_interaction_with_3d_/)
+
+**ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_ManipTrans_Efficient_Dexterous_Bimanual_Manipulation_Transfer_via_Residual_Learning_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/maniptrans_…](https://papernotes.org/CVPR2025/reinforcement_learning/maniptrans_efficient_dexterous_bimanual_manipulation_transfer_via_residual_learn/)
 
 **Universal Actions for Enhanced Embodied Foundation Models**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zheng_Universal_Actions_for_Enhanced_Embodied_Foundation_Models_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/robotics/universal_actions_for_enh…](https://papernotes.org/CVPR2025/robotics/universal_actions_for_enhanced_embodied_foundation_models/)
 
+**CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_CoT-VLA_Visual_Chain-of-Thought_Reasoning_for_Vision-Language-Action_Models_CVPR_2025_paper.html>
+- Project: <https://cot-vla.github.io/>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_reasoning/cot-vla_visual_chain…](https://papernotes.org/CVPR2025/llm_reasoning/cot-vla_visual_chain-of-thought_reasoning_for_vision-language-action_models/)
+
 **CheckManual: A New Challenge and Benchmark for Manual-based Appliance Manipulation**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Long_CheckManual_A_New_Challenge_and_Benchmark_for_Manual-based_Appliance_Manipulation_CVPR_2025_paper.html>
+
+**DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhong_DexGrasp_Anything_Towards_Universal_Robotic_Dexterous_Grasping_with_Physics_Awareness_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/dexgrasp_anything…](https://papernotes.org/CVPR2025/image_generation/dexgrasp_anything_towards_universal_robotic_dexterous_grasping_with_physics_awar/)
 
 **Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References**
 
@@ -12853,16 +12686,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wen_A_Data-Centric_Revisit_of_Pre-Trained_Vision_Models_for_Robot_Learning_CVPR_2025_paper.html>
 - Code: <https://github.com/CVMI-Lab/SlotMIM>
 - Notes (Chinese): [papernotes.org/CVPR2025/robotics/a_data-centric_revisit_of…](https://papernotes.org/CVPR2025/robotics/a_data-centric_revisit_of_pre-trained_vision_models_for_robot_learning/)
-
-**Chapter-Llama: Efficient Chaptering in Hour-Long Videos with LLMs**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ventura_Chapter-Llama_Efficient_Chaptering_in_Hour-Long_Videos_with_LLMs_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/robotics/chapter-llama_efficient_c…](https://papernotes.org/CVPR2025/robotics/chapter-llama_efficient_chaptering_in_hour-long_videos_with_llms/)
-
-**Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zu_Collaborative_Tree_Search_for_Enhancing_Embodied_Multi-Agent_Collaboration_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/robotics/collaborative_tree_search…](https://papernotes.org/CVPR2025/robotics/collaborative_tree_search_for_enhancing_embodied_multi-agent_collaboration/)
 
 **PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability**
 
@@ -12878,10 +12701,10 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fu_GigaHands_A_Massive_Annotated_Dataset_of_Bimanual_Hand_Activities_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/robotics/gigahands_a_massive_annot…](https://papernotes.org/CVPR2025/robotics/gigahands_a_massive_annotated_dataset_of_bimanual_hand_activities/)
 
-**Foundations of the Theory of Performance-Based Ranking**
+**ManiVideo: Generating Hand-Object Manipulation Video with Dexterous and Generalizable Grasping**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pierard_Foundations_of_the_Theory_of_Performance-Based_Ranking_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/robotics/foundations_of_the_theory…](https://papernotes.org/CVPR2025/robotics/foundations_of_the_theory_of_performance-based_ranking/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pang_ManiVideo_Generating_Hand-Object_Manipulation_Video_with_Dexterous_and_Generalizable_Grasping_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/manivideo_generating_han…](https://papernotes.org/CVPR2025/3d_vision/manivideo_generating_hand-object_manipulation_video_with_dexterous_and_generaliz/)
 
 **DRAWER: Digital Reconstruction and Articulation With Environment Realism**
 
@@ -12894,10 +12717,24 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_RoboGround_Robotic_Manipulation_with_Grounded_Vision-Language_Priors_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/robotics/roboground_robotic_manipu…](https://papernotes.org/CVPR2025/robotics/roboground_robotic_manipulation_with_grounded_vision-language_priors/)
 
-**ASAP: Advancing Semantic Alignment Promotes Multi-Modal Manipulation Detecting and Grounding**
+**g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_ASAP_Advancing_Semantic_Alignment_Promotes_Multi-Modal_Manipulation_Detecting_and_Grounding_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/robotics/asap_advancing_semantic_a…](https://papernotes.org/CVPR2025/robotics/asap_advancing_semantic_alignment_promotes_multi-modal_manipulation_de/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_g3D-LF_Generalizable_3D-Language_Feature_Fields_for_Embodied_Tasks_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/autonomous_driving/g3d-lf_generali…](https://papernotes.org/CVPR2025/autonomous_driving/g3d-lf_generalizable_3d-language_feature_fields_for_embodied_tasks/)
+
+**UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_UniGraspTransformer_Simplified_Policy_Distillation_for_Scalable_Dexterous_Robotic_Grasping_CVPR_2025_paper.html>
+- Project: <https://dexhand.github.io/UniGraspTransformer/>
+
+**Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Code-as-Monitor_Constraint-aware_Visual_Programming_for_Reactive_and_Proactive_Robotic_Failure_CVPR_2025_paper.html>
+
+**CityWalker: Learning Embodied Urban Navigation from Web-Scale Videos**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_CityWalker_Learning_Embodied_Urban_Navigation_from_Web-Scale_Videos_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/citywalker_…](https://papernotes.org/CVPR2025/reinforcement_learning/citywalker_learning_embodied_urban_navigation_from_web-scale_videos/)
 
 **Prof. Robot: Differentiable Robot Rendering Without Static and Self-Collisions**
 
@@ -12924,26 +12761,16 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Object-Centric_Prompt-Driven_Vision-Language-Action_Model_for_Robotic_Manipulation_CVPR_2025_paper.html>
 
-**Less Attention is More: Prompt Transformer for Generalized Category Discovery**
+**ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.html>
-- Code: <https://github.com/wendy26zhang/AptGCD>
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Iwase_ZeroGrasp_Zero-Shot_Shape_Reconstruction_Enabled_Robotic_Grasping_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/zerograsp_zero-shot_shap…](https://papernotes.org/CVPR2025/3d_vision/zerograsp_zero-shot_shape_reconstruction_enabled_robotic_grasping/)
 
-**Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection**
+**Reasoning in Visual Navigation of End-to-end Trained Agents: A Dynamical Systems Approach**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Towards_Visual_Discrimination_and_Reasoning_of_Real-World_Physical_Dynamics_Physics-Grounded_CVPR_2025_paper.html>
-- Project: <https://guyao2023.github.io/Phys-AD/>
-
-**Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jang_Scalable_Video-to-Dataset_Generation_for_Cross-Platform_Mobile_Agents_CVPR_2025_paper.html>
-- Code: <https://github.com/runamu/monday>
-- Notes (Chinese): [papernotes.org/CVPR2025/robotics/scalable_video-to-dataset…](https://papernotes.org/CVPR2025/robotics/scalable_video-to-dataset_generation_for_cross-platform_mobile_agents/)
-
-**Unleashing the Potential of Consistency Learning for Detecting and Grounding Multi-Modal Media Manipulation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Unleashing_the_Potential_of_Consistency_Learning_for_Detecting_and_Grounding_CVPR_2025_paper.html>
-- Code: <https://github.com/liyih/CSCL>
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Janny_Reasoning_in_Visual_Navigation_of_End-to-end_Trained_Agents_A_Dynamical_CVPR_2025_paper.html>
+- Project: <https://visual-navigation-reasoning.github.io>
+- Notes (Chinese): [papernotes.org/CVPR2025/time_series/reasoning_in_visual_na…](https://papernotes.org/CVPR2025/time_series/reasoning_in_visual_navigation_of_end-to-end_trained_agents_a_dynamical_systems_/)
 
 **Gazing Into Missteps: Leveraging Eye-Gaze for Unsupervised Mistake Detection in Egocentric Videos of Skilled Human Activities**
 
@@ -12953,6 +12780,12 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lin_Let_Humanoids_Hike_Integrative_Skill_Development_on_Complex_Trails_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/robotics/let_humanoids_hike_integr…](https://papernotes.org/CVPR2025/robotics/let_humanoids_hike_integrative_skill_development_on_complex_trails/)
+
+**Decision SpikeFormer: Spike-Driven Transformer for Decision Making**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Decision_SpikeFormer_Spike-Driven_Transformer_for_Decision_Making_CVPR_2025_paper.html>
+- Project: <https://wei-nijuan.github.io/DecisionSpikeFormer/>
+- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/decision_sp…](https://papernotes.org/CVPR2025/reinforcement_learning/decision_spikeformer_spike-driven_transformer_for_decision_making/)
 
 **DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation**
 
@@ -12982,15 +12815,15 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Mitigating_the_Human-Robot_Domain_Discrepancy_in_Visual_Pre-training_for_Robotic_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/robotics/mitigating_the_human-robo…](https://papernotes.org/CVPR2025/robotics/mitigating_the_human-robot_domain_discrepancy_in_visual_pre-training_for_robotic/)
 
-**CCIN: Compositional Conflict Identification and Neutralization for Composed Image Retrieval**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tian_CCIN_Compositional_Conflict_Identification_and_Neutralization_for_Composed_Image_Retrieval_CVPR_2025_paper.html>
-- Code: <https://github.com/LikaiTian/CCIN>
-
 **ShowUI: One Vision-Language-Action Model for GUI Visual Agent**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lin_ShowUI_One_Vision-Language-Action_Model_for_GUI_Visual_Agent_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/robotics/showui_one_vision-languag…](https://papernotes.org/CVPR2025/robotics/showui_one_vision-language-action_model_for_gui_visual_agent/)
+
+**Hearing Anywhere in Any Environment**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Hearing_Anywhere_in_Any_Environment_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/audio_speech/hearing_anywhere_in_a…](https://papernotes.org/CVPR2025/audio_speech/hearing_anywhere_in_any_environment/)
 
 **Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method**
 
@@ -13015,9 +12848,216 @@
 
 ---
 
+<a id="self_supervised"></a>
+
+## 🔄 Self-Supervised Learning · `self_supervised` · 41 papers
+
+**Representation Learning for Spatiotemporal Physical Systems**
+
+- Paper: <https://arxiv.org/abs/2603.13227v1>
+- Code: <https://github.com/helenqu/physical-representation-learning>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/representation_lea…](https://papernotes.org/CVPR2025/self_supervised/representation_learning_for_spatiotemporal_physical_systems/)
+
+**BoSS: A Best-of-Strategies Selector as an Oracle for Deep Active Learning**
+
+- Paper: <https://arxiv.org/abs/2603.13109v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/boss_a_best-of-str…](https://papernotes.org/CVPR2025/self_supervised/boss_a_best-of-strategies_selector_as_an_oracle_for_deep_active_learning/)
+
+**Breaking the Tuning Barrier: Zero-Hyperparameters Yield Multi-Corner Analysis Via Learned Priors**
+
+- Paper: <https://arxiv.org/abs/2603.13092v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/breaking_the_tunin…](https://papernotes.org/CVPR2025/self_supervised/breaking_the_tuning_barrier_zero-hyperparameters_yield_multi-corner_analysis_via/)
+
+**Text-Phase Synergy Network with Dual Priors for Unsupervised Cross-Domain Image Retrieval**
+
+- Paper: <https://arxiv.org/abs/2603.12711v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/text-phase_synergy…](https://papernotes.org/CVPR2025/self_supervised/text-phase_synergy_network_with_dual_priors_for_unsupervised_cross-domain_image_/)
+
+**Hyperbolic Category Discovery**
+
+- Paper: <https://arxiv.org/abs/2504.06120>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/hyperbolic_categor…](https://papernotes.org/CVPR2025/self_supervised/hyperbolic_category_discovery/)
+
+**AutoSSVH: Exploring Automated Frame Sampling for Efficient Self-Supervised Video Hashing**
+
+- Paper: <https://arxiv.org/abs/2504.03587>
+- Notes (Chinese): [papernotes.org/CVPR2025/model_compression/autossvh_explori…](https://papernotes.org/CVPR2025/model_compression/autossvh_exploring_automated_frame_sampling_for_efficient_self-supervised_video_h/)
+
+**Transformers without Normalization**
+
+- Paper: <https://arxiv.org/abs/2503.10622>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/transformers_witho…](https://papernotes.org/CVPR2025/self_supervised/transformers_without_normalization/)
+
+**MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone's Potential with Masked Autoregressive Pretraining**
+
+- Paper: <https://arxiv.org/abs/2410.00871>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/map_unleashing_hyb…](https://papernotes.org/CVPR2025/self_supervised/map_unleashing_hybrid_mamba-transformer_vision_backbones_potential_with_masked_a/)
+
+**Gain from Neighbors: Boosting Model Robustness in the Wild via Adversarial Perturbations Toward Neighboring Classes**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Gain_from_Neighbors_Boosting_Model_Robustness_in_the_Wild_via_CVPR_2025_paper.html>
+
+**SATA: Spatial Autocorrelation Token Analysis for Enhancing the Robustness of Vision Transformers**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Nikzad_SATA_Spatial_Autocorrelation_Token_Analysis_for_Enhancing_the_Robustness_of_CVPR_2025_paper.html>
+- Code: <https://github.com/nick-nikzad/SATA>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/sata_spatial_autoco…](https://papernotes.org/CVPR2025/llm_evaluation/sata_spatial_autocorrelation_token_analysis_for_enhancing_the_robustness_of_visi/)
+
+**Spectral State Space Model for Rotation-Invariant Visual Representation Learning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dastani_Spectral_State_Space_Model_for_Rotation-Invariant_Visual_Representation_Learning_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/spectral_state_spa…](https://papernotes.org/CVPR2025/self_supervised/spectral_state_space_model_for_rotation-invariant_visual_representation_learning/)
+
+**MaRI: Material Retrieval Integration across Domains**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_MaRI_Material_Retrieval_Integration_across_Domains_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/mari_material_retr…](https://papernotes.org/CVPR2025/self_supervised/mari_material_retrieval_integration_across_domains/)
+
+**Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Linguistics-aware_Masked_Image_Modeling_for_Self-supervised_Scene_Text_Recognition_CVPR_2025_paper.html>
+- Code: <https://github.com/zhangyifei01/LMIM>
+
+**Do Your Best and Get Enough Rest for Continual Learning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kang_Do_Your_Best_and_Get_Enough_Rest_for_Continual_Learning_CVPR_2025_paper.html>
+- Code: <https://github.com/hankyul2/ViewBatchModel>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/do_your_best_and_g…](https://papernotes.org/CVPR2025/self_supervised/do_your_best_and_get_enough_rest_for_continual_learning/)
+
+**SEC-Prompt:SEmantic Complementary Prompting for Few-Shot Class-Incremental Learning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SEC-PromptSEmantic_Complementary_Prompting_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/sec-promptsemantic_complem…](https://papernotes.org/CVPR2025/llm_nlp/sec-promptsemantic_complementary_prompting_for_few-shot_class-incremental_learni/)
+
+**RAEncoder: A Label-Free Reversible Adversarial Examples Encoder for Dataset Intellectual Property Protection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xing_RAEncoder_A_Label-Free_Reversible_Adversarial_Examples_Encoder_for_Dataset_Intellectual_CVPR_2025_paper.html>
+
+**UniSTD: Towards Unified Spatio-Temporal Learning across Diverse Disciplines**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tang_UniSTD_Towards_Unified_Spatio-Temporal_Learning_across_Diverse_Disciplines_CVPR_2025_paper.html>
+- Code: <https://github.com/1hunters/UniSTD>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/unistd_towards_uni…](https://papernotes.org/CVPR2025/self_supervised/unistd_towards_unified_spatio-temporal_learning_across_diverse_disciplines/)
+
+**OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tang_OCRT_Boosting_Foundation_Models_in_the_Open_World_with_Object-Concept-Relation_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/ocrt_boosting_foun…](https://papernotes.org/CVPR2025/self_supervised/ocrt_boosting_foundation_models_in_the_open_world_with_object-concept-relation_t/)
+
+**Forensic Self-Descriptions Are All You Need for Zero-Shot Detection, Open-Set Source Attribution, and Clustering of AI-generated Images**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Nguyen_Forensic_Self-Descriptions_Are_All_You_Need_for_Zero-Shot_Detection_Open-Set_CVPR_2025_paper.html>
+
+**SMILE: Infusing Spatial and Motion Semantics in Masked Video Learning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Thoker_SMILE_Infusing_Spatial_and_Motion_Semantics_in_Masked_Video_Learning_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/smile_infusing_spa…](https://papernotes.org/CVPR2025/self_supervised/smile_infusing_spatial_and_motion_semantics_in_masked_video_learning/)
+
+**Attraction Diminishing and Distributing for Few-Shot Class-Incremental Learning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Attraction_Diminishing_and_Distributing_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.html>
+
+**MetaWriter: Personalized Handwritten Text Recognition Using Meta-Learned Prompt Tuning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gu_MetaWriter_Personalized_Handwritten_Text_Recognition_Using_Meta-Learned_Prompt_Tuning_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/metawriter_persona…](https://papernotes.org/CVPR2025/self_supervised/metawriter_personalized_handwritten_text_recognition_using_meta-learned_prompt_t/)
+
+**Breaking the Memory Barrier of Contrastive Loss via Tile-Based Strategy**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_Breaking_the_Memory_Barrier_of_Contrastive_Loss_via_Tile-Based_Strategy_CVPR_2025_paper.html>
+
+**Learning to Normalize on the SPD Manifold under Bures-Wasserstein Geometry**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Learning_to_Normalize_on_the_SPD_Manifold_under_Bures-Wasserstein_Geometry_CVPR_2025_paper.html>
+- Code: <https://github.com/jjscc/GBWBN>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/learning_to_normal…](https://papernotes.org/CVPR2025/self_supervised/learning_to_normalize_on_the_spd_manifold_under_bures-wasserstein_geometry/)
+
+**MOS: Modeling Object-Scene Associations in Generalized Category Discovery**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Peng_MOS_Modeling_Object-Scene_Associations_in_Generalized_Category_Discovery_CVPR_2025_paper.html>
+- Code: <https://github.com/JethroPeng/MOS>
+- Notes (Chinese): [papernotes.org/CVPR2025/others/mos_modeling_object-scene_a…](https://papernotes.org/CVPR2025/others/mos_modeling_object-scene_associations_in_generalized_category_discovery/)
+
+**Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lai_Order-Robust_Class_Incremental_Learning_Graph-Driven_Dynamic_Similarity_Grouping_CVPR_2025_paper.html>
+- Code: <https://github.com/AIGNLAI/GDDSG>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_safety/order-robust_class_incr…](https://papernotes.org/CVPR2025/llm_safety/order-robust_class_incremental_learning_graph-driven_dynamic_similarity_grouping/)
+
+**MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone's Potential with Masked Autoregressive Pretraining**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_MAP_Unleashing_Hybrid_Mamba-Transformer_Vision_Backbones_Potential_with_Masked_Autoregressive_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/map_unleashing_hyb…](https://papernotes.org/CVPR2025/self_supervised/map_unleashing_hybrid_mamba-transformer_vision_backbones_potential_with_masked_a/)
+
+**Few-shot Implicit Function Generation via Equivariance**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Few-shot_Implicit_Function_Generation_via_Equivariance_CVPR_2025_paper.html>
+- Code: <https://github.com/JeanDiable/EquiGen>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/few-shot_implicit_…](https://papernotes.org/CVPR2025/self_supervised/few-shot_implicit_function_generation_via_equivariance/)
+
+**ScaleLSD: Scalable Deep Line Segment Detection Streamlined**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ke_ScaleLSD_Scalable_Deep_Line_Segment_Detection_Streamlined_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/scalelsd_scalable_…](https://papernotes.org/CVPR2025/self_supervised/scalelsd_scalable_deep_line_segment_detection_streamlined/)
+
+**Adaptive Part Learning for Fine-Grained Generalized Category Discovery: A Plug-and-Play Enhancement**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dai_Adaptive_Part_Learning_for_Fine-Grained_Generalized_Category_Discovery_A_Plug-and-Play_CVPR_2025_paper.html>
+
+**BOE-ViT: Boosting Orientation Estimation with Equivariance in Self-Supervised 3D Subtomogram Alignment**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_BOE-ViT_Boosting_Orientation_Estimation_with_Equivariance_in_Self-Supervised_3D_Subtomogram_CVPR_2025_paper.html>
+
+**Unlocking the Potential of Unlabeled Data in Semi-Supervised Domain Generalization**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Unlocking_the_Potential_of_Unlabeled_Data_in_Semi-Supervised_Domain_Generalization_CVPR_2025_paper.html>
+
+**Enhanced then Progressive Fusion with View Graph for Multi-View Clustering**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dong_Enhanced_then_Progressive_Fusion_with_View_Graph_for_Multi-View_Clustering_CVPR_2025_paper.html>
+
+**T-CIL: Temperature Scaling using Adversarial Perturbation for Calibration in Class-Incremental Learning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hwang_T-CIL_Temperature_Scaling_using_Adversarial_Perturbation_for_Calibration_in_Class-Incremental_CVPR_2025_paper.html>
+
+**ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_ROLL_Robust_Noisy_Pseudo-label_Learning_for_Multi-View_Clustering_with_Noisy_CVPR_2025_paper.html>
+
+**From Prototypes to General Distributions: An Efficient Curriculum for Masked Image Modeling**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lin_From_Prototypes_to_General_Distributions_An_Efficient_Curriculum_for_Masked_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/from_prototypes_to…](https://papernotes.org/CVPR2025/self_supervised/from_prototypes_to_general_distributions_an_efficient_curriculum_for_masked_imag/)
+
+**EASEMVC:Efficient Dual Selection Mechanism for Deep Multi-View Clustering**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_EASEMVCEfficient_Dual_Selection_Mechanism_for_Deep_Multi-View_Clustering_CVPR_2025_paper.html>
+
+**Task-Agnostic Guided Feature Expansion for Class-Incremental Learning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zheng_Task-Agnostic_Guided_Feature_Expansion_for_Class-Incremental_Learning_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/others/task-agnostic_guided_featur…](https://papernotes.org/CVPR2025/others/task-agnostic_guided_feature_expansion_for_class-incremental_learning/)
+
+**Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hadgi_Escaping_Platos_Cave_Towards_the_Alignment_of_3D_and_Text_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/escaping_platos_ca…](https://papernotes.org/CVPR2025/self_supervised/escaping_platos_cave_towards_the_alignment_of_3d_and_text_latent_spaces/)
+
+**When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Rathore_When_Domain_Generalization_meets_Generalized_Category_Discovery_An_Adaptive_Task-Arithmetic_CVPR_2025_paper.html>
+
+**SEC-Prompt: SEmantic Complementary Prompting for Few-Shot Class-Incremental Learning**
+
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/sec-promptsemantic_complem…](https://papernotes.org/CVPR2025/llm_nlp/sec-promptsemantic_complementary_prompting_for_few-shot_class-incremental_learni/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
 <a id="audio_speech"></a>
 
-## 🎵 Audio & Speech · `audio_speech` · 36 papers
+## 🎵 Audio & Speech · `audio_speech` · 35 papers
 
 **Team RAS in 10th ABAW Competition: Multimodal Valence and Arousal Estimation Approach**
 
@@ -13028,10 +13068,6 @@
 
 - Paper: <https://arxiv.org/abs/2503.08147>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_generation/filmcomposer_llm-…](https://papernotes.org/CVPR2025/image_generation/filmcomposer_llm-driven_music_production_for_silent_film_clips/)
-
-**Tightening Robustness Verification of MaxPool-based Neural Networks via Minimizing the Over-Approximation Zone**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_Tightening_Robustness_Verification_of_MaxPool-based_Neural_Networks_via_Minimizing_the_CVPR_2025_paper.html>
 
 **HarmonySet: A Comprehensive Dataset for Understanding Video-Music Semantic Alignment and Temporal Synchronization**
 
@@ -13049,6 +13085,11 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_LiveCC_Learning_Video_LLM_with_Streaming_Speech_Transcription_at_Scale_CVPR_2025_paper.html>
 - Project: <https://showlab.github.io/livecc>
 - Notes (Chinese): [papernotes.org/CVPR2025/audio_speech/livecc_learning_video…](https://papernotes.org/CVPR2025/audio_speech/livecc_learning_video_llm_with_streaming_speech_transcription_at_scale/)
+
+**Synchronized Video-to-Audio Generation via Mel Quantization-Continuum Decomposition**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Synchronized_Video-to-Audio_Generation_via_Mel_Quantization-Continuum_Decomposition_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/synchronized_vide…](https://papernotes.org/CVPR2025/image_generation/synchronized_video-to-audio_generation_via_mel_quantization-continuum_decomposit/)
 
 **Foley-Flow: Coordinated Video-to-Audio Generation with Masked Audio-Visual Alignment and Dynamic Conditional Flows**
 
@@ -13074,6 +13115,10 @@
 **Supervising Sound Localization by In-the-wild Egomotion**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Min_Supervising_Sound_Localization_by_In-the-wild_Egomotion_CVPR_2025_paper.html>
+
+**LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Geng_LongVALE_Vision-Audio-Language-Event_Benchmark_Towards_Time-Aware_Omni-Modal_Perception_of_Long_Videos_CVPR_2025_paper.html>
 
 **ImViD: Immersive Volumetric Videos for Enhanced VR Engagement**
 
@@ -13162,19 +13207,10 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fang_EMOE_Modality-Specific_Enhanced_Dynamic_Emotion_Experts_CVPR_2025_paper.html>
 
-**From Alexnet to Transformers: Measuring the Non-linearity of Deep Neural Networks with Affine Optimal Transport**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bouniot_From_Alexnet_to_Transformers_Measuring_the_Non-linearity_of_Deep_Neural_CVPR_2025_paper.html>
-
 **Improving Sound Source Localization with Joint Slot Attention on Image and Audio**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Improving_Sound_Source_Localization_with_Joint_Slot_Attention_on_Image_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/audio_speech/improving_sound_sourc…](https://papernotes.org/CVPR2025/audio_speech/improving_sound_source_localization_with_joint_slot_attention_on_image_and_audio/)
-
-**Learning-enabled Polynomial Lyapunov Function Synthesis via High-Accuracy Counterexample-Guided Framework**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Learning-enabled_Polynomial_Lyapunov_Function_Synthesis_via_High-Accuracy_Counterexample-Guided_Framework_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/audio_speech/learning-enabled_poly…](https://papernotes.org/CVPR2025/audio_speech/learning-enabled_polynomial_lyapunov_function_synthesis_via_high-accuracy_counte/)
 
 **VinTAGe: Joint Video and Text Conditioning for Holistic Audio Generation**
 
@@ -13186,191 +13222,15 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_EMOVA_Empowering_Language_Models_to_See_Hear_and_Speak_with_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/audio_speech/emova_empowering_lang…](https://papernotes.org/CVPR2025/audio_speech/emova_empowering_language_models_to_see_hear_and_speak_with_vivid_emotions/)
 
+**Enhancing Dance-to-Music Generation via Negative Conditioning Latent Diffusion Model**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_Enhancing_Dance-to-Music_Generation_via_Negative_Conditioning_Latent_Diffusion_Model_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/enhancing_dance-t…](https://papernotes.org/CVPR2025/image_generation/enhancing_dance-to-music_generation_via_negative_conditioning_latent_diffusion_m/)
+
 **Towards Open-Vocabulary Audio-Visual Event Localization**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Towards_Open-Vocabulary_Audio-Visual_Event_Localization_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/audio_speech/towards_open-vocabula…](https://papernotes.org/CVPR2025/audio_speech/towards_open-vocabulary_audio-visual_event_localization/)
-
-**Hearing Anywhere in Any Environment**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Hearing_Anywhere_in_Any_Environment_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/audio_speech/hearing_anywhere_in_a…](https://papernotes.org/CVPR2025/audio_speech/hearing_anywhere_in_any_environment/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
-<a id="self_supervised"></a>
-
-## 🔄 Self-Supervised Learning · `self_supervised` · 35 papers
-
-**Representation Learning for Spatiotemporal Physical Systems**
-
-- Paper: <https://arxiv.org/abs/2603.13227v1>
-- Code: <https://github.com/helenqu/physical-representation-learning>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/representation_lea…](https://papernotes.org/CVPR2025/self_supervised/representation_learning_for_spatiotemporal_physical_systems/)
-
-**BoSS: A Best-of-Strategies Selector as an Oracle for Deep Active Learning**
-
-- Paper: <https://arxiv.org/abs/2603.13109v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/boss_a_best-of-str…](https://papernotes.org/CVPR2025/self_supervised/boss_a_best-of-strategies_selector_as_an_oracle_for_deep_active_learning/)
-
-**Breaking the Tuning Barrier: Zero-Hyperparameters Yield Multi-Corner Analysis Via Learned Priors**
-
-- Paper: <https://arxiv.org/abs/2603.13092v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/breaking_the_tunin…](https://papernotes.org/CVPR2025/self_supervised/breaking_the_tuning_barrier_zero-hyperparameters_yield_multi-corner_analysis_via/)
-
-**GeoChemAD: Benchmarking Unsupervised Geochemical Anomaly Detection for Mineral Exploration**
-
-- Paper: <https://arxiv.org/abs/2603.13068v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/geochemad_benchmar…](https://papernotes.org/CVPR2025/self_supervised/geochemad_benchmarking_unsupervised_geochemical_anomaly_detection_for_mineral_ex/)
-
-**Text-Phase Synergy Network with Dual Priors for Unsupervised Cross-Domain Image Retrieval**
-
-- Paper: <https://arxiv.org/abs/2603.12711v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/text-phase_synergy…](https://papernotes.org/CVPR2025/self_supervised/text-phase_synergy_network_with_dual_priors_for_unsupervised_cross-domain_image_/)
-
-**Hyperbolic Category Discovery**
-
-- Paper: <https://arxiv.org/abs/2504.06120>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/hyperbolic_categor…](https://papernotes.org/CVPR2025/self_supervised/hyperbolic_category_discovery/)
-
-**AutoSSVH: Exploring Automated Frame Sampling for Efficient Self-Supervised Video Hashing**
-
-- Paper: <https://arxiv.org/abs/2504.03587>
-- Notes (Chinese): [papernotes.org/CVPR2025/model_compression/autossvh_explori…](https://papernotes.org/CVPR2025/model_compression/autossvh_exploring_automated_frame_sampling_for_efficient_self-supervised_video_h/)
-
-**Transformers without Normalization**
-
-- Paper: <https://arxiv.org/abs/2503.10622>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/transformers_witho…](https://papernotes.org/CVPR2025/self_supervised/transformers_without_normalization/)
-
-**MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone's Potential with Masked Autoregressive Pretraining**
-
-- Paper: <https://arxiv.org/abs/2410.00871>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/map_unleashing_hyb…](https://papernotes.org/CVPR2025/self_supervised/map_unleashing_hybrid_mamba-transformer_vision_backbones_potential_with_masked_a/)
-
-**DFM: Differentiable Feature Matching for Anomaly Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_DFM_Differentiable_Feature_Matching_for_Anomaly_Detection_CVPR_2025_paper.html>
-
-**Gain from Neighbors: Boosting Model Robustness in the Wild via Adversarial Perturbations Toward Neighboring Classes**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Gain_from_Neighbors_Boosting_Model_Robustness_in_the_Wild_via_CVPR_2025_paper.html>
-
-**Spectral State Space Model for Rotation-Invariant Visual Representation Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dastani_Spectral_State_Space_Model_for_Rotation-Invariant_Visual_Representation_Learning_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/spectral_state_spa…](https://papernotes.org/CVPR2025/self_supervised/spectral_state_space_model_for_rotation-invariant_visual_representation_learning/)
-
-**MaRI: Material Retrieval Integration across Domains**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_MaRI_Material_Retrieval_Integration_across_Domains_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/mari_material_retr…](https://papernotes.org/CVPR2025/self_supervised/mari_material_retrieval_integration_across_domains/)
-
-**Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Linguistics-aware_Masked_Image_Modeling_for_Self-supervised_Scene_Text_Recognition_CVPR_2025_paper.html>
-- Code: <https://github.com/zhangyifei01/LMIM>
-
-**Do Your Best and Get Enough Rest for Continual Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kang_Do_Your_Best_and_Get_Enough_Rest_for_Continual_Learning_CVPR_2025_paper.html>
-- Code: <https://github.com/hankyul2/ViewBatchModel>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/do_your_best_and_g…](https://papernotes.org/CVPR2025/self_supervised/do_your_best_and_get_enough_rest_for_continual_learning/)
-
-**RAEncoder: A Label-Free Reversible Adversarial Examples Encoder for Dataset Intellectual Property Protection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xing_RAEncoder_A_Label-Free_Reversible_Adversarial_Examples_Encoder_for_Dataset_Intellectual_CVPR_2025_paper.html>
-
-**UniSTD: Towards Unified Spatio-Temporal Learning across Diverse Disciplines**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tang_UniSTD_Towards_Unified_Spatio-Temporal_Learning_across_Diverse_Disciplines_CVPR_2025_paper.html>
-- Code: <https://github.com/1hunters/UniSTD>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/unistd_towards_uni…](https://papernotes.org/CVPR2025/self_supervised/unistd_towards_unified_spatio-temporal_learning_across_diverse_disciplines/)
-
-**OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tang_OCRT_Boosting_Foundation_Models_in_the_Open_World_with_Object-Concept-Relation_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/ocrt_boosting_foun…](https://papernotes.org/CVPR2025/self_supervised/ocrt_boosting_foundation_models_in_the_open_world_with_object-concept-relation_t/)
-
-**Forensic Self-Descriptions Are All You Need for Zero-Shot Detection, Open-Set Source Attribution, and Clustering of AI-generated Images**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Nguyen_Forensic_Self-Descriptions_Are_All_You_Need_for_Zero-Shot_Detection_Open-Set_CVPR_2025_paper.html>
-
-**SMILE: Infusing Spatial and Motion Semantics in Masked Video Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Thoker_SMILE_Infusing_Spatial_and_Motion_Semantics_in_Masked_Video_Learning_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/smile_infusing_spa…](https://papernotes.org/CVPR2025/self_supervised/smile_infusing_spatial_and_motion_semantics_in_masked_video_learning/)
-
-**MetaWriter: Personalized Handwritten Text Recognition Using Meta-Learned Prompt Tuning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gu_MetaWriter_Personalized_Handwritten_Text_Recognition_Using_Meta-Learned_Prompt_Tuning_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/metawriter_persona…](https://papernotes.org/CVPR2025/self_supervised/metawriter_personalized_handwritten_text_recognition_using_meta-learned_prompt_t/)
-
-**Breaking the Memory Barrier of Contrastive Loss via Tile-Based Strategy**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_Breaking_the_Memory_Barrier_of_Contrastive_Loss_via_Tile-Based_Strategy_CVPR_2025_paper.html>
-
-**Learning to Normalize on the SPD Manifold under Bures-Wasserstein Geometry**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Learning_to_Normalize_on_the_SPD_Manifold_under_Bures-Wasserstein_Geometry_CVPR_2025_paper.html>
-- Code: <https://github.com/jjscc/GBWBN>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/learning_to_normal…](https://papernotes.org/CVPR2025/self_supervised/learning_to_normalize_on_the_spd_manifold_under_bures-wasserstein_geometry/)
-
-**MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone's Potential with Masked Autoregressive Pretraining**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_MAP_Unleashing_Hybrid_Mamba-Transformer_Vision_Backbones_Potential_with_Masked_Autoregressive_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/map_unleashing_hyb…](https://papernotes.org/CVPR2025/self_supervised/map_unleashing_hybrid_mamba-transformer_vision_backbones_potential_with_masked_a/)
-
-**Few-shot Implicit Function Generation via Equivariance**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Few-shot_Implicit_Function_Generation_via_Equivariance_CVPR_2025_paper.html>
-- Code: <https://github.com/JeanDiable/EquiGen>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/few-shot_implicit_…](https://papernotes.org/CVPR2025/self_supervised/few-shot_implicit_function_generation_via_equivariance/)
-
-**ScaleLSD: Scalable Deep Line Segment Detection Streamlined**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ke_ScaleLSD_Scalable_Deep_Line_Segment_Detection_Streamlined_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/scalelsd_scalable_…](https://papernotes.org/CVPR2025/self_supervised/scalelsd_scalable_deep_line_segment_detection_streamlined/)
-
-**Adaptive Part Learning for Fine-Grained Generalized Category Discovery: A Plug-and-Play Enhancement**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dai_Adaptive_Part_Learning_for_Fine-Grained_Generalized_Category_Discovery_A_Plug-and-Play_CVPR_2025_paper.html>
-
-**BOE-ViT: Boosting Orientation Estimation with Equivariance in Self-Supervised 3D Subtomogram Alignment**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_BOE-ViT_Boosting_Orientation_Estimation_with_Equivariance_in_Self-Supervised_3D_Subtomogram_CVPR_2025_paper.html>
-
-**Unlocking the Potential of Unlabeled Data in Semi-Supervised Domain Generalization**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Unlocking_the_Potential_of_Unlabeled_Data_in_Semi-Supervised_Domain_Generalization_CVPR_2025_paper.html>
-
-**Enhanced then Progressive Fusion with View Graph for Multi-View Clustering**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dong_Enhanced_then_Progressive_Fusion_with_View_Graph_for_Multi-View_Clustering_CVPR_2025_paper.html>
-
-**ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_ROLL_Robust_Noisy_Pseudo-label_Learning_for_Multi-View_Clustering_with_Noisy_CVPR_2025_paper.html>
-
-**From Prototypes to General Distributions: An Efficient Curriculum for Masked Image Modeling**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lin_From_Prototypes_to_General_Distributions_An_Efficient_Curriculum_for_Masked_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/from_prototypes_to…](https://papernotes.org/CVPR2025/self_supervised/from_prototypes_to_general_distributions_an_efficient_curriculum_for_masked_imag/)
-
-**EASEMVC:Efficient Dual Selection Mechanism for Deep Multi-View Clustering**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_EASEMVCEfficient_Dual_Selection_Mechanism_for_Deep_Multi-View_Clustering_CVPR_2025_paper.html>
-
-**Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hadgi_Escaping_Platos_Cave_Towards_the_Alignment_of_3D_and_Text_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/escaping_platos_ca…](https://papernotes.org/CVPR2025/self_supervised/escaping_platos_cave_towards_the_alignment_of_3d_and_text_latent_spaces/)
-
-**When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Rathore_When_Domain_Generalization_meets_Generalized_Category_Discovery_An_Adaptive_Task-Arithmetic_CVPR_2025_paper.html>
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -13378,12 +13238,7 @@
 
 <a id="interpretability"></a>
 
-## 🔬 Interpretability · `interpretability` · 33 papers
-
-**Towards Faithful Multimodal Concept Bottleneck Models**
-
-- Paper: <https://arxiv.org/abs/2603.13163v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/interpretability/towards_faithful_…](https://papernotes.org/CVPR2025/interpretability/towards_faithful_multimodal_concept_bottleneck_models/)
+## 🔬 Interpretability · `interpretability` · 32 papers
 
 **Geometry-Guided Camera Motion Understanding in VideoLLMs**
 
@@ -13547,7 +13402,7 @@
 
 <a id="llm_safety"></a>
 
-## 🔒 LLM Safety · `llm_safety` · 30 papers
+## 🔒 LLM Safety · `llm_safety` · 31 papers
 
 **A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks**
 
@@ -13569,9 +13424,19 @@
 - Paper: <https://arxiv.org/abs/2603.12208v1>
 - Notes (Chinese): [papernotes.org/CVPR2025/llm_safety/forensiczip_more_tokens…](https://papernotes.org/CVPR2025/llm_safety/forensiczip_more_tokens_are_better_but_not_necessary_in_forensic_vision-language/)
 
+**AdaptCMVC: Robust Adaption to Incremental Views in Continual Multi-view Clustering**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_AdaptCMVC_Robust_Adaption_to_Incremental_Views_in_Continual_Multi-view_Clustering_CVPR_2025_paper.html>
+
 **Revisiting Backdoor Attacks against Large Vision-Language Models from Domain Shift**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Revisiting_Backdoor_Attacks_against_Large_Vision-Language_Models_from_Domain_Shift_CVPR_2025_paper.html>
+
+**Dual Consolidation for Pre-Trained Model-Based Domain-Incremental Learning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Dual_Consolidation_for_Pre-Trained_Model-Based_Domain-Incremental_Learning_CVPR_2025_paper.html>
+- Code: <https://github.com/Estrella-fugaz/CVPR25-Duct>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/dual_consolidation_…](https://papernotes.org/CVPR2025/llm_evaluation/dual_consolidation_for_pre-trained_model-based_domain-incremental_learning/)
 
 **Anyattack: Towards Large-scale Self-supervised Adversarial Attacks on Vision-language Models**
 
@@ -13616,10 +13481,6 @@
 - Code: <https://github.com/xinwong/TAPT>
 - Notes (Chinese): [papernotes.org/CVPR2025/llm_safety/tapt_test-time_adversar…](https://papernotes.org/CVPR2025/llm_safety/tapt_test-time_adversarial_prompt_tuning_for_robust_inference_in_vision-language/)
 
-**Attraction Diminishing and Distributing for Few-Shot Class-Incremental Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Attraction_Diminishing_and_Distributing_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.html>
-
 **Hyperbolic Safety-Aware Vision-Language Models**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Poppi_Hyperbolic_Safety-Aware_Vision-Language_Models_CVPR_2025_paper.html>
@@ -13631,6 +13492,12 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xing_Empowering_LLMs_to_Understand_and_Generate_Complex_Vector_Graphics_CVPR_2025_paper.html>
 - Project: <https://ximinng.github.io/LLM4SVGProject/>
 - Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/empowering_llms_to_underst…](https://papernotes.org/CVPR2025/llm_nlp/empowering_llms_to_understand_and_generate_complex_vector_graphics/)
+
+**LoTUS: Large-Scale Machine Unlearning with a Taste of Uncertainty**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Spartalis_LoTUS_Large-Scale_Machine_Unlearning_with_a_Taste_of_Uncertainty_CVPR_2025_paper.html>
+- Code: <https://github.com/cspartalis/LoTUS>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/lotus_large-scale_m…](https://papernotes.org/CVPR2025/llm_evaluation/lotus_large-scale_machine_unlearning_with_a_taste_of_uncertainty/)
 
 **F^3OCUS - Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics**
 
@@ -13644,12 +13511,6 @@
 **A3: Few-shot Prompt Learning of Unlearnable Examples with Cross-Modal Adversarial Feature Alignment**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_A3_Few-shot_Prompt_Learning_of_Unlearnable_Examples_with_Cross-Modal_Adversarial_CVPR_2025_paper.html>
-
-**Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lai_Order-Robust_Class_Incremental_Learning_Graph-Driven_Dynamic_Similarity_Grouping_CVPR_2025_paper.html>
-- Code: <https://github.com/AIGNLAI/GDDSG>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_safety/order-robust_class_incr…](https://papernotes.org/CVPR2025/llm_safety/order-robust_class_incremental_learning_graph-driven_dynamic_similarity_grouping/)
 
 **R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning**
 
@@ -13699,7 +13560,7 @@
 
 <a id="information_retrieval"></a>
 
-## 🔍 Information Retrieval / RAG · `information_retrieval` · 28 papers
+## 🔍 Information Retrieval / RAG · `information_retrieval` · 27 papers
 
 **CLIP is Almost All You Need: Towards Parameter-Efficient Scene Text Retrieval without OCR**
 
@@ -13736,10 +13597,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Advancing_Myopia_To_Holism_Fully_Contrastive_Language-Image_Pre-training_CVPR_2025_paper.html>
 - Project: <https://voide1220.github.io/Holism/>
 - Notes (Chinese): [papernotes.org/CVPR2025/information_retrieval/advancing_my…](https://papernotes.org/CVPR2025/information_retrieval/advancing_myopia_to_holism_fully_contrastive_language-image_pre-training/)
-
-**Enhanced OoD Detection through Cross-Modal Alignment of Multi-Modal Representations**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Enhanced_OoD_Detection_through_Cross-Modal_Alignment_of_Multi-Modal_Representations_CVPR_2025_paper.html>
 
 **Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis**
 
@@ -13844,7 +13701,7 @@
 
 <a id="remote_sensing"></a>
 
-## 🛰️ Remote Sensing · `remote_sensing` · 21 papers
+## 🛰️ Remote Sensing · `remote_sensing` · 22 papers
 
 **Think and Answer ME: Benchmarking and Exploring Multi-Entity Reasoning Grounding in Remote Sensing**
 
@@ -13889,10 +13746,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_A_Selective_Re-learning_Mechanism_for_Hyperspectral_Fusion_Imaging_CVPR_2025_paper.html>
 
-**Binarized Neural Network for Multi-spectral Image Fusion**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hou_Binarized_Neural_Network_for_Multi-spectral_Image_Fusion_CVPR_2025_paper.html>
-
 **AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Nguyen_AG-VPReID_A_Challenging_Large-Scale_Benchmark_for_Aerial-Ground_Video-based_Person_Re-Identification_CVPR_2025_paper.html>
@@ -13918,6 +13771,10 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Adaptive_Rectangular_Convolution_for_Remote_Sensing_Pansharpening_CVPR_2025_paper.html>
 - Code: <https://github.com/WangXueyang-uestc/ARConv>
 
+**Satellite Observations Guided Diffusion Model for Accurate Meteorological States at Arbitrary Resolution**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tu_Satellite_Observations_Guided_Diffusion_Model_for_Accurate_Meteorological_States_at_CVPR_2025_paper.html>
+
 **A General Adaptive Dual-level Weighting Mechanism for Remote Sensing Pansharpening**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_A_General_Adaptive_Dual-level_Weighting_Mechanism_for_Remote_Sensing_Pansharpening_CVPR_2025_paper.html>
@@ -13931,6 +13788,12 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fang_Detection-Friendly_Nonuniformity_Correction_A_Union_Framework_for_Infrared_UAV_Target_CVPR_2025_paper.html>
 - Code: <https://github.com/IVPLaboratory/UniCD>
+
+**Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Learning_Occlusion-Robust_Vision_Transformers_for_Real-Time_UAV_Tracking_CVPR_2025_paper.html>
+- Code: <https://github.com/wuyou3474/ORTrack>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/learning_occlu…](https://papernotes.org/CVPR2025/video_understanding/learning_occlusion-robust_vision_transformers_for_real-time_uav_tracking/)
 
 **Active Hyperspectral Imaging Using an Event Camera**
 
@@ -13954,34 +13817,21 @@
 
 ## 📚 LLM Pretraining · `llm_pretraining` · 21 papers
 
-**MXNorm: Reusing MXFP block scales for efficient tensor normalisation**
+**Influence Malleability in Linearized Attention: Dual Implications of Non-Convergent NTK Dynamics**
 
-- Paper: <https://arxiv.org/abs/2603.13180v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_pretraining/mxnorm_reusing_mxf…](https://papernotes.org/CVPR2025/llm_pretraining/mxnorm_reusing_mxfp_block_scales_for_efficient_tensor_normalisation/)
+- Paper: <https://arxiv.org/abs/2603.13085v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/robotics/influence_malleability_in…](https://papernotes.org/CVPR2025/robotics/influence_malleability_in_linearized_attention_dual_implications_of_non-converge/)
 
-**Beyond Clean Training Data: A Versatile and Model-Agnostic Framework for Out-of-Distribution Detection with Contaminated Training Data**
+**MR-PLIP: Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Beyond_Clean_Training_Data_A_Versatile_and_Model-Agnostic_Framework_for_CVPR_2025_paper.html>
+- Paper: <https://arxiv.org/abs/2504.18856>
+- Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/mr_plip_multi_reso…](https://papernotes.org/CVPR2025/medical_imaging/mr_plip_multi_resolution_pathology/)
 
 **Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Bridging_the_Vision-Brain_Gap_with_an_Uncertainty-Aware_Blur_Prior_CVPR_2025_paper.html>
 - Code: <https://github.com/HaitaoWuTJU/Uncertainty-aware-Blur-Prior>
 - Notes (Chinese): [papernotes.org/CVPR2025/llm_pretraining/bridging_the_visio…](https://papernotes.org/CVPR2025/llm_pretraining/bridging_the_vision-brain_gap_with_an_uncertainty-aware_blur_prior/)
-
-**HyperPose: Hypernetwork-Infused Camera Pose Localization and an Extended Cambridge Landmarks Dataset**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ferens_HyperPose_Hypernetwork-Infused_Camera_Pose_Localization_and_an_Extended_Cambridge_Landmarks_CVPR_2025_paper.html>
-
-**Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jang_Lost_in_Translation_Found_in_Context_Sign_Language_Translation_with_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_pretraining/lost_in_translatio…](https://papernotes.org/CVPR2025/llm_pretraining/lost_in_translation_found_in_context_sign_language_translation_with_contextual_c/)
-
-**PIAD: Pose and Illumination agnostic Anomaly Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_PIAD_Pose_and_Illumination_agnostic_Anomaly_Detection_CVPR_2025_paper.html>
-- Project: <https://kaichen-yang.github.io/piad/>
 
 **The Scene Language: Representing Scenes with Programs, Words, and Embeddings**
 
@@ -13993,29 +13843,39 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Heidari_A_Unified_Framework_for_Heterogeneous_Semi-supervised_Learning_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/llm_pretraining/a_unified_framewor…](https://papernotes.org/CVPR2025/llm_pretraining/a_unified_framework_for_heterogeneous_semi-supervised_learning/)
 
-**3D Prior Is All You Need: Cross-Task Few-shot 2D Gaze Estimation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_3D_Prior_Is_All_You_Need_Cross-Task_Few-shot_2D_Gaze_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_pretraining/3d_prior_is_all_yo…](https://papernotes.org/CVPR2025/llm_pretraining/3d_prior_is_all_you_need_cross-task_few-shot_2d_gaze_estimation/)
-
 **Precise Event Spotting in Sports Videos: Solving Long-Range Dependency and Class Imbalance**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Santra_Precise_Event_Spotting_in_Sports_Videos_Solving_Long-Range_Dependency_and_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/llm_pretraining/precise_event_spot…](https://papernotes.org/CVPR2025/llm_pretraining/precise_event_spotting_in_sports_videos_solving_long-range_dependency_and_class_/)
+
+**AMO Sampler: Enhancing Text Rendering with Overshooting**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hu_AMO_Sampler_Enhancing_Text_Rendering_with_Overshooting_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/amo_sampler_enhan…](https://papernotes.org/CVPR2025/image_generation/amo_sampler_enhancing_text_rendering_with_overshooting/)
+
+**Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pei_Seeing_What_Matters_Empowering_CLIP_with_Patch_Generation-to-Selection_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/seeing_what_matters…](https://papernotes.org/CVPR2025/llm_evaluation/seeing_what_matters_empowering_clip_with_patch_generation-to-selection/)
 
 **The Change You Want To Detect: Semantic Change Detection In Earth Observation With Hybrid Data Generationf**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Benidir_The_Change_You_Want_To_Detect_Semantic_Change_Detection_In_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/the_change_you_want_to_det…](https://papernotes.org/CVPR2025/llm_nlp/the_change_you_want_to_detect_semantic_change_detection_in_earth_observation_wit/)
 
-**Anomize: Better Open Vocabulary Video Anomaly Detection**
+**RELOCATE: A Simple Training-Free Baseline for Visual Query Localization Using Region-Based Representations**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Anomize_Better_Open_Vocabulary_Video_Anomaly_Detection_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_pretraining/anomize_better_ope…](https://papernotes.org/CVPR2025/llm_pretraining/anomize_better_open_vocabulary_video_anomaly_detection/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Khosla_RELOCATE_A_Simple_Training-Free_Baseline_for_Visual_Query_Localization_Using_CVPR_2025_paper.html>
 
 **Enhancing Testing-Time Robustness for Trusted Multi-View Classification in the Wild**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Enhancing_Testing-Time_Robustness_for_Trusted_Multi-View_Classification_in_the_Wild_CVPR_2025_paper.html>
+
+**ConText-CIR: Learning from Concepts in Text for Composed Image Retrieval**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xing_ConText-CIR_Learning_from_Concepts_in_Text_for_Composed_Image_Retrieval_CVPR_2025_paper.html>
+- Code: <https://github.com/mvrl/ConText-CIR>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/context-cir_learnin…](https://papernotes.org/CVPR2025/llm_evaluation/context-cir_learning_from_concepts_in_text_for_composed_image_retrieval/)
 
 **Robust Message Embedding via Attention Flow-Based Steganography**
 
@@ -14026,6 +13886,11 @@
 **Incomplete Multi-View Multi-label Learning via Disentangled Representation and Label Semantic Embedding**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Incomplete_Multi-View_Multi-label_Learning_via_Disentangled_Representation_and_Label_Semantic_CVPR_2025_paper.html>
+
+**PlanarSplatting: Accurate Planar Surface Reconstruction in 3 Minutes**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tan_PlanarSplatting_Accurate_Planar_Surface_Reconstruction_in_3_Minutes_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/planarsplattin…](https://papernotes.org/CVPR2025/video_understanding/planarsplatting_accurate_planar_surface_reconstruction_in_3_minutes/)
 
 **Image Over Text: Transforming Formula Recognition Evaluation with Character Detection Matching**
 
@@ -14060,113 +13925,108 @@
 
 ---
 
-<a id="llm_alignment"></a>
+<a id="llm_nlp"></a>
 
-## ⚖️ Alignment / RLHF · `llm_alignment` · 20 papers
+## 💬 LLM / NLP · `llm_nlp` · 19 papers
 
-**PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization**
+**As Language Models Scale, Low-order Linear Depth Dynamics Emerge**
 
-- Paper: <https://arxiv.org/abs/2603.13228v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/physmodpo_physically…](https://papernotes.org/CVPR2025/llm_alignment/physmodpo_physically-plausible_humanoid_motion_with_preference_optimization/)
-
-**Bases of Steerable Kernels for Equivariant CNNs: From 2D Rotations to the Lorentz Group**
-
-- Paper: <https://arxiv.org/abs/2603.12459v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/bases_of_steerable_k…](https://papernotes.org/CVPR2025/llm_alignment/bases_of_steerable_kernels_for_equivariant_cnns_from_2d_rotations_to_the_lorentz/)
-
-**InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment**
-
-- Paper: <https://arxiv.org/abs/2503.18454>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/inpo_inversion_prefe…](https://papernotes.org/CVPR2025/llm_alignment/inpo_inversion_preference_optimization_diffusion_alignment/)
-
-**Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation**
-
-- Paper: <https://arxiv.org/abs/2503.04639>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/enhancing_sam_with_e…](https://papernotes.org/CVPR2025/llm_alignment/enhancing_sam_with_efficient_prompting_and_preference_optimization_for_semi-supe/)
-
-**Calibrated Multi-Preference Optimization for Aligning Diffusion Models**
-
-- Paper: <https://arxiv.org/abs/2502.02588>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/calibrated_multi-pre…](https://papernotes.org/CVPR2025/llm_alignment/calibrated_multi-preference_optimization_for_aligning_diffusion_models/)
-
-**Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment**
-
-- Paper: <https://arxiv.org/abs/2412.19326>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/task_preference_opti…](https://papernotes.org/CVPR2025/llm_alignment/task_preference_optimization_improving_multimodal_large_language_models_with_vis/)
-
-**SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization**
-
-- Paper: <https://arxiv.org/abs/2411.11909>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/symdpo_boosting_in-c…](https://papernotes.org/CVPR2025/llm_alignment/symdpo_boosting_in-context_learning_of_large_multimodal_models_with_symbol_demon/)
-
-**Aesthetic Post-Training Diffusion Models from Generic Preferences with Step-by-step Preference Optimization**
-
-- Paper: <https://arxiv.org/abs/2406.04314>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/aesthetic_post-train…](https://papernotes.org/CVPR2025/llm_alignment/aesthetic_post-training_diffusion_models_from_generic_preferences_with_step-by-s/)
-
-**SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jia_SymDPO_Boosting_In-Context_Learning_of_Large_Multimodal_Models_with_Symbol_CVPR_2025_paper.html>
-- Code: <https://github.com/APiaoG/SymDPO>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/symdpo_boosting_in-c…](https://papernotes.org/CVPR2025/llm_alignment/symdpo_boosting_in-context_learning_of_large_multimodal_models_with_symbol_demon/)
-
-**Debiasing Multimodal Large Language Models via Noise-Aware Preference Optimization**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Debiasing_Multimodal_Large_Language_Models_via_Noise-Aware_Preference_Optimization_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/debiasing_multimodal…](https://papernotes.org/CVPR2025/llm_alignment/debiasing_multimodal_large_language_models_via_noise-aware_preference_optimizati/)
-
-**Aesthetic Post-Training Diffusion Models from Generic Preferences with Step-by-step Preference Optimization**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Aesthetic_Post-Training_Diffusion_Models_from_Generic_Preferences_with_Step-by-step_Preference_CVPR_2025_paper.html>
-- Code: <https://github.com/RockeyCoss/SPO>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/aesthetic_post-train…](https://papernotes.org/CVPR2025/llm_alignment/aesthetic_post-training_diffusion_models_from_generic_preferences_with_step-by-s/)
-
-**Continual SFT Matches Multimodal RLHF with Negative Supervision**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Continual_SFT_Matches_Multimodal_RLHF_with_Negative_Supervision_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/continual_sft_matche…](https://papernotes.org/CVPR2025/llm_alignment/continual_sft_matches_multimodal_rlhf_with_negative_supervision/)
+- Paper: <https://arxiv.org/abs/2603.12541>
+- Notes (Chinese): [papernotes.org/CVPR2025/social_computing/as_language_model…](https://papernotes.org/CVPR2025/social_computing/as_language_models_scale_low-order_linear_depth_dynamics_emerge/)
 
 **CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_CAD-Llama_Leveraging_Large_Language_Models_for_Computer-Aided_Design_Parametric_3D_CVPR_2025_paper.html>
+- Paper: <https://arxiv.org/abs/2505.04481>
 - Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/cad-llama_leveraging…](https://papernotes.org/CVPR2025/llm_alignment/cad-llama_leveraging_large_language_models_for_computer-aided_design_parametric_/)
 
-**Curriculum Direct Preference Optimization for Diffusion and Consistency Models**
+**Assessing and Learning Alignment of Unimodal Vision and Language Models (SAIL)**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Croitoru_Curriculum_Direct_Preference_Optimization_for_Diffusion_and_Consistency_Models_CVPR_2025_paper.html>
-- Code: <https://github.com/CroitoruAlin/Curriculum-DPO>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/curriculum_direct_pr…](https://papernotes.org/CVPR2025/llm_alignment/curriculum_direct_preference_optimization_for_diffusion_and_consistency_models/)
+- Paper: <https://arxiv.org/abs/2412.04616>
+- Notes (Chinese): [papernotes.org/CVPR2025/segmentation/assessing_and_learnin…](https://papernotes.org/CVPR2025/segmentation/assessing_and_learning_alignment_of_unimodal_vision_and_language_model/)
 
-**Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation**
+**Spiking Transformer with Spatial-Temporal Attention**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Konwer_Enhancing_SAM_with_Efficient_Prompting_and_Preference_Optimization_for_Semi-supervised_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/enhancing_sam_with_e…](https://papernotes.org/CVPR2025/llm_alignment/enhancing_sam_with_efficient_prompting_and_preference_optimization_for_semi-supe/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Spiking_Transformer_with_Spatial-Temporal_Attention_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/spiking_transformer_with_s…](https://papernotes.org/CVPR2025/llm_nlp/spiking_transformer_with_spatial-temporal_attention/)
 
-**Do We Really Need Curated Malicious Data for Safety Alignment in Multi-modal Large Language Models?**
+**Movie Weaver: Tuning-Free Multi-Concept Video Personalization with Anchored Prompts**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Do_We_Really_Need_Curated_Malicious_Data_for_Safety_Alignment_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/do_we_really_need_cu…](https://papernotes.org/CVPR2025/llm_alignment/do_we_really_need_curated_malicious_data_for_safety_alignment_in_multi-modal_lar/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Movie_Weaver_Tuning-Free_Multi-Concept_Video_Personalization_with_Anchored_Prompts_CVPR_2025_paper.html>
 
-**Boost Your Human Image Generation Model via Direct Preference Optimization**
+**PURA: Parameter Update-Recovery Test-Time Adaption for RGB-T Tracking**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Na_Boost_Your_Human_Image_Generation_Model_via_Direct_Preference_Optimization_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/boost_your_human_ima…](https://papernotes.org/CVPR2025/llm_alignment/boost_your_human_image_generation_model_via_direct_preference_optimization/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Shao_PURA_Parameter_Update-Recovery_Test-Time_Adaption_for_RGB-T_Tracking_CVPR_2025_paper.html>
+- Project: <https://melantech.github.io/PURA>
 
-**Calibrated Multi-Preference Optimization for Aligning Diffusion Models**
+**Building Vision Models upon Heat Conduction**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Calibrated_Multi-Preference_Optimization_for_Aligning_Diffusion_Models_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/calibrated_multi-pre…](https://papernotes.org/CVPR2025/llm_alignment/calibrated_multi-preference_optimization_for_aligning_diffusion_models/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Building_Vision_Models_upon_Heat_Conduction_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/building_vision_models_upo…](https://papernotes.org/CVPR2025/llm_nlp/building_vision_models_upon_heat_conduction/)
 
-**InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment**
+**Learning Textual Prompts for Open-World Semi-Supervised Learning**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lu_InPO_Inversion_Preference_Optimization_with_Reparametrized_DDIM_for_Efficient_Diffusion_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/inpo_inversion_prefe…](https://papernotes.org/CVPR2025/llm_alignment/inpo_inversion_preference_optimization_diffusion_alignment/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fan_Learning_Textual_Prompts_for_Open-World_Semi-Supervised_Learning_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/learning_textual_prompts_f…](https://papernotes.org/CVPR2025/llm_nlp/learning_textual_prompts_for_open-world_semi-supervised_learning/)
 
-**Jailbreaking the Non-Transferable Barrier via Test-Time Data Disguising**
+**MG-MotionLLM: A Unified Framework for Motion Comprehension and Generation across Multiple Granularities**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xiang_Jailbreaking_the_Non-Transferable_Barrier_via_Test-Time_Data_Disguising_CVPR_2025_paper.html>
-- Code: <https://github.com/tmllab/2025_CVPR_JailNTL>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/jailbreaking_the_non…](https://papernotes.org/CVPR2025/llm_alignment/jailbreaking_the_non-transferable_barrier_via_test-time_data_disguising/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_MG-MotionLLM_A_Unified_Framework_for_Motion_Comprehension_and_Generation_across_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/mg-motionllm_a_unified_fra…](https://papernotes.org/CVPR2025/llm_nlp/mg-motionllm_a_unified_framework_for_motion_comprehension_and_generation_across_/)
+
+**Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Dora_Sampling_and_Benchmarking_for_3D_Shape_Variational_Auto-Encoders_CVPR_2025_paper.html>
+- Project: <https://aruichen.github.io/Dora/>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/dora_sampling_and_b…](https://papernotes.org/CVPR2025/llm_evaluation/dora_sampling_and_benchmarking_for_3d_shape_variational_auto-encoders/)
+
+**Test-Time Visual In-Context Tuning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xie_Test-Time_Visual_In-Context_Tuning_CVPR_2025_paper.html>
+- Code: <https://github.com/Jiahao000/VICT>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/test-time_visual_in-contex…](https://papernotes.org/CVPR2025/llm_nlp/test-time_visual_in-context_tuning/)
+
+**ComRoPE: Scalable and Robust Rotary Position Embedding Parameterized by Trainable Commuting Angle Matrices**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yu_ComRoPE_Scalable_and_Robust_Rotary_Position_Embedding_Parameterized_by_Trainable_CVPR_2025_paper.html>
+- Code: <https://github.com/Longin-Yu/ComRoPE>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/comrope_rotary_position](https://papernotes.org/CVPR2025/llm_nlp/comrope_rotary_position/)
+
+**Rethinking Spiking Self-Attention Mechanism: Implementing a-XNOR Similarity Calculation in Spiking Transformers**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_Rethinking_Spiking_Self-Attention_Mechanism_Implementing_a-XNOR_Similarity_Calculation_in_Spiking_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/rethinking_spiking_self-at…](https://papernotes.org/CVPR2025/llm_nlp/rethinking_spiking_self-attention_mechanism_implementing_a-xnor_similarity_calcu/)
+
+**STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_STAA-SNN_Spatial-Temporal_Attention_Aggregator_for_Spiking_Neural_Networks_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/staa-snn_spatial-temporal_…](https://papernotes.org/CVPR2025/llm_nlp/staa-snn_spatial-temporal_attention_aggregator_for_spiking_neural_networks/)
+
+**Exposure-slot: Exposure-centric Representations Learning with Slot-in-Slot Attention for Region-aware Exposure Correction**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jung_Exposure-slot_Exposure-centric_Representations_Learning_with_Slot-in-Slot_Attention_for_Region-aware_Exposure_CVPR_2025_paper.html>
+- Code: <https://github.com/kdhRick2222/Exposure-slot>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/exposure-slot_exposure-cen…](https://papernotes.org/CVPR2025/llm_nlp/exposure-slot_exposure-centric_representations_learning_with_slot-in-slot_attent/)
+
+**Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Imagine_and_Seek_Improving_Composed_Image_Retrieval_with_an_Imagined_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/imagine_and_seek_improving…](https://papernotes.org/CVPR2025/llm_nlp/imagine_and_seek_improving_composed_image_retrieval_with_an_imagined_proxy/)
+
+**Spiking Transformer: Introducing Accurate Addition-Only Spiking Self-Attention for Transformer**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Guo_Spiking_Transformer_Introducing_Accurate_Addition-Only_Spiking_Self-Attention_for_Transformer_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/spiking_transformer_introd…](https://papernotes.org/CVPR2025/llm_nlp/spiking_transformer_introducing_accurate_addition-only_spiking_self-attention_fo/)
+
+**Making Old Film Great Again: Degradation-aware State Space Model for Old Film Restoration**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Mao_Making_Old_Film_Great_Again_Degradation-aware_State_Space_Model_for_CVPR_2025_paper.html>
+- Code: <https://github.com/MaoAYD/MambaOFR>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/making_old_film_gre…](https://papernotes.org/CVPR2025/llm_evaluation/making_old_film_great_again_degradation-aware_state_space_model_for_old_film_res/)
+
+**Chat-based Person Retrieval via Dialogue-Refined Cross-Modal Alignment**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bai_Chat-based_Person_Retrieval_via_Dialogue-Refined_Cross-Modal_Alignment_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/chat-based_person_retrieva…](https://papernotes.org/CVPR2025/llm_nlp/chat-based_person_retrieval_via_dialogue-refined_cross-modal_alignment/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -14174,7 +14034,7 @@
 
 <a id="optimization"></a>
 
-## 📐 Optimization & Theory · `optimization` · 17 papers
+## 📐 Optimization & Theory · `optimization` · 19 papers
 
 **SCOPE: Semantic Coreset with Orthogonal Projection Embeddings for Federated learning**
 
@@ -14184,11 +14044,6 @@
 **Handling Spatial-Temporal Data Heterogeneity for Federated Continual Learning via Tail Anchor**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yu_Handling_Spatial-Temporal_Data_Heterogeneity_for_Federated_Continual_Learning_via_Tail_CVPR_2025_paper.html>
-
-**Leveraging Perturbation Robustness to Enhance Out-of-Distribution Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Leveraging_Perturbation_Robustness_to_Enhance_Out-of-Distribution_Detection_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/optimization/leveraging_perturbati…](https://papernotes.org/CVPR2025/optimization/leveraging_perturbation_robustness_to_enhance_out-of-distribution_detection/)
 
 **Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory**
 
@@ -14203,6 +14058,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liao_Convex_Relaxation_for_Robust_Vanishing_Point_Estimation_in_Manhattan_World_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/optimization/convex_relaxation_for…](https://papernotes.org/CVPR2025/optimization/convex_relaxation_for_robust_vanishing_point_estimation_in_manhattan_world/)
+
+**Conformal Prediction for Zero-Shot Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Silva-Rodriguez_Conformal_Prediction_for_Zero-Shot_Models_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/conformal_predictio…](https://papernotes.org/CVPR2025/multimodal_vlm/conformal_prediction_for_zero-shot_models/)
 
 **AFL: A Single-Round Analytic Approach for Federated Learning with Pre-trained Models**
 
@@ -14226,6 +14086,11 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Mind_the_Gap_Confidence_Discrepancy_Can_Guide_Federated_Semi-Supervised_Learning_CVPR_2025_paper.html>
 - Code: <https://github.com/Jay-Codeman/SAGE>
 - Notes (Chinese): [papernotes.org/CVPR2025/optimization/mind_the_gap_confiden…](https://papernotes.org/CVPR2025/optimization/mind_the_gap_confidence_discrepancy_can_guide_federated_semi-supervised_learning/)
+
+**Test-time Augmentation Improves Efficiency in Conformal Prediction**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Shanmugam_Test-time_Augmentation_Improves_Efficiency_in_Conformal_Prediction_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/others/test-time_augmentation_impr…](https://papernotes.org/CVPR2025/others/test-time_augmentation_improves_efficiency_in_conformal_prediction/)
 
 **Federated Learning with Domain Shift Eraser**
 
@@ -14252,6 +14117,11 @@
 - Code: <https://github.com/microsoft/GETA>
 - Notes (Chinese): [papernotes.org/CVPR2025/optimization/automatic_joint_struc…](https://papernotes.org/CVPR2025/optimization/automatic_joint_structured_pruning_and_quantization_for_efficient_neural_network/)
 
+**How to Merge Your Multimodal Models Over Time?**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dziadzio_How_to_Merge_Your_Multimodal_Models_Over_Time_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/how_to_merge_your_m…](https://papernotes.org/CVPR2025/multimodal_vlm/how_to_merge_your_multimodal_models_over_time/)
+
 **Balanced Rate-Distortion Optimization in Learned Image Compression**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Balanced_Rate-Distortion_Optimization_in_Learned_Image_Compression_CVPR_2025_paper.html>
@@ -14260,167 +14130,82 @@
 
 ---
 
-<a id="llm_nlp"></a>
+<a id="computational_biology"></a>
 
-## 💬 LLM / NLP · `llm_nlp` · 16 papers
+## 🧬 Computational Biology · `computational_biology` · 16 papers
 
-**As Language Models Scale, Low-order Linear Depth Dynamics Emerge**
+**Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos**
 
-- Paper: <https://arxiv.org/abs/2603.12541>
-- Notes (Chinese): [papernotes.org/CVPR2025/social_computing/as_language_model…](https://papernotes.org/CVPR2025/social_computing/as_language_models_scale_low-order_linear_depth_dynamics_emerge/)
+- Paper: <https://arxiv.org/abs/2603.13185v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/computational_biology/towards_spat…](https://papernotes.org/CVPR2025/computational_biology/towards_spatio-temporal_world_scene_graph_generation_from_monocular_videos/)
 
-**CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation**
+**Multimodal Protein Language Models for Enzyme Kinetic Parameters: From Substrate Recognition to Conformational Adaptation**
 
-- Paper: <https://arxiv.org/abs/2505.04481>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/cad-llama_leveraging…](https://papernotes.org/CVPR2025/llm_alignment/cad-llama_leveraging_large_language_models_for_computer-aided_design_parametric_/)
+- Paper: <https://arxiv.org/abs/2603.12845v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/computational_biology/multimodal_p…](https://papernotes.org/CVPR2025/computational_biology/multimodal_protein_language_models_for_enzyme_kinetic_parameters_from_substrate_/)
 
-**Assessing and Learning Alignment of Unimodal Vision and Language Models (SAIL)**
+**SHREC: A Spectral Embedding-Based Approach for Ab-Initio Reconstruction of Helical Molecules**
 
-- Paper: <https://arxiv.org/abs/2412.04616>
-- Notes (Chinese): [papernotes.org/CVPR2025/segmentation/assessing_and_learnin…](https://papernotes.org/CVPR2025/segmentation/assessing_and_learning_alignment_of_unimodal_vision_and_language_model/)
+- Paper: <https://arxiv.org/abs/2603.12307v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/computational_biology/shrec_a_spec…](https://papernotes.org/CVPR2025/computational_biology/shrec_a_spectral_embedding-based_approach_for_ab-initio_reconstruction_of_helica/)
 
-**Spiking Transformer with Spatial-Temporal Attention**
+**Automated Detection of Malignant Lesions in the Ovary Using Deep Learning Models and XAI**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Spiking_Transformer_with_Spatial-Temporal_Attention_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/spiking_transformer_with_s…](https://papernotes.org/CVPR2025/llm_nlp/spiking_transformer_with_spatial-temporal_attention/)
+- Paper: <https://arxiv.org/abs/2603.11818v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/automated_detectio…](https://papernotes.org/CVPR2025/medical_imaging/automated_detection_of_malignant_lesions_in_the_ovary_using_deep_learning_models/)
 
-**Movie Weaver: Tuning-Free Multi-Concept Video Personalization with Anchored Prompts**
+**Semantic and Expressive Variations in Image Captions Across Languages**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Movie_Weaver_Tuning-Free_Multi-Concept_Video_Personalization_with_Anchored_Prompts_CVPR_2025_paper.html>
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ye_Semantic_and_Expressive_Variations_in_Image_Captions_Across_Languages_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/multimodal_vlm/semantic_and_expres…](https://papernotes.org/CVPR2025/multimodal_vlm/semantic_and_expressive_variations_in_image_captions_across_languages/)
 
-**Building Vision Models upon Heat Conduction**
+**Hybrid Reciprocal Transformer with Triplet Feature Alignment for Scene Graph Generation**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Building_Vision_Models_upon_Heat_Conduction_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/building_vision_models_upo…](https://papernotes.org/CVPR2025/llm_nlp/building_vision_models_upon_heat_conduction/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fu_Hybrid_Reciprocal_Transformer_with_Triplet_Feature_Alignment_for_Scene_Graph_CVPR_2025_paper.html>
 
-**Learning Textual Prompts for Open-World Semi-Supervised Learning**
+**Robust Multimodal Survival Prediction with Conditional Latent Differentiation Variational AutoEncoder**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fan_Learning_Textual_Prompts_for_Open-World_Semi-Supervised_Learning_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/learning_textual_prompts_f…](https://papernotes.org/CVPR2025/llm_nlp/learning_textual_prompts_for_open-world_semi-supervised_learning/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Robust_Multimodal_Survival_Prediction_with_Conditional_Latent_Differentiation_Variational_AutoEncoder_CVPR_2025_paper.html>
 
-**MG-MotionLLM: A Unified Framework for Motion Comprehension and Generation across Multiple Granularities**
+**STINR: Deciphering Spatial Transcriptomics via Implicit Neural Representation**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_MG-MotionLLM_A_Unified_Framework_for_Motion_Comprehension_and_Generation_across_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/mg-motionllm_a_unified_fra…](https://papernotes.org/CVPR2025/llm_nlp/mg-motionllm_a_unified_framework_for_motion_comprehension_and_generation_across_/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Luo_STINR_Deciphering_Spatial_Transcriptomics_via_Implicit_Neural_Representation_CVPR_2025_paper.html>
 
-**Test-Time Visual In-Context Tuning**
+**Multi-modal Contrastive Learning with Negative Sampling Calibration for Phenotypic Drug Discovery**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xie_Test-Time_Visual_In-Context_Tuning_CVPR_2025_paper.html>
-- Code: <https://github.com/Jiahao000/VICT>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/test-time_visual_in-contex…](https://papernotes.org/CVPR2025/llm_nlp/test-time_visual_in-context_tuning/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Rao_Multi-modal_Contrastive_Learning_with_Negative_Sampling_Calibration_for_Phenotypic_Drug_CVPR_2025_paper.html>
 
-**ComRoPE: Scalable and Robust Rotary Position Embedding Parameterized by Trainable Commuting Angle Matrices**
+**MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yu_ComRoPE_Scalable_and_Robust_Rotary_Position_Embedding_Parameterized_by_Trainable_CVPR_2025_paper.html>
-- Code: <https://github.com/Longin-Yu/ComRoPE>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/comrope_rotary_position](https://papernotes.org/CVPR2025/llm_nlp/comrope_rotary_position/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ganguly_MERGE_Multi-faceted_Hierarchical_Graph-based_GNN_for_Gene_Expression_Prediction_from_CVPR_2025_paper.html>
 
-**Rethinking Spiking Self-Attention Mechanism: Implementing a-XNOR Similarity Calculation in Spiking Transformers**
+**Multi-modal Topology-embedded Graph Learning for Spatially Resolved Genes Prediction from Pathology Images with Prior Gene Similarity Information**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_Rethinking_Spiking_Self-Attention_Mechanism_Implementing_a-XNOR_Similarity_Calculation_in_Spiking_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/rethinking_spiking_self-at…](https://papernotes.org/CVPR2025/llm_nlp/rethinking_spiking_self-attention_mechanism_implementing_a-xnor_similarity_calcu/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Shi_Multi-modal_Topology-embedded_Graph_Learning_for_Spatially_Resolved_Genes_Prediction_from_CVPR_2025_paper.html>
 
-**STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks**
+**Towards Unbiased and Robust Spatio-Temporal Scene Graph Generation and Anticipation**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_STAA-SNN_Spatial-Temporal_Attention_Aggregator_for_Spiking_Neural_Networks_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/staa-snn_spatial-temporal_…](https://papernotes.org/CVPR2025/llm_nlp/staa-snn_spatial-temporal_attention_aggregator_for_spiking_neural_networks/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Peddi_Towards_Unbiased_and_Robust_Spatio-Temporal_Scene_Graph_Generation_and_Anticipation_CVPR_2025_paper.html>
 
-**Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy**
+**ASIGN: An Anatomy-aware Spatial Imputation Graphic Network for 3D Spatial Transcriptomics**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Imagine_and_Seek_Improving_Composed_Image_Retrieval_with_an_Imagined_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/imagine_and_seek_improving…](https://papernotes.org/CVPR2025/llm_nlp/imagine_and_seek_improving_composed_image_retrieval_with_an_imagined_proxy/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_ASIGN_An_Anatomy-aware_Spatial_Imputation_Graphic_Network_for_3D_Spatial_CVPR_2025_paper.html>
 
-**Spiking Transformer: Introducing Accurate Addition-Only Spiking Self-Attention for Transformer**
+**Synthetic Visual Genome**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Guo_Spiking_Transformer_Introducing_Accurate_Addition-Only_Spiking_Self-Attention_for_Transformer_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/spiking_transformer_introd…](https://papernotes.org/CVPR2025/llm_nlp/spiking_transformer_introducing_accurate_addition-only_spiking_self-attention_fo/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Park_Synthetic_Visual_Genome_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/computational_biology/synthetic_vi…](https://papernotes.org/CVPR2025/computational_biology/synthetic_visual_genome/)
 
-**Chat-based Person Retrieval via Dialogue-Refined Cross-Modal Alignment**
+**DiffVsgg: Diffusion-Driven Online Video Scene Graph Generation**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bai_Chat-based_Person_Retrieval_via_Dialogue-Refined_Cross-Modal_Alignment_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/chat-based_person_retrieva…](https://papernotes.org/CVPR2025/llm_nlp/chat-based_person_retrieval_via_dialogue-refined_cross-modal_alignment/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_DiffVsgg_Diffusion-Driven_Online_Video_Scene_Graph_Generation_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/computational_biology/diffvsgg_dif…](https://papernotes.org/CVPR2025/computational_biology/diffvsgg_diffusion-driven_online_video_scene_graph_generation/)
 
-**SEC-Prompt: SEmantic Complementary Prompting for Few-Shot Class-Incremental Learning**
+**Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning**
 
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/sec-promptsemantic_complem…](https://papernotes.org/CVPR2025/llm_nlp/sec-promptsemantic_complementary_prompting_for_few-shot_class-incremental_learni/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
-<a id="reinforcement_learning"></a>
-
-## 🎮 Reinforcement Learning · `reinforcement_learning` · 14 papers
-
-**Thinking in Streaming Video**
-
-- Paper: <https://arxiv.org/abs/2603.12938v1>
-- Code: <https://github.com/johncaged/ThinkStream>
-- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/thinking_in…](https://papernotes.org/CVPR2025/reinforcement_learning/thinking_in_streaming_video/)
-
-**CALF: Communication-Aware Learning Framework for Distributed Reinforcement Learning**
-
-- Paper: <https://arxiv.org/abs/2603.12543>
-- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/calf_commun…](https://papernotes.org/CVPR2025/reinforcement_learning/calf_communication_aware_distributed_rl/)
-
-**Neural Motion Simulator Pushing the Limit of World Models in Reinforcement Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hao_Neural_Motion_Simulator_Pushing_the_Limit_of_World_Models_in_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/neural_moti…](https://papernotes.org/CVPR2025/reinforcement_learning/neural_motion_simulator_pushing_the_limit_of_world_models_in_reinforcement_learn/)
-
-**ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_ManipTrans_Efficient_Dexterous_Bimanual_Manipulation_Transfer_via_Residual_Learning_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/maniptrans_…](https://papernotes.org/CVPR2025/reinforcement_learning/maniptrans_efficient_dexterous_bimanual_manipulation_transfer_via_residual_learn/)
-
-**SkillMimic: Learning Basketball Interaction Skills from Demonstrations**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_SkillMimic_Learning_Basketball_Interaction_Skills_from_Demonstrations_CVPR_2025_paper.html>
-- Project: <https://ingrid789.github.io/SkillMimic/>
-- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/skillmimic_…](https://papernotes.org/CVPR2025/reinforcement_learning/skillmimic_learning_basketball_interaction_skills_from_demonstrations/)
-
-**Stabilizing and Accelerating Autofocus with Expert Trajectory Regularized Deep Reinforcement Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Stabilizing_and_Accelerating_Autofocus_with_Expert_Trajectory_Regularized_Deep_Reinforcement_CVPR_2025_paper.html>
-
-**UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_UniGraspTransformer_Simplified_Policy_Distillation_for_Scalable_Dexterous_Robotic_Grasping_CVPR_2025_paper.html>
-- Project: <https://dexhand.github.io/UniGraspTransformer/>
-
-**CityWalker: Learning Embodied Urban Navigation from Web-Scale Videos**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_CityWalker_Learning_Embodied_Urban_Navigation_from_Web-Scale_Videos_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/citywalker_…](https://papernotes.org/CVPR2025/reinforcement_learning/citywalker_learning_embodied_urban_navigation_from_web-scale_videos/)
-
-**GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skill**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cui_GROVE_A_Generalized_Reward_for_Learning_Open-Vocabulary_Physical_Skill_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/grove_a_gen…](https://papernotes.org/CVPR2025/reinforcement_learning/grove_a_generalized_reward_for_learning_open-vocabulary_physical_skill/)
-
-**SeqMvRL: A Sequential Fusion Framework for Multi-view Representation Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_SeqMvRL_A_Sequential_Fusion_Framework_for_Multi-view_Representation_Learning_CVPR_2025_paper.html>
-
-**Provoking Multi-modal Few-Shot LVLM via Exploration-Exploitation In-Context Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Provoking_Multi-modal_Few-Shot_LVLM_via_Exploration-Exploitation_In-Context_Learning_CVPR_2025_paper.html>
-
-**Gazing at Rewards: Eye Movements as a Lens into Human and AI Decision-Making in Hybrid Visual Foraging**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Gazing_at_Rewards_Eye_Movements_as_a_Lens_into_Human_CVPR_2025_paper.html>
-- Code: <https://github.com/ZhangLab-DeepNeuroCogLab/visual-forager>
-- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/gazing_at_r…](https://papernotes.org/CVPR2025/reinforcement_learning/gazing_at_rewards_eye_movements_as_a_lens_into_human_and_ai_decision-making_in_h/)
-
-**Decision SpikeFormer: Spike-Driven Transformer for Decision Making**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Decision_SpikeFormer_Spike-Driven_Transformer_for_Decision_Making_CVPR_2025_paper.html>
-- Project: <https://wei-nijuan.github.io/DecisionSpikeFormer/>
-- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/decision_sp…](https://papernotes.org/CVPR2025/reinforcement_learning/decision_spikeformer_spike-driven_transformer_for_decision_making/)
-
-**Automated Proof of Polynomial Inequalities via Reinforcement Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Automated_Proof_of_Polynomial_Inequalities_via_Reinforcement_Learning_CVPR_2025_paper.html>
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lenz_Unsupervised_Foundation_Model-Agnostic_Slide-Level_Representation_Learning_CVPR_2025_paper.html>
+- Code: <https://github.com/KatherLab/COBRA>
+- Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/unsupervised_found…](https://papernotes.org/CVPR2025/medical_imaging/unsupervised_foundation_model-agnostic_slide-level_representation_learning/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -14430,14 +14215,14 @@
 
 ## 🕸️ Graph Learning · `graph_learning` · 14 papers
 
+**AMR-Transformer: Enabling Efficient Long-range Interaction for Complex Neural Fluid Simulation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xu_AMR-Transformer_Enabling_Efficient_Long-range_Interaction_for_Complex_Neural_Fluid_Simulation_CVPR_2025_paper.html>
+
 **PHGC: Procedural Heterogeneous Graph Completion for Natural Language Task Verification in Egocentric Videos**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_PHGC_Procedural_Heterogeneous_Graph_Completion_for_Natural_Language_Task_Verification_CVPR_2025_paper.html>
 - Code: <https://github.com/XunCHN/PHGC>
-
-**Hybrid Reciprocal Transformer with Triplet Feature Alignment for Scene Graph Generation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fu_Hybrid_Reciprocal_Transformer_with_Triplet_Feature_Alignment_for_Scene_Graph_CVPR_2025_paper.html>
 
 **Hypergraph Vision Transformers: Images are More than Nodes, More than Edges**
 
@@ -14472,10 +14257,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Unbiased_Video_Scene_Graph_Generation_via_Visual_and_Semantic_Dual_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/graph_learning/unbiased_video_scen…](https://papernotes.org/CVPR2025/graph_learning/unbiased_video_scene_graph_generation_via_visual_and_semantic_dual_debiasing/)
 
-**Towards Unbiased and Robust Spatio-Temporal Scene Graph Generation and Anticipation**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Peddi_Towards_Unbiased_and_Robust_Spatio-Temporal_Scene_Graph_Generation_and_Anticipation_CVPR_2025_paper.html>
-
 **Navigating the Unseen: Zero-shot Scene Graph Generation via Capsule-Based Equivariant Features**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Navigating_the_Unseen_Zero-shot_Scene_Graph_Generation_via_Capsule-Based_Equivariant_CVPR_2025_paper.html>
@@ -14493,6 +14274,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Universal_Scene_Graph_Generation_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/graph_learning/universal_scene_gra…](https://papernotes.org/CVPR2025/graph_learning/universal_scene_graph_generation/)
+
+**Knowledge Bridger: Towards Training-Free Missing Modality Completion**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ke_Knowledge_Bridger_Towards_Training-Free_Missing_Modality_Completion_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/knowledge_bridger_…](https://papernotes.org/CVPR2025/medical_imaging/knowledge_bridger_towards_training-free_missing_modality_completion/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -14517,10 +14303,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zha_ReCon_Enhancing_True_Correspondence_Discrimination_through_Relation_Consistency_for_Robust_CVPR_2025_paper.html>
 
-**UniNet: A Contrastive Learning-guided Unified Framework with Feature Selection for Anomaly Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wei_UniNet_A_Contrastive_Learning-guided_Unified_Framework_with_Feature_Selection_for_CVPR_2025_paper.html>
-
 **Can Machines Understand Composition? Dataset and Benchmark for Photographic Image Composition Embedding and Understanding**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Can_Machines_Understand_Composition_Dataset_and_Benchmark_for_Photographic_Image_CVPR_2025_paper.html>
@@ -14544,6 +14326,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Reducing_Class-wise_Confusion_for_Incremental_Learning_with_Disentangled_Manifolds_CVPR_2025_paper.html>
 
+**Unleashing the Potential of Consistency Learning for Detecting and Grounding Multi-Modal Media Manipulation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Unleashing_the_Potential_of_Consistency_Learning_for_Detecting_and_Grounding_CVPR_2025_paper.html>
+- Code: <https://github.com/liyih/CSCL>
+
 **Language-Assisted Debiasing and Smoothing for Foundation Model-Based Semi-Supervised Learning**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zheng_Language-Assisted_Debiasing_and_Smoothing_for_Foundation_Model-Based_Semi-Supervised_Learning_CVPR_2025_paper.html>
@@ -14557,6 +14344,69 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Project-Probe-Aggregate_Efficient_Fine-Tuning_for_Group_Robustness_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/social_computing/project-probe-agg…](https://papernotes.org/CVPR2025/social_computing/project-probe-aggregate_efficient_fine-tuning_for_group_robustness/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
+<a id="llm_reasoning"></a>
+
+## 💡 LLM Reasoning · `llm_reasoning` · 11 papers
+
+**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**
+
+- Paper: <https://arxiv.org/abs/2412.11077>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_reasoning/osrcir_reflective_cot](https://papernotes.org/CVPR2025/llm_reasoning/osrcir_reflective_cot/)
+
+**Enhancing Video-LLM Reasoning via Agent-of-Thoughts Distillation**
+
+- Paper: <https://arxiv.org/abs/2412.01694>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/enhancing_vide…](https://papernotes.org/CVPR2025/video_understanding/enhancing_video-llm_reasoning_via_agent-of-thoughts_distillation/)
+
+**VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection**
+
+- Paper: <https://arxiv.org/abs/2411.14794>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_reasoning/videoespresso_a_larg…](https://papernotes.org/CVPR2025/llm_reasoning/videoespresso_a_large-scale_chain-of-thought_dataset_for_fine-grained_video_reas/)
+
+**Tightening Robustness Verification of MaxPool-based Neural Networks via Minimizing the Over-Approximation Zone**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_Tightening_Robustness_Verification_of_MaxPool-based_Neural_Networks_via_Minimizing_the_CVPR_2025_paper.html>
+
+**Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Style_Evolving_along_Chain-of-Thought_for_Unknown-Domain_Object_Detection_CVPR_2025_paper.html>
+- Code: <https://github.com/ZZ2490/SE-COT>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_reasoning/style_evolving_along…](https://papernotes.org/CVPR2025/llm_reasoning/style_evolving_along_chain-of-thought_for_unknown-domain_object_detection/)
+
+**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Reason-before-Retrieve_One-Stage_Reflective_Chain-of-Thoughts_for_Training-Free_Zero-Shot_Composed_Image_Retrieval_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_reasoning/osrcir_reflective_cot](https://papernotes.org/CVPR2025/llm_reasoning/osrcir_reflective_cot/)
+
+**VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Han_VideoEspresso_A_Large-Scale_Chain-of-Thought_Dataset_for_Fine-Grained_Video_Reasoning_via_CVPR_2025_paper.html>
+- Code: <https://github.com/hshjerry/VideoEspresso>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_reasoning/videoespresso_a_larg…](https://papernotes.org/CVPR2025/llm_reasoning/videoespresso_a_large-scale_chain-of-thought_dataset_for_fine-grained_video_reas/)
+
+**Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Man_Argus_Vision-Centric_Reasoning_with_Grounded_Chain-of-Thought_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_reasoning/argus_vision-centric…](https://papernotes.org/CVPR2025/llm_reasoning/argus_vision-centric_reasoning_with_grounded_chain-of-thought/)
+
+**VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_VideoTree_Adaptive_Tree-based_Video_Representation_for_LLM_Reasoning_on_Long_CVPR_2025_paper.html>
+
+**Learning-enabled Polynomial Lyapunov Function Synthesis via High-Accuracy Counterexample-Guided Framework**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Learning-enabled_Polynomial_Lyapunov_Function_Synthesis_via_High-Accuracy_Counterexample-Guided_Framework_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/audio_speech/learning-enabled_poly…](https://papernotes.org/CVPR2025/audio_speech/learning-enabled_polynomial_lyapunov_function_synthesis_via_high-accuracy_counte/)
+
+**Interleaved-Modal Chain-of-Thought**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gao_Interleaved-Modal_Chain-of-Thought_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_reasoning/interleaved-modal_ch…](https://papernotes.org/CVPR2025/llm_reasoning/interleaved-modal_chain-of-thought/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -14618,147 +14468,96 @@
 
 ---
 
-<a id="signal_comm"></a>
+<a id="reinforcement_learning"></a>
 
-## 📡 Signal & Communications · `signal_comm` · 8 papers
+## 🎮 Reinforcement Learning · `reinforcement_learning` · 9 papers
 
-**DiTASK: Multi-Task Fine-Tuning with Diffeomorphic Transformations**
+**Thinking in Streaming Video**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Mantri_DiTASK_Multi-Task_Fine-Tuning_with_Diffeomorphic_Transformations_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/signal_comm/ditask_multi-task_fine…](https://papernotes.org/CVPR2025/signal_comm/ditask_multi-task_fine-tuning_with_diffeomorphic_transformations/)
+- Paper: <https://arxiv.org/abs/2603.12938v1>
+- Code: <https://github.com/johncaged/ThinkStream>
+- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/thinking_in…](https://papernotes.org/CVPR2025/reinforcement_learning/thinking_in_streaming_video/)
 
-**Tuning the Frequencies: Robust Training for Sinusoidal Neural Networks**
+**CALF: Communication-Aware Learning Framework for Distributed Reinforcement Learning**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Novello_Tuning_the_Frequencies_Robust_Training_for_Sinusoidal_Neural_Networks_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/signal_comm/tuning_the_frequencies…](https://papernotes.org/CVPR2025/signal_comm/tuning_the_frequencies_robust_training_for_sinusoidal_neural_networks/)
+- Paper: <https://arxiv.org/abs/2603.12543>
+- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/calf_commun…](https://papernotes.org/CVPR2025/reinforcement_learning/calf_communication_aware_distributed_rl/)
 
-**Illumination Spectrum Estimation for Multispectral Images via Surface Reflectance Modeling and Spatial-Spectral Feature Generation**
+**SkillMimic: Learning Basketball Interaction Skills from Demonstrations**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Oh_Illumination_Spectrum_Estimation_for_Multispectral_Images_via_Surface_Reflectance_Modeling_CVPR_2025_paper.html>
-- Code: <https://github.com/heyjinnii/ISS-MSI>
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_SkillMimic_Learning_Basketball_Interaction_Skills_from_Demonstrations_CVPR_2025_paper.html>
+- Project: <https://ingrid789.github.io/SkillMimic/>
+- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/skillmimic_…](https://papernotes.org/CVPR2025/reinforcement_learning/skillmimic_learning_basketball_interaction_skills_from_demonstrations/)
 
-**Breaking the Low-Rank Dilemma of Linear Attention**
+**Stabilizing and Accelerating Autofocus with Expert Trajectory Regularized Deep Reinforcement Learning**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fan_Breaking_the_Low-Rank_Dilemma_of_Linear_Attention_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/signal_comm/breaking_the_low-rank_…](https://papernotes.org/CVPR2025/signal_comm/breaking_the_low-rank_dilemma_of_linear_attention/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Stabilizing_and_Accelerating_Autofocus_with_Expert_Trajectory_Regularized_Deep_Reinforcement_CVPR_2025_paper.html>
 
-**Continuous Space-Time Video Resampling with  Invertible Motion Steganography**
+**GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skill**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Continuous_Space-Time_Video_Resampling_with__Invertible_Motion_Steganography_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/signal_comm/continuous_space-time_…](https://papernotes.org/CVPR2025/signal_comm/continuous_space-time_video_resampling_with_invertible_motion_steganography/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cui_GROVE_A_Generalized_Reward_for_Learning_Open-Vocabulary_Physical_Skill_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/grove_a_gen…](https://papernotes.org/CVPR2025/reinforcement_learning/grove_a_generalized_reward_for_learning_open-vocabulary_physical_skill/)
 
-**Neural Video Compression with Context Modulation**
+**SeqMvRL: A Sequential Fusion Framework for Multi-view Representation Learning**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Neural_Video_Compression_with_Context_Modulation_CVPR_2025_paper.html>
-- Code: <https://github.com/Austin4USTC/DCMVC>
-- Notes (Chinese): [papernotes.org/CVPR2025/signal_comm/neural_video_compressi…](https://papernotes.org/CVPR2025/signal_comm/neural_video_compression_with_context_modulation/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_SeqMvRL_A_Sequential_Fusion_Framework_for_Multi-view_Representation_Learning_CVPR_2025_paper.html>
 
-**Radio Frequency Ray Tracing with Neural Object Representation for Enhanced RF Modeling**
+**Provoking Multi-modal Few-Shot LVLM via Exploration-Exploitation In-Context Learning**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Radio_Frequency_Ray_Tracing_with_Neural_Object_Representation_for_Enhanced_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/signal_comm/radio_frequency_ray_tr…](https://papernotes.org/CVPR2025/signal_comm/radio_frequency_ray_tracing_with_neural_object_representation_for_enhanced_rf_mo/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Provoking_Multi-modal_Few-Shot_LVLM_via_Exploration-Exploitation_In-Context_Learning_CVPR_2025_paper.html>
 
-**ABC-Former: Auxiliary Bimodal Cross-domain Transformer with Interactive Channel Attention for White Balance**
+**Gazing at Rewards: Eye Movements as a Lens into Human and AI Decision-Making in Hybrid Visual Foraging**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chiu_ABC-Former_Auxiliary_Bimodal_Cross-domain_Transformer_with_Interactive_Channel_Attention_for_CVPR_2025_paper.html>
-- Code: <https://github.com/ytpeng-aimlab/ABC-Former>
-- Notes (Chinese): [papernotes.org/CVPR2025/signal_comm/abc-former_auxiliary_b…](https://papernotes.org/CVPR2025/signal_comm/abc-former_auxiliary_bimodal_cross-domain_transformer_with_interactive_channel_a/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Gazing_at_Rewards_Eye_Movements_as_a_Lens_into_Human_CVPR_2025_paper.html>
+- Code: <https://github.com/ZhangLab-DeepNeuroCogLab/visual-forager>
+- Notes (Chinese): [papernotes.org/CVPR2025/reinforcement_learning/gazing_at_r…](https://papernotes.org/CVPR2025/reinforcement_learning/gazing_at_rewards_eye_movements_as_a_lens_into_human_and_ai_decision-making_in_h/)
 
-<p align="right"><a href="#top">⬆ Back to top</a></p>
+**Automated Proof of Polynomial Inequalities via Reinforcement Learning**
 
----
-
-<a id="llm_reasoning"></a>
-
-## 💡 LLM Reasoning · `llm_reasoning` · 8 papers
-
-**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**
-
-- Paper: <https://arxiv.org/abs/2412.11077>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_reasoning/osrcir_reflective_cot](https://papernotes.org/CVPR2025/llm_reasoning/osrcir_reflective_cot/)
-
-**VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection**
-
-- Paper: <https://arxiv.org/abs/2411.14794>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_reasoning/videoespresso_a_larg…](https://papernotes.org/CVPR2025/llm_reasoning/videoespresso_a_large-scale_chain-of-thought_dataset_for_fine-grained_video_reas/)
-
-**CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_CoT-VLA_Visual_Chain-of-Thought_Reasoning_for_Vision-Language-Action_Models_CVPR_2025_paper.html>
-- Project: <https://cot-vla.github.io/>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_reasoning/cot-vla_visual_chain…](https://papernotes.org/CVPR2025/llm_reasoning/cot-vla_visual_chain-of-thought_reasoning_for_vision-language-action_models/)
-
-**Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Style_Evolving_along_Chain-of-Thought_for_Unknown-Domain_Object_Detection_CVPR_2025_paper.html>
-- Code: <https://github.com/ZZ2490/SE-COT>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_reasoning/style_evolving_along…](https://papernotes.org/CVPR2025/llm_reasoning/style_evolving_along_chain-of-thought_for_unknown-domain_object_detection/)
-
-**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Reason-before-Retrieve_One-Stage_Reflective_Chain-of-Thoughts_for_Training-Free_Zero-Shot_Composed_Image_Retrieval_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_reasoning/osrcir_reflective_cot](https://papernotes.org/CVPR2025/llm_reasoning/osrcir_reflective_cot/)
-
-**VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Han_VideoEspresso_A_Large-Scale_Chain-of-Thought_Dataset_for_Fine-Grained_Video_Reasoning_via_CVPR_2025_paper.html>
-- Code: <https://github.com/hshjerry/VideoEspresso>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_reasoning/videoespresso_a_larg…](https://papernotes.org/CVPR2025/llm_reasoning/videoespresso_a_large-scale_chain-of-thought_dataset_for_fine-grained_video_reas/)
-
-**Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Man_Argus_Vision-Centric_Reasoning_with_Grounded_Chain-of-Thought_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_reasoning/argus_vision-centric…](https://papernotes.org/CVPR2025/llm_reasoning/argus_vision-centric_reasoning_with_grounded_chain-of-thought/)
-
-**Interleaved-Modal Chain-of-Thought**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gao_Interleaved-Modal_Chain-of-Thought_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/llm_reasoning/interleaved-modal_ch…](https://papernotes.org/CVPR2025/llm_reasoning/interleaved-modal_chain-of-thought/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Automated_Proof_of_Polynomial_Inequalities_via_Reinforcement_Learning_CVPR_2025_paper.html>
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
 ---
 
-<a id="time_series"></a>
+<a id="physics"></a>
 
-## 📈 Time Series · `time_series` · 7 papers
+## ⚛️ Physics & Scientific Computing · `physics` · 7 papers
 
-**L2GTX: From Local to Global Time Series Explanations**
+**Towards Faithful Multimodal Concept Bottleneck Models**
 
-- Paper: <https://arxiv.org/abs/2603.13065v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/time_series/l2gtx_from_local_to_gl…](https://papernotes.org/CVPR2025/time_series/l2gtx_from_local_to_global_time_series_explanations/)
+- Paper: <https://arxiv.org/abs/2603.13163v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/interpretability/towards_faithful_…](https://papernotes.org/CVPR2025/interpretability/towards_faithful_multimodal_concept_bottleneck_models/)
 
-**Competition-Aware CPC Forecasting with Near-Market Coverage**
+**Improve Representation for Imbalanced Regression through Geometric Constraints**
 
-- Paper: <https://arxiv.org/abs/2603.13059v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/time_series/competition-aware_cpc_…](https://papernotes.org/CVPR2025/time_series/competition-aware_cpc_forecasting_with_near-market_coverage/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dong_Improve_Representation_for_Imbalanced_Regression_through_Geometric_Constraints_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/physics/improve_representation_for…](https://papernotes.org/CVPR2025/physics/improve_representation_for_imbalanced_regression_through_geometric_constraints/)
 
-**FLAVC: Learned Video Compression with Feature Level Attention**
+**DiffFNO: Diffusion Fourier Neural Operator**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_FLAVC_Learned_Video_Compression_with_Feature_Level_Attention_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/time_series/flavc_learned_video_co…](https://papernotes.org/CVPR2025/time_series/flavc_learned_video_compression_with_feature_level_attention/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_DiffFNO_Diffusion_Fourier_Neural_Operator_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/image_restoration/difffno_diffusio…](https://papernotes.org/CVPR2025/image_restoration/difffno_diffusion_fourier_neural_operator/)
 
-**DejaVid: Encoder-Agnostic Learned Temporal Matching for Video Classification**
+**KAC: Kolmogorov-Arnold Classifier for Continual Learning**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ho_DejaVid_Encoder-Agnostic_Learned_Temporal_Matching_for_Video_Classification_CVPR_2025_paper.html>
-- Code: <https://github.com/darrylho/DejaVid>
-- Notes (Chinese): [papernotes.org/CVPR2025/time_series/dejavid_encoder-agnost…](https://papernotes.org/CVPR2025/time_series/dejavid_encoder-agnostic_learned_temporal_matching_for_video_classification/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hu_KAC_Kolmogorov-Arnold_Classifier_for_Continual_Learning_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/kac_kolmogorov-arno…](https://papernotes.org/CVPR2025/llm_evaluation/kac_kolmogorov-arnold_classifier_for_continual_learning/)
 
-**PS-EIP: Robust Photometric Stereo Based on Event Interval Profile**
+**ATP: Adaptive Threshold Pruning for Efficient Data Encoding in Quantum Neural Networks**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kitazawa_PS-EIP_Robust_Photometric_Stereo_Based_on_Event_Interval_Profile_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/time_series/ps-eip_robust_photomet…](https://papernotes.org/CVPR2025/time_series/ps-eip_robust_photometric_stereo_based_on_event_interval_profile/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Afane_ATP_Adaptive_Threshold_Pruning_for_Efficient_Data_Encoding_in_Quantum_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/physics/atp_adaptive_threshold_pru…](https://papernotes.org/CVPR2025/physics/atp_adaptive_threshold_pruning_for_efficient_data_encoding_in_quantum_neural_net/)
 
-**Reasoning in Visual Navigation of End-to-end Trained Agents: A Dynamical Systems Approach**
+**Learning Phase Distortion with Selective State Space Models for Video Turbulence Mitigation**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Janny_Reasoning_in_Visual_Navigation_of_End-to-end_Trained_Agents_A_Dynamical_CVPR_2025_paper.html>
-- Project: <https://visual-navigation-reasoning.github.io>
-- Notes (Chinese): [papernotes.org/CVPR2025/time_series/reasoning_in_visual_na…](https://papernotes.org/CVPR2025/time_series/reasoning_in_visual_navigation_of_end-to-end_trained_agents_a_dynamical_systems_/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Learning_Phase_Distortion_with_Selective_State_Space_Models_for_Video_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/physics/learning_phase_distortion_…](https://papernotes.org/CVPR2025/physics/learning_phase_distortion_with_selective_state_space_models_for_video_turbulence/)
 
-**Learning Extremely High Density Crowds as Active Matters**
+**Accurate Differential Operators for Hybrid Neural Fields**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/He_Learning_Extremely_High_Density_Crowds_as_Active_Matters_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/time_series/learning_extremely_hig…](https://papernotes.org/CVPR2025/time_series/learning_extremely_high_density_crowds_as_active_matters/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chetan_Accurate_Differential_Operators_for_Hybrid_Neural_Fields_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/physics/accurate_differential_oper…](https://papernotes.org/CVPR2025/physics/accurate_differential_operators_for_hybrid_neural_fields/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -14766,7 +14565,7 @@
 
 <a id="llm_efficiency"></a>
 
-## ⚡ LLM Efficiency · `llm_efficiency` · 5 papers
+## ⚡ LLM Efficiency · `llm_efficiency` · 6 papers
 
 **Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training**
 
@@ -14788,10 +14587,83 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_Associative_Transformer_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/llm_efficiency/associative_transfo…](https://papernotes.org/CVPR2025/llm_efficiency/associative_transformer/)
 
+**Learning Heterogeneous Tissues with Mixture of Experts for Gigapixel Whole Slide Images**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Learning_Heterogeneous_Tissues_with_Mixture_of_Experts_for_Gigapixel_Whole_CVPR_2025_paper.html>
+
 **LOCORE: Image Re-ranking with Long-Context Sequence Modeling**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_LOCORE_Image_Re-ranking_with_Long-Context_Sequence_Modeling_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/llm_efficiency/locore_image_re-ran…](https://papernotes.org/CVPR2025/llm_efficiency/locore_image_re-ranking_with_long-context_sequence_modeling/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
+<a id="signal_comm"></a>
+
+## 📡 Signal & Communications · `signal_comm` · 5 papers
+
+**DiTASK: Multi-Task Fine-Tuning with Diffeomorphic Transformations**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Mantri_DiTASK_Multi-Task_Fine-Tuning_with_Diffeomorphic_Transformations_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/signal_comm/ditask_multi-task_fine…](https://papernotes.org/CVPR2025/signal_comm/ditask_multi-task_fine-tuning_with_diffeomorphic_transformations/)
+
+**Breaking the Low-Rank Dilemma of Linear Attention**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Fan_Breaking_the_Low-Rank_Dilemma_of_Linear_Attention_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/signal_comm/breaking_the_low-rank_…](https://papernotes.org/CVPR2025/signal_comm/breaking_the_low-rank_dilemma_of_linear_attention/)
+
+**Continuous Space-Time Video Resampling with  Invertible Motion Steganography**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Continuous_Space-Time_Video_Resampling_with__Invertible_Motion_Steganography_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/signal_comm/continuous_space-time_…](https://papernotes.org/CVPR2025/signal_comm/continuous_space-time_video_resampling_with_invertible_motion_steganography/)
+
+**Neural Video Compression with Context Modulation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Neural_Video_Compression_with_Context_Modulation_CVPR_2025_paper.html>
+- Code: <https://github.com/Austin4USTC/DCMVC>
+- Notes (Chinese): [papernotes.org/CVPR2025/signal_comm/neural_video_compressi…](https://papernotes.org/CVPR2025/signal_comm/neural_video_compression_with_context_modulation/)
+
+**ABC-Former: Auxiliary Bimodal Cross-domain Transformer with Interactive Channel Attention for White Balance**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chiu_ABC-Former_Auxiliary_Bimodal_Cross-domain_Transformer_with_Interactive_Channel_Attention_for_CVPR_2025_paper.html>
+- Code: <https://github.com/ytpeng-aimlab/ABC-Former>
+- Notes (Chinese): [papernotes.org/CVPR2025/signal_comm/abc-former_auxiliary_b…](https://papernotes.org/CVPR2025/signal_comm/abc-former_auxiliary_bimodal_cross-domain_transformer_with_interactive_channel_a/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
+<a id="llm_alignment"></a>
+
+## ⚖️ Alignment / RLHF · `llm_alignment` · 5 papers
+
+**Bases of Steerable Kernels for Equivariant CNNs: From 2D Rotations to the Lorentz Group**
+
+- Paper: <https://arxiv.org/abs/2603.12459v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/bases_of_steerable_k…](https://papernotes.org/CVPR2025/llm_alignment/bases_of_steerable_kernels_for_equivariant_cnns_from_2d_rotations_to_the_lorentz/)
+
+**Continual SFT Matches Multimodal RLHF with Negative Supervision**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Continual_SFT_Matches_Multimodal_RLHF_with_Negative_Supervision_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/continual_sft_matche…](https://papernotes.org/CVPR2025/llm_alignment/continual_sft_matches_multimodal_rlhf_with_negative_supervision/)
+
+**CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_CAD-Llama_Leveraging_Large_Language_Models_for_Computer-Aided_Design_Parametric_3D_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/cad-llama_leveraging…](https://papernotes.org/CVPR2025/llm_alignment/cad-llama_leveraging_large_language_models_for_computer-aided_design_parametric_/)
+
+**Do We Really Need Curated Malicious Data for Safety Alignment in Multi-modal Large Language Models?**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Do_We_Really_Need_Curated_Malicious_Data_for_Safety_Alignment_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/do_we_really_need_cu…](https://papernotes.org/CVPR2025/llm_alignment/do_we_really_need_curated_malicious_data_for_safety_alignment_in_multi-modal_lar/)
+
+**Jailbreaking the Non-Transferable Barrier via Test-Time Data Disguising**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xiang_Jailbreaking_the_Non-Transferable_Barrier_via_Test-Time_Data_Disguising_CVPR_2025_paper.html>
+- Code: <https://github.com/tmllab/2025_CVPR_JailNTL>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_alignment/jailbreaking_the_non…](https://papernotes.org/CVPR2025/llm_alignment/jailbreaking_the_non-transferable_barrier_via_test-time_data_disguising/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -14830,6 +14702,40 @@
 
 ---
 
+<a id="time_series"></a>
+
+## 📈 Time Series · `time_series` · 5 papers
+
+**L2GTX: From Local to Global Time Series Explanations**
+
+- Paper: <https://arxiv.org/abs/2603.13065v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/time_series/l2gtx_from_local_to_gl…](https://papernotes.org/CVPR2025/time_series/l2gtx_from_local_to_global_time_series_explanations/)
+
+**Competition-Aware CPC Forecasting with Near-Market Coverage**
+
+- Paper: <https://arxiv.org/abs/2603.13059v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/time_series/competition-aware_cpc_…](https://papernotes.org/CVPR2025/time_series/competition-aware_cpc_forecasting_with_near-market_coverage/)
+
+**FLAVC: Learned Video Compression with Feature Level Attention**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_FLAVC_Learned_Video_Compression_with_Feature_Level_Attention_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/time_series/flavc_learned_video_co…](https://papernotes.org/CVPR2025/time_series/flavc_learned_video_compression_with_feature_level_attention/)
+
+**DejaVid: Encoder-Agnostic Learned Temporal Matching for Video Classification**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ho_DejaVid_Encoder-Agnostic_Learned_Temporal_Matching_for_Video_Classification_CVPR_2025_paper.html>
+- Code: <https://github.com/darrylho/DejaVid>
+- Notes (Chinese): [papernotes.org/CVPR2025/time_series/dejavid_encoder-agnost…](https://papernotes.org/CVPR2025/time_series/dejavid_encoder-agnostic_learned_temporal_matching_for_video_classification/)
+
+**Learning Extremely High Density Crowds as Active Matters**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/He_Learning_Extremely_High_Density_Crowds_as_Active_Matters_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/time_series/learning_extremely_hig…](https://papernotes.org/CVPR2025/time_series/learning_extremely_high_density_crowds_as_active_matters/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
 <a id="aigc_detection"></a>
 
 ## 🔎 AIGC Detection · `aigc_detection` · 4 papers
@@ -14860,14 +14766,55 @@
 
 ---
 
+<a id="llm_evaluation"></a>
+
+## 📊 LLM Evaluation · `llm_evaluation` · 3 papers
+
+**UniGoal: Towards Universal Zero-shot Goal-oriented Navigation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yin_UniGoal_Towards_Universal_Zero-shot_Goal-oriented_Navigation_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/robotics/unigoal_towards_universal…](https://papernotes.org/CVPR2025/robotics/unigoal_towards_universal_zero-shot_goal-oriented_navigation/)
+
+**RoadSocial: A Diverse VideoQA Dataset and Benchmark for Road Event Understanding from Social Video Narratives**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Parikh_RoadSocial_A_Diverse_VideoQA_Dataset_and_Benchmark_for_Road_Event_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/roadsocial_a_divers…](https://papernotes.org/CVPR2025/llm_evaluation/roadsocial_a_diverse_videoqa_dataset_and_benchmark_for_road_event_understanding_/)
+
+**PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hsu_PosterO_Structuring_Layout_Trees_to_Enable_Language_Models_in_Generalized_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/postero_structuring…](https://papernotes.org/CVPR2025/llm_evaluation/postero_structuring_layout_trees_to_enable_language_models_in_generalized_conten/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
+<a id="nlp_generation"></a>
+
+## ✍️ NLP Generation · `nlp_generation` · 3 papers
+
+**Yo'Chameleon: Personalized Vision and Language Generation**
+
+- Paper: <https://arxiv.org/abs/2504.20998>
+- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/yochameleon_perso…](https://papernotes.org/CVPR2025/image_generation/yochameleon_personalized_vision_and_language_generation/)
+
+**Dense Match Summarization for Faster Two-view Estimation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Astermark_Dense_Match_Summarization_for_Faster_Two-view_Estimation_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_nlp/dense_match_summarization_…](https://papernotes.org/CVPR2025/llm_nlp/dense_match_summarization_for_faster_two-view_estimation/)
+
+**ArtFormer: Controllable Generation of Diverse 3D Articulated Objects**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Su_ArtFormer_Controllable_Generation_of_Diverse_3D_Articulated_Objects_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/nlp_generation/artformer_controlla…](https://papernotes.org/CVPR2025/nlp_generation/artformer_controllable_generation_of_diverse_3d_articulated_objects/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
 <a id="multilingual_mt"></a>
 
-## 🌐 Multilingual & MT · `multilingual_mt` · 4 papers
-
-**Semantic and Expressive Variations in Image Captions Across Languages**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ye_Semantic_and_Expressive_Variations_in_Image_Captions_Across_Languages_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/multilingual_mt/semantic_and_expre…](https://papernotes.org/CVPR2025/multilingual_mt/semantic_and_expressive_variations_in_image_captions_across_languages/)
+## 🌐 Multilingual & MT · `multilingual_mt` · 3 papers
 
 **All Languages Matter: Evaluating LMMs on Culturally Diverse 100 Languages**
 
@@ -14888,24 +14835,25 @@
 
 ---
 
-<a id="scientific_computing"></a>
+<a id="multi_agent"></a>
 
-## 🧮 Scientific Computing · `scientific_computing` · 3 papers
+## 📂 multi_agent · `multi_agent` · 3 papers
 
-**Improve Representation for Imbalanced Regression through Geometric Constraints**
+**Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dong_Improve_Representation_for_Imbalanced_Regression_through_Geometric_Constraints_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/scientific_computing/improve_repre…](https://papernotes.org/CVPR2025/scientific_computing/improve_representation_for_imbalanced_regression_through_geometric_constraints/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zu_Collaborative_Tree_Search_for_Enhancing_Embodied_Multi-Agent_Collaboration_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/robotics/collaborative_tree_search…](https://papernotes.org/CVPR2025/robotics/collaborative_tree_search_for_enhancing_embodied_multi-agent_collaboration/)
 
-**Learning Phase Distortion with Selective State Space Models for Video Turbulence Mitigation**
+**ComfyBench: Benchmarking LLM-based Agents in ComfyUI for Autonomously Designing Collaborative AI Systems**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Learning_Phase_Distortion_with_Selective_State_Space_Models_for_Video_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/scientific_computing/learning_phas…](https://papernotes.org/CVPR2025/scientific_computing/learning_phase_distortion_with_selective_state_space_models_for_video_turbulence/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xue_ComfyBench_Benchmarking_LLM-based_Agents_in_ComfyUI_for_Autonomously_Designing_Collaborative_CVPR_2025_paper.html>
+- Code: <https://github.com/xxyQwQ/ComfyBench>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/comfybench_benchmar…](https://papernotes.org/CVPR2025/llm_evaluation/comfybench_benchmarking_llm-based_agents_in_comfyui_for_autonomously_designing_c/)
 
-**Accurate Differential Operators for Hybrid Neural Fields**
+**NADER: Neural Architecture Design via Multi-Agent Collaboration**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chetan_Accurate_Differential_Operators_for_Hybrid_Neural_Fields_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/scientific_computing/accurate_diff…](https://papernotes.org/CVPR2025/scientific_computing/accurate_differential_operators_for_hybrid_neural_fields/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yang_NADER_Neural_Architecture_Design_via_Multi-Agent_Collaboration_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/nader_neural_archit…](https://papernotes.org/CVPR2025/llm_evaluation/nader_neural_architecture_design_via_multi-agent_collaboration/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -14929,37 +14877,6 @@
 
 ---
 
-<a id="nlp_generation"></a>
-
-## ✍️ NLP Generation · `nlp_generation` · 2 papers
-
-**Yo'Chameleon: Personalized Vision and Language Generation**
-
-- Paper: <https://arxiv.org/abs/2504.20998>
-- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/yochameleon_perso…](https://papernotes.org/CVPR2025/image_generation/yochameleon_personalized_vision_and_language_generation/)
-
-**ArtFormer: Controllable Generation of Diverse 3D Articulated Objects**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Su_ArtFormer_Controllable_Generation_of_Diverse_3D_Articulated_Objects_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/nlp_generation/artformer_controlla…](https://papernotes.org/CVPR2025/nlp_generation/artformer_controllable_generation_of_diverse_3d_articulated_objects/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
-<a id="physics"></a>
-
-## ⚛️ Physics · `physics` · 1 papers
-
-**ATP: Adaptive Threshold Pruning for Efficient Data Encoding in Quantum Neural Networks**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Afane_ATP_Adaptive_Threshold_Pruning_for_Efficient_Data_Encoding_in_Quantum_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/physics/atp_adaptive_threshold_pru…](https://papernotes.org/CVPR2025/physics/atp_adaptive_threshold_pruning_for_efficient_data_encoding_in_quantum_neural_net/)
-
-<p align="right"><a href="#top">⬆ Back to top</a></p>
-
----
-
 <a id="knowledge_editing"></a>
 
 ## ✏️ Knowledge Editing · `knowledge_editing` · 1 papers
@@ -14973,15 +14890,46 @@
 
 ---
 
+<a id="earth_science"></a>
+
+## 🌍 Earth Science · `earth_science` · 1 papers
+
+**GeoChemAD: Benchmarking Unsupervised Geochemical Anomaly Detection for Mineral Exploration**
+
+- Paper: <https://arxiv.org/abs/2603.13068v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/self_supervised/geochemad_benchmar…](https://papernotes.org/CVPR2025/self_supervised/geochemad_benchmarking_unsupervised_geochemical_anomaly_detection_for_mineral_ex/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
+<a id="medical_nlp"></a>
+
+## 🩺 Medical NLP · `medical_nlp` · 1 papers
+
+**Surg-R1: A Hierarchical Reasoning Foundation Model for Scalable and Interpretable Surgical Decision Support with Multi-Center Clinical Validation**
+
+- Paper: <https://arxiv.org/abs/2603.12430v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/surg-r1_a_hierarch…](https://papernotes.org/CVPR2025/medical_imaging/surg-r1_a_hierarchical_reasoning_foundation_model_for_scalable_and_interpretable/)
+
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
+---
+
 <a id="others"></a>
 
-## 📂 Others · `others` · 123 papers
+## 📂 Others · `others` · 142 papers
 
 **SDF-Net: Structure-Aware Disentangled Feature Learning for Opticall-SAR Ship Re-identification**
 
 - Paper: <https://arxiv.org/abs/2603.12588v1>
 - Code: <https://github.com/cfrfree/SDF-Net>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/sdf-net_structure-aware_dis…](https://papernotes.org/CVPR2025/others/sdf-net_structure-aware_disentangled_feature_learning_for_opticall-sar_ship_re-i/)
+
+**Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval**
+
+- Paper: <https://arxiv.org/abs/2503.17109>
+- Code: <https://github.com/Pter61/predicir>
 
 **Bounds on Agreement between Subjective and Objective Measurements**
 
@@ -15013,6 +14961,11 @@
 - Paper: <https://arxiv.org/abs/2603.12997v1>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/deconstructing_the_failure_…](https://papernotes.org/CVPR2025/others/deconstructing_the_failure_of_ideal_noise_correction_a_three-pillar_diagnosis/)
 
+**Coordinated Manipulation of Hybrid Deformable-Rigid Objects in Constrained Environments**
+
+- Paper: <https://arxiv.org/abs/2603.12940>
+- Notes (Chinese): [papernotes.org/CVPR2025/robotics/coordinated_manipulation_…](https://papernotes.org/CVPR2025/robotics/coordinated_manipulation_hybrid_deformable_rigid_objects/)
+
 **Wear Classification of Abrasive Flap Wheels using a Hierarchical Deep Learning Approach**
 
 - Paper: <https://arxiv.org/abs/2603.12852v1>
@@ -15028,20 +14981,15 @@
 - Paper: <https://arxiv.org/abs/2603.12716>
 - Notes (Chinese): [papernotes.org/CVPR2025/medical_imaging/unistainnet_founda…](https://papernotes.org/CVPR2025/medical_imaging/unistainnet_foundation-model-guided_virtual_staining_of_he_to_ihc/)
 
-**SHREC: A Spectral Embedding-Based Approach for Ab-Initio Reconstruction of Helical Molecules**
+**Alternating Gradient Flow Utility: A Unified Metric for Structural Pruning and Dynamic Routing in Deep Networks**
 
-- Paper: <https://arxiv.org/abs/2603.12307v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/others/shrec_a_spectral_embedding-…](https://papernotes.org/CVPR2025/others/shrec_a_spectral_embedding-based_approach_for_ab-initio_reconstruction_of_helica/)
+- Paper: <https://arxiv.org/abs/2603.12354v1>
+- Notes (Chinese): [papernotes.org/CVPR2025/model_compression/alternating_grad…](https://papernotes.org/CVPR2025/model_compression/alternating_gradient_flow_utility_a_unified_metric_for_structural_pruning_and_dy/)
 
 **POLISH'ing the Sky: Wide-Field and High-Dynamic Range Interferometric Image Reconstruction with Application to Strong Lens Discovery**
 
 - Paper: <https://arxiv.org/abs/2603.09162>
 - Notes (Chinese): [papernotes.org/CVPR2025/image_restoration/polishing_the_sk…](https://papernotes.org/CVPR2025/image_restoration/polishing_the_sky_wide-field_and_high-dynamic_range_interferometric_image_recons/)
-
-**Integration of deep generative Anomaly Detection algorithm in high-speed industrial line**
-
-- Paper: <https://arxiv.org/abs/2603.07577v1>
-- Notes (Chinese): [papernotes.org/CVPR2025/others/integration_of_deep_generat…](https://papernotes.org/CVPR2025/others/integration_of_deep_generative_anomaly_detection_algorithm_in_high-speed_industr/)
 
 **ComRoPE: Scalable and Robust Rotary Position Embedding Parameterized by Trainable Commuting Angle Matrices**
 
@@ -15093,10 +15041,11 @@
 - Paper: <https://arxiv.org/abs/2502.12138>
 - Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/flare_feed-forward_geome…](https://papernotes.org/CVPR2025/3d_vision/flare_feed-forward_geometry_appearance_and_camera_estimation_from_uncalibrated_s/)
 
-**MulSen-AD: Multi-Sensor Object Anomaly Detection**
+**MagicArticulate: Make Your 3D Models Articulation-Ready**
 
-- Paper: <https://arxiv.org/abs/2412.14592>
-- Notes (Chinese): [papernotes.org/CVPR2025/object_detection/mulsen_ad_multi_s…](https://papernotes.org/CVPR2025/object_detection/mulsen_ad_multi_sensor_anomaly_detection/)
+- Paper: <https://arxiv.org/abs/2502.12135>
+- Project: <https://chaoyuesong.github.io/MagicArticulate>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/magicarticulate_mak…](https://papernotes.org/CVPR2025/llm_evaluation/magicarticulate_make_your_3d_models_articulation-ready/)
 
 **DualPM: Dual Posed-Canonical Point Maps for 3D Shape and Pose Reconstruction**
 
@@ -15117,11 +15066,6 @@
 
 - Paper: <https://arxiv.org/abs/2412.02403>
 - Notes (Chinese): [papernotes.org/CVPR2025/human_understanding/3d_face_recons…](https://papernotes.org/CVPR2025/human_understanding/3d_face_reconstruction_from_radar_images/)
-
-**Dual Exposure Stereo for Extended Dynamic Range 3D Imaging**
-
-- Paper: <https://arxiv.org/abs/2412.02351>
-- Notes (Chinese): [papernotes.org/CVPR2025/3d_vision/dual_exposure_stereo_ext…](https://papernotes.org/CVPR2025/3d_vision/dual_exposure_stereo_extended_dr_3d/)
 
 **CARE Transformer: Mobile-Friendly Linear Visual Transformer via Decoupled Dual Interaction**
 
@@ -15145,14 +15089,25 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_MaDCoW_Marginal_Distortion_Correction_for_Wide-Angle_Photography_with_Arbitrary_Objects_CVPR_2025_paper.html>
 
+**Improving Accuracy and Calibration via Differentiated Deep Mutual Learning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Improving_Accuracy_and_Calibration_via_Differentiated_Deep_Mutual_Learning_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/improving_accuracy_…](https://papernotes.org/CVPR2025/llm_evaluation/improving_accuracy_and_calibration_via_differentiated_deep_mutual_learning/)
+
+**Event Ellipsometer: Event-based Mueller-Matrix Video Imaging**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Maeda_Event_Ellipsometer_Event-based_Mueller-Matrix_Video_Imaging_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/event_ellipsometer_…](https://papernotes.org/CVPR2025/llm_evaluation/event_ellipsometer_event-based_mueller-matrix_video_imaging/)
+
+**PhysicsGen: Can Generative Models Learn from Images to Predict Complex Physical Relations?**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Spitznagel_PhysicsGen_Can_Generative_Models_Learn_from_Images_to_Predict_Complex_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/image_generation/physicsgen_can_ge…](https://papernotes.org/CVPR2025/image_generation/physicsgen_can_generative_models_learn_from_images_to_predict_complex_physical_r/)
+
 **Balanced Direction from Multifarious Choices: Arithmetic Meta-Learning for Domain Generalization**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Balanced_Direction_from_Multifarious_Choices_Arithmetic_Meta-Learning_for_Domain_Generalization_CVPR_2025_paper.html>
 - Code: <https://github.com/zzwdx/ARITH>
-
-**CADRef: Robust Out-of-Distribution Detection via Class-Aware Decoupled Relative Feature Leveraging**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ling_CADRef_Robust_Out-of-Distribution_Detection_via_Class-Aware_Decoupled_Relative_Feature_Leveraging_CVPR_2025_paper.html>
 
 **Improving the Training of Data-Efficient GANs via Quality Aware Dynamic Discriminator Rejection Sampling**
 
@@ -15164,29 +15119,45 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Qin_No_Pains_More_Gains_Recycling_Sub-Salient_Patches_for_Efficient_High-Resolution_CVPR_2025_paper.html>
 - Code: <https://github.com/Qinrong-NKU/DBPS>
 
+**Unsupervised Continual Domain Shift Learning with Multi-Prototype Modeling**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Sun_Unsupervised_Continual_Domain_Shift_Learning_with_Multi-Prototype_Modeling_CVPR_2025_paper.html>
+
 **Less is More: Efficient Image Vectorization with Adaptive Parameterization**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Less_is_More_Efficient_Image_Vectorization_with_Adaptive_Parameterization_CVPR_2025_paper.html>
+
+**Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Ferret_An_Efficient_Online_Continual_Learning_Framework_under_Varying_Memory_CVPR_2025_paper.html>
 
 **Order-One Rolling Shutter Cameras**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Hahn_Order-One_Rolling_Shutter_Cameras_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/order-one_rolling_shutter_c…](https://papernotes.org/CVPR2025/others/order-one_rolling_shutter_cameras/)
 
-**AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Huang_AnomalyNCD_Towards_Novel_Anomaly_Class_Discovery_in_Industrial_Scenarios_CVPR_2025_paper.html>
-- Code: <https://github.com/HUST-SLOW/AnomalyNCD>
-- Notes (Chinese): [papernotes.org/CVPR2025/others/anomalyncd_towards_novel_an…](https://papernotes.org/CVPR2025/others/anomalyncd_towards_novel_anomaly_class_discovery_in_industrial_scenarios/)
-
 **Task-Specific Gradient Adaptation for Few-Shot One-Class Classification**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Task-Specific_Gradient_Adaptation_for_Few-Shot_One-Class_Classification_CVPR_2025_paper.html>
+
+**TraF-Align: Trajectory-aware Feature Alignment for Asynchronous Multi-agent Perception**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Song_TraF-Align_Trajectory-aware_Feature_Alignment_for_Asynchronous_Multi-agent_Perception_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/traf-align_trajecto…](https://papernotes.org/CVPR2025/llm_evaluation/traf-align_trajectory-aware_feature_alignment_for_asynchronous_multi-agent_perce/)
+
+**FlexUOD: The Answer to Real-world Unsupervised Image Outlier Detection**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_FlexUOD_The_Answer_to_Real-world_Unsupervised_Image_Outlier_Detection_CVPR_2025_paper.html>
 
 **Removing Reflections from RAW Photos**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kee_Removing_Reflections_from_RAW_Photos_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/removing_reflections_from_r…](https://papernotes.org/CVPR2025/others/removing_reflections_from_raw_photos/)
+
+**Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Weakly_Supervised_Contrastive_Adversarial_Training_for_Learning_Robust_Features_from_CVPR_2025_paper.html>
+- Code: <https://github.com/zhang-lilin/WSCAT>
 
 **TAET: Two-Stage Adversarial Equalization Training on Long-Tailed  Distributions**
 
@@ -15194,10 +15165,26 @@
 - Code: <https://github.com/BuhuiOK/TAET-Two-Stage-Adversarial-Equalization-Training-on-Long-Tailed-Distributions>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/taet_two-stage_adversarial_…](https://papernotes.org/CVPR2025/others/taet_two-stage_adversarial_equalization_training_on_long-tailed_distributions/)
 
+**Few-shot Personalized Scanpath Prediction**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Xue_Few-shot_Personalized_Scanpath_Prediction_CVPR_2025_paper.html>
+- Code: <https://github.com/cvlab-stonybrook/few-shot-scanpath>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/few-shot_perso…](https://papernotes.org/CVPR2025/video_understanding/few-shot_personalized_scanpath_prediction/)
+
+**Scene-agnostic Pose Regression for Visual Localization**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zheng_Scene-agnostic_Pose_Regression_for_Visual_Localization_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/scene-agnostic_pose…](https://papernotes.org/CVPR2025/llm_evaluation/scene-agnostic_pose_regression_for_visual_localization/)
+
 **Learning Physics From Video: Unsupervised Physical Parameter Estimation for Continuous Dynamical Systems**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Garcia_Learning_Physics_From_Video_Unsupervised_Physical_Parameter_Estimation_for_Continuous_CVPR_2025_paper.html>
 - Code: <https://github.com/Alejandro-neuro/Learning_physics_from_video>
+
+**Gradient-Guided Annealing for Domain Generalization**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ballas_Gradient-Guided_Annealing_for_Domain_Generalization_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/gradient-guided_ann…](https://papernotes.org/CVPR2025/llm_evaluation/gradient-guided_annealing_for_domain_generalization/)
 
 **4Deform: Neural Surface Deformation for Robust Shape Interpolation**
 
@@ -15209,19 +15196,19 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_CARE_Transformer_Mobile-Friendly_Linear_Visual_Transformer_via_Decoupled_Dual_Interaction_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/care_transformer_linear_att…](https://papernotes.org/CVPR2025/others/care_transformer_linear_attention/)
 
-**All-directional Disparity Estimation for Real-world QPD Images**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yu_All-directional_Disparity_Estimation_for_Real-world_QPD_Images_CVPR_2025_paper.html>
-
 **Zero-Shot Head Swapping in Real-World Scenarios**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kang_Zero-Shot_Head_Swapping_in_Real-World_Scenarios_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/zero-shot_head_swapping_in_…](https://papernotes.org/CVPR2025/others/zero-shot_head_swapping_in_real-world_scenarios/)
 
-**Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection**
+**Descriptor-In-Pixel : Point-Feature Tracking For Pixel Processor Arrays**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Wavelet_and_Prototype_Augmented_Query-based_Transformer_for_Pixel-level_Surface_Defect_CVPR_2025_paper.html>
-- Code: <https://github.com/yfhdm/WPFormer>
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bose_Descriptor-In-Pixel__Point-Feature_Tracking_For_Pixel_Processor_Arrays_CVPR_2025_paper.html>
+
+**VinaBench: Benchmark for Faithful and Consistent Visual Narratives**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gao_VinaBench_Benchmark_for_Faithful_and_Consistent_Visual_Narratives_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/vinabench_benchmark…](https://papernotes.org/CVPR2025/llm_evaluation/vinabench_benchmark_for_faithful_and_consistent_visual_narratives/)
 
 **Dynamic Pseudo Labeling via Gradient Cutting for High-Low Entropy Exploration**
 
@@ -15237,11 +15224,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Progressive_Correspondence_Regenerator_for_Robust_3D_Registration_CVPR_2025_paper.html>
 - Code: <https://github.com/GuiyuZhao/Regor>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/progressive_correspondence_…](https://papernotes.org/CVPR2025/others/progressive_correspondence_regenerator_for_robust_3d_registration/)
-
-**Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Distribution_Prototype_Diffusion_Learning_for_Open-set_Supervised_Anomaly_Detection_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/others/distribution_prototype_diff…](https://papernotes.org/CVPR2025/others/distribution_prototype_diffusion_learning_for_open-set_supervised_anomaly_detect/)
 
 **Full-DoF Egomotion Estimation for Event Cameras Using Geometric Solvers**
 
@@ -15259,6 +15241,11 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dai_Imputation-free_and_Alignment-free_Incomplete_Multi-view_Clustering_Driven_by_Consensus_Semantic_CVPR_2025_paper.html>
 
+**Tuning the Frequencies: Robust Training for Sinusoidal Neural Networks**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Novello_Tuning_the_Frequencies_Robust_Training_for_Sinusoidal_Neural_Networks_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/signal_comm/tuning_the_frequencies…](https://papernotes.org/CVPR2025/signal_comm/tuning_the_frequencies_robust_training_for_sinusoidal_neural_networks/)
+
 **HotSpot: Signed Distance Function Optimization with an Asymptotically Sufficient Condition**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_HotSpot_Signed_Distance_Function_Optimization_with_an_Asymptotically_Sufficient_Condition_CVPR_2025_paper.html>
@@ -15268,6 +15255,10 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_EVOS_Efficient_Implicit_Neural_Training_via_EVOlutionary_Selector_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/evos_efficient_implicit_neu…](https://papernotes.org/CVPR2025/others/evos_efficient_implicit_neural_training_via_evolutionary_selector/)
+
+**Towards Consistent Multi-Task Learning: Unlocking the Potential of Task-Specific Parameters**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Qin_Towards_Consistent_Multi-Task_Learning_Unlocking_the_Potential_of_Task-Specific_Parameters_CVPR_2025_paper.html>
 
 **Matrix-Free Shared Intrinsics Bundle Adjustment**
 
@@ -15287,10 +15278,9 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wei_Integral_Fast_Fourier_Color_Constancy_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/integral_fast_fourier_color…](https://papernotes.org/CVPR2025/others/integral_fast_fourier_color_constancy/)
 
-**CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images**
+**Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_CADCrafter_Generating_Computer-Aided_Design_Models_from_Unconstrained_Images_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/others/cadcrafter_generating_compu…](https://papernotes.org/CVPR2025/others/cadcrafter_generating_computer-aided_design_models_from_unconstrained_images/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Change3D_Revisiting_Change_Detection_and_Captioning_from_A_Video_Modeling_CVPR_2025_paper.html>
 
 **Effortless Active Labeling for Long-Term Test-Time Adaptation**
 
@@ -15303,19 +15293,23 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Etaat_LATTE-MV_Learning_to_Anticipate_Table_Tennis_Hits_from_Monocular_Videos_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/latte-mv_learning_to_antici…](https://papernotes.org/CVPR2025/others/latte-mv_learning_to_anticipate_table_tennis_hits_from_monocular_videos/)
 
+**Seeking Consistent Flat Minima for Better Domain Generalization via Refining Loss Landscapes**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Seeking_Consistent_Flat_Minima_for_Better_Domain_Generalization_via_Refining_CVPR_2025_paper.html>
+
 **Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in Multi-view Instructional Videos**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Majumder_Which_Viewpoint_Shows_it_Best_Language_for_Weakly_Supervising_View_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/which_viewpoint_shows_it_be…](https://papernotes.org/CVPR2025/others/which_viewpoint_shows_it_best_language_for_weakly_supervising_view_selection_in_/)
 
+**Practical Solutions to the Relative Pose of Three Calibrated Cameras**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Tzamos_Practical_Solutions_to_the_Relative_Pose_of_Three_Calibrated_Cameras_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/practical_solutions…](https://papernotes.org/CVPR2025/llm_evaluation/practical_solutions_to_the_relative_pose_of_three_calibrated_cameras/)
+
 **Camera Resection from Known Line Pencils and a Radially Distorted Scanline**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Dibene_Camera_Resection_from_Known_Line_Pencils_and_a_Radially_Distorted_CVPR_2025_paper.html>
-
-**Cross-Rejective Open-Set SAR Image Registration**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Mao_Cross-Rejective_Open-Set_SAR_Image_Registration_CVPR_2025_paper.html>
-- Code: <https://github.com/XDyaoshi/CroR-OSIR-main>
 
 **MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Action Anticipation**
 
@@ -15326,26 +15320,45 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cho_PEER_Pressure_Model-to-Model_Regularization_for_Single_Source_Domain_Generalization_CVPR_2025_paper.html>
 
+**EBS-EKF: Accurate and High Frequency Event-based Star Tracking**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Reed_EBS-EKF_Accurate_and_High_Frequency_Event-based_Star_Tracking_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/video_understanding/ebs-ekf_accura…](https://papernotes.org/CVPR2025/video_understanding/ebs-ekf_accurate_and_high_frequency_event-based_star_tracking/)
+
 **Feature Selection for Latent Factor Models**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kansabanik_Feature_Selection_for_Latent_Factor_Models_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/feature_selection_for_laten…](https://papernotes.org/CVPR2025/others/feature_selection_for_latent_factor_models/)
+
+**On the Generalization of Handwritten Text Recognition Models**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Garrido-Munoz_On_the_Generalization_of_Handwritten_Text_Recognition_Models_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/on_the_generalizati…](https://papernotes.org/CVPR2025/llm_evaluation/on_the_generalization_of_handwritten_text_recognition_models/)
+
+**Foundations of the Theory of Performance-Based Ranking**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pierard_Foundations_of_the_Theory_of_Performance-Based_Ranking_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/robotics/foundations_of_the_theory…](https://papernotes.org/CVPR2025/robotics/foundations_of_the_theory_of_performance-based_ranking/)
 
 **Improving Transferable Targeted Attacks with Feature Tuning Mixup**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Improving_Transferable_Targeted_Attacks_with_Feature_Tuning_Mixup_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/improving_transferable_targ…](https://papernotes.org/CVPR2025/others/improving_transferable_targeted_attacks_with_feature_tuning_mixup/)
 
-**H2ST: Hierarchical Two-Sample Tests for Continual Out-of-Distribution Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_H2ST_Hierarchical_Two-Sample_Tests_for_Continual_Out-of-Distribution_Detection_CVPR_2025_paper.html>
-- Code: <https://github.com/YuhangLiuu/H2ST>
-- Notes (Chinese): [papernotes.org/CVPR2025/others/h2st_hierarchical_two-sampl…](https://papernotes.org/CVPR2025/others/h2st_hierarchical_two-sample_tests_for_continual_out-of-distribution_detection/)
-
 **Subnet-Aware Dynamic Supernet Training for Neural Architecture Search**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jeon_Subnet-Aware_Dynamic_Supernet_Training_for_Neural_Architecture_Search_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/subnet-aware_dynamic_supern…](https://papernotes.org/CVPR2025/others/subnet-aware_dynamic_supernet_training_for_neural_architecture_search/)
+
+**Illumination Spectrum Estimation for Multispectral Images via Surface Reflectance Modeling and Spatial-Spectral Feature Generation**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Oh_Illumination_Spectrum_Estimation_for_Multispectral_Images_via_Surface_Reflectance_Modeling_CVPR_2025_paper.html>
+- Code: <https://github.com/heyjinnii/ISS-MSI>
+
+**DCEvo: Discriminative Cross-Dimensional Evolutionary Learning for Infrared and Visible Image Fusion**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_DCEvo_Discriminative_Cross-Dimensional_Evolutionary_Learning_for_Infrared_and_Visible_Image_CVPR_2025_paper.html>
+- Code: <https://github.com/Beate-Suy-Zhang/DCEvo>
 
 **Towards Million-Scale Adversarial Robustness Evaluation With Stronger Individual Attacks**
 
@@ -15367,16 +15380,13 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_R-SCoRe_Revisiting_Scene_Coordinate_Regression_for_Robust_Large-Scale_Visual_Localization_CVPR_2025_paper.html>
 - Code: <https://github.com/cvg/scrstudio>
 
-**MOS: Modeling Object-Scene Associations in Generalized Category Discovery**
+**Simulator HC: Regression-based Online Simulation of Starting Problem-Solution Pairs for Homotopy Continuation in Geometric Vision**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Peng_MOS_Modeling_Object-Scene_Associations_in_Generalized_Category_Discovery_CVPR_2025_paper.html>
-- Code: <https://github.com/JethroPeng/MOS>
-- Notes (Chinese): [papernotes.org/CVPR2025/others/mos_modeling_object-scene_a…](https://papernotes.org/CVPR2025/others/mos_modeling_object-scene_associations_in_generalized_category_discovery/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Simulator_HC_Regression-based_Online_Simulation_of_Starting_Problem-Solution_Pairs_for_CVPR_2025_paper.html>
 
-**Test-time Augmentation Improves Efficiency in Conformal Prediction**
+**SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Shanmugam_Test-time_Augmentation_Improves_Efficiency_in_Conformal_Prediction_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/others/test-time_augmentation_impr…](https://papernotes.org/CVPR2025/others/test-time_augmentation_improves_efficiency_in_conformal_prediction/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_SeedVR_Seeding_Infinity_in_Diffusion_Transformer_Towards_Generic_Video_Restoration_CVPR_2025_paper.html>
 
 **Opportunistic Single-Photon Time of Flight**
 
@@ -15400,11 +15410,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jacob_PatchDEMUX_A_Certifiably_Robust_Framework_for_Multi-label_Classifiers_Against_Adversarial_CVPR_2025_paper.html>
 
-**Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Luo_Exploring_Intrinsic_Normal_Prototypes_within_a_Single_Image_for_Universal_CVPR_2025_paper.html>
-- Code: <https://github.com/luow23/INP-Former>
-
 **Towards Optimizing Large-Scale Multi-Graph Matching in Bioimaging**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kahl_Towards_Optimizing_Large-Scale_Multi-Graph_Matching_in_Bioimaging_CVPR_2025_paper.html>
@@ -15412,6 +15417,11 @@
 **Compositional Targeted Multi-Label Universal Perturbations**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Mahmood_Compositional_Targeted_Multi-Label_Universal_Perturbations_CVPR_2025_paper.html>
+
+**CGMatch: A Different Perspective of Semi-supervised Learning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_CGMatch_A_Different_Perspective_of_Semi-supervised_Learning_CVPR_2025_paper.html>
+- Code: <https://github.com/BoCheng-96/CGMatch>
 
 **FIction: 4D Future Interaction Prediction from Video**
 
@@ -15422,12 +15432,6 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pan_BASKET_A_Large-Scale_Video_Dataset_for_Fine-Grained_Skill_Estimation_CVPR_2025_paper.html>
 - Code: <https://github.com/yulupan00/BASKET>
-
-**Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Multi-Sensor_Object_Anomaly_Detection_Unifying_Appearance_Geometry_and_Internal_Properties_CVPR_2025_paper.html>
-- Code: <https://github.com/ZZZBBBZZZ/MulSen-AD>
-- Notes (Chinese): [papernotes.org/CVPR2025/others/multi-sensor_object_anomaly…](https://papernotes.org/CVPR2025/others/multi-sensor_object_anomaly_detection_unifying_appearance_geometry_and_internal_/)
 
 **UniAP: Unifying Inter- and Intra-Layer Automatic Parallelism by Mixed Integer Quadratic Programming**
 
@@ -15444,13 +15448,19 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Nasery_PLeaS_-_Merging_Models_with_Permutations_and_Least_Squares_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/pleas_-_merging_models_with…](https://papernotes.org/CVPR2025/others/pleas_-_merging_models_with_permutations_and_least_squares/)
 
+**TensoFlow: Tensorial Flow-based Sampler for Inverse Rendering**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Gu_TensoFlow_Tensorial_Flow-based_Sampler_for_Inverse_Rendering_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/tensoflow_tensorial…](https://papernotes.org/CVPR2025/llm_evaluation/tensoflow_tensorial_flow-based_sampler_for_inverse_rendering/)
+
 **Shape Abstraction via Marching Differentiable Support Functions**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Park_Shape_Abstraction_via_Marching_Differentiable_Support_Functions_CVPR_2025_paper.html>
 
-**4D-Fly: Fast 4D Reconstruction from a Single Monocular Video**
+**Radio Frequency Ray Tracing with Neural Object Representation for Enhanced RF Modeling**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_4D-Fly_Fast_4D_Reconstruction_from_a_Single_Monocular_Video_CVPR_2025_paper.html>
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Radio_Frequency_Ray_Tracing_with_Neural_Object_Representation_for_Enhanced_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/signal_comm/radio_frequency_ray_tr…](https://papernotes.org/CVPR2025/signal_comm/radio_frequency_ray_tracing_with_neural_object_representation_for_enhanced_rf_mo/)
 
 **Reasoning Mamba: Hypergraph-Guided Region Relation Calculating for Weakly Supervised Affordance Grounding**
 
@@ -15466,10 +15476,14 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Mehta_Locally_Orderless_Images_for_Optimization_in_Differentiable_Rendering_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/locally_orderless_images_fo…](https://papernotes.org/CVPR2025/others/locally_orderless_images_for_optimization_in_differentiable_rendering/)
 
-**Towards Training-free Anomaly Detection with Vision and Language Foundation Models**
+**Sufficient Invariant Learning for Distribution Shift**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Towards_Training-free_Anomaly_Detection_with_Vision_and_Language_Foundation_Models_CVPR_2025_paper.html>
-- Code: <https://github.com/zhang0jhon/LogSAD>
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Sufficient_Invariant_Learning_for_Distribution_Shift_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/sufficient_invarian…](https://papernotes.org/CVPR2025/llm_evaluation/sufficient_invariant_learning_for_distribution_shift/)
+
+**Polarized Color Screen Matting**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Enomoto_Polarized_Color_Screen_Matting_CVPR_2025_paper.html>
 
 **SemiETS: Integrating Spatial and Content Consistencies for Semi-Supervised End-to-end Text Spotting**
 
@@ -15492,11 +15506,6 @@
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Mittal_UniPhy_Learning_a_Unified_Constitutive_Model_for_Inverse_Physics_Simulation_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/uniphy_learning_a_unified_c…](https://papernotes.org/CVPR2025/others/uniphy_learning_a_unified_constitutive_model_for_inverse_physics_simulation/)
 
-**FSboard: Over 3 Million Characters of ASL Fingerspelling Collected via Smartphones**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Georg_FSboard_Over_3_Million_Characters_of_ASL_Fingerspelling_Collected_via_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/others/fsboard_over_3_million_char…](https://papernotes.org/CVPR2025/others/fsboard_over_3_million_characters_of_asl_fingerspelling_collected_via_smartphone/)
-
 **Towards Cost-Effective Learning: A Synergy of Semi-Supervised and Active Learning**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Yin_Towards_Cost-Effective_Learning_A_Synergy_of_Semi-Supervised_and_Active_Learning_CVPR_2025_paper.html>
@@ -15505,6 +15514,21 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_NeISF_Neural_Incident_Stokes_Field_for_Polarized_Inverse_Rendering_of_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/neisf_neural_incident_stoke…](https://papernotes.org/CVPR2025/others/neisf_neural_incident_stokes_field_for_polarized_inverse_rendering_of_conductors/)
+
+**Structure-from-Motion with a Non-Parametric Camera Model**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Structure-from-Motion_with_a_Non-Parametric_Camera_Model_CVPR_2025_paper.html>
+- Code: <https://github.com/Ivonne320/GenSfM>
+
+**Uncertainty Weighted Gradients for Model Calibration**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Lin_Uncertainty_Weighted_Gradients_for_Model_Calibration_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/uncertainty_weighte…](https://papernotes.org/CVPR2025/llm_evaluation/uncertainty_weighted_gradients_for_model_calibration/)
+
+**RCP-Bench: Benchmarking Robustness for Collaborative Perception Under Diverse Corruptions**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Du_RCP-Bench_Benchmarking_Robustness_for_Collaborative_Perception_Under_Diverse_Corruptions_CVPR_2025_paper.html>
+- Code: <https://github.com/LuckyDush/RCP-Bench>
 
 **Hierarchical Adaptive Filtering Network for Text Image Specular Highlight Removal**
 
@@ -15518,38 +15542,30 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Li_Theory-Inspired_Deep_Multi-View_Multi-Label_Learning_with_Incomplete_Views_and_Noisy_CVPR_2025_paper.html>
 
-**Joint Out-of-Distribution Filtering and Data Discovery Active Learning**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Schmidt_Joint_Out-of-Distribution_Filtering_and_Data_Discovery_Active_Learning_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/others/joint_out-of-distribution_f…](https://papernotes.org/CVPR2025/others/joint_out-of-distribution_filtering_and_data_discovery_active_learning/)
-
 **The PanAf-FGBG Dataset: Understanding the Impact of Backgrounds in Wildlife Behaviour Recognition**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Brookes_The_PanAf-FGBG_Dataset_Understanding_the_Impact_of_Backgrounds_in_Wildlife_CVPR_2025_paper.html>
 - Project: <https://obrookes.github.io/panaf-fgbg.github.io>
 
-**Detecting Out-of-Distribution Through the Lens of Neural Collapse**
+**DiskVPS: Vanishing Point Detector via Hough Transform in a Disk Region**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Detecting_Out-of-Distribution_Through_the_Lens_of_Neural_Collapse_CVPR_2025_paper.html>
-- Code: <https://github.com/litianliu/NCI-OOD>
-- Notes (Chinese): [papernotes.org/CVPR2025/others/detecting_out-of-distributi…](https://papernotes.org/CVPR2025/others/detecting_out-of-distribution_through_the_lens_of_neural_collapse/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wu_DiskVPS_Vanishing_Point_Detector_via_Hough_Transform_in_a_Disk_CVPR_2025_paper.html>
+
+**From Alexnet to Transformers: Measuring the Non-linearity of Deep Neural Networks with Affine Optimal Transport**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bouniot_From_Alexnet_to_Transformers_Measuring_the_Non-linearity_of_Deep_Neural_CVPR_2025_paper.html>
+
+**Towards In-the-wild 3D Plane Reconstruction from a Single Image**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Towards_In-the-wild_3D_Plane_Reconstruction_from_a_Single_Image_CVPR_2025_paper.html>
+- Code: <https://github.com/jcliu0428/ZeroPlane>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/towards_in-the-wild…](https://papernotes.org/CVPR2025/llm_evaluation/towards_in-the-wild_3d_plane_reconstruction_from_a_single_image/)
 
 **Rethinking Epistemic and Aleatoric Uncertainty for Active Open-Set Annotation: An Energy-Based Approach**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zong_Rethinking_Epistemic_and_Aleatoric_Uncertainty_for_Active_Open-Set_Annotation_An_CVPR_2025_paper.html>
 - Code: <https://github.com/chenchenzong/EAOA>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/rethinking_epistemic_and_al…](https://papernotes.org/CVPR2025/others/rethinking_epistemic_and_aleatoric_uncertainty_for_active_open-set_annotation_an/)
-
-**RandAR: Decoder-only Autoregressive Visual Generation in Random Orders**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Pang_RandAR_Decoder-only_Autoregressive_Visual_Generation_in_Random_Orders_CVPR_2025_paper.html>
-- Project: <https://rand-ar.github.io/>
-- Notes (Chinese): [papernotes.org/CVPR2025/others/randar_decoder-only_autoreg…](https://papernotes.org/CVPR2025/others/randar_decoder-only_autoregressive_visual_generation_in_random_orders/)
-
-**TailedCore: Few-Shot Sampling for Unsupervised Long-Tail Noisy Anomaly Detection**
-
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Jung_TailedCore_Few-Shot_Sampling_for_Unsupervised_Long-Tail_Noisy_Anomaly_Detection_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/others/tailedcore_few-shot_samplin…](https://papernotes.org/CVPR2025/others/tailedcore_few-shot_sampling_for_unsupervised_long-tail_noisy_anomaly_detection/)
 
 **GazeGene: Large-scale Synthetic Gaze Dataset with 3D Eyeball Annotations**
 
@@ -15559,25 +15575,33 @@
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Teney_Do_We_Always_Need_the_Simplicity_Bias_Looking_for_Optimal_CVPR_2025_paper.html>
 
+**Identifying and Mitigating Spurious Correlation in Multi-Task Learning**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Chai_Identifying_and_Mitigating_Spurious_Correlation_in_Multi-Task_Learning_CVPR_2025_paper.html>
+
+**Forming Auxiliary High-confident Instance-level Loss to Promote Learning from Label Proportions**
+
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Ma_Forming_Auxiliary_High-confident_Instance-level_Loss_to_Promote_Learning_from_Label_CVPR_2025_paper.html>
+- Code: <https://github.com/TianhaoMa5/LLP-AHIL>
+
 **Image Reconstruction from Readout-Multiplexed Single-Photon Detector Arrays**
 
 - Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bharadwaj_Image_Reconstruction_from_Readout-Multiplexed_Single-Photon_Detector_Arrays_CVPR_2025_paper.html>
 - Notes (Chinese): [papernotes.org/CVPR2025/others/image_reconstruction_from_r…](https://papernotes.org/CVPR2025/others/image_reconstruction_from_readout-multiplexed_single-photon_detector_arrays/)
 
-**Less is More: Efficient Model Merging with Binary Task Switch**
+**Potential Field Based Deep Metric Learning**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Less_is_More_Efficient_Model_Merging_with_Binary_Task_Switch_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/others/less_is_more_efficient_mode…](https://papernotes.org/CVPR2025/others/less_is_more_efficient_model_merging_with_binary_task_switch/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Bhatnagar_Potential_Field_Based_Deep_Metric_Learning_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/potential_field_bas…](https://papernotes.org/CVPR2025/llm_evaluation/potential_field_based_deep_metric_learning/)
 
-**ProHOC: Probabilistic Hierarchical Out-of-Distribution Classification via Multi-Depth Networks**
+**Bridge the Gap: From Weak to Full Supervision for Temporal Action Localization with PseudoFormer**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wallin_ProHOC_Probabilistic_Hierarchical_Out-of-Distribution_Classification_via_Multi-Depth_Networks_CVPR_2025_paper.html>
-- Code: <https://github.com/walline/prohoc>
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Bridge_the_Gap_From_Weak_to_Full_Supervision_for_Temporal_CVPR_2025_paper.html>
 
-**Task-Agnostic Guided Feature Expansion for Class-Incremental Learning**
+**Do ImageNet-trained Models Learn Shortcuts? The Impact of Frequency Shortcuts on Generalization**
 
-- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Zheng_Task-Agnostic_Guided_Feature_Expansion_for_Class-Incremental_Learning_CVPR_2025_paper.html>
-- Notes (Chinese): [papernotes.org/CVPR2025/others/task-agnostic_guided_featur…](https://papernotes.org/CVPR2025/others/task-agnostic_guided_feature_expansion_for_class-incremental_learning/)
+- Paper: <https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Do_ImageNet-trained_Models_Learn_Shortcuts_The_Impact_of_Frequency_Shortcuts_CVPR_2025_paper.html>
+- Notes (Chinese): [papernotes.org/CVPR2025/llm_evaluation/do_imagenet-trained…](https://papernotes.org/CVPR2025/llm_evaluation/do_imagenet-trained_models_learn_shortcuts_the_impact_of_frequency_shortcuts_on_/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
