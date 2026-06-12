@@ -2297,7 +2297,7 @@
 **Retrieval Visual Contrastive Decoding to Mitigate Object Hallucinations in Large Vision-Language Models** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2505.20569>
-- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/retrieval_visual_con…](https://papernotes.org/ACL2025/multimodal_vlm/retrieval_visual_contrastive_decoding_to_mitigate_object_hallucinations_in_large/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/retrieval_visual_cont…](https://papernotes.org/ACL2025/hallucination/retrieval_visual_contrastive_decoding_to_mitigate_object_hallucinations_in_large/)
 
 **ASPO: Adaptive Sentence-Level Preference Optimization for Fine-Grained Multimodal Reasoning** · 📖 Findings
 
@@ -2317,7 +2317,7 @@
 **Mixture of Decoding: An Attention-Inspired Adaptive Decoding Strategy to Mitigate Hallucinations in Large Vision-Language Models** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2505.17061>
-- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/mixture_of_decoding_…](https://papernotes.org/ACL2025/multimodal_vlm/mixture_of_decoding_an_attention-inspired_adaptive_decoding_strategy_to_mitigate/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/mixture_of_decoding_a…](https://papernotes.org/ACL2025/hallucination/mixture_of_decoding_an_attention-inspired_adaptive_decoding_strategy_to_mitigate/)
 
 **Hierarchical Safety Realignment: Lightweight Restoration of Safety in Pruned Large Vision-Language Models** · 📖 Findings
 
@@ -2526,7 +2526,7 @@
 **FIHA: Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2409.13612>
-- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/fiha_autonomous_hall…](https://papernotes.org/ACL2025/multimodal_vlm/fiha_autonomous_hallucination_evaluation_in_vision-language_models_with_davidson/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/fiha_autonomous_hallu…](https://papernotes.org/ACL2025/hallucination/fiha_autonomous_hallucination_evaluation_in_vision-language_models_with_davidson/)
 
 **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**
 
@@ -2536,7 +2536,7 @@
 **Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2408.09429>
-- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/reefknot_a_comprehen…](https://papernotes.org/ACL2025/multimodal_vlm/reefknot_a_comprehensive_benchmark_for_relation_hallucination_evaluation_analysi/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/reefknot_a_comprehens…](https://papernotes.org/ACL2025/hallucination/reefknot_a_comprehensive_benchmark_for_relation_hallucination_evaluation_analysi/)
 
 **Evaluating Visual and Cultural Interpretation: The K-Viscuit Benchmark with Human-VLM Collaboration**
 
@@ -2613,7 +2613,7 @@
 
 **Visual Evidence Prompting Mitigates Hallucinations in Large Vision-Language Models**
 
-- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/visual_evidence_prom…](https://papernotes.org/ACL2025/multimodal_vlm/visual_evidence_prompting/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/visual_evidence_promp…](https://papernotes.org/ACL2025/hallucination/visual_evidence_prompting/)
 
 **Sharper and Faster mean Better: Towards More Efficient Vision-Language Model for Hour-scale Long Video Understanding**
 
@@ -2670,7 +2670,7 @@
 
 **Activation Steering Decoding: Mitigating Hallucination in Large Vision-Language Models through Bidirectional Hidden State Intervention**
 
-- Notes (Chinese): [papernotes.org/ACL2025/multimodal_vlm/activation_steering_…](https://papernotes.org/ACL2025/multimodal_vlm/activation_steering_decoding_mitigating_hallucination_in_large_vision-language_m/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/activation_steering_d…](https://papernotes.org/ACL2025/hallucination/activation_steering_decoding_mitigating_hallucination_in_large_vision-language_m/)
 
 **Improving Medical Large Vision-Language Models with Abnormal-Aware Feedback**
 
@@ -2982,7 +2982,7 @@
 **CCHall: A Novel Benchmark for Joint Cross-Lingual and Cross-Modal Hallucinations Detection in Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2505.19108>
-- Notes (Chinese): [papernotes.org/ACL2025/multilingual_mt/cchall_a_novel_benc…](https://papernotes.org/ACL2025/multilingual_mt/cchall_a_novel_benchmark_for_joint_cross-lingual_and_cross-modal_hallucinations_/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/cchall_a_novel_benchm…](https://papernotes.org/ACL2025/hallucination/cchall_a_novel_benchmark_for_joint_cross-lingual_and_cross-modal_hallucinations_/)
 
 **Cross-Lingual Pitfalls: Automatic Probing Cross-Lingual Weakness of Multilingual Large Language Models**
 
@@ -3422,7 +3422,7 @@
 **DRAG: Distilling RAG for SLMs from LLMs to Transfer Knowledge and Mitigate Hallucination via Evidence and Graph-based Distillation**
 
 - Paper: <https://arxiv.org/abs/2506.01954>
-- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/drag_distilli…](https://papernotes.org/ACL2025/information_retrieval/drag_distilling_rag_slm/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/drag_distilling_rag_slm](https://papernotes.org/ACL2025/hallucination/drag_distilling_rag_slm/)
 
 **Redundancy, Isotropy, and Intrinsic Dimensionality of Prompt-based Text Embeddings** · 📖 Findings
 
@@ -3477,7 +3477,7 @@
 **Removal of Hallucination on Hallucination: Debate-Augmented RAG**
 
 - Paper: <https://arxiv.org/abs/2505.18581>
-- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/removal_of_ha…](https://papernotes.org/ACL2025/information_retrieval/removal_of_hallucination_on_hallucination_debate-augmented_rag/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/removal_of_hallucinat…](https://papernotes.org/ACL2025/hallucination/removal_of_hallucination_on_hallucination_debate-augmented_rag/)
 
 **VoxRAG: A Step Toward Transcription-Free RAG Systems in Spoken Question Answering** · 🛠️ Workshop
 
@@ -3552,7 +3552,7 @@
 **REFIND at SemEval-2025 Task 3: Retrieval-Augmented Factuality Hallucination Detection in Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2502.13622>
-- Notes (Chinese): [papernotes.org/ACL2025/information_retrieval/refind_at_sem…](https://papernotes.org/ACL2025/information_retrieval/refind_at_semeval-2025_task_3_retrieval-augmented_factuality_hallucination_detec/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/refind_at_semeval-202…](https://papernotes.org/ACL2025/hallucination/refind_at_semeval-2025_task_3_retrieval-augmented_factuality_hallucination_detec/)
 
 **MT-RAIG: Novel Benchmark and Evaluation Framework for Retrieval-Augmented Insight Generation over Multiple Tables**
 
@@ -4143,7 +4143,7 @@
 
 **A Modular Approach for Clinical SLMs Driven by Synthetic Data with Pre-Instruction Tuning, Model Merging, and Clinical-Tasks Alignment**
 
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/a_modular_approach_…](https://papernotes.org/ACL2025/medical_imaging/a_modular_approach_for_clinical_slms_driven_by_synthetic_data_with_pre-instructi/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/a_modular_approach_for_…](https://papernotes.org/ACL2025/medical_nlp/a_modular_approach_for_clinical_slms_driven_by_synthetic_data_with_pre-instructi/)
 
 **LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with Location-Election-Disjoint**
 
@@ -4357,7 +4357,6 @@
 **EpicPRM: An Efficient and Precise Training Data Construction Framework for Process-supervised Reward Model in Mathematical Reasoning**
 
 - Paper: <https://arxiv.org/abs/2503.02382>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_reasoning/epicprm-efficient-pre…](https://papernotes.org/ACL2025/llm_reasoning/epicprm-efficient-precise-training-data-for-process-reward-model/)
 
 **Self-Training Elicits Concise Reasoning in Large Language Models** · 📖 Findings
 
@@ -4626,7 +4625,7 @@
 **ICR Probe: Tracking Hidden State Dynamics for Reliable Hallucination Detection in LLMs**
 
 - Paper: <https://arxiv.org/abs/2507.16488>
-- Notes (Chinese): [papernotes.org/ACL2025/video_understanding/icr_probe_track…](https://papernotes.org/ACL2025/video_understanding/icr_probe_tracking_hidden_state_dynamics_for_reliable_hallucination_detection_in/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/icr_probe_tracking_hi…](https://papernotes.org/ACL2025/hallucination/icr_probe_tracking_hidden_state_dynamics_for_reliable_hallucination_detection_in/)
 
 **CAVGAN: Unifying Jailbreak and Defense of LLMs via Generative Adversarial Attacks on their Internal Representations** · 📖 Findings
 
@@ -4636,7 +4635,7 @@
 **Correcting Hallucinations in News Summaries: Exploration of Self-Correcting LLM Methods with External Knowledge**
 
 - Paper: <https://arxiv.org/abs/2506.19607>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/correcting_hallucination…](https://papernotes.org/ACL2025/llm_safety/correcting_hallucinations_in_news_summaries_exploration_of_self-correcting_llm_m/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/correcting_hallucinat…](https://papernotes.org/ACL2025/hallucination/correcting_hallucinations_in_news_summaries_exploration_of_self-correcting_llm_m/)
 
 **Gender Inclusivity Fairness Index (GIFI): A Multilevel Framework for Evaluating Gender Diversity in Large Language Models**
 
@@ -4655,7 +4654,7 @@
 **Beyond Facts: Evaluating Intent Hallucination in Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2506.06539>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/intent_hallucination_eval](https://papernotes.org/ACL2025/llm_safety/intent_hallucination_eval/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/intent_hallucination_…](https://papernotes.org/ACL2025/hallucination/intent_hallucination_eval/)
 
 **Lacuna Inc. at SemEval-2025 Task 4: LoRA-Enhanced Influence-Based Unlearning for LLMs** · 🛠️ Workshop
 
@@ -4680,7 +4679,7 @@
 **Stochastic Chameleons: Irrelevant Context Hallucinations Reveal Class-Based (Mis)Generalization in LLMs**
 
 - Paper: <https://arxiv.org/abs/2505.22630>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/stochastic_chameleons_ir…](https://papernotes.org/ACL2025/llm_safety/stochastic_chameleons_irrelevant_context_hallucinations_reveal_class-based_misge/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/stochastic_chameleons…](https://papernotes.org/ACL2025/hallucination/stochastic_chameleons_irrelevant_context_hallucinations_reveal_class-based_misge/)
 
 **Are the Hidden States Hiding Something? Testing the Limits of Factuality-Encoding Capabilities in LLMs**
 
@@ -4690,7 +4689,7 @@
 **Learning Auxiliary Tasks Improves Reference-Free Hallucination Detection in Open-Domain Long-Form Generation**
 
 - Paper: <https://arxiv.org/abs/2505.12265>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/learning_auxiliary_tasks…](https://papernotes.org/ACL2025/llm_safety/learning_auxiliary_tasks_improves_reference-free_hallucination_detection_in_open/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/learning_auxiliary_ta…](https://papernotes.org/ACL2025/hallucination/learning_auxiliary_tasks_improves_reference-free_hallucination_detection_in_open/)
 
 **MorphMark: Flexible Adaptive Watermarking for Large Language Models**
 
@@ -4719,7 +4718,7 @@
 **Monitoring Decoding: Mitigating Hallucination via Evaluating the Factuality of Partial Response during Generation** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2503.03106>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/monitoring_decoding_miti…](https://papernotes.org/ACL2025/llm_safety/monitoring_decoding_mitigating_hallucination_via_evaluating_the_factuality_of_pa/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/monitoring_decoding_m…](https://papernotes.org/ACL2025/hallucination/monitoring_decoding_mitigating_hallucination_via_evaluating_the_factuality_of_pa/)
 
 **Can Indirect Prompt Injection Attacks Be Detected and Removed?**
 
@@ -4734,7 +4733,7 @@
 **TreeCut: A Synthetic Unanswerable Math Word Problem Dataset for LLM Hallucination Evaluation**
 
 - Paper: <https://arxiv.org/abs/2502.13442>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/treecut_a_synthetic_unan…](https://papernotes.org/ACL2025/llm_safety/treecut_a_synthetic_unanswerable_math_word_problem_dataset_for_llm_hallucination/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/treecut_a_synthetic_u…](https://papernotes.org/ACL2025/hallucination/treecut_a_synthetic_unanswerable_math_word_problem_dataset_for_llm_hallucination/)
 
 **Unveiling Privacy Risks in LLM Agent Memory**
 
@@ -4774,7 +4773,7 @@
 **Aligning Large Language Models to Follow Instructions and Hallucinate Less via Effective Data Filtering**
 
 - Paper: <https://arxiv.org/abs/2502.07340>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/aligning_large_language_…](https://papernotes.org/ACL2025/llm_safety/aligning_large_language_models_to_follow_instructions_and_hallucinate_less_via_e/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/aligning_large_langua…](https://papernotes.org/ACL2025/hallucination/aligning_large_language_models_to_follow_instructions_and_hallucinate_less_via_e/)
 
 **Fairness through Difference Awareness: Measuring $\textitDesired$ Group Discrimination in LLMs**
 
@@ -4797,7 +4796,7 @@
 **Cracking the Code of Hallucination in LVLMs with Vision-aware Head Divergence**
 
 - Paper: <https://arxiv.org/abs/2412.13949>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/cracking_hallucination_vhd](https://papernotes.org/ACL2025/llm_safety/cracking_hallucination_vhd/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/cracking_hallucinatio…](https://papernotes.org/ACL2025/hallucination/cracking_hallucination_vhd/)
 
 **UAlign: Leveraging Uncertainty Estimations for Factuality Alignment on Large Language Models**
 
@@ -4827,7 +4826,7 @@
 **Hallucination Detox: Sensitivity Dropout (SenD) for Large Language Model Training**
 
 - Paper: <https://arxiv.org/abs/2410.15460>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/hallucination_detox_send](https://papernotes.org/ACL2025/llm_safety/hallucination_detox_send/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/hallucination_detox_s…](https://papernotes.org/ACL2025/hallucination/hallucination_detox_send/)
 
 **Real-time Factuality Assessment from Adversarial Feedback**
 
@@ -4856,7 +4855,7 @@
 **On-Policy Self-Alignment with Fine-grained Knowledge Feedback for Hallucination Mitigation** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2406.12221>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/on-policy_self-alignment…](https://papernotes.org/ACL2025/llm_safety/on-policy_self-alignment_with_fine-grained_knowledge_feedback_for_hallucination_/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/on-policy_self-alignm…](https://papernotes.org/ACL2025/hallucination/on-policy_self-alignment_with_fine-grained_knowledge_feedback_for_hallucination_/)
 
 **REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space** · 📖 Findings
 
@@ -4876,7 +4875,7 @@
 
 **HALoGEN: Fantastic LLM Hallucinations and Where to Find Them**
 
-- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/halogen_hallucinations](https://papernotes.org/ACL2025/llm_safety/halogen_hallucinations/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/halogen_hallucinations](https://papernotes.org/ACL2025/hallucination/halogen_hallucinations/)
 
 **Root Defense Strategies: Ensuring Safety of LLM at the Decoding Level**
 
@@ -4895,7 +4894,7 @@
 
 **Cracking the Code of Hallucination in LVLMs with Vision-aware Head Divergence**
 
-- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/cracking_hallucination_vhd](https://papernotes.org/ACL2025/llm_safety/cracking_hallucination_vhd/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/cracking_hallucinatio…](https://papernotes.org/ACL2025/hallucination/cracking_hallucination_vhd/)
 
 **Are the Hidden States Hiding Something? Testing the Limits of Factuality-Encoding Capabilities in LLMs**
 
@@ -4906,7 +4905,7 @@
 
 **HD-NDEs: Neural Differential Equations for Hallucination Detection in LLMs**
 
-- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/hd-ndes_neural_different…](https://papernotes.org/ACL2025/llm_safety/hd-ndes_neural_differential_equations_for_hallucination_detection_in_llms/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/hd-ndes_neural_differ…](https://papernotes.org/ACL2025/hallucination/hd-ndes_neural_differential_equations_for_hallucination_detection_in_llms/)
 
 **Watermarking Large Language Models: An Unbiased and Low-risk Method**
 
@@ -4953,7 +4952,7 @@
 
 **Alleviating Hallucinations from Knowledge Misalignment in Large Language Models via Selective Abstention Learning**
 
-- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/alleviating_hallucinatio…](https://papernotes.org/ACL2025/llm_safety/alleviating_hallucinations_from_knowledge_misalignment_in_large_language_models_/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/alleviating_hallucina…](https://papernotes.org/ACL2025/hallucination/alleviating_hallucinations_from_knowledge_misalignment_in_large_language_models_/)
 
 **Estimating Privacy Leakage of Augmented Contextual Knowledge in Language Models**
 
@@ -4972,11 +4971,11 @@
 
 **Learning Auxiliary Tasks Improves Reference-Free Hallucination Detection in Open-Domain Long-Form Generation**
 
-- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/learning_auxiliary_tasks…](https://papernotes.org/ACL2025/llm_safety/learning_auxiliary_tasks_improves_reference-free_hallucination_detection_in_open/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/learning_auxiliary_ta…](https://papernotes.org/ACL2025/hallucination/learning_auxiliary_tasks_improves_reference-free_hallucination_detection_in_open/)
 
 **Automated Explanation Generation and Hallucination Detection for Heritage Image Retrieval**
 
-- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/automated_explanation_ge…](https://papernotes.org/ACL2025/llm_safety/automated_explanation_generation_and_hallucination_detection_for_heritage_image_/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/automated_explanation…](https://papernotes.org/ACL2025/hallucination/automated_explanation_generation_and_hallucination_detection_for_heritage_image_/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -5079,7 +5078,6 @@
 **Can You Really Trust Code Copilots? Evaluating Large Language Models from a Code Security Perspective**
 
 - Paper: <https://arxiv.org/abs/2505.10494>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/cov-eval-code-securi…](https://papernotes.org/ACL2025/llm_evaluation/cov-eval-code-security-evaluation-benchmark/)
 
 **Right Answer, Wrong Score: Uncovering the Inconsistencies of LLM Evaluation in Multiple-Choice Question Answering** · 📖 Findings
 
@@ -5246,7 +5244,7 @@
 
 **HalluLens: LLM Hallucination Benchmark**
 
-- Notes (Chinese): [papernotes.org/ACL2025/llm_evaluation/hallulens_llm_halluc…](https://papernotes.org/ACL2025/llm_evaluation/hallulens_llm_hallucination_benchmark/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/hallulens_llm_halluci…](https://papernotes.org/ACL2025/hallucination/hallulens_llm_hallucination_benchmark/)
 
 **Evaluating LLMs for Portuguese Sentence Simplification with Linguistic Insights**
 
@@ -5779,7 +5777,7 @@
 **MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder**
 
 - Paper: <https://arxiv.org/abs/2409.14074>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/multimed_multilingu…](https://papernotes.org/ACL2025/medical_imaging/multimed_multilingual_medical_speech_recognition_via_attention_encoder_decoder/)
+- Notes (Chinese): [papernotes.org/ACL2025/audio_speech/multimed_multilingual_…](https://papernotes.org/ACL2025/audio_speech/multimed_multilingual_medical_speech_recognition_via_attention_encoder_decoder/)
 
 **Autoregressive Speech Synthesis without Vector Quantization**
 
@@ -5945,7 +5943,6 @@
 **Unveiling Environmental Impacts of Large Language Model Serving: A Functional Unit View**
 
 - Paper: <https://arxiv.org/abs/2502.11256>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_efficiency/fuel-unveiling-envir…](https://papernotes.org/ACL2025/llm_efficiency/fuel-unveiling-environmental-impacts-of-llm-serving/)
 
 **Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention**
 
@@ -6034,7 +6031,6 @@
 
 **Unveiling Environmental Impacts of Large Language Model Serving: A Functional Unit View**
 
-- Notes (Chinese): [papernotes.org/ACL2025/llm_efficiency/fuel-unveiling-envir…](https://papernotes.org/ACL2025/llm_efficiency/fuel-unveiling-environmental-impacts-of-llm-serving/)
 
 **MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language Models**
 
@@ -6244,7 +6240,7 @@
 **Localizing and Mitigating Errors in Long-form Question Answering** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2407.11930>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_safety/localizing_and_mitigatin…](https://papernotes.org/ACL2025/llm_safety/localizing_and_mitigating_errors_in_long-form_question_answering/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/localizing_and_mitiga…](https://papernotes.org/ACL2025/hallucination/localizing_and_mitigating_errors_in_long-form_question_answering/)
 
 **CaLMQA: Exploring culturally specific long-form question answering across 23 languages**
 
@@ -7261,42 +7257,42 @@
 **MedBioRAG: Semantic Search and Retrieval-Augmented Generation with Large Language Models for Medical and Biological QA**
 
 - Paper: <https://arxiv.org/abs/2512.10996>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/medbiorag_semantic_…](https://papernotes.org/ACL2025/medical_imaging/medbiorag_semantic_search_and_retrieval-augmented_generation_for_biomedical_lite/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/medbiorag_semantic_sear…](https://papernotes.org/ACL2025/medical_nlp/medbiorag_semantic_search_and_retrieval-augmented_generation_for_biomedical_lite/)
 
 **One Size Fits None: Rethinking Fairness in Medical AI** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2506.14400>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/one_size_fits_none_…](https://papernotes.org/ACL2025/medical_imaging/one_size_fits_none_rethinking_fairness_in_medical_ai/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/one_size_fits_none_reth…](https://papernotes.org/ACL2025/medical_nlp/one_size_fits_none_rethinking_fairness_in_medical_ai/)
 
 **Mitigating Confounding in Speech-Based Dementia Detection through Weight Masking**
 
 - Paper: <https://arxiv.org/abs/2506.05610>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/mitigating_confound…](https://papernotes.org/ACL2025/medical_imaging/mitigating_confounding_in_speech-based_dementia_detection_through_weight_masking/)
+- Notes (Chinese): [papernotes.org/ACL2025/audio_speech/mitigating_confounding…](https://papernotes.org/ACL2025/audio_speech/mitigating_confounding_in_speech-based_dementia_detection_through_weight_masking/)
 
 **KokoroChat: A Japanese Psychological Counseling Dialogue Dataset Collected via Role-Playing by Trained Counselors**
 
 - Paper: <https://arxiv.org/abs/2506.01357>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/kokorochat_a_japane…](https://papernotes.org/ACL2025/medical_imaging/kokorochat_a_japanese_psychological_counseling_dialogue/)
+- Notes (Chinese): [papernotes.org/ACL2025/dialogue/kokorochat_a_japanese_psyc…](https://papernotes.org/ACL2025/dialogue/kokorochat_a_japanese_psychological_counseling_dialogue/)
 
 **RedactOR: An LLM-Powered Framework for Automatic Clinical Data De-Identification** · 🏭 Industry
 
 - Paper: <https://arxiv.org/abs/2505.18380>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/redactor_an_llm-pow…](https://papernotes.org/ACL2025/medical_imaging/redactor_an_llm-powered_framework_for_automatic_clinical_data_de-identification/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/redactor_an_llm-powered…](https://papernotes.org/ACL2025/medical_nlp/redactor_an_llm-powered_framework_for_automatic_clinical_data_de-identification/)
 
 **RADAR: Enhancing Radiology Report Generation with Supplementary Knowledge Injection**
 
 - Paper: <https://arxiv.org/abs/2505.14318>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/radar_radiology_rep…](https://papernotes.org/ACL2025/medical_imaging/radar_radiology_report_gen/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/radar_radiology_report_…](https://papernotes.org/ACL2025/medical_nlp/radar_radiology_report_gen/)
 
 **Online Iterative Self-Alignment for Radiology Report Generation**
 
 - Paper: <https://arxiv.org/abs/2505.11983>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/oisa_radiology_repo…](https://papernotes.org/ACL2025/medical_imaging/oisa_radiology_report_gen/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/oisa_radiology_report_gen](https://papernotes.org/ACL2025/medical_nlp/oisa_radiology_report_gen/)
 
 **$SECRET$: Semi-supervised Clinical Trial Document Similarity Search**
 
 - Paper: <https://arxiv.org/abs/2505.10780>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/secret_semi-supervi…](https://papernotes.org/ACL2025/medical_imaging/secret_semi-supervised_clinical_trial_document_similarity_search/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/secret_semi-supervised_…](https://papernotes.org/ACL2025/medical_nlp/secret_semi-supervised_clinical_trial_document_similarity_search/)
 
 **Query-driven Document-level Scientific Evidence Extraction from Biomedical Studies**
 
@@ -7306,46 +7302,46 @@
 **A Retrieval-Based Approach to Medical Procedure Matching in Romanian**
 
 - Paper: <https://arxiv.org/abs/2503.20556>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/a_retrieval-based_a…](https://papernotes.org/ACL2025/medical_imaging/a_retrieval-based_approach_to_medical_procedure_matching_in_romanian/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/a_retrieval-based_appro…](https://papernotes.org/ACL2025/medical_nlp/a_retrieval-based_approach_to_medical_procedure_matching_in_romanian/)
 
 **CSTRL: Context-Driven Sequential Transfer Learning for Abstractive Radiology Report Summarization** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2503.05750>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/cstrl_context-drive…](https://papernotes.org/ACL2025/medical_imaging/cstrl_context-driven_sequential_transfer_learning_for_abstractive_radiology_repo/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/cstrl_context-driven_se…](https://papernotes.org/ACL2025/medical_nlp/cstrl_context-driven_sequential_transfer_learning_for_abstractive_radiology_repo/)
 
 **Towards Omni-RAG: Comprehensive Retrieval-Augmented Generation for Large Language Models in Medical Applications**
 
 - Paper: <https://arxiv.org/abs/2501.02460>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/omni_rag_medical](https://papernotes.org/ACL2025/medical_imaging/omni_rag_medical/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/omni_rag_medical](https://papernotes.org/ACL2025/medical_nlp/omni_rag_medical/)
 
 **Aligning AI Research with the Needs of Clinical Coding Workflows: Eight Recommendations Based on US Data Analysis and Critical Review**
 
 - Paper: <https://arxiv.org/abs/2412.18043>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/clinical_coding_eig…](https://papernotes.org/ACL2025/medical_imaging/clinical_coding_eight_recommendations/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/clinical_coding_eight_r…](https://papernotes.org/ACL2025/medical_nlp/clinical_coding_eight_recommendations/)
 
 **CheXalign: Preference fine-tuning in chest X-ray interpretation models without human feedback**
 
 - Paper: <https://arxiv.org/abs/2410.07025>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/chexalign_preferenc…](https://papernotes.org/ACL2025/medical_imaging/chexalign_preference_finetuning/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/chexalign_preference_fi…](https://papernotes.org/ACL2025/medical_nlp/chexalign_preference_finetuning/)
 
 **Learning from Negative Samples in Biomedical Generative Entity Linking** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2408.16493>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/learning_from_negat…](https://papernotes.org/ACL2025/medical_imaging/learning_from_negative_samples_in_biomedical_generative_entity_linking/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/learning_from_negative_…](https://papernotes.org/ACL2025/medical_nlp/learning_from_negative_samples_in_biomedical_generative_entity_linking/)
 
 **The Impact of Auxiliary Patient Data on Automated Chest X-Ray Report Generation and How to Incorporate It**
 
 - Paper: <https://arxiv.org/abs/2406.13181>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/auxiliary_patient_d…](https://papernotes.org/ACL2025/medical_imaging/auxiliary_patient_data_xray/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/auxiliary_patient_data_…](https://papernotes.org/ACL2025/medical_nlp/auxiliary_patient_data_xray/)
 
 **Pattern Recognition or Medical Knowledge? The Problem with Multiple-Choice Questions in Medicine**
 
 - Paper: <https://arxiv.org/abs/2406.02394>
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/pattern_recognition…](https://papernotes.org/ACL2025/medical_imaging/pattern_recognition_or_medical_knowledge_the_problem_with_multiple-choice_questi/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/pattern_recognition_or_…](https://papernotes.org/ACL2025/medical_nlp/pattern_recognition_or_medical_knowledge_the_problem_with_multiple-choice_questi/)
 
 **The Impact of Auxiliary Patient Data on Automated Chest X-Ray Report Generation and How to Incorporate It**
 
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/auxiliary_patient_d…](https://papernotes.org/ACL2025/medical_imaging/auxiliary_patient_data_xray/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/auxiliary_patient_data_…](https://papernotes.org/ACL2025/medical_nlp/auxiliary_patient_data_xray/)
 
 **PsyDT: Using LLMs to Construct the Digital Twin of Psychological Counselor with Personalized Counseling Style for Psychological Counseling**
 
@@ -7367,7 +7363,7 @@
 
 **Automated Structured Radiology Report Generation**
 
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/automated_structure…](https://papernotes.org/ACL2025/medical_imaging/automated_structured_radiology_report_generation/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/automated_structured_ra…](https://papernotes.org/ACL2025/medical_nlp/automated_structured_radiology_report_generation/)
 
 **Medical Graph RAG: Evidence-based Medical Large Language Model via Graph Retrieval-Augmented Generation**
 
@@ -7386,7 +7382,7 @@
 
 **MedBioRAG: Semantic Search and Retrieval-Augmented Generation with Large Language Models for Medical and Biological QA**
 
-- Notes (Chinese): [papernotes.org/ACL2025/medical_imaging/medbiorag_semantic_…](https://papernotes.org/ACL2025/medical_imaging/medbiorag_semantic_search_and_retrieval-augmented_generation_for_biomedical_lite/)
+- Notes (Chinese): [papernotes.org/ACL2025/medical_nlp/medbiorag_semantic_sear…](https://papernotes.org/ACL2025/medical_nlp/medbiorag_semantic_search_and_retrieval-augmented_generation_for_biomedical_lite/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -7627,7 +7623,7 @@
 **ETF: An Entity Tracing Framework for Hallucination Detection in Code Summaries**
 
 - Paper: <https://arxiv.org/abs/2410.14748>
-- Notes (Chinese): [papernotes.org/ACL2025/code_intelligence/etf_an_entity_tra…](https://papernotes.org/ACL2025/code_intelligence/etf_an_entity_tracing_framework_for_hallucination_detection_in_code_summaries/)
+- Notes (Chinese): [papernotes.org/ACL2025/hallucination/etf_an_entity_tracing…](https://papernotes.org/ACL2025/hallucination/etf_an_entity_tracing_framework_for_hallucination_detection_in_code_summaries/)
 
 **CodeDPO: Aligning Code Models with Self Generated and Verified Source Code**
 
@@ -9964,7 +9960,6 @@
 **Supervised Fine-Tuning Achieves Rapid Task Adaption Via Alternating Attention Head Activation Patterns**
 
 - Paper: <https://arxiv.org/abs/2409.15820>
-- Notes (Chinese): [papernotes.org/ACL2025/llm_nlp/sft_attention_activation](https://papernotes.org/ACL2025/llm_nlp/sft_attention_activation/)
 
 **MOSAIC: Multiple Observers Spotting AI Content** · 📖 Findings
 

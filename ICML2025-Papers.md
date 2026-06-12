@@ -245,7 +245,7 @@
 **Out-of-Distribution Detection Methods Answer the Wrong Questions**
 
 - Paper: <https://arxiv.org/abs/2507.01831>
-- Notes (Chinese): [papernotes.org/ICML2025/medical_imaging/out-of-distributio…](https://papernotes.org/ICML2025/medical_imaging/out-of-distribution_detection_methods_answer_the_wrong_questions/)
+- Notes (Chinese): [papernotes.org/ICML2025/image_generation/out-of-distributi…](https://papernotes.org/ICML2025/image_generation/out-of-distribution_detection_methods_answer_the_wrong_questions/)
 
 **When Diffusion Models Memorize: Inductive Biases in Probability Flow of Minimum-Norm Shallow Neural Nets**
 
@@ -275,7 +275,6 @@
 **When Model Knowledge meets Diffusion Model: Diffusion-assisted Data-free Image Synthesis with Alignment of Domain and Class**
 
 - Paper: <https://arxiv.org/abs/2506.15381>
-- Notes (Chinese): [papernotes.org/ICML2025/image_generation/when_model_knowle…](https://papernotes.org/ICML2025/image_generation/when_model_knowledge_meets_diffusion_model_diffusion-assisted_data-free_image_sy/)
 
 **GRAM: A Generative Foundation Reward Model for Reward Generalization**
 
@@ -337,7 +336,7 @@
 
 - Paper: <https://arxiv.org/abs/2506.02698>
 - Project: <https://jaydenlyh.github.io/SmPO-project-page/>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_alignment/smoothed_preference_…](https://papernotes.org/ICML2025/llm_alignment/smoothed_preference_optimization_via_renoise_inversion_for_aligning_diffusion_mo/)
+- Notes (Chinese): [papernotes.org/ICML2025/image_generation/smoothed_preferen…](https://papernotes.org/ICML2025/image_generation/smoothed_preference_optimization_via_renoise_inversion_for_aligning_diffusion_mo/)
 
 **Local Manifold Approximation and Projection for Manifold-Aware Diffusion Planning**
 
@@ -787,7 +786,7 @@
 
 - Paper: <https://arxiv.org/abs/2506.10892>
 - Project: <http://s-sahoo.github.io/duo>
-- Notes (Chinese): [papernotes.org/ICML2025/image_generation/the_diffusion_dua…](https://papernotes.org/ICML2025/image_generation/the_diffusion_duality/)
+- Notes (Chinese): [papernotes.org/ICML2025/model_compression/the_diffusion_du…](https://papernotes.org/ICML2025/model_compression/the_diffusion_duality/)
 
 **TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree**
 
@@ -797,7 +796,7 @@
 **ConfPO: Exploiting Policy Model Confidence for Critical Token Selection in Preference Optimization**
 
 - Paper: <https://arxiv.org/abs/2506.08712>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_alignment/confpo_exploiting_po…](https://papernotes.org/ICML2025/llm_alignment/confpo_exploiting_policy_model_confidence_for_critical_token_selection_in_prefer/)
+- Notes (Chinese): [papernotes.org/ICML2025/model_compression/confpo_exploitin…](https://papernotes.org/ICML2025/model_compression/confpo_exploiting_policy_model_confidence_for_critical_token_selection_in_prefer/)
 
 **Olica: Efficient Structured Pruning of Large Language Models without Retraining**
 
@@ -817,7 +816,7 @@
 **LightGTS: A Lightweight General Time Series Forecasting Model**
 
 - Paper: <https://arxiv.org/abs/2506.06005>
-- Notes (Chinese): [papernotes.org/ICML2025/time_series/lightgts_a_lightweight…](https://papernotes.org/ICML2025/time_series/lightgts_a_lightweight_general_time_series_forecasting_model/)
+- Notes (Chinese): [papernotes.org/ICML2025/model_compression/lightgts_a_light…](https://papernotes.org/ICML2025/model_compression/lightgts_a_lightweight_general_time_series_forecasting_model/)
 
 **Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation**
 
@@ -837,7 +836,7 @@
 **A Cross Modal Knowledge Distillation & Data Augmentation Recipe for Improving Transcriptomics Representations through Morphological Features**
 
 - Paper: <https://arxiv.org/abs/2505.21317>
-- Notes (Chinese): [papernotes.org/ICML2025/interpretability/a_cross_modal_kno…](https://papernotes.org/ICML2025/interpretability/a_cross_modal_knowledge_distillation_data_augmentation_recipe_for_improving_tran/)
+- Notes (Chinese): [papernotes.org/ICML2025/model_compression/a_cross_modal_kn…](https://papernotes.org/ICML2025/model_compression/a_cross_modal_knowledge_distillation_data_augmentation_recipe_for_improving_tran/)
 
 **Joker: Joint Optimization Framework for Lightweight Kernel Machines**
 
@@ -852,7 +851,7 @@
 **Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**
 
 - Paper: <https://arxiv.org/abs/2505.05464>
-- Notes (Chinese): [papernotes.org/ICML2025/multimodal_vlm/bring_reason_to_vis…](https://papernotes.org/ICML2025/multimodal_vlm/bring_reason_to_vision_understanding_perception_and_reasoning_through_model_merg/)
+- Notes (Chinese): [papernotes.org/ICML2025/model_compression/bring_reason_to_…](https://papernotes.org/ICML2025/model_compression/bring_reason_to_vision_understanding_perception_and_reasoning_through_model_merg/)
 
 **Radio: Rate-Distortion Optimization for Large Language Model Compression**
 
@@ -872,7 +871,7 @@
 **BECAME: BayEsian Continual Learning with Adaptive Model MErging**
 
 - Paper: <https://arxiv.org/abs/2504.02666>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_safety/became_bayesian_continu…](https://papernotes.org/ICML2025/llm_safety/became_bayesian_continual_learning_with_adaptive_model_merging/)
+- Notes (Chinese): [papernotes.org/ICML2025/model_compression/became_bayesian_…](https://papernotes.org/ICML2025/model_compression/became_bayesian_continual_learning_with_adaptive_model_merging/)
 
 **Gumiho: A Hybrid Architecture to Prioritize Early Tokens in Speculative Decoding**
 
@@ -882,7 +881,7 @@
 **Steer LLM Latents for Hallucination Detection**
 
 - Paper: <https://arxiv.org/abs/2503.01917>
-- Notes (Chinese): [papernotes.org/ICML2025/model_compression/steer_llm_latent…](https://papernotes.org/ICML2025/model_compression/steer_llm_latents_for_hallucination_detection/)
+- Notes (Chinese): [papernotes.org/ICML2025/hallucination/steer_llm_latents_fo…](https://papernotes.org/ICML2025/hallucination/steer_llm_latents_for_hallucination_detection/)
 
 **Function-Space Learning Rates**
 
@@ -927,7 +926,7 @@
 **SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**
 
 - Paper: <https://arxiv.org/abs/2412.12094>
-- Notes (Chinese): [papernotes.org/ICML2025/signal_comm/sepllm_accelerate_larg…](https://papernotes.org/ICML2025/signal_comm/sepllm_accelerate_large_language_models_by_compressing_one_segment_into_one_sepa/)
+- Notes (Chinese): [papernotes.org/ICML2025/model_compression/sepllm_accelerat…](https://papernotes.org/ICML2025/model_compression/sepllm_accelerate_large_language_models_by_compressing_one_segment_into_one_sepa/)
 
 **From Language Models over Tokens to Language Models over Characters**
 
@@ -1070,7 +1069,7 @@
 **Network Sparsity Unlocks the Scaling Potential of Deep Reinforcement Learning**
 
 - Paper: <https://arxiv.org/abs/2506.17204>
-- Notes (Chinese): [papernotes.org/ICML2025/medical_imaging/network_sparsity_u…](https://papernotes.org/ICML2025/medical_imaging/network_sparsity_unlocks_the_scaling_potential_of_deep_reinforcement_learning/)
+- Notes (Chinese): [papernotes.org/ICML2025/reinforcement_learning/network_spa…](https://papernotes.org/ICML2025/reinforcement_learning/network_sparsity_unlocks_the_scaling_potential_of_deep_reinforcement_learning/)
 
 **Solving Zero-Sum Convex Markov Games**
 
@@ -1170,7 +1169,7 @@
 **Preference Optimization for Combinatorial Optimization Problems**
 
 - Paper: <https://arxiv.org/abs/2505.08735>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_alignment/preference_optimizat…](https://papernotes.org/ICML2025/llm_alignment/preference_optimization_for_combinatorial_optimization_problems/)
+- Notes (Chinese): [papernotes.org/ICML2025/reinforcement_learning/preference_…](https://papernotes.org/ICML2025/reinforcement_learning/preference_optimization_for_combinatorial_optimization_problems/)
 
 **Heterogeneous Data Game: Characterizing the Model Competition Across Multiple Data Sources**
 
@@ -1424,7 +1423,7 @@
 **SAFER: A Calibrated Risk-Aware Multimodal Recommendation Model for Dynamic Treatment Regimes**
 
 - Paper: <https://arxiv.org/abs/2506.06649>
-- Notes (Chinese): [papernotes.org/ICML2025/medical_imaging/safer_a_calibrated…](https://papernotes.org/ICML2025/medical_imaging/safer_a_calibrated_risk-aware_multimodal_recommendation_model_for_dynamic_treatm/)
+- Notes (Chinese): [papernotes.org/ICML2025/optimization/safer_a_calibrated_ri…](https://papernotes.org/ICML2025/optimization/safer_a_calibrated_risk-aware_multimodal_recommendation_model_for_dynamic_treatm/)
 
 **Transformative or Conservative? Conservation laws for ResNets and Transformers**
 
@@ -1449,7 +1448,7 @@
 **Understanding Mode Connectivity via Parameter Space Symmetry**
 
 - Paper: <https://arxiv.org/abs/2505.23681>
-- Notes (Chinese): [papernotes.org/ICML2025/others/understanding_mode_connecti…](https://papernotes.org/ICML2025/others/understanding_mode_connectivity_via_parameter_space_symmetry/)
+- Notes (Chinese): [papernotes.org/ICML2025/optimization/understanding_mode_co…](https://papernotes.org/ICML2025/optimization/understanding_mode_connectivity_via_parameter_space_symmetry/)
 
 **FSL-SAGE: Accelerating Federated Split Learning via Smashed Activation Gradient Estimation** · 📌 Poster
 
@@ -1524,7 +1523,7 @@
 **BOPO: Neural Combinatorial Optimization via Best-anchored and Objective-guided Preference Optimization**
 
 - Paper: <https://arxiv.org/abs/2503.07580>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_alignment/bopo_neural_combinat…](https://papernotes.org/ICML2025/llm_alignment/bopo_neural_combinatorial_optimization_via_best-anchored_and_objective-guided_pr/)
+- Notes (Chinese): [papernotes.org/ICML2025/optimization/bopo_neural_combinato…](https://papernotes.org/ICML2025/optimization/bopo_neural_combinatorial_optimization_via_best-anchored_and_objective-guided_pr/)
 
 **SASSHA: Sharpness-aware Adaptive Second-order Optimization with Stable Hessian Approximation**
 
@@ -1539,7 +1538,7 @@
 **Conformal Prediction as Bayesian Quadrature** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2502.13228>
-- Notes (Chinese): [papernotes.org/ICML2025/interpretability/conformal_predict…](https://papernotes.org/ICML2025/interpretability/conformal_prediction_as_bayesian_quadrature/)
+- Notes (Chinese): [papernotes.org/ICML2025/optimization/conformal_prediction_…](https://papernotes.org/ICML2025/optimization/conformal_prediction_as_bayesian_quadrature/)
 
 **Random Feature Representation Boosting**
 
@@ -1559,7 +1558,7 @@
 **REVOLVE: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization**
 
 - Paper: <https://arxiv.org/abs/2412.03092>
-- Notes (Chinese): [papernotes.org/ICML2025/video_understanding/revolve_optimi…](https://papernotes.org/ICML2025/video_understanding/revolve_optimizing_ai_systems_by_tracking_response_evolution_in_textual_optimiza/)
+- Notes (Chinese): [papernotes.org/ICML2025/optimization/revolve_optimizing_ai…](https://papernotes.org/ICML2025/optimization/revolve_optimizing_ai_systems_by_tracking_response_evolution_in_textual_optimiza/)
 
 **Learning Mixtures of Experts with EM: A Mirror Descent Perspective**
 
@@ -1619,7 +1618,7 @@
 **Right Now, Wrong Then: Non-Stationary Direct Preference Optimization under Preference Drift**
 
 - Paper: <https://arxiv.org/abs/2407.18676>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_alignment/right_now_wrong_then…](https://papernotes.org/ICML2025/llm_alignment/right_now_wrong_then_non-stationary_direct_preference_optimization_under_prefere/)
+- Notes (Chinese): [papernotes.org/ICML2025/optimization/right_now_wrong_then_…](https://papernotes.org/ICML2025/optimization/right_now_wrong_then_non-stationary_direct_preference_optimization_under_prefere/)
 
 **Flexible Tails for Normalizing Flows**
 
@@ -1649,7 +1648,7 @@
 **On Temperature Scaling and Conformal Prediction of Deep Classifiers**
 
 - Paper: <https://arxiv.org/abs/2402.05806>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/on_temperature_scal…](https://papernotes.org/ICML2025/llm_evaluation/on_temperature_scaling_and_conformal_prediction_of_deep_classifiers/)
+- Notes (Chinese): [papernotes.org/ICML2025/optimization/on_temperature_scalin…](https://papernotes.org/ICML2025/optimization/on_temperature_scaling_and_conformal_prediction_of_deep_classifiers/)
 
 **A Near-Optimal Single-Loop Stochastic Algorithm for Convex Finite-Sum Coupled Compositional Optimization**
 
@@ -1733,7 +1732,7 @@
 
 - Paper: <https://arxiv.org/abs/2412.06141>
 - Code: <https://github.com/aiming-lab/MMedPO>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_alignment/mmedpo_aligning_medi…](https://papernotes.org/ICML2025/llm_alignment/mmedpo_aligning_medical_vision-language_models_with_clinical-aware_multimodal_pr/)
+- Notes (Chinese): [papernotes.org/ICML2025/multimodal_vlm/mmedpo_aligning_med…](https://papernotes.org/ICML2025/multimodal_vlm/mmedpo_aligning_medical_vision-language_models_with_clinical-aware_multimodal_pr/)
 
 **Reasoning Limitations of Multimodal Large Language Models. A Case Study of Bongard Problems**
 
@@ -1751,7 +1750,7 @@
 
 - Paper: <https://arxiv.org/abs/2410.03577>
 - Code: <https://github.com/1zhou-Wang/MemVR>
-- Notes (Chinese): [papernotes.org/ICML2025/multimodal_vlm/look_twice_before_y…](https://papernotes.org/ICML2025/multimodal_vlm/look_twice_before_you_answer_memory-space_visual_retracing_for_hallucination_mit/)
+- Notes (Chinese): [papernotes.org/ICML2025/hallucination/look_twice_before_yo…](https://papernotes.org/ICML2025/hallucination/look_twice_before_you_answer_memory-space_visual_retracing_for_hallucination_mit/)
 
 **OmniBal: Towards Fast Instruction-Tuning for Vision-Language Models via Omniverse Computation Balance**
 
@@ -1819,7 +1818,7 @@
 **Diffuse Everything: Multimodal Diffusion Models on Arbitrary State Spaces**
 
 - Paper: <https://arxiv.org/abs/2506.07903>
-- Notes (Chinese): [papernotes.org/ICML2025/image_generation/diffuse_everythin…](https://papernotes.org/ICML2025/image_generation/diffuse_everything_multimodal_diffusion_models_on_arbitrary_state_spaces/)
+- Notes (Chinese): [papernotes.org/ICML2025/multimodal_vlm/diffuse_everything_…](https://papernotes.org/ICML2025/multimodal_vlm/diffuse_everything_multimodal_diffusion_models_on_arbitrary_state_spaces/)
 
 **CoMemo: LVLMs Need Image Context with Image Memory**
 
@@ -1897,7 +1896,7 @@
 
 - Paper: <https://arxiv.org/abs/2410.18959>
 - Project: <https://servicenow.github.io/context-is-key-forecasting/v0/>
-- Notes (Chinese): [papernotes.org/ICML2025/time_series/context_is_key_a_bench…](https://papernotes.org/ICML2025/time_series/context_is_key_a_benchmark_for_forecasting_with_essential_textual_information/)
+- Notes (Chinese): [papernotes.org/ICML2025/multimodal_vlm/context_is_key_a_be…](https://papernotes.org/ICML2025/multimodal_vlm/context_is_key_a_benchmark_for_forecasting_with_essential_textual_information/)
 
 **Core Knowledge Deficits in Multi-Modal Language Models**
 
@@ -1999,7 +1998,7 @@
 
 - Paper: <https://arxiv.org/abs/2504.15266>
 - Code: <https://github.com/chenwu98/algorithmic-creativity>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_nlp/roll_the_dice_look_before_…](https://papernotes.org/ICML2025/llm_nlp/roll_the_dice_look_before_you_leap_going_beyond_the_creative_limits_of_next-toke/)
+- Notes (Chinese): [papernotes.org/ICML2025/computational_biology/roll_the_dic…](https://papernotes.org/ICML2025/computational_biology/roll_the_dice_look_before_you_leap_going_beyond_the_creative_limits_of_next-toke/)
 
 **Protein Structure Tokenization: Benchmarking and New Recipe**
 
@@ -2143,7 +2142,7 @@
 **Multivariate Conformal Selection**
 
 - Paper: <https://arxiv.org/abs/2505.00917>
-- Notes (Chinese): [papernotes.org/ICML2025/optimization/multivariate_conforma…](https://papernotes.org/ICML2025/optimization/multivariate_conformal_selection/)
+- Notes (Chinese): [papernotes.org/ICML2025/computational_biology/multivariate…](https://papernotes.org/ICML2025/computational_biology/multivariate_conformal_selection/)
 
 **Leveraging Partial SMILES Validation Scheme for Enhanced Drug Design in Reinforcement Learning Frameworks**
 
@@ -2429,7 +2428,7 @@
 **Rejecting Hallucinated State Targets during Planning**
 
 - Paper: <https://arxiv.org/abs/2410.07096>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_safety/rejecting_hallucinated_…](https://papernotes.org/ICML2025/llm_safety/rejecting_hallucinated_state_targets_during_planning/)
+- Notes (Chinese): [papernotes.org/ICML2025/hallucination/rejecting_hallucinat…](https://papernotes.org/ICML2025/hallucination/rejecting_hallucinated_state_targets_during_planning/)
 
 **Sorbet: A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model**
 
@@ -2453,7 +2452,7 @@
 
 - Paper: <https://arxiv.org/abs/2506.05035>
 - Code: <https://github.com/drumpt/TIMING>
-- Notes (Chinese): [papernotes.org/ICML2025/time_series/timing_temporality-awa…](https://papernotes.org/ICML2025/time_series/timing_temporality-aware_integrated_gradients_for_time_series_explanation/)
+- Notes (Chinese): [papernotes.org/ICML2025/ai_safety/timing_temporality-aware…](https://papernotes.org/ICML2025/ai_safety/timing_temporality-aware_integrated_gradients_for_time_series_explanation/)
 
 **Identifying and Understanding Cross-Class Features in Adversarial Training**
 
@@ -2513,7 +2512,7 @@
 **Adaptive Multi-prompt Contrastive Network for Few-shot Out-of-distribution Detection**
 
 - Paper: <https://arxiv.org/abs/2506.17633>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_nlp/adaptive_multi-prompt_cont…](https://papernotes.org/ICML2025/llm_nlp/adaptive_multi-prompt_contrastive_network_for_few-shot_out-of-distribution_detec/)
+- Notes (Chinese): [papernotes.org/ICML2025/ai_safety/adaptive_multi-prompt_co…](https://papernotes.org/ICML2025/ai_safety/adaptive_multi-prompt_contrastive_network_for_few-shot_out-of-distribution_detec/)
 
 **Theoretically Unmasking Inference Attacks Against LDP-Protected Clients in Federated Vision Models**
 
@@ -2583,7 +2582,7 @@
 **Avoiding Leakage Poisoning: Concept Interventions Under Distribution Shifts**
 
 - Paper: <https://arxiv.org/abs/2504.17921>
-- Notes (Chinese): [papernotes.org/ICML2025/interpretability/avoiding_leakage_…](https://papernotes.org/ICML2025/interpretability/avoiding_leakage_poisoning_concept_interventions_under_distribution_shifts/)
+- Notes (Chinese): [papernotes.org/ICML2025/ai_safety/avoiding_leakage_poisoni…](https://papernotes.org/ICML2025/ai_safety/avoiding_leakage_poisoning_concept_interventions_under_distribution_shifts/)
 
 **Generalization in Federated Learning: A Conditional Mutual Information Framework**
 
@@ -2618,7 +2617,7 @@
 **Fully Heteroscedastic Count Regression with Deep Double Poisson Networks**
 
 - Paper: <https://arxiv.org/abs/2406.09262>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/fully_heteroscedast…](https://papernotes.org/ICML2025/llm_evaluation/fully_heteroscedastic_count_regression_with_deep_double_poisson_networks/)
+- Notes (Chinese): [papernotes.org/ICML2025/ai_safety/fully_heteroscedastic_co…](https://papernotes.org/ICML2025/ai_safety/fully_heteroscedastic_count_regression_with_deep_double_poisson_networks/)
 
 **Solving Probabilistic Verification Problems of Neural Networks using Branch and Bound**
 
@@ -2654,7 +2653,7 @@
 
 - Paper: <https://arxiv.org/abs/2503.10996>
 - Code: <https://github.com/GaotangLi/JUICE>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_nlp/taming_knowledge_conflicts…](https://papernotes.org/ICML2025/llm_nlp/taming_knowledge_conflicts_in_language_models/)
+- Notes (Chinese): [papernotes.org/ICML2025/interpretability/taming_knowledge_…](https://papernotes.org/ICML2025/interpretability/taming_knowledge_conflicts_in_language_models/)
 
 **Towards Long-Horizon Interpretability: Efficient and Faithful Multi-Token Attribution for Reasoning LLMs**
 
@@ -2724,7 +2723,7 @@
 **FastCAV: Efficient Computation of Concept Activation Vectors for Explaining Deep Neural Networks**
 
 - Paper: <https://arxiv.org/abs/2505.17883>
-- Notes (Chinese): [papernotes.org/ICML2025/video_understanding/fastcav_effici…](https://papernotes.org/ICML2025/video_understanding/fastcav_efficient_computation_of_concept_activation_vectors_for_explaining_deep_/)
+- Notes (Chinese): [papernotes.org/ICML2025/interpretability/fastcav_efficient…](https://papernotes.org/ICML2025/interpretability/fastcav_efficient_computation_of_concept_activation_vectors_for_explaining_deep_/)
 
 **Concept-Based Unsupervised Domain Adaptation**
 
@@ -2944,7 +2943,7 @@
 
 - Paper: <https://arxiv.org/abs/2410.03779>
 - Project: <https://hbell99.github.io/evo-mesh/>
-- Notes (Chinese): [papernotes.org/ICML2025/3d_vision/evomesh_adaptive_physica…](https://papernotes.org/ICML2025/3d_vision/evomesh_adaptive_physical_simulation_with_hierarchical_graph_evolutions/)
+- Notes (Chinese): [papernotes.org/ICML2025/graph_learning/evomesh_adaptive_ph…](https://papernotes.org/ICML2025/graph_learning/evomesh_adaptive_physical_simulation_with_hierarchical_graph_evolutions/)
 
 **Diss-l-ECT: Dissecting Graph Data with Local Euler Characteristic Transforms**
 
@@ -3010,12 +3009,12 @@
 **Machine Learning from Explanations**
 
 - Paper: <https://arxiv.org/abs/2507.04788>
-- Notes (Chinese): [papernotes.org/ICML2025/robotics/machine_learning_from_exp…](https://papernotes.org/ICML2025/robotics/machine_learning_from_explanations/)
+- Notes (Chinese): [papernotes.org/ICML2025/llm_pretraining/machine_learning_f…](https://papernotes.org/ICML2025/llm_pretraining/machine_learning_from_explanations/)
 
 **Provable Maximum Entropy Manifold Exploration via Diffusion Models**
 
 - Paper: <https://arxiv.org/abs/2506.15385>
-- Notes (Chinese): [papernotes.org/ICML2025/image_generation/provable_maximum_…](https://papernotes.org/ICML2025/image_generation/provable_maximum_entropy_manifold_exploration_via_diffusion_models/)
+- Notes (Chinese): [papernotes.org/ICML2025/llm_pretraining/provable_maximum_e…](https://papernotes.org/ICML2025/llm_pretraining/provable_maximum_entropy_manifold_exploration_via_diffusion_models/)
 
 **DipLLM: Fine-Tuning LLM for Strategic Decision-making in Diplomacy**
 
@@ -3155,7 +3154,7 @@
 
 - Paper: <https://arxiv.org/abs/2506.23596>
 - Code: <https://github.com/KU-VGI/AP>
-- Notes (Chinese): [papernotes.org/ICML2025/time_series/when_will_it_fail_anom…](https://papernotes.org/ICML2025/time_series/when_will_it_fail_anomaly_to_prompt_for_forecasting_future_anomalies_in_time_ser/)
+- Notes (Chinese): [papernotes.org/ICML2025/llm_nlp/when_will_it_fail_anomaly_…](https://papernotes.org/ICML2025/llm_nlp/when_will_it_fail_anomaly_to_prompt_for_forecasting_future_anomalies_in_time_ser/)
 
 **Towards Universal Offline Black-Box Optimization via Learning Language Model Embeddings**
 
@@ -3167,13 +3166,13 @@
 
 - Paper: <https://arxiv.org/abs/2506.02843>
 - Code: <https://github.com/shuaiyi308/REAP>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/random_registers_fo…](https://papernotes.org/ICML2025/llm_evaluation/random_registers_for_cross-domain_few-shot_learning/)
+- Notes (Chinese): [papernotes.org/ICML2025/llm_nlp/random_registers_for_cross…](https://papernotes.org/ICML2025/llm_nlp/random_registers_for_cross-domain_few-shot_learning/)
 
 **Breaking Silos: Adaptive Model Fusion Unlocks Better Time Series Forecasting**
 
 - Paper: <https://arxiv.org/abs/2505.18442>
 - Code: <https://github.com/ZhiningLiu1998/TimeFuse>
-- Notes (Chinese): [papernotes.org/ICML2025/time_series/breaking_silos_adaptiv…](https://papernotes.org/ICML2025/time_series/breaking_silos_adaptive_model_fusion_unlocks_better_time_series_forecasting/)
+- Notes (Chinese): [papernotes.org/ICML2025/llm_nlp/breaking_silos_adaptive_mo…](https://papernotes.org/ICML2025/llm_nlp/breaking_silos_adaptive_model_fusion_unlocks_better_time_series_forecasting/)
 
 **QuEst: Enhancing Estimates of Quantile-Based Distributional Measures Using Model Predictions**
 
@@ -3198,7 +3197,7 @@
 **Generative Social Choice: The Next Generation**
 
 - Paper: <https://arxiv.org/abs/2505.22939>
-- Notes (Chinese): [papernotes.org/ICML2025/signal_comm/generative_social_choi…](https://papernotes.org/ICML2025/signal_comm/generative_social_choice_the_next_generation/)
+- Notes (Chinese): [papernotes.org/ICML2025/llm_nlp/generative_social_choice_t…](https://papernotes.org/ICML2025/llm_nlp/generative_social_choice_the_next_generation/)
 
 **B-score: Detecting biases in large language models using response history**
 
@@ -3332,7 +3331,7 @@
 **Promoting Ensemble Diversity with Interactive Bayesian Distributional Robustness for Fine-tuning Foundation Models** · 📌 Poster
 
 - Paper: <https://arxiv.org/abs/2506.07247>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/promoting_ensemble_…](https://papernotes.org/ICML2025/llm_evaluation/promoting_ensemble_diversity_with_interactive_bayesian_distributional_robustness/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/promoting_ensemble_diversit…](https://papernotes.org/ICML2025/others/promoting_ensemble_diversity_with_interactive_bayesian_distributional_robustness/)
 
 **CLARIFY: Contrastive Preference Reinforcement Learning for Untangling Ambiguous Queries**
 
@@ -3458,7 +3457,7 @@
 
 - Paper: <https://arxiv.org/abs/2501.18362>
 - Code: <https://github.com/TsinghuaC3I/MedXpertQA>
-- Notes (Chinese): [papernotes.org/ICML2025/medical_nlp/medxpertqa_benchmarkin…](https://papernotes.org/ICML2025/medical_nlp/medxpertqa_benchmarking_expert-level_medical_reasoning_and_understanding/)
+- Notes (Chinese): [papernotes.org/ICML2025/medical_imaging/medxpertqa_benchma…](https://papernotes.org/ICML2025/medical_imaging/medxpertqa_benchmarking_expert-level_medical_reasoning_and_understanding/)
 
 **Boosting Masked ECG-Text Auto-Encoders as Discriminative Learners**
 
@@ -3594,7 +3593,7 @@
 **Foundation Models for Clinical Records at Health System Scale** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2507.00574>
-- Notes (Chinese): [papernotes.org/ICML2025/medical_imaging/foundation_models_…](https://papernotes.org/ICML2025/medical_imaging/foundation_models_for_clinical_records_at_health_system_scale/)
+- Notes (Chinese): [papernotes.org/ICML2025/time_series/foundation_models_for_…](https://papernotes.org/ICML2025/time_series/foundation_models_for_clinical_records_at_health_system_scale/)
 
 **Lyapunov Learning at the Onset of Chaos** · 🛠️ Workshop
 
@@ -3634,7 +3633,7 @@
 **TCP-Diffusion: A Multi-modal Diffusion Model for Global Tropical Cyclone Precipitation Forecasting with Change Awareness**
 
 - Paper: <https://arxiv.org/abs/2410.13175>
-- Notes (Chinese): [papernotes.org/ICML2025/image_generation/tcp-diffusion_a_m…](https://papernotes.org/ICML2025/image_generation/tcp-diffusion_a_multi-modal_diffusion_model_for_global_tropical_cyclone_precipit/)
+- Notes (Chinese): [papernotes.org/ICML2025/time_series/tcp-diffusion_a_multi-…](https://papernotes.org/ICML2025/time_series/tcp-diffusion_a_multi-modal_diffusion_model_for_global_tropical_cyclone_precipit/)
 
 **WAVE: Weighted Autoregressive Varying Gate for Time Series Forecasting**
 
@@ -3787,13 +3786,13 @@
 
 - Paper: <https://arxiv.org/abs/2503.01496>
 - Code: <https://github.com/OpenSparseLLMs/Linearization>
-- Notes (Chinese): [papernotes.org/ICML2025/model_compression/liger_linearizin…](https://papernotes.org/ICML2025/model_compression/liger_linearizing_large_language_models_to_gated_recurrent_structures/)
+- Notes (Chinese): [papernotes.org/ICML2025/physics/liger_linearizing_large_la…](https://papernotes.org/ICML2025/physics/liger_linearizing_large_language_models_to_gated_recurrent_structures/)
 
 **Sum-of-Parts: Self-Attributing Neural Networks with End-to-End Learning of Feature Groups**
 
 - Paper: <https://arxiv.org/abs/2310.16316>
 - Code: <https://github.com/BrachioLab/sop>
-- Notes (Chinese): [papernotes.org/ICML2025/interpretability/sum-of-parts_self…](https://papernotes.org/ICML2025/interpretability/sum-of-parts_self-attributing_neural_networks_with_end-to-end_learning_of_featur/)
+- Notes (Chinese): [papernotes.org/ICML2025/physics/sum-of-parts_self-attribut…](https://papernotes.org/ICML2025/physics/sum-of-parts_self-attributing_neural_networks_with_end-to-end_learning_of_featur/)
 
 **Teaching LLMs to Speak Spectroscopy** · 🛠️ Workshop
 
@@ -3818,7 +3817,7 @@
 **Causal Discovery of Latent Variables in Galactic Archaeology** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2507.00134>
-- Notes (Chinese): [papernotes.org/ICML2025/causal_inference/causal_discovery_…](https://papernotes.org/ICML2025/causal_inference/causal_discovery_of_latent_variables_in_galactic_archaeology/)
+- Notes (Chinese): [papernotes.org/ICML2025/physics/causal_discovery_of_latent…](https://papernotes.org/ICML2025/physics/causal_discovery_of_latent_variables_in_galactic_archaeology/)
 
 **Maximal Update Parametrization and Zero-Shot Hyperparameter Transfer for Fourier Neural Operators**
 
@@ -3843,7 +3842,7 @@
 **PAC Learning with Improvements**
 
 - Paper: <https://arxiv.org/abs/2503.03184>
-- Notes (Chinese): [papernotes.org/ICML2025/others/pac_learning_with_improveme…](https://papernotes.org/ICML2025/others/pac_learning_with_improvements/)
+- Notes (Chinese): [papernotes.org/ICML2025/physics/pac_learning_with_improvem…](https://papernotes.org/ICML2025/physics/pac_learning_with_improvements/)
 
 **Erwin: A Tree-based Hierarchical Transformer for Large-scale Physical Systems**
 
@@ -3858,12 +3857,12 @@
 **Large Language Models to Diffusion Finetuning**
 
 - Paper: <https://arxiv.org/abs/2501.15781>
-- Notes (Chinese): [papernotes.org/ICML2025/self_supervised/large_language_mod…](https://papernotes.org/ICML2025/self_supervised/large_language_models_to_diffusion_finetuning/)
+- Notes (Chinese): [papernotes.org/ICML2025/physics/large_language_models_to_d…](https://papernotes.org/ICML2025/physics/large_language_models_to_diffusion_finetuning/)
 
 **The dark side of the forces: assessing non-conservative force models for atomistic machine learning** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2412.11569>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_pretraining/the_dark_side_of_t…](https://papernotes.org/ICML2025/llm_pretraining/the_dark_side_of_the_forces_assessing_non-conservative_force_models_for_atomisti/)
+- Notes (Chinese): [papernotes.org/ICML2025/physics/the_dark_side_of_the_force…](https://papernotes.org/ICML2025/physics/the_dark_side_of_the_forces_assessing_non-conservative_force_models_for_atomisti/)
 
 **OmniArch: Building Foundation Model For Scientific Computing**
 
@@ -3892,7 +3891,7 @@
 
 - Paper: <https://arxiv.org/abs/2508.14379>
 - Code: <https://github.com/NYCU-RL-Bandits-Lab/ACRL-Baselines>
-- Notes (Chinese): [papernotes.org/ICML2025/reinforcement_learning/action-cons…](https://papernotes.org/ICML2025/reinforcement_learning/action-constrained_imitation_learning/)
+- Notes (Chinese): [papernotes.org/ICML2025/robotics/action-constrained_imitat…](https://papernotes.org/ICML2025/robotics/action-constrained_imitation_learning/)
 
 **CommVQ: Commutative Vector Quantization for KV Cache Compression** · 📌 Poster
 
@@ -3904,19 +3903,19 @@
 
 - Paper: <https://arxiv.org/abs/2506.09176>
 - Code: <https://github.com/metadriverse/AIM>
-- Notes (Chinese): [papernotes.org/ICML2025/reinforcement_learning/robot-gated…](https://papernotes.org/ICML2025/reinforcement_learning/robot-gated_interactive_imitation_learning_with_adaptive_intervention_mechanism/)
+- Notes (Chinese): [papernotes.org/ICML2025/robotics/robot-gated_interactive_i…](https://papernotes.org/ICML2025/robotics/robot-gated_interactive_imitation_learning_with_adaptive_intervention_mechanism/)
 
 **Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning**
 
 - Paper: <https://arxiv.org/abs/2506.07744>
 - Code: <https://github.com/qortmdgh4141/GAS>
-- Notes (Chinese): [papernotes.org/ICML2025/reinforcement_learning/graph-assis…](https://papernotes.org/ICML2025/reinforcement_learning/graph-assisted_stitching_for_offline_hierarchical_reinforcement_learning/)
+- Notes (Chinese): [papernotes.org/ICML2025/robotics/graph-assisted_stitching_…](https://papernotes.org/ICML2025/robotics/graph-assisted_stitching_for_offline_hierarchical_reinforcement_learning/)
 
 **Gradual Transition from Bellman Optimality Operator to Bellman Operator in Online Reinforcement Learning**
 
 - Paper: <https://arxiv.org/abs/2506.05968>
 - Code: <https://github.com/motokiomura/annealed-q-learning>
-- Notes (Chinese): [papernotes.org/ICML2025/reinforcement_learning/gradual_tra…](https://papernotes.org/ICML2025/reinforcement_learning/gradual_transition_from_bellman_optimality_operator_to_bellman_operator_in_onlin/)
+- Notes (Chinese): [papernotes.org/ICML2025/robotics/gradual_transition_from_b…](https://papernotes.org/ICML2025/robotics/gradual_transition_from_bellman_optimality_operator_to_bellman_operator_in_onlin/)
 
 **Closed-Loop Long-Horizon Robotic Planning via Equilibrium Sequence Modeling**
 
@@ -3928,7 +3927,7 @@
 
 - Paper: <https://arxiv.org/abs/2406.05673>
 - Code: <https://github.com/Yu-Fangxu/FoR>
-- Notes (Chinese): [papernotes.org/ICML2025/reinforcement_learning/flow_of_rea…](https://papernotes.org/ICML2025/reinforcement_learning/flow_of_reasoning_training_llms_for_divergent_reasoning_with_minimal_examples/)
+- Notes (Chinese): [papernotes.org/ICML2025/robotics/flow_of_reasoning_trainin…](https://papernotes.org/ICML2025/robotics/flow_of_reasoning_training_llms_for_divergent_reasoning_with_minimal_examples/)
 
 **FOUNDER: Grounding Foundation Models in World Models for Open-Ended Embodied Decision Making**
 
@@ -3953,12 +3952,12 @@
 **Learning Dynamics under Environmental Constraints via Measurement-Induced Bundle Structures**
 
 - Paper: <https://arxiv.org/abs/2505.19521>
-- Notes (Chinese): [papernotes.org/ICML2025/reinforcement_learning/learning_dy…](https://papernotes.org/ICML2025/reinforcement_learning/learning_dynamics_under_environmental_constraints_via_measurement-induced_bundle/)
+- Notes (Chinese): [papernotes.org/ICML2025/robotics/learning_dynamics_under_e…](https://papernotes.org/ICML2025/robotics/learning_dynamics_under_environmental_constraints_via_measurement-induced_bundle/)
 
 **Maximum Total Correlation Reinforcement Learning**
 
 - Paper: <https://arxiv.org/abs/2505.16734>
-- Notes (Chinese): [papernotes.org/ICML2025/reinforcement_learning/maximum_tot…](https://papernotes.org/ICML2025/reinforcement_learning/maximum_total_correlation_reinforcement_learning/)
+- Notes (Chinese): [papernotes.org/ICML2025/robotics/maximum_total_correlation…](https://papernotes.org/ICML2025/robotics/maximum_total_correlation_reinforcement_learning/)
 
 **Efficient Robotic Policy Learning via Latent Space Backward Planning**
 
@@ -3969,7 +3968,7 @@
 **SENSEI: Semantic Exploration Guided by Foundation Models to Learn Versatile World Models**
 
 - Paper: <https://arxiv.org/abs/2503.01584>
-- Notes (Chinese): [papernotes.org/ICML2025/reinforcement_learning/sensei_sema…](https://papernotes.org/ICML2025/reinforcement_learning/sensei_semantic_exploration_guided_by_foundation_models_to_learn_versatile_world/)
+- Notes (Chinese): [papernotes.org/ICML2025/robotics/sensei_semantic_explorati…](https://papernotes.org/ICML2025/robotics/sensei_semantic_exploration_guided_by_foundation_models_to_learn_versatile_world/)
 
 **Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**
 
@@ -3979,7 +3978,7 @@
 **Beyond CVaR: Leveraging Static Spectral Risk Measures for Enhanced Decision-Making in Distributional Reinforcement Learning**
 
 - Paper: <https://arxiv.org/abs/2501.02087>
-- Notes (Chinese): [papernotes.org/ICML2025/reinforcement_learning/beyond_cvar…](https://papernotes.org/ICML2025/reinforcement_learning/beyond_cvar_leveraging_static_spectral_risk_measures_for_enhanced_decision-makin/)
+- Notes (Chinese): [papernotes.org/ICML2025/robotics/beyond_cvar_leveraging_st…](https://papernotes.org/ICML2025/robotics/beyond_cvar_leveraging_static_spectral_risk_measures_for_enhanced_decision-makin/)
 
 **Learning to Stop: Deep Learning for Mean Field Optimal Stopping**
 
@@ -4061,7 +4060,7 @@
 **No Soundness in the Real World: On the Challenges of the Verification of Deployed Neural Networks**
 
 - Paper: <https://arxiv.org/abs/2506.01054>
-- Notes (Chinese): [papernotes.org/ICML2025/audio_speech/no_soundness_in_the_r…](https://papernotes.org/ICML2025/audio_speech/no_soundness_in_the_real_world_on_the_challenges_of_the_verification_of_deployed/)
+- Notes (Chinese): [papernotes.org/ICML2025/llm_reasoning/no_soundness_in_the_…](https://papernotes.org/ICML2025/llm_reasoning/no_soundness_in_the_real_world_on_the_challenges_of_the_verification_of_deployed/)
 
 **MARGE: Improving Math Reasoning for LLMs with Guided Exploration**
 
@@ -4081,17 +4080,17 @@
 **Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination**
 
 - Paper: <https://arxiv.org/abs/2503.04149>
-- Notes (Chinese): [papernotes.org/ICML2025/code_intelligence/dynamic_benchmar…](https://papernotes.org/ICML2025/code_intelligence/dynamic_benchmarking_of_reasoning_capabilities_in_code_large_language_models_und/)
+- Notes (Chinese): [papernotes.org/ICML2025/llm_reasoning/dynamic_benchmarking…](https://papernotes.org/ICML2025/llm_reasoning/dynamic_benchmarking_of_reasoning_capabilities_in_code_large_language_models_und/)
 
 **Emergent Symbolic Mechanisms Support Abstract Reasoning in Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2502.20332>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_nlp/emergent_symbolic_mechanis…](https://papernotes.org/ICML2025/llm_nlp/emergent_symbolic_mechanisms_support_abstract_reasoning_in_large_language_models/)
+- Notes (Chinese): [papernotes.org/ICML2025/llm_reasoning/emergent_symbolic_me…](https://papernotes.org/ICML2025/llm_reasoning/emergent_symbolic_mechanisms_support_abstract_reasoning_in_large_language_models/)
 
 **Self-Consistency Preference Optimization**
 
 - Paper: <https://arxiv.org/abs/2411.04109>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_alignment/self-consistency_pre…](https://papernotes.org/ICML2025/llm_alignment/self-consistency_preference_optimization/)
+- Notes (Chinese): [papernotes.org/ICML2025/llm_reasoning/self-consistency_pre…](https://papernotes.org/ICML2025/llm_reasoning/self-consistency_preference_optimization/)
 
 **Towards Better Chain-of-Thought: A Reflection on Effectiveness and Faithfulness**
 
@@ -4366,7 +4365,7 @@
 **Internal Causal Mechanisms Robustly Predict Language Model Out-of-Distribution Behaviors**
 
 - Paper: <https://arxiv.org/abs/2505.11770>
-- Notes (Chinese): [papernotes.org/ICML2025/robotics/internal_causal_mechanism…](https://papernotes.org/ICML2025/robotics/internal_causal_mechanisms_robustly_predict_language_model_out-of-distribution_b/)
+- Notes (Chinese): [papernotes.org/ICML2025/causal_inference/internal_causal_m…](https://papernotes.org/ICML2025/causal_inference/internal_causal_mechanisms_robustly_predict_language_model_out-of-distribution_b/)
 
 **Exogenous Isomorphism for Counterfactual Identifiability** · ✨ Spotlight · 📌 Poster
 
@@ -4413,13 +4412,13 @@
 
 - Paper: <https://arxiv.org/abs/2505.23027>
 - Code: <https://github.com/minhto2802/dpe4subpop>
-- Notes (Chinese): [papernotes.org/ICML2025/others/diverse_prototypical_ensemb…](https://papernotes.org/ICML2025/others/diverse_prototypical_ensembles_improve_robustness_to_subpopulation_shift/)
+- Notes (Chinese): [papernotes.org/ICML2025/3d_vision/diverse_prototypical_ens…](https://papernotes.org/ICML2025/3d_vision/diverse_prototypical_ensembles_improve_robustness_to_subpopulation_shift/)
 
 **ADHMR: Aligning Diffusion-based Human Mesh Recovery via Direct Preference Optimization**
 
 - Paper: <https://arxiv.org/abs/2505.10250>
 - Code: <https://github.com/shenwenhao01/ADHMR>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_alignment/adhmr_aligning_diffu…](https://papernotes.org/ICML2025/llm_alignment/adhmr_aligning_diffusion-based_human_mesh_recovery_via_direct_preference_optimiz/)
+- Notes (Chinese): [papernotes.org/ICML2025/3d_vision/adhmr_aligning_diffusion…](https://papernotes.org/ICML2025/3d_vision/adhmr_aligning_diffusion-based_human_mesh_recovery_via_direct_preference_optimiz/)
 
 **GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model**
 
@@ -4446,7 +4445,7 @@
 **D-Fusion: Direct Preference Optimization for Aligning Diffusion Models with Visually Consistent Samples**
 
 - Paper: <https://arxiv.org/abs/2505.22002>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_alignment/d-fusion_direct_pref…](https://papernotes.org/ICML2025/llm_alignment/d-fusion_direct_preference_optimization_for_aligning_diffusion_models_with_visua/)
+- Notes (Chinese): [papernotes.org/ICML2025/3d_vision/d-fusion_direct_preferen…](https://papernotes.org/ICML2025/3d_vision/d-fusion_direct_preference_optimization_for_aligning_diffusion_models_with_visua/)
 
 **Thickness-aware E(3)-Equivariant 3D Mesh Neural Networks**
 
@@ -4461,7 +4460,7 @@
 **Of Mice and Machines: A Comparison of Learning Between Real World Mice and RL Agents**
 
 - Paper: <https://arxiv.org/abs/2505.12204>
-- Notes (Chinese): [papernotes.org/ICML2025/reinforcement_learning/of_mice_and…](https://papernotes.org/ICML2025/reinforcement_learning/of_mice_and_machines_a_comparison_of_learning_between_real_world_mice_and_rl_age/)
+- Notes (Chinese): [papernotes.org/ICML2025/3d_vision/of_mice_and_machines_a_c…](https://papernotes.org/ICML2025/3d_vision/of_mice_and_machines_a_comparison_of_learning_between_real_world_mice_and_rl_age/)
 
 **Probabilistic Interactive 3D Segmentation with Hierarchical Neural Processes**
 
@@ -4476,7 +4475,7 @@
 **The Sharpness Disparity Principle in Transformers for Accelerating Language Model Pre-Training**
 
 - Paper: <https://arxiv.org/abs/2502.19002>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_pretraining/the_sharpness_disp…](https://papernotes.org/ICML2025/llm_pretraining/the_sharpness_disparity_principle_in_transformers_for_accelerating_language_mode/)
+- Notes (Chinese): [papernotes.org/ICML2025/3d_vision/the_sharpness_disparity_…](https://papernotes.org/ICML2025/3d_vision/the_sharpness_disparity_principle_in_transformers_for_accelerating_language_mode/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -4552,7 +4551,7 @@
 **PoisonBench: Assessing Large Language Model Vulnerability to Data Poisoning**
 
 - Paper: <https://arxiv.org/abs/2410.08811>
-- Notes (Chinese): [papernotes.org/ICML2025/robotics/poisonbench_assessing_lar…](https://papernotes.org/ICML2025/robotics/poisonbench_assessing_large_language_model_vulnerability_to_data_poisoning/)
+- Notes (Chinese): [papernotes.org/ICML2025/llm_alignment/poisonbench_assessin…](https://papernotes.org/ICML2025/llm_alignment/poisonbench_assessing_large_language_model_vulnerability_to_data_poisoning/)
 
 **Challenges and Future Directions of Data-Centric AI Alignment**
 
@@ -4588,18 +4587,18 @@
 
 - Paper: <https://arxiv.org/abs/2507.20140>
 - Project: <https://speechunlearn.github.io/>
-- Notes (Chinese): [papernotes.org/ICML2025/ai_safety/do_not_mimic_my_voice_sp…](https://papernotes.org/ICML2025/ai_safety/do_not_mimic_my_voice_speaker_identity_unlearning_for_zero-shot_text-to-speech/)
+- Notes (Chinese): [papernotes.org/ICML2025/audio_speech/do_not_mimic_my_voice…](https://papernotes.org/ICML2025/audio_speech/do_not_mimic_my_voice_speaker_identity_unlearning_for_zero-shot_text-to-speech/)
 
 **Aligning Spoken Dialogue Models from User Interactions**
 
 - Paper: <https://arxiv.org/abs/2506.21463>
-- Notes (Chinese): [papernotes.org/ICML2025/segmentation/aligning_spoken_dialo…](https://papernotes.org/ICML2025/segmentation/aligning_spoken_dialogue_models_from_user_interactions/)
+- Notes (Chinese): [papernotes.org/ICML2025/audio_speech/aligning_spoken_dialo…](https://papernotes.org/ICML2025/audio_speech/aligning_spoken_dialogue_models_from_user_interactions/)
 
 **MuseControlLite: Multifunctional Music Generation with Lightweight Conditioners**
 
 - Paper: <https://arxiv.org/abs/2506.18729>
 - Project: <https://musecontrollite.github.io/web/>
-- Notes (Chinese): [papernotes.org/ICML2025/image_generation/musecontrollite_m…](https://papernotes.org/ICML2025/image_generation/musecontrollite_multifunctional_music_generation_with_lightweight_conditioners/)
+- Notes (Chinese): [papernotes.org/ICML2025/audio_speech/musecontrollite_multi…](https://papernotes.org/ICML2025/audio_speech/musecontrollite_multifunctional_music_generation_with_lightweight_conditioners/)
 
 **Teaching Physical Awareness to LLMs through Sounds**
 
@@ -4609,23 +4608,23 @@
 **Sounding that Object: Interactive Object-Aware Image to Audio Generation**
 
 - Paper: <https://arxiv.org/abs/2506.04214>
-- Notes (Chinese): [papernotes.org/ICML2025/segmentation/sounding_that_object_…](https://papernotes.org/ICML2025/segmentation/sounding_that_object_interactive_object-aware_image_to_audio_generation/)
+- Notes (Chinese): [papernotes.org/ICML2025/audio_speech/sounding_that_object_…](https://papernotes.org/ICML2025/audio_speech/sounding_that_object_interactive_object-aware_image_to_audio_generation/)
 
 **NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction**
 
 - Paper: <https://arxiv.org/abs/2506.00975>
-- Notes (Chinese): [papernotes.org/ICML2025/image_generation/ntpp_generative_s…](https://papernotes.org/ICML2025/image_generation/ntpp_generative_speech_language_modeling_for_dual-channel_spoken_dialogue_via_ne/)
+- Notes (Chinese): [papernotes.org/ICML2025/audio_speech/ntpp_generative_speec…](https://papernotes.org/ICML2025/audio_speech/ntpp_generative_speech_language_modeling_for_dual-channel_spoken_dialogue_via_ne/)
 
 **IMPACT: Iterative Mask-based Parallel Decoding for Text-to-Audio Generation with Diffusion Modeling**
 
 - Paper: <https://arxiv.org/abs/2506.00736>
 - Project: <https://audio-impact.github.io/>
-- Notes (Chinese): [papernotes.org/ICML2025/image_generation/impact_iterative_…](https://papernotes.org/ICML2025/image_generation/impact_iterative_mask-based_parallel_decoding_for_text-to-audio_generation_with_/)
+- Notes (Chinese): [papernotes.org/ICML2025/audio_speech/impact_iterative_mask…](https://papernotes.org/ICML2025/audio_speech/impact_iterative_mask-based_parallel_decoding_for_text-to-audio_generation_with_/)
 
 **BinauralFlow: A Causal and Streamable Approach for High-Quality Binaural Speech Synthesis with Flow Matching Models**
 
 - Paper: <https://arxiv.org/abs/2505.22865>
-- Notes (Chinese): [papernotes.org/ICML2025/image_generation/binauralflow_a_ca…](https://papernotes.org/ICML2025/image_generation/binauralflow_a_causal_and_streamable_approach_for_high-quality_binaural_speech_s/)
+- Notes (Chinese): [papernotes.org/ICML2025/audio_speech/binauralflow_a_causal…](https://papernotes.org/ICML2025/audio_speech/binauralflow_a_causal_and_streamable_approach_for_high-quality_binaural_speech_s/)
 
 **FLAM: Frame-Wise Language-Audio Modeling**
 
@@ -4635,13 +4634,13 @@
 **ETTA: Elucidating the Design Space of Text-to-Audio Models** · 🎬 Demo
 
 - Paper: <https://arxiv.org/abs/2412.19351>
-- Notes (Chinese): [papernotes.org/ICML2025/image_generation/etta_elucidating_…](https://papernotes.org/ICML2025/image_generation/etta_elucidating_the_design_space_of_text-to-audio_models/)
+- Notes (Chinese): [papernotes.org/ICML2025/audio_speech/etta_elucidating_the_…](https://papernotes.org/ICML2025/audio_speech/etta_elucidating_the_design_space_of_text-to-audio_models/)
 
 **Long-Form Speech Generation with Spoken Language Models** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2412.18603>
 - Project: <https://google.github.io/tacotron/publications/speechssm/>
-- Notes (Chinese): [papernotes.org/ICML2025/image_generation/long-form_speech_…](https://papernotes.org/ICML2025/image_generation/long-form_speech_generation_with_spoken_language_models/)
+- Notes (Chinese): [papernotes.org/ICML2025/audio_speech/long-form_speech_gene…](https://papernotes.org/ICML2025/audio_speech/long-form_speech_generation_with_spoken_language_models/)
 
 **One Wave To Explain Them All: A Unifying Perspective On Feature Attribution**
 
@@ -4666,7 +4665,7 @@
 
 - Paper: <https://arxiv.org/abs/2506.03964>
 - Code: <https://github.com/kimanki/CAROTS>
-- Notes (Chinese): [papernotes.org/ICML2025/time_series/causality-aware_contra…](https://papernotes.org/ICML2025/time_series/causality-aware_contrastive_learning_for_robust_multivariate_time-series_anomaly/)
+- Notes (Chinese): [papernotes.org/ICML2025/object_detection/causality-aware_c…](https://papernotes.org/ICML2025/object_detection/causality-aware_contrastive_learning_for_robust_multivariate_time-series_anomaly/)
 
 **Open-Det: An Efficient Learning Framework for Open-Ended Detection**
 
@@ -4684,7 +4683,7 @@
 
 - Paper: <https://arxiv.org/abs/2505.01476>
 - Code: <https://github.com/ZHE-SAPI/CostFilter-AD>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/costfilter-ad_enhan…](https://papernotes.org/ICML2025/llm_evaluation/costfilter-ad_enhancing_anomaly_detection_through_matching_cost_filtering/)
+- Notes (Chinese): [papernotes.org/ICML2025/object_detection/costfilter-ad_enh…](https://papernotes.org/ICML2025/object_detection/costfilter-ad_enhancing_anomaly_detection_through_matching_cost_filtering/)
 
 **Understanding the Emergence of Multimodal Representation Alignment** · 📌 Poster
 
@@ -4706,7 +4705,7 @@
 **When Every Millisecond Counts: Real-Time Anomaly Detection via the Multimodal Asynchronous Hybrid Network** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2506.17457>
-- Notes (Chinese): [papernotes.org/ICML2025/autonomous_driving/when_every_mill…](https://papernotes.org/ICML2025/autonomous_driving/when_every_millisecond_counts_real-time_anomaly_detection_via_the_multimodal_asy/)
+- Notes (Chinese): [papernotes.org/ICML2025/object_detection/when_every_millis…](https://papernotes.org/ICML2025/object_detection/when_every_millisecond_counts_real-time_anomaly_detection_via_the_multimodal_asy/)
 
 **Self-Organizing Visual Prototypes for Non-Parametric Representation Learning**
 
@@ -4721,7 +4720,7 @@
 **KAN-AD: Time Series Anomaly Detection with Kolmogorov-Arnold Networks**
 
 - Paper: <https://arxiv.org/abs/2411.00278>
-- Notes (Chinese): [papernotes.org/ICML2025/time_series/kan-ad_time_series_ano…](https://papernotes.org/ICML2025/time_series/kan-ad_time_series_anomaly_detection_with_kolmogorov-arnold_networks/)
+- Notes (Chinese): [papernotes.org/ICML2025/object_detection/kan-ad_time_serie…](https://papernotes.org/ICML2025/object_detection/kan-ad_time_series_anomaly_detection_with_kolmogorov-arnold_networks/)
 
 **Outlier Gradient Analysis: Efficiently Identifying Detrimental Training Samples for Deep Learning Models** · 🎤 Oral
 
@@ -4968,7 +4967,6 @@
 **Towards Practical Defect-Focused Automated Code Review** · ✨ Spotlight
 
 - Paper: <https://arxiv.org/abs/2505.17928>
-- Notes (Chinese): [papernotes.org/ICML2025/code_intelligence/towards_practica…](https://papernotes.org/ICML2025/code_intelligence/towards_practical_defect-focused_automated_code_review/)
 
 **Robust Learning of Diverse Code Edits**
 
@@ -5012,7 +5010,7 @@
 **Unable to Forget: Proactive Interference Reveals Working Memory Limits in LLMs Beyond Context Length** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2506.08184>
-- Notes (Chinese): [papernotes.org/ICML2025/robotics/unable_to_forget_proactiv…](https://papernotes.org/ICML2025/robotics/unable_to_forget_proactive_interference_reveals_working_memory_limits_in_llms_be/)
+- Notes (Chinese): [papernotes.org/ICML2025/information_retrieval/unable_to_fo…](https://papernotes.org/ICML2025/information_retrieval/unable_to_forget_proactive_interference_reveals_working_memory_limits_in_llms_be/)
 
 **Don't Lag, RAG: Training-Free Adversarial Detection Using RAG**
 
@@ -5041,37 +5039,37 @@
 
 - Paper: <https://arxiv.org/abs/2506.08292>
 - Code: <https://github.com/tmlr-group/ECON>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_agent/from_debate_to_equilibri…](https://papernotes.org/ICML2025/llm_agent/from_debate_to_equilibrium_belief-driven_multi-agent_llm_reasoning_via_bayesian_/)
+- Notes (Chinese): [papernotes.org/ICML2025/multi_agent/from_debate_to_equilib…](https://papernotes.org/ICML2025/multi_agent/from_debate_to_equilibrium_belief-driven_multi-agent_llm_reasoning_via_bayesian_/)
 
 **MetaAgent: Automatically Constructing Multi-Agent Systems Based on Finite State Machines**
 
 - Paper: <https://arxiv.org/abs/2507.22606>
-- Notes (Chinese): [papernotes.org/ICML2025/optimization/metaagent_automatical…](https://papernotes.org/ICML2025/optimization/metaagent_automatically_constructing_multi-agent_systems_based_on_finite_state_m/)
+- Notes (Chinese): [papernotes.org/ICML2025/multi_agent/metaagent_automaticall…](https://papernotes.org/ICML2025/multi_agent/metaagent_automatically_constructing_multi-agent_systems_based_on_finite_state_m/)
 
 **Theorem-of-Thought: A Multi-Agent Framework for Abductive, Deductive, and Inductive Reasoning in Language Models**
 
 - Paper: <https://arxiv.org/abs/2506.07106>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_agent/theorem-of-thought_a_mul…](https://papernotes.org/ICML2025/llm_agent/theorem-of-thought_a_multi-agent_framework_for_abductive_deductive_and_inductive/)
+- Notes (Chinese): [papernotes.org/ICML2025/multi_agent/theorem-of-thought_a_m…](https://papernotes.org/ICML2025/multi_agent/theorem-of-thought_a_multi-agent_framework_for_abductive_deductive_and_inductive/)
 
 **Is Your LLM-Based Multi-Agent a Reliable Real-World Planner? Exploring Fraud Detection in Travel Planning** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2505.16557>
-- Notes (Chinese): [papernotes.org/ICML2025/social_computing/is_your_llm-based…](https://papernotes.org/ICML2025/social_computing/is_your_llm-based_multi-agent_a_reliable_real-world_planner_exploring_fraud_dete/)
+- Notes (Chinese): [papernotes.org/ICML2025/multi_agent/is_your_llm-based_mult…](https://papernotes.org/ICML2025/multi_agent/is_your_llm-based_multi-agent_a_reliable_real-world_planner_exploring_fraud_dete/)
 
 **Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination**
 
 - Paper: <https://arxiv.org/abs/2504.12714>
-- Notes (Chinese): [papernotes.org/ICML2025/reinforcement_learning/cross-envir…](https://papernotes.org/ICML2025/reinforcement_learning/cross-environment_cooperation_enables_zero-shot_multi-agent_coordination/)
+- Notes (Chinese): [papernotes.org/ICML2025/multi_agent/cross-environment_coop…](https://papernotes.org/ICML2025/multi_agent/cross-environment_cooperation_enables_zero-shot_multi-agent_coordination/)
 
 **ResearchTown: Simulator of Human Research Community**
 
 - Paper: <https://arxiv.org/abs/2412.17767>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/researchtown_simula…](https://papernotes.org/ICML2025/llm_evaluation/researchtown_simulator_of_human_research_community/)
+- Notes (Chinese): [papernotes.org/ICML2025/multi_agent/researchtown_simulator…](https://papernotes.org/ICML2025/multi_agent/researchtown_simulator_of_human_research_community/)
 
 **AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML**
 
 - Paper: <https://arxiv.org/abs/2410.02958>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_agent/automl-agent_a_multi-age…](https://papernotes.org/ICML2025/llm_agent/automl-agent_a_multi-agent_llm_framework_for_full-pipeline_automl/)
+- Notes (Chinese): [papernotes.org/ICML2025/multi_agent/automl-agent_a_multi-a…](https://papernotes.org/ICML2025/multi_agent/automl-agent_a_multi-agent_llm_framework_for_full-pipeline_automl/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -5177,12 +5175,12 @@
 
 - Paper: <https://arxiv.org/abs/2507.02342>
 - Code: <https://github.com/AITRICS/DeltaSHAP>
-- Notes (Chinese): [papernotes.org/ICML2025/medical_imaging/deltashap_explaini…](https://papernotes.org/ICML2025/medical_imaging/deltashap_explaining_prediction_evolutions_in_online_patient_monitoring_with_sha/)
+- Notes (Chinese): [papernotes.org/ICML2025/interpretability/deltashap_explain…](https://papernotes.org/ICML2025/interpretability/deltashap_explaining_prediction_evolutions_in_online_patient_monitoring_with_sha/)
 
 **Agent WARPP: Workflow Adherence via Runtime Parallel Personalization** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2507.19543>
-- Notes (Chinese): [papernotes.org/ICML2025/dialogue/agent_warpp_workflow_adhe…](https://papernotes.org/ICML2025/dialogue/agent_warpp_workflow_adherence_via_runtime_parallel_personalization/)
+- Notes (Chinese): [papernotes.org/ICML2025/medical_nlp/agent_warpp_workflow_a…](https://papernotes.org/ICML2025/medical_nlp/agent_warpp_workflow_adherence_via_runtime_parallel_personalization/)
 
 **Evaluating LLMs Across Multi-Cognitive Levels: From Medical Knowledge Mastery to Scenario-Based Problem Solving**
 
@@ -5192,17 +5190,17 @@
 **Autoformulation of Mathematical Optimization Models Using LLMs**
 
 - Paper: <https://arxiv.org/abs/2411.01679>
-- Notes (Chinese): [papernotes.org/ICML2025/optimization/autoformulation_of_ma…](https://papernotes.org/ICML2025/optimization/autoformulation_of_mathematical_optimization_models_using_llms/)
+- Notes (Chinese): [papernotes.org/ICML2025/medical_nlp/autoformulation_of_mat…](https://papernotes.org/ICML2025/medical_nlp/autoformulation_of_mathematical_optimization_models_using_llms/)
 
 **EVOLvE: Evaluating and Optimizing LLMs For In-Context Exploration**
 
 - Paper: <https://arxiv.org/abs/2410.06238>
-- Notes (Chinese): [papernotes.org/ICML2025/reinforcement_learning/evolve_eval…](https://papernotes.org/ICML2025/reinforcement_learning/evolve_evaluating_and_optimizing_llms_for_in-context_exploration/)
+- Notes (Chinese): [papernotes.org/ICML2025/medical_nlp/evolve_evaluating_and_…](https://papernotes.org/ICML2025/medical_nlp/evolve_evaluating_and_optimizing_llms_for_in-context_exploration/)
 
 **On the Vulnerability of Applying Retrieval-Augmented Generation within Knowledge-Intensive Application Domains**
 
 - Paper: <https://arxiv.org/abs/2409.17275>
-- Notes (Chinese): [papernotes.org/ICML2025/medical_imaging/on_the_vulnerabili…](https://papernotes.org/ICML2025/medical_imaging/on_the_vulnerability_of_applying_retrieval-augmented_generation_within_knowledge/)
+- Notes (Chinese): [papernotes.org/ICML2025/medical_nlp/on_the_vulnerability_o…](https://papernotes.org/ICML2025/medical_nlp/on_the_vulnerability_of_applying_retrieval-augmented_generation_within_knowledge/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -5320,7 +5318,7 @@
 
 - Paper: <https://arxiv.org/abs/2503.04257>
 - Project: <https://t2m4lvo.github.io>
-- Notes (Chinese): [papernotes.org/ICML2025/image_generation/how_to_move_your_…](https://papernotes.org/ICML2025/image_generation/how_to_move_your_dragon_text-to-motion_synthesis_for_large-vocabulary_objects/)
+- Notes (Chinese): [papernotes.org/ICML2025/human_understanding/how_to_move_yo…](https://papernotes.org/ICML2025/human_understanding/how_to_move_your_dragon_text-to-motion_synthesis_for_large-vocabulary_objects/)
 
 **Scaling Large Motion Models with Million-Level Human Motions**
 
@@ -5419,7 +5417,7 @@
 **Understanding and Mitigating Memorization in Diffusion Models for Tabular Data**
 
 - Paper: <https://arxiv.org/abs/2412.11044>
-- Notes (Chinese): [papernotes.org/ICML2025/image_generation/understanding_and…](https://papernotes.org/ICML2025/image_generation/understanding_and_mitigating_memorization_in_diffusion_models_for_tabular_data/)
+- Notes (Chinese): [papernotes.org/ICML2025/nlp_generation/understanding_and_m…](https://papernotes.org/ICML2025/nlp_generation/understanding_and_mitigating_memorization_in_diffusion_models_for_tabular_data/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -5451,7 +5449,7 @@
 
 - Paper: <https://arxiv.org/abs/2506.08518>
 - Code: <https://github.com/sunnyinAI/FedTail>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/fedtail_federated_l…](https://papernotes.org/ICML2025/llm_evaluation/fedtail_federated_long-tailed_domain_generalization_with_sharpness-guided_gradie/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/fedtail_federated_long-tail…](https://papernotes.org/ICML2025/others/fedtail_federated_long-tailed_domain_generalization_with_sharpness-guided_gradie/)
 
 **Modified K-means Algorithm with Local Optimality Guarantees**
 
@@ -5475,13 +5473,13 @@
 
 - Paper: <https://arxiv.org/abs/2505.20853>
 - Code: <https://github.com/strangeAlan/CoE>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/cooperation_of_expe…](https://papernotes.org/ICML2025/llm_evaluation/cooperation_of_experts_fusing_heterogeneous_information_with_large_margin/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/cooperation_of_experts_fusi…](https://papernotes.org/ICML2025/others/cooperation_of_experts_fusing_heterogeneous_information_with_large_margin/)
 
 **Ranked Entropy Minimization for Continual Test-Time Adaptation**
 
 - Paper: <https://arxiv.org/abs/2505.16441>
 - Code: <https://github.com/pilsHan/rem>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/ranked_entropy_mini…](https://papernotes.org/ICML2025/llm_evaluation/ranked_entropy_minimization_for_continual_test-time_adaptation/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/ranked_entropy_minimization…](https://papernotes.org/ICML2025/others/ranked_entropy_minimization_for_continual_test-time_adaptation/)
 
 **Enhancing Certified Robustness via Block Reflector Orthogonal Layers and Logit Annealing Loss** · ✨ Spotlight
 
@@ -5493,7 +5491,7 @@
 
 - Paper: <https://arxiv.org/abs/2412.13610>
 - Code: <https://github.com/hzc1208/Parallel_Conversion>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/faster_and_stronger…](https://papernotes.org/ICML2025/llm_evaluation/faster_and_stronger_when_ann-snn_conversion_meets_parallel_spiking_calculation/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/faster_and_stronger_when_an…](https://papernotes.org/ICML2025/others/faster_and_stronger_when_ann-snn_conversion_meets_parallel_spiking_calculation/)
 
 **AutoAL: Automated Active Learning with Differentiable Query Strategy Search**
 
@@ -5525,7 +5523,7 @@
 **Parity Requires Unified Input Dependence and Negative Eigenvalues in SSMs** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2508.07395>
-- Notes (Chinese): [papernotes.org/ICML2025/video_understanding/parity_require…](https://papernotes.org/ICML2025/video_understanding/parity_requires_unified_input_dependence_and_negative_eigenvalues_in_ssms/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/parity_requires_unified_inp…](https://papernotes.org/ICML2025/others/parity_requires_unified_input_dependence_and_negative_eigenvalues_in_ssms/)
 
 **Online Sparsification of Bipartite-Like Clusters in Graphs**
 
@@ -5555,7 +5553,7 @@
 **Meek Models Shall Inherit the Earth**
 
 - Paper: <https://arxiv.org/abs/2507.07931>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/meek_models_shall_i…](https://papernotes.org/ICML2025/llm_evaluation/meek_models_shall_inherit_the_earth/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/meek_models_shall_inherit_t…](https://papernotes.org/ICML2025/others/meek_models_shall_inherit_the_earth/)
 
 **Optimal Auction Design in the Joint Advertising**
 
@@ -5565,17 +5563,17 @@
 **Addressing Imbalanced Domain-Incremental Learning through Dual-Balance Collaborative Experts**
 
 - Paper: <https://arxiv.org/abs/2507.07100>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/addressing_imbalanc…](https://papernotes.org/ICML2025/llm_evaluation/addressing_imbalanced_domain-incremental_learning_through_dual-balance_collabora/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/addressing_imbalanced_domai…](https://papernotes.org/ICML2025/others/addressing_imbalanced_domain-incremental_learning_through_dual-balance_collabora/)
 
 **Modern Methods in Associative Memory**
 
 - Paper: <https://arxiv.org/abs/2507.06211>
-- Notes (Chinese): [papernotes.org/ICML2025/image_generation/modern_methods_in…](https://papernotes.org/ICML2025/image_generation/modern_methods_in_associative_memory/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/modern_methods_in_associati…](https://papernotes.org/ICML2025/others/modern_methods_in_associative_memory/)
 
 **Set Valued Predictions For Robust Domain Generalization**
 
 - Paper: <https://arxiv.org/abs/2507.03146>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/set_valued_predicti…](https://papernotes.org/ICML2025/llm_evaluation/set_valued_predictions_for_robust_domain_generalization/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/set_valued_predictions_for_…](https://papernotes.org/ICML2025/others/set_valued_predictions_for_robust_domain_generalization/)
 
 **SPARSE-PIVOT: Dynamic correlation clustering for node insertions**
 
@@ -5590,7 +5588,7 @@
 **Cross-regularization: Adaptive Model Complexity through Validation Gradients**
 
 - Paper: <https://arxiv.org/abs/2506.19755>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/cross-regularizatio…](https://papernotes.org/ICML2025/llm_evaluation/cross-regularization_adaptive_model_complexity_through_validation_gradients/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/cross-regularization_adapti…](https://papernotes.org/ICML2025/others/cross-regularization_adaptive_model_complexity_through_validation_gradients/)
 
 **SynDaCaTE: A Synthetic Dataset For Evaluating Part-Whole Hierarchical Inference**
 
@@ -5600,7 +5598,7 @@
 **DiLQR: Differentiable Iterative Linear Quadratic Regulator via Implicit Differentiation** · 📌 Poster
 
 - Paper: <https://arxiv.org/abs/2506.17473>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/dilqr_differentiabl…](https://papernotes.org/ICML2025/llm_evaluation/dilqr_differentiable_iterative_linear_quadratic_regulator_via_implicit_different/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/dilqr_differentiable_iterat…](https://papernotes.org/ICML2025/others/dilqr_differentiable_iterative_linear_quadratic_regulator_via_implicit_different/)
 
 **Improved Exploration in GFlownets via Enhanced Epistemic Neural Networks** · 🛠️ Workshop
 
@@ -5615,7 +5613,7 @@
 **GLGENN: A Novel Parameter-Light Equivariant Neural Networks Architecture Based on Clifford Geometric Algebras**
 
 - Paper: <https://arxiv.org/abs/2506.09625>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/glgenn_a_novel_para…](https://papernotes.org/ICML2025/llm_evaluation/glgenn_a_novel_parameter-light_equivariant_neural_networks_architecture_based_on/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/glgenn_a_novel_parameter-li…](https://papernotes.org/ICML2025/others/glgenn_a_novel_parameter-light_equivariant_neural_networks_architecture_based_on/)
 
 **Time-Aware World Model for Adaptive Prediction and Control**
 
@@ -5625,7 +5623,7 @@
 **Runtime Analysis of Evolutionary NAS for Multiclass Classification**
 
 - Paper: <https://arxiv.org/abs/2506.06019>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/runtime_analysis_of…](https://papernotes.org/ICML2025/llm_evaluation/runtime_analysis_of_evolutionary_nas_for_multiclass_classification/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/runtime_analysis_of_evoluti…](https://papernotes.org/ICML2025/others/runtime_analysis_of_evolutionary_nas_for_multiclass_classification/)
 
 **Exploiting Similarity for Computation and Communication-Efficient Decentralized Optimization**
 
@@ -5700,7 +5698,7 @@
 **Improving the Effective Receptive Field of Message-Passing Neural Networks**
 
 - Paper: <https://arxiv.org/abs/2505.23185>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/improving_the_effec…](https://papernotes.org/ICML2025/llm_evaluation/improving_the_effective_receptive_field_of_message-passing_neural_networks/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/improving_the_effective_rec…](https://papernotes.org/ICML2025/others/improving_the_effective_receptive_field_of_message-passing_neural_networks/)
 
 **Constrained Hamiltonian Systems on Observation-Induced Fiber Bundles: Theory of Symmetry and Integrability** · ✨ Spotlight
 
@@ -5715,7 +5713,6 @@
 **UI-Evol: Automatic Knowledge Evolving for Computer Use Agents** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2505.21964>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/ui-evol_automatic_k…](https://papernotes.org/ICML2025/llm_evaluation/ui-evol_automatic_knowledge_evolving_for_computer_use_agents/)
 
 **How Do Transformers Learn Variable Binding in Symbolic Programs?**
 
@@ -5745,7 +5742,7 @@
 **Improved and Oracle-Efficient Online $\ell_1$-Multicalibration**
 
 - Paper: <https://arxiv.org/abs/2505.17365>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/improved_and_oracle…](https://papernotes.org/ICML2025/llm_evaluation/improved_and_oracle-efficient_online_ell_1-multicalibration/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/improved_and_oracle-efficie…](https://papernotes.org/ICML2025/others/improved_and_oracle-efficient_online_ell_1-multicalibration/)
 
 **Efficient Optimization with Orthogonality Constraint: a Randomized Riemannian Submanifold Method**
 
@@ -5775,7 +5772,7 @@
 **Synthesizing Images on Perceptual Boundaries of ANNs for Uncovering and Manipulating Human Perceptual Variability**
 
 - Paper: <https://arxiv.org/abs/2505.03641>
-- Notes (Chinese): [papernotes.org/ICML2025/robotics/synthesizing_images_on_pe…](https://papernotes.org/ICML2025/robotics/synthesizing_images_on_perceptual_boundaries_of_anns_for_uncovering_and_manipula/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/synthesizing_images_on_perc…](https://papernotes.org/ICML2025/others/synthesizing_images_on_perceptual_boundaries_of_anns_for_uncovering_and_manipula/)
 
 **Latent Variable Estimation in Bayesian Black-Litterman Models**
 
@@ -5845,7 +5842,7 @@
 **Feedforward Few-shot Species Range Estimation**
 
 - Paper: <https://arxiv.org/abs/2502.14977>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/feedforward_few-sho…](https://papernotes.org/ICML2025/llm_evaluation/feedforward_few-shot_species_range_estimation/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/feedforward_few-shot_specie…](https://papernotes.org/ICML2025/others/feedforward_few-shot_species_range_estimation/)
 
 **Prediction-Powered Adaptive Shrinkage Estimation** · 📌 Poster
 
@@ -5865,7 +5862,7 @@
 **Function Encoders: A Principled Approach to Transfer Learning in Hilbert Spaces**
 
 - Paper: <https://arxiv.org/abs/2501.18373>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/function_encoders_a…](https://papernotes.org/ICML2025/llm_evaluation/function_encoders_a_principled_approach_to_transfer_learning_in_hilbert_spaces/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/function_encoders_a_princip…](https://papernotes.org/ICML2025/others/function_encoders_a_principled_approach_to_transfer_learning_in_hilbert_spaces/)
 
 **Generation from Noisy Examples**
 
@@ -5900,7 +5897,7 @@
 **Improving Generalization with Flat Hilbert Bayesian Inference**
 
 - Paper: <https://arxiv.org/abs/2410.04196>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/improving_generaliz…](https://papernotes.org/ICML2025/llm_evaluation/improving_generalization_with_flat_hilbert_bayesian_inference/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/improving_generalization_wi…](https://papernotes.org/ICML2025/others/improving_generalization_with_flat_hilbert_bayesian_inference/)
 
 **OOD-Chameleon: Is Algorithm Selection for OOD Generalization Learnable?**
 
@@ -5935,7 +5932,7 @@
 **Learning Safe Strategies for Value Maximizing Buyers in Uniform Price Auctions**
 
 - Paper: <https://arxiv.org/abs/2406.03674>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/learning_safe_strat…](https://papernotes.org/ICML2025/llm_evaluation/learning_safe_strategies_for_value_maximizing_buyers_in_uniform_price_auctions/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/learning_safe_strategies_fo…](https://papernotes.org/ICML2025/others/learning_safe_strategies_for_value_maximizing_buyers_in_uniform_price_auctions/)
 
 **Nonparametric Modern Hopfield Models**
 
@@ -5965,12 +5962,12 @@
 **Gradient Aligned Regression via Pairwise Losses**
 
 - Paper: <https://arxiv.org/abs/2402.06104>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/gradient_aligned_re…](https://papernotes.org/ICML2025/llm_evaluation/gradient_aligned_regression_via_pairwise_losses/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/gradient_aligned_regression…](https://papernotes.org/ICML2025/others/gradient_aligned_regression_via_pairwise_losses/)
 
 **Provably Cost-Sensitive Adversarial Defense via Randomized Smoothing**
 
 - Paper: <https://arxiv.org/abs/2310.08732>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/provably_cost-sensi…](https://papernotes.org/ICML2025/llm_evaluation/provably_cost-sensitive_adversarial_defense_via_randomized_smoothing/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/provably_cost-sensitive_adv…](https://papernotes.org/ICML2025/others/provably_cost-sensitive_adversarial_defense_via_randomized_smoothing/)
 
 **Improved Generalization Bounds for Transductive Learning by Transductive Local Complexity and Its Applications**
 
@@ -5985,7 +5982,7 @@
 **Position: AI Evaluation Should Learn from How We Test Humans**
 
 - Paper: <https://arxiv.org/abs/2306.10512>
-- Notes (Chinese): [papernotes.org/ICML2025/llm_evaluation/position_ai_evaluat…](https://papernotes.org/ICML2025/llm_evaluation/position_ai_evaluation_should_learn_from_how_we_test_humans/)
+- Notes (Chinese): [papernotes.org/ICML2025/others/position_ai_evaluation_shou…](https://papernotes.org/ICML2025/others/position_ai_evaluation_should_learn_from_how_we_test_humans/)
 
 **Discrepancy Minimization in Input-Sparsity Time**
 

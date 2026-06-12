@@ -825,7 +825,6 @@
 **BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting**
 
 - Paper: <https://arxiv.org/abs/2506.22099>
-- Notes (Chinese): [papernotes.org/ICCV2025/3d_vision/beziergs_dynamic_urban_s…](https://papernotes.org/ICCV2025/3d_vision/beziergs_dynamic_urban_scene_reconstruction_with_bezier_curv/)
 
 **Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras**
 
@@ -3273,7 +3272,7 @@
 **Addressing Text Embedding Leakage in Diffusion-based Image Editing**
 
 - Paper: <https://arxiv.org/abs/2412.04715>
-- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/addressing_text_e…](https://papernotes.org/ICCV2025/image_generation/addressing_text_embedding_leakage_in_diffusion_based_image_editing/)
+- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/addressing_text_e…](https://papernotes.org/ICCV2025/image_generation/addressing_text_embedding_leakage_in_diffusion-based_image_editing/)
 - Notes (English): [en.papernotes.org/ICCV2025/image_generation/addressing_tex…](https://en.papernotes.org/ICCV2025/image_generation/addressing_text_embedding_leakage_in_diffusion_based_image_editing/)
 
 **Pinco: Position-induced Consistent Adapter for Diffusion Transformer in Foreground-conditioned Inpainting**
@@ -3636,7 +3635,7 @@
 
 **Addressing Text Embedding Leakage in Diffusion-based Image Editing**
 
-- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/addressing_text_e…](https://papernotes.org/ICCV2025/image_generation/addressing_text_embedding_leakage_in_diffusion_based_image_editing/)
+- Notes (Chinese): [papernotes.org/ICCV2025/image_generation/addressing_text_e…](https://papernotes.org/ICCV2025/image_generation/addressing_text_embedding_leakage_in_diffusion-based_image_editing/)
 - Notes (English): [en.papernotes.org/ICCV2025/image_generation/addressing_tex…](https://en.papernotes.org/ICCV2025/image_generation/addressing_text_embedding_leakage_in_diffusion_based_image_editing/)
 
 **ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation**
@@ -3731,8 +3730,8 @@
 
 - Paper: <https://arxiv.org/abs/2507.12455>
 - Code: <https://github.com/pspdada/SENTINEL>
-- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/mitigating_object_h…](https://papernotes.org/ICCV2025/multimodal_vlm/mitigating_object_hallucinations_via_sentence-level_early_intervention/)
-- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/mitigating_objec…](https://en.papernotes.org/ICCV2025/multimodal_vlm/mitigating_object_hallucinations_via_sentence-level_early_intervention/)
+- Notes (Chinese): [papernotes.org/ICCV2025/hallucination/mitigating_object_ha…](https://papernotes.org/ICCV2025/hallucination/mitigating_object_hallucinations_via_sentence-level_early_intervention/)
+- Notes (English): [en.papernotes.org/ICCV2025/hallucination/mitigating_object…](https://en.papernotes.org/ICCV2025/hallucination/mitigating_object_hallucinations_via_sentence-level_early_intervention/)
 
 **ViewSRD: 3D Visual Grounding via Structured Multi-View Decomposition**
 
@@ -3907,7 +3906,7 @@
 **Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context**
 
 - Paper: <https://arxiv.org/abs/2510.20229>
-- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/why_lvlms_are_more_…](https://papernotes.org/ICCV2025/multimodal_vlm/why_lvlms_are_more_prone_to_hallucinations_in_longer_responses_the_role_of_conte/)
+- Notes (Chinese): [papernotes.org/ICCV2025/hallucination/why_lvlms_are_more_p…](https://papernotes.org/ICCV2025/hallucination/why_lvlms_are_more_prone_to_hallucinations_in_longer_responses_the_role_of_conte/)
 
 **SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference**
 
@@ -4058,8 +4057,8 @@
 **ONLY: One-Layer Intervention Sufficiently Mitigates Hallucinations in Large Vision-Language Models**
 
 - Paper: <https://arxiv.org/abs/2507.00898>
-- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/only_onelayer_inter…](https://papernotes.org/ICCV2025/multimodal_vlm/only_onelayer_intervention_sufficiently_mitigates_hallucinat/)
-- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/only_onelayer_in…](https://en.papernotes.org/ICCV2025/multimodal_vlm/only_onelayer_intervention_sufficiently_mitigates_hallucinat/)
+- Notes (Chinese): [papernotes.org/ICCV2025/hallucination/only_onelayer_interv…](https://papernotes.org/ICCV2025/hallucination/only_onelayer_intervention_sufficiently_mitigates_hallucinat/)
+- Notes (English): [en.papernotes.org/ICCV2025/hallucination/only_onelayer_int…](https://en.papernotes.org/ICCV2025/hallucination/only_onelayer_intervention_sufficiently_mitigates_hallucinat/)
 
 **Unified Multimodal Understanding via Byte-Pair Visual Encoding**
 
@@ -4187,8 +4186,8 @@
 **DASH: Detection and Assessment of Systematic Hallucinations of VLMs**
 
 - Paper: <https://arxiv.org/abs/2503.23573>
-- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/dash_detection_and_…](https://papernotes.org/ICCV2025/multimodal_vlm/dash_detection_and_assessment_of_systematic_hallucinations_of_vlms/)
-- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/dash_detection_a…](https://en.papernotes.org/ICCV2025/multimodal_vlm/dash_detection_and_assessment_of_systematic_hallucinations_of_vlms/)
+- Notes (Chinese): [papernotes.org/ICCV2025/hallucination/dash_detection_and_a…](https://papernotes.org/ICCV2025/hallucination/dash_detection_and_assessment_of_systematic_hallucinations_of_vlms/)
+- Notes (English): [en.papernotes.org/ICCV2025/hallucination/dash_detection_an…](https://en.papernotes.org/ICCV2025/hallucination/dash_detection_and_assessment_of_systematic_hallucinations_of_vlms/)
 
 **AutoComPose: Automatic Generation of Pose Transition Descriptions for Composed Pose Retrieval Using Multimodal LLMs**
 
@@ -4674,7 +4673,7 @@
 
 **AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning**
 
-- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/aim_adaptive_i…](https://papernotes.org/ICCV2025/video_understanding/aim_adaptive_inference_of_multi_modal_llms_via_token_merging_and_pruning/)
+- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/aim_adaptive_i…](https://papernotes.org/ICCV2025/video_understanding/aim_adaptive_inference_multimodal_llms_token_merging_pruning/)
 - Notes (English): [en.papernotes.org/ICCV2025/video_understanding/aim_adaptiv…](https://en.papernotes.org/ICCV2025/video_understanding/aim_adaptive_inference_of_multi_modal_llms_via_token_merging_and_pruning/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
@@ -4766,7 +4765,7 @@
 
 - Paper: <https://arxiv.org/abs/2506.13897>
 - Code: <https://github.com/thkreutz/despite>
-- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/despite_explor…](https://papernotes.org/ICCV2025/video_understanding/despite_exploring_contrastive_deep_skeleton-pointcloud-imu-text_embeddings_for_a/)
+- Notes (Chinese): [papernotes.org/ICCV2025/others/despite_exploring_contrasti…](https://papernotes.org/ICCV2025/others/despite_exploring_contrastive_deep_skeletonpointcloudimutext/)
 - Notes (English): [en.papernotes.org/ICCV2025/others/despite_exploring_contra…](https://en.papernotes.org/ICCV2025/others/despite_exploring_contrastive_deep_skeletonpointcloudimutext/)
 
 **CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**
@@ -6724,7 +6723,7 @@
 **B-VLLM: A Vision Large Language Model with Balanced Spatio-Temporal Tokens**
 
 - Paper: <https://arxiv.org/abs/2412.09919>
-- Notes (Chinese): [papernotes.org/ICCV2025/model_compression/b_vllm_a_vision_…](https://papernotes.org/ICCV2025/model_compression/b_vllm_a_vision_large_language_model_with_balanced_spatio_temporal_tokens/)
+- Notes (Chinese): [papernotes.org/ICCV2025/model_compression/b-vllm_a_vision_…](https://papernotes.org/ICCV2025/model_compression/b-vllm_a_vision_large_language_model_with_balanced_spatio-temporal_tokens/)
 - Notes (English): [en.papernotes.org/ICCV2025/model_compression/b_vllm_a_visi…](https://en.papernotes.org/ICCV2025/model_compression/b_vllm_a_vision_large_language_model_with_balanced_spatio_temporal_tokens/)
 
 **UnZipLoRA: Separating Content and Style from a Single Image**
@@ -7922,7 +7921,7 @@
 
 - Paper: <https://arxiv.org/abs/2412.03248>
 - Code: <https://github.com/LaVi-Lab/AIM>
-- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/aim_adaptive_i…](https://papernotes.org/ICCV2025/video_understanding/aim_adaptive_inference_of_multi_modal_llms_via_token_merging_and_pruning/)
+- Notes (Chinese): [papernotes.org/ICCV2025/video_understanding/aim_adaptive_i…](https://papernotes.org/ICCV2025/video_understanding/aim_adaptive_inference_multimodal_llms_token_merging_pruning/)
 - Notes (English): [en.papernotes.org/ICCV2025/video_understanding/aim_adaptiv…](https://en.papernotes.org/ICCV2025/video_understanding/aim_adaptive_inference_of_multi_modal_llms_via_token_merging_and_pruning/)
 
 **Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections**
@@ -8856,8 +8855,6 @@
 **CoA-VLA: Improving Vision-Language-Action Models via Visual-Text Chain-of-Affordance**
 
 - Paper: <https://arxiv.org/abs/2412.20451>
-- Notes (Chinese): [papernotes.org/ICCV2025/multimodal_vlm/coa-vla_improving_v…](https://papernotes.org/ICCV2025/multimodal_vlm/coa-vla_improving_vision-language-action_models_via_visual-text_chain-of-afforda/)
-- Notes (English): [en.papernotes.org/ICCV2025/multimodal_vlm/coa-vla_improvin…](https://en.papernotes.org/ICCV2025/multimodal_vlm/coa-vla_improving_vision-language-action_models_via_visual-text_chain-of-afforda/)
 
 **AnyBimanual: Transferring Unimanual Policy for General Bimanual Manipulation**
 
@@ -9195,8 +9192,8 @@
 **ChartCap: Mitigating Hallucination of Dense Chart Captioning**
 
 - Paper: <https://arxiv.org/abs/2508.03164>
-- Notes (Chinese): [papernotes.org/ICCV2025/llm_safety/chartcap_mitigating_hal…](https://papernotes.org/ICCV2025/llm_safety/chartcap_mitigating_hallucination_of_dense_chart_captioning/)
-- Notes (English): [en.papernotes.org/ICCV2025/llm_safety/chartcap_mitigating_…](https://en.papernotes.org/ICCV2025/llm_safety/chartcap_mitigating_hallucination_of_dense_chart_captioning/)
+- Notes (Chinese): [papernotes.org/ICCV2025/hallucination/chartcap_mitigating_…](https://papernotes.org/ICCV2025/hallucination/chartcap_mitigating_hallucination_of_dense_chart_captioning/)
+- Notes (English): [en.papernotes.org/ICCV2025/hallucination/chartcap_mitigati…](https://en.papernotes.org/ICCV2025/hallucination/chartcap_mitigating_hallucination_of_dense_chart_captioning/)
 
 **Rethinking Few Shot CLIP Benchmarks: A Critical Analysis in the Inductive Setting**
 
@@ -10026,7 +10023,7 @@
 
 **B-VLLM: A Vision Large Language Model with Balanced Spatio-Temporal Tokens**
 
-- Notes (Chinese): [papernotes.org/ICCV2025/model_compression/b_vllm_a_vision_…](https://papernotes.org/ICCV2025/model_compression/b_vllm_a_vision_large_language_model_with_balanced_spatio_temporal_tokens/)
+- Notes (Chinese): [papernotes.org/ICCV2025/model_compression/b-vllm_a_vision_…](https://papernotes.org/ICCV2025/model_compression/b-vllm_a_vision_large_language_model_with_balanced_spatio-temporal_tokens/)
 - Notes (English): [en.papernotes.org/ICCV2025/model_compression/b_vllm_a_visi…](https://en.papernotes.org/ICCV2025/model_compression/b_vllm_a_vision_large_language_model_with_balanced_spatio_temporal_tokens/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>

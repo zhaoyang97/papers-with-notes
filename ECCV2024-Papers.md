@@ -118,7 +118,7 @@
 **LiDAR-Event Stereo Fusion with Hallucinations**
 
 - Paper: <https://arxiv.org/abs/2408.04633>
-- Notes (Chinese): [papernotes.org/ECCV2024/autonomous_driving/lidar-event_ste…](https://papernotes.org/ECCV2024/autonomous_driving/lidar-event_stereo_fusion_with_hallucinations/)
+- Notes (Chinese): [papernotes.org/ECCV2024/hallucination/lidar-event_stereo_f…](https://papernotes.org/ECCV2024/hallucination/lidar-event_stereo_fusion_with_hallucinations/)
 
 **Improving 2D Feature Representations by 3D-Aware Fine-Tuning**
 
@@ -435,7 +435,7 @@
 
 **LiDAR-Event Stereo Fusion with Hallucinations**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/autonomous_driving/lidar-event_ste…](https://papernotes.org/ECCV2024/autonomous_driving/lidar-event_stereo_fusion_with_hallucinations/)
+- Notes (Chinese): [papernotes.org/ECCV2024/hallucination/lidar-event_stereo_f…](https://papernotes.org/ECCV2024/hallucination/lidar-event_stereo_fusion_with_hallucinations/)
 
 **HAC: Hash-Grid Assisted Context for 3D Gaussian Splatting Compression**
 
@@ -1286,13 +1286,13 @@
 **BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-Language Models**
 
 - Paper: <https://arxiv.org/abs/2407.13442>
-- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/beaf_observing_befo…](https://papernotes.org/ECCV2024/multimodal_vlm/beaf_observing_beforeafter_changes_to_evaluate_hallucination/)
+- Notes (Chinese): [papernotes.org/ECCV2024/hallucination/beaf_observing_befor…](https://papernotes.org/ECCV2024/hallucination/beaf_observing_beforeafter_changes_to_evaluate_hallucination/)
 
 **BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-Language Models**
 
 - Paper: <https://arxiv.org/abs/2407.13442v1>
 - Project: <https://beafbench.github.io/>
-- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/beaf_observing_befo…](https://papernotes.org/ECCV2024/multimodal_vlm/beaf_observing_beforeafter_changes_to_evaluate_hallucination/)
+- Notes (Chinese): [papernotes.org/ECCV2024/hallucination/beaf_observing_befor…](https://papernotes.org/ECCV2024/hallucination/beaf_observing_beforeafter_changes_to_evaluate_hallucination/)
 
 **Quantized Prompt for Efficient Generalization of Vision-Language Models**
 
@@ -1317,7 +1317,6 @@
 **SpLIP: Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning**
 
 - Paper: <https://arxiv.org/abs/2407.04207>
-- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/elevating_all_zeros…](https://papernotes.org/ECCV2024/multimodal_vlm/elevating_all_zeroshot_sketchbased_image_retrieval_through_m/)
 
 **Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning**
 
@@ -1363,7 +1362,6 @@
 **MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math?**
 
 - Paper: <https://arxiv.org/abs/2403.14624>
-- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/mathverse_does_your…](https://papernotes.org/ECCV2024/multimodal_vlm/mathverse_does_your_multimodal_llm_truly_see_the_diagrams_in/)
 
 **MyVLM: Personalizing VLMs for User-Specific Queries**
 
@@ -1437,7 +1435,6 @@
 
 **Vary: Scaling up the Vision Vocabulary for Large Vision-Language Model**
 
-- Notes (Chinese): [papernotes.org/ECCV2024/multimodal_vlm/vary_scaling_up_the…](https://papernotes.org/ECCV2024/multimodal_vlm/vary_scaling_up_the_vision_vocabulary_for_large_vision-language_model/)
 
 **Merlin: Empowering Multimodal LLMs with Foresight Minds**
 
@@ -1868,7 +1865,6 @@
 **DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion**
 
 - Paper: <https://arxiv.org/abs/2403.18274>
-- Notes (Chinese): [papernotes.org/ECCV2024/autonomous_driving/dvlo_deep_visua…](https://papernotes.org/ECCV2024/autonomous_driving/dvlo_deep_visuallidar_odometry_with_localtoglobal_featu/)
 
 **Safe-Sim: Safety-Critical Closed-Loop Traffic Simulation with Diffusion-Controllable Adversaries**
 

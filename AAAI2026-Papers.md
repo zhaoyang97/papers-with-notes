@@ -116,8 +116,8 @@
 **Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversity-Aware Sampling, and Conflict Regularization** · 📌 Poster
 
 - Paper: <https://arxiv.org/abs/2601.06224>
-- Notes (Chinese): [papernotes.org/AAAI2026/multimodal_vlm/ground_what_you_see…](https://papernotes.org/AAAI2026/multimodal_vlm/ground_what_you_see_hallucination-resistant_mllms_via_caption_feedback_diversity/)
-- Notes (English): [en.papernotes.org/AAAI2026/multimodal_vlm/ground_what_you_…](https://en.papernotes.org/AAAI2026/multimodal_vlm/ground_what_you_see_hallucination-resistant_mllms_via_caption_feedback_diversity/)
+- Notes (Chinese): [papernotes.org/AAAI2026/hallucination/ground_what_you_see_…](https://papernotes.org/AAAI2026/hallucination/ground_what_you_see_hallucination-resistant_mllms_via_caption_feedback_diversity/)
+- Notes (English): [en.papernotes.org/AAAI2026/hallucination/ground_what_you_s…](https://en.papernotes.org/AAAI2026/hallucination/ground_what_you_see_hallucination-resistant_mllms_via_caption_feedback_diversity/)
 
 **AbductiveMLLM: Boosting Visual Abductive Reasoning Within MLLMs** · 🎤 Oral
 
@@ -228,7 +228,7 @@
 **Learning Cell-Aware Hierarchical Multi-Modal Representations for Robust Molecular Modeling** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2511.21120>
-- Notes (Chinese): [papernotes.org/AAAI2026/computational_biology/learning_cel…](https://papernotes.org/AAAI2026/computational_biology/learning_cell-aware_hierarchical_multi-modal_representations/)
+- Notes (Chinese): [papernotes.org/AAAI2026/medical_nlp/learning_cell-aware_hi…](https://papernotes.org/AAAI2026/medical_nlp/learning_cell-aware_hierarchical_multi-modal_representations/)
 - Notes (English): [en.papernotes.org/AAAI2026/computational_biology/learning_…](https://en.papernotes.org/AAAI2026/computational_biology/learning_cell-aware_hierarchical_multi-modal_representations/)
 
 **EM-KD: Distilling Efficient Multimodal Large Language Model with Unbalanced Vision Tokens**
@@ -342,7 +342,7 @@
 **Large Language Models Meet Extreme Multi-label Classification: Scaling and Multi-modal Framework**
 
 - Paper: <https://arxiv.org/abs/2511.13189>
-- Notes (Chinese): [papernotes.org/AAAI2026/image_restoration/large_language_m…](https://papernotes.org/AAAI2026/image_restoration/large_language_models_meet_extreme_multi-label_classification_scaling_and_multi-/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multimodal_vlm/large_language_mode…](https://papernotes.org/AAAI2026/multimodal_vlm/large_language_models_meet_extreme_multi-label_classification_scaling_and_multi-/)
 - Notes (English): [en.papernotes.org/AAAI2026/image_restoration/large_languag…](https://en.papernotes.org/AAAI2026/image_restoration/large_language_models_meet_extreme_multi-label_classification_scaling_and_multi-/)
 
 **SAGE: Spuriousness-Aware Guided Prompt Exploration for Mitigating Multimodal Bias**
@@ -378,7 +378,7 @@
 **To Align or Not to Align: Strategic Multimodal Representation Alignment for Optimal Performance**
 
 - Paper: <https://arxiv.org/abs/2511.12121>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/to_align_or_not_to_align_…](https://papernotes.org/AAAI2026/robotics/to_align_or_not_to_align_strategic_multimodal_representation_alignment_for_optim/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multimodal_vlm/to_align_or_not_to_…](https://papernotes.org/AAAI2026/multimodal_vlm/to_align_or_not_to_align_strategic_multimodal_representation_alignment_for_optim/)
 - Notes (English): [en.papernotes.org/AAAI2026/robotics/to_align_or_not_to_ali…](https://en.papernotes.org/AAAI2026/robotics/to_align_or_not_to_align_strategic_multimodal_representation_alignment_for_optim/)
 
 **Concept-RuleNet: Grounded Multi-Agent Neurosymbolic Reasoning in Vision Language Models** · 🎤 Oral
@@ -606,8 +606,8 @@
 **Verb Mirage: Unveiling and Assessing Verb Concept Hallucinations in Multimodal Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2412.04939>
-- Notes (Chinese): [papernotes.org/AAAI2026/multimodal_vlm/verb_mirage_unveili…](https://papernotes.org/AAAI2026/multimodal_vlm/verb_mirage_unveiling_and_assessing_verb_concept_hallucinations_in_multimodal_la/)
-- Notes (English): [en.papernotes.org/AAAI2026/multimodal_vlm/verb_mirage_unve…](https://en.papernotes.org/AAAI2026/multimodal_vlm/verb_mirage_unveiling_and_assessing_verb_concept_hallucinations_in_multimodal_la/)
+- Notes (Chinese): [papernotes.org/AAAI2026/hallucination/verb_mirage_unveilin…](https://papernotes.org/AAAI2026/hallucination/verb_mirage_unveiling_and_assessing_verb_concept_hallucinations_in_multimodal_la/)
+- Notes (English): [en.papernotes.org/AAAI2026/hallucination/verb_mirage_unvei…](https://en.papernotes.org/AAAI2026/hallucination/verb_mirage_unveiling_and_assessing_verb_concept_hallucinations_in_multimodal_la/)
 
 **Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration**
 
@@ -638,7 +638,7 @@
 **Quantifying Conversational Reliability of Large Language Models under Multi-Turn Interaction** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2603.01423>
-- Notes (Chinese): [papernotes.org/AAAI2026/video_understanding/quantifying_co…](https://papernotes.org/AAAI2026/video_understanding/quantifying_conversational_reliability_of_large_language_models_under_multi-turn/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_nlp/quantifying_conversational…](https://papernotes.org/AAAI2026/llm_nlp/quantifying_conversational_reliability_of_large_language_models_under_multi-turn/)
 - Notes (English): [en.papernotes.org/AAAI2026/video_understanding/quantifying…](https://en.papernotes.org/AAAI2026/video_understanding/quantifying_conversational_reliability_of_large_language_models_under_multi-turn/)
 
 **Towards LLM-Empowered Knowledge Tracing via LLM-Student Hierarchical Behavior Alignment in Hyperbolic Space**
@@ -740,7 +740,7 @@
 **LOOM: Personalized Learning Informed by Daily LLM Conversations Toward Long-Term Mastery via a Dynamic Learner Memory Graph** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2511.21037>
-- Notes (Chinese): [papernotes.org/AAAI2026/video_understanding/loom_personali…](https://papernotes.org/AAAI2026/video_understanding/loom_personalized_learning_informed_by_daily_llm_conversations_toward_long-term_/)
+- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/loom_personalize…](https://papernotes.org/AAAI2026/model_compression/loom_personalized_learning_informed_by_daily_llm_conversations_toward_long-term_/)
 - Notes (English): [en.papernotes.org/AAAI2026/video_understanding/loom_person…](https://en.papernotes.org/AAAI2026/video_understanding/loom_personalized_learning_informed_by_daily_llm_conversations_toward_long-term_/)
 
 **Democratizing LLM Efficiency: From Hyperscale Optimizations to Universal Deployability**
@@ -788,7 +788,7 @@
 **GEM: Generative Entropy-Guided Preference Modeling for Few-shot Alignment of LLMs** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2511.13007>
-- Notes (Chinese): [papernotes.org/AAAI2026/medical_imaging/gem_generative_ent…](https://papernotes.org/AAAI2026/medical_imaging/gem_generative_entropy-guided_preference_modeling_for_few-shot_alignment_of_llms/)
+- Notes (Chinese): [papernotes.org/AAAI2026/medical_nlp/gem_generative_entropy…](https://papernotes.org/AAAI2026/medical_nlp/gem_generative_entropy-guided_preference_modeling_for_few-shot_alignment_of_llms/)
 - Notes (English): [en.papernotes.org/AAAI2026/medical_imaging/gem_generative_…](https://en.papernotes.org/AAAI2026/medical_imaging/gem_generative_entropy-guided_preference_modeling_for_few-shot_alignment_of_llms/)
 
 **Co-Layout: LLM-driven Co-optimization for Interior Layout**
@@ -800,7 +800,7 @@
 **OAD-Promoter: Enhancing Zero-shot VQA using Large Language Models with Object Attribute Description**
 
 - Paper: <https://arxiv.org/abs/2511.12131>
-- Notes (Chinese): [papernotes.org/AAAI2026/information_retrieval/oad-promoter…](https://papernotes.org/AAAI2026/information_retrieval/oad-promoter_enhancing_zero-shot_vqa_using_large_language_models_with_object_att/)
+- Notes (Chinese): [papernotes.org/AAAI2026/ai_safety/oad-promoter_enhancing_z…](https://papernotes.org/AAAI2026/ai_safety/oad-promoter_enhancing_zero-shot_vqa_using_large_language_models_with_object_att/)
 - Notes (English): [en.papernotes.org/AAAI2026/information_retrieval/oad-promo…](https://en.papernotes.org/AAAI2026/information_retrieval/oad-promoter_enhancing_zero-shot_vqa_using_large_language_models_with_object_att/)
 
 **Scaling Equitable Reflection Assessment in Education via Large Language Models and Role-Based Feedback Agents**
@@ -1028,7 +1028,7 @@
 **CliCARE: Grounding Large Language Models in Clinical Guidelines for Decision Support over Longitudinal Cancer Electronic Health Records** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2507.22533>
-- Notes (Chinese): [papernotes.org/AAAI2026/medical_imaging/clicare_grounding_…](https://papernotes.org/AAAI2026/medical_imaging/clicare_grounding_large_language_models_in_clinical_guidelines_for_decision_supp/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_nlp/clicare_grounding_large_la…](https://papernotes.org/AAAI2026/llm_nlp/clicare_grounding_large_language_models_in_clinical_guidelines_for_decision_supp/)
 - Notes (English): [en.papernotes.org/AAAI2026/medical_imaging/clicare_groundi…](https://en.papernotes.org/AAAI2026/medical_imaging/clicare_grounding_large_language_models_in_clinical_guidelines_for_decision_supp/)
 
 **Why Do Open-Source LLMs Struggle with Data Analysis? A Systematic Empirical Study** · 🎤 Oral
@@ -1112,7 +1112,7 @@
 **A Multi-Agent Conversational Bandit Approach to Online Evaluation and Selection of User-Aligned LLM Responses**
 
 - Paper: <https://arxiv.org/abs/2501.01849>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_agent/a_multi-agent_conversati…](https://papernotes.org/AAAI2026/llm_agent/a_multi-agent_conversational_bandit_approach_to_online_evaluation_and_selection_/)
+- Notes (Chinese): [papernotes.org/AAAI2026/reinforcement_learning/a_multi-age…](https://papernotes.org/AAAI2026/reinforcement_learning/a_multi-agent_conversational_bandit_approach_to_online_evaluation_and_selection_/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_agent/a_multi-agent_convers…](https://en.papernotes.org/AAAI2026/llm_agent/a_multi-agent_conversational_bandit_approach_to_online_evaluation_and_selection_/)
 
 **CoEvo: Continual Evolution of Symbolic Solutions Using Large Language Models**
@@ -1275,7 +1275,7 @@
 **CompTrack: Information Bottleneck-Guided Low-Rank Dynamic Token Compression for Point Cloud Tracking** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2511.15580>
-- Notes (Chinese): [papernotes.org/AAAI2026/others/comptrack_information_bottl…](https://papernotes.org/AAAI2026/others/comptrack_information_bottleneckguided_lowrank_dynamic_token_compres/)
+- Notes (Chinese): [papernotes.org/AAAI2026/autonomous_driving/comptrack_infor…](https://papernotes.org/AAAI2026/autonomous_driving/comptrack_information_bottleneckguided_lowrank_dynamic_token_compres/)
 - Notes (English): [en.papernotes.org/AAAI2026/others/comptrack_information_bo…](https://en.papernotes.org/AAAI2026/others/comptrack_information_bottleneckguided_lowrank_dynamic_token_compres/)
 
 **Gaussian Blending: Rethinking Alpha Blending in 3D Gaussian Splatting**
@@ -1565,7 +1565,7 @@
 **Pairing-free Group-level Knowledge Distillation for Robust Gastrointestinal Lesion Classification in White-Light Endoscopy**
 
 - Paper: <https://arxiv.org/abs/2601.09209>
-- Notes (Chinese): [papernotes.org/AAAI2026/medical_imaging/pairing-free_group…](https://papernotes.org/AAAI2026/medical_imaging/pairing-free_group-level_knowledge_distillation_for_robust_gastrointestinal_lesi/)
+- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/pairing-free_gro…](https://papernotes.org/AAAI2026/model_compression/pairing-free_group-level_knowledge_distillation_for_robust_gastrointestinal_lesi/)
 - Notes (English): [en.papernotes.org/AAAI2026/medical_imaging/pairing-free_gr…](https://en.papernotes.org/AAAI2026/medical_imaging/pairing-free_group-level_knowledge_distillation_for_robust_gastrointestinal_lesi/)
 
 **SmartSplat: Feature-Smart Gaussians for Scalable Compression of Ultra-High-Resolution Images**
@@ -1643,8 +1643,8 @@
 **Listen Like a Teacher: Mitigating Whisper Hallucinations using Adaptive Layer Attention and Knowledge Distillation**
 
 - Paper: <https://arxiv.org/abs/2511.14219>
-- Notes (Chinese): [papernotes.org/AAAI2026/audio_speech/listen_like_a_teacher…](https://papernotes.org/AAAI2026/audio_speech/listen_like_a_teacher_mitigating_whisper_hallucinations_using_adaptive_layer_att/)
-- Notes (English): [en.papernotes.org/AAAI2026/audio_speech/listen_like_a_teac…](https://en.papernotes.org/AAAI2026/audio_speech/listen_like_a_teacher_mitigating_whisper_hallucinations_using_adaptive_layer_att/)
+- Notes (Chinese): [papernotes.org/AAAI2026/hallucination/listen_like_a_teache…](https://papernotes.org/AAAI2026/hallucination/listen_like_a_teacher_mitigating_whisper_hallucinations_using_adaptive_layer_att/)
+- Notes (English): [en.papernotes.org/AAAI2026/hallucination/listen_like_a_tea…](https://en.papernotes.org/AAAI2026/hallucination/listen_like_a_teacher_mitigating_whisper_hallucinations_using_adaptive_layer_att/)
 
 **Few-Shot Precise Event Spotting via Unified Multi-Entity Graph and Distillation**
 
@@ -1655,7 +1655,7 @@
 **Credal Ensemble Distillation for Uncertainty Quantification**
 
 - Paper: <https://arxiv.org/abs/2511.13766>
-- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/credal_ensemble_…](https://papernotes.org/AAAI2026/model_compression/credal_ensemble_distillation_for_uncertainty_quantification/)
+- Notes (Chinese): [papernotes.org/AAAI2026/ai_safety/credal_ensemble_distilla…](https://papernotes.org/AAAI2026/ai_safety/credal_ensemble_distillation_for_uncertainty_quantification/)
 - Notes (English): [en.papernotes.org/AAAI2026/model_compression/credal_ensemb…](https://en.papernotes.org/AAAI2026/model_compression/credal_ensemble_distillation_for_uncertainty_quantification/)
 
 **Fine-Tuned LLMs Know They Don't Know: A Parameter-Efficient Approach to Recovering Honesty**
@@ -1685,13 +1685,13 @@
 **From Parameter to Representation: A Closed-Form Approach for Controllable Model Merging**
 
 - Paper: <https://arxiv.org/abs/2511.10943>
-- Notes (Chinese): [papernotes.org/AAAI2026/recommender/from_parameter_to_repr…](https://papernotes.org/AAAI2026/recommender/from_parameter_to_representation_a_closed-form_approach_for_controllable_model_m/)
+- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/from_parameter_t…](https://papernotes.org/AAAI2026/model_compression/from_parameter_to_representation_a_closed-form_approach_for_controllable_model_m/)
 - Notes (English): [en.papernotes.org/AAAI2026/recommender/from_parameter_to_r…](https://en.papernotes.org/AAAI2026/recommender/from_parameter_to_representation_a_closed-form_approach_for_controllable_model_m/)
 
 **Do Not Merge My Model! Safeguarding Open-Source LLMs Against Unauthorized Model Merging**
 
 - Paper: <https://arxiv.org/abs/2511.10712>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_nlp/do_not_merge_my_model_safe…](https://papernotes.org/AAAI2026/llm_nlp/do_not_merge_my_model_safeguarding_open-source_llms_against_unauthorized_model_m/)
+- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/do_not_merge_my_…](https://papernotes.org/AAAI2026/model_compression/do_not_merge_my_model_safeguarding_open-source_llms_against_unauthorized_model_m/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_nlp/do_not_merge_my_model_s…](https://en.papernotes.org/AAAI2026/llm_nlp/do_not_merge_my_model_safeguarding_open-source_llms_against_unauthorized_model_m/)
 
 **LampQ: Towards Accurate Layer-wise Mixed Precision Quantization for Vision Transformers**
@@ -1715,7 +1715,7 @@
 **Asymmetric Cross-Modal Knowledge Distillation: Bridging Modalities with Weak Semantic Consistency**
 
 - Paper: <https://arxiv.org/abs/2511.08901>
-- Notes (Chinese): [papernotes.org/AAAI2026/remote_sensing/asymmetric_cross-mo…](https://papernotes.org/AAAI2026/remote_sensing/asymmetric_cross-modal_knowledge_distillation_bridging_modalities_with_weak_sema/)
+- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/asymmetric_cross…](https://papernotes.org/AAAI2026/model_compression/asymmetric_cross-modal_knowledge_distillation_bridging_modalities_with_weak_sema/)
 - Notes (English): [en.papernotes.org/AAAI2026/remote_sensing/asymmetric_cross…](https://en.papernotes.org/AAAI2026/remote_sensing/asymmetric_cross-modal_knowledge_distillation_bridging_modalities_with_weak_sema/)
 
 **Sharp Eyes and Memory for VideoLLMs: Information-Aware Visual Token Pruning for Efficient and Reliable VideoLLM Reasoning** · 📌 Poster
@@ -1739,13 +1739,13 @@
 **A Closer Look at Knowledge Distillation in Spiking Neural Network Training**
 
 - Paper: <https://arxiv.org/abs/2511.06902>
-- Notes (Chinese): [papernotes.org/AAAI2026/interpretability/a_closer_look_at_…](https://papernotes.org/AAAI2026/interpretability/a_closer_look_at_knowledge_distillation_in_spiking_neural_ne/)
+- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/a_closer_look_at…](https://papernotes.org/AAAI2026/model_compression/a_closer_look_at_knowledge_distillation_in_spiking_neural_ne/)
 - Notes (English): [en.papernotes.org/AAAI2026/interpretability/a_closer_look_…](https://en.papernotes.org/AAAI2026/interpretability/a_closer_look_at_knowledge_distillation_in_spiking_neural_ne/)
 
 **Distillation Dynamics: Towards Understanding Feature-Based Distillation in Vision Transformers**
 
 - Paper: <https://arxiv.org/abs/2511.06848>
-- Notes (Chinese): [papernotes.org/AAAI2026/video_understanding/distillation_d…](https://papernotes.org/AAAI2026/video_understanding/distillation_dynamics_towards_understanding_feature-based_di/)
+- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/distillation_dyn…](https://papernotes.org/AAAI2026/model_compression/distillation_dynamics_towards_understanding_feature-based_di/)
 - Notes (English): [en.papernotes.org/AAAI2026/video_understanding/distillatio…](https://en.papernotes.org/AAAI2026/video_understanding/distillation_dynamics_towards_understanding_feature-based_di/)
 
 **G2L:From Giga-Scale to Cancer-Specific Large-Scale Pathology Foundation Models via Knowledge Distillation** · 🛠️ Workshop
@@ -1763,7 +1763,7 @@
 **QuantVSR: Low-Bit Post-Training Quantization for Real-World Video Super-Resolution**
 
 - Paper: <https://arxiv.org/abs/2508.04485>
-- Notes (Chinese): [papernotes.org/AAAI2026/image_generation/quantvsr_low-bit_…](https://papernotes.org/AAAI2026/image_generation/quantvsr_low-bit_post-training_quantization_for_real-world_video_super-resolutio/)
+- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/quantvsr_low-bit…](https://papernotes.org/AAAI2026/model_compression/quantvsr_low-bit_post-training_quantization_for_real-world_video_super-resolutio/)
 - Notes (English): [en.papernotes.org/AAAI2026/image_generation/quantvsr_low-b…](https://en.papernotes.org/AAAI2026/image_generation/quantvsr_low-bit_post-training_quantization_for_real-world_video_super-resolutio/)
 
 **CAMERA: Multi-Matrix Joint Compression for MoE Models via Micro-Expert Redundancy Analysis**
@@ -1835,7 +1835,7 @@
 **Error Correction in Radiology Reports: A Knowledge Distillation-Based Multi-Stage Framework**
 
 - Paper: <https://arxiv.org/abs/2406.15045>
-- Notes (Chinese): [papernotes.org/AAAI2026/medical_imaging/error_correction_i…](https://papernotes.org/AAAI2026/medical_imaging/error_correction_in_radiology_reports_a_knowledge_distillation-based_multi-stage/)
+- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/error_correction…](https://papernotes.org/AAAI2026/model_compression/error_correction_in_radiology_reports_a_knowledge_distillation-based_multi-stage/)
 - Notes (English): [en.papernotes.org/AAAI2026/medical_imaging/error_correctio…](https://en.papernotes.org/AAAI2026/medical_imaging/error_correction_in_radiology_reports_a_knowledge_distillation-based_multi-stage/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
@@ -1855,7 +1855,7 @@
 **Voices, Faces, and Feelings: Multi-modal Emotion-Cognition Captioning for Mental Health Understanding**
 
 - Paper: <https://arxiv.org/abs/2603.01816>
-- Notes (Chinese): [papernotes.org/AAAI2026/medical_imaging/voices_faces_and_f…](https://papernotes.org/AAAI2026/medical_imaging/voices_faces_and_feelings_multi-modal_emotion-cognition_captioning_for_mental_he/)
+- Notes (Chinese): [papernotes.org/AAAI2026/medical_nlp/voices_faces_and_feeli…](https://papernotes.org/AAAI2026/medical_nlp/voices_faces_and_feelings_multi-modal_emotion-cognition_captioning_for_mental_he/)
 - Notes (English): [en.papernotes.org/AAAI2026/medical_imaging/voices_faces_an…](https://en.papernotes.org/AAAI2026/medical_imaging/voices_faces_and_feelings_multi-modal_emotion-cognition_captioning_for_mental_he/)
 
 **Vascular anatomy-aware self-supervised pre-training for X-ray angiogram analysis**
@@ -1879,13 +1879,13 @@
 **Measuring Stability Beyond Accuracy in Small Open-Source Medical Large Language Models for Pediatric Endocrinology** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2601.11567>
-- Notes (Chinese): [papernotes.org/AAAI2026/medical_imaging/measuring_stabilit…](https://papernotes.org/AAAI2026/medical_imaging/measuring_stability_beyond_accuracy_in_small_open-source_medical_large_language_/)
+- Notes (Chinese): [papernotes.org/AAAI2026/medical_nlp/measuring_stability_be…](https://papernotes.org/AAAI2026/medical_nlp/measuring_stability_beyond_accuracy_in_small_open-source_medical_large_language_/)
 - Notes (English): [en.papernotes.org/AAAI2026/medical_imaging/measuring_stabi…](https://en.papernotes.org/AAAI2026/medical_imaging/measuring_stability_beyond_accuracy_in_small_open-source_medical_large_language_/)
 
 **PulseMind: A Multi-Modal Medical Model for Real-World Clinical Diagnosis**
 
 - Paper: <https://arxiv.org/abs/2601.07344>
-- Notes (Chinese): [papernotes.org/AAAI2026/medical_nlp/pulsemind_a_multi-moda…](https://papernotes.org/AAAI2026/medical_nlp/pulsemind_a_multi-modal_medical_model_for_real-world_clinical_diagnosis/)
+- Notes (Chinese): [papernotes.org/AAAI2026/medical_imaging/pulsemind_a_multi-…](https://papernotes.org/AAAI2026/medical_imaging/pulsemind_a_multi-modal_medical_model_for_real-world_clinical_diagnosis/)
 - Notes (English): [en.papernotes.org/AAAI2026/medical_nlp/pulsemind_a_multi-m…](https://en.papernotes.org/AAAI2026/medical_nlp/pulsemind_a_multi-modal_medical_model_for_real-world_clinical_diagnosis/)
 
 **Bidirectional Channel-selective Semantic Interaction for Semi-Supervised Medical Segmentation**
@@ -2005,7 +2005,7 @@
 **Expert-Guided Prompting and Retrieval-Augmented Generation for Emergency Medical Service Question Answering**
 
 - Paper: <https://arxiv.org/abs/2511.10900>
-- Notes (Chinese): [papernotes.org/AAAI2026/medical_imaging/expert-guided_prom…](https://papernotes.org/AAAI2026/medical_imaging/expert-guided_prompting_and_retrieval-augmented_generation_for_emergency_medical/)
+- Notes (Chinese): [papernotes.org/AAAI2026/medical_nlp/expert-guided_promptin…](https://papernotes.org/AAAI2026/medical_nlp/expert-guided_prompting_and_retrieval-augmented_generation_for_emergency_medical/)
 - Notes (English): [en.papernotes.org/AAAI2026/medical_imaging/expert-guided_p…](https://en.papernotes.org/AAAI2026/medical_imaging/expert-guided_prompting_and_retrieval-augmented_generation_for_emergency_medical/)
 
 **Multivariate Gaussian Representation Learning for Medical Action Evaluation**
@@ -2253,7 +2253,7 @@
 **Hierarchical Schedule Optimization for Fast and Robust Diffusion Model Sampling**
 
 - Paper: <https://arxiv.org/abs/2511.11688>
-- Notes (Chinese): [papernotes.org/AAAI2026/medical_imaging/hierarchical_sched…](https://papernotes.org/AAAI2026/medical_imaging/hierarchical_schedule_optimization_for_fast_and_robust_diffusion_model_sampling/)
+- Notes (Chinese): [papernotes.org/AAAI2026/image_generation/hierarchical_sche…](https://papernotes.org/AAAI2026/image_generation/hierarchical_schedule_optimization_for_fast_and_robust_diffusion_model_sampling/)
 - Notes (English): [en.papernotes.org/AAAI2026/medical_imaging/hierarchical_sc…](https://en.papernotes.org/AAAI2026/medical_imaging/hierarchical_schedule_optimization_for_fast_and_robust_diffusion_model_sampling/)
 
 **Right Looks, Wrong Reasons: Compositional Fidelity in Text-to-Image Generation**
@@ -2277,7 +2277,7 @@
 **Rectified Noise: A Generative Model Using Positive-incentive Noise**
 
 - Paper: <https://arxiv.org/abs/2511.07911>
-- Notes (Chinese): [papernotes.org/AAAI2026/image_generation/rectified_noise_a…](https://papernotes.org/AAAI2026/image_generation/rectified_noise_a_generative_model_using_positive-incentive_noise/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_pretraining/rectified_noise_a_…](https://papernotes.org/AAAI2026/llm_pretraining/rectified_noise_a_generative_model_using_positive-incentive_noise/)
 - Notes (English): [en.papernotes.org/AAAI2026/image_generation/rectified_nois…](https://en.papernotes.org/AAAI2026/image_generation/rectified_noise_a_generative_model_using_positive-incentive_noise/)
 
 **GEWDiff: Geometric Enhanced Wavelet-based Diffusion Model for Hyperspectral Image Super-resolution**
@@ -2295,7 +2295,7 @@
 **AnoStyler: Text-Driven Localized Anomaly Generation via Lightweight Style Transfer**
 
 - Paper: <https://arxiv.org/abs/2511.06687>
-- Notes (Chinese): [papernotes.org/AAAI2026/image_generation/anostyler_text-dr…](https://papernotes.org/AAAI2026/image_generation/anostyler_text-driven_localized_anomaly_generation_via_light/)
+- Notes (Chinese): [papernotes.org/AAAI2026/object_detection/anostyler_text-dr…](https://papernotes.org/AAAI2026/object_detection/anostyler_text-driven_localized_anomaly_generation_via_light/)
 - Notes (English): [en.papernotes.org/AAAI2026/image_generation/anostyler_text…](https://en.papernotes.org/AAAI2026/image_generation/anostyler_text-driven_localized_anomaly_generation_via_light/)
 
 **Breaking the Modality Barrier: Generative Modeling for Accurate Molecule Retrieval from Mass Spectra**
@@ -2337,13 +2337,13 @@
 **Virtual Multiplex Staining for Histological Images using a Marker-wise Conditioned Diffusion Model**
 
 - Paper: <https://arxiv.org/abs/2508.14681>
-- Notes (Chinese): [papernotes.org/AAAI2026/medical_imaging/virtual_multiplex_…](https://papernotes.org/AAAI2026/medical_imaging/virtual_multiplex_staining_for_histological_images_using_a_marker-wise_condition/)
+- Notes (Chinese): [papernotes.org/AAAI2026/image_generation/virtual_multiplex…](https://papernotes.org/AAAI2026/image_generation/virtual_multiplex_staining_for_histological_images_using_a_marker-wise_condition/)
 - Notes (English): [en.papernotes.org/AAAI2026/medical_imaging/virtual_multipl…](https://en.papernotes.org/AAAI2026/medical_imaging/virtual_multiplex_staining_for_histological_images_using_a_marker-wise_condition/)
 
 **SAGA: Learning Signal-Aligned Distributions for Improved Text-to-Image Generation**
 
 - Paper: <https://arxiv.org/abs/2508.13866>
-- Notes (Chinese): [papernotes.org/AAAI2026/object_detection/saga_learning_sig…](https://papernotes.org/AAAI2026/object_detection/saga_learning_signal-aligned_distributions_for_improved_text-to-image_generation/)
+- Notes (Chinese): [papernotes.org/AAAI2026/image_generation/saga_learning_sig…](https://papernotes.org/AAAI2026/image_generation/saga_learning_signal-aligned_distributions_for_improved_text-to-image_generation/)
 - Notes (English): [en.papernotes.org/AAAI2026/object_detection/saga_learning_…](https://en.papernotes.org/AAAI2026/object_detection/saga_learning_signal-aligned_distributions_for_improved_text-to-image_generation/)
 
 **X2Edit: Revisiting Arbitrary-Instruction Image Editing through Self-Constructed Data and Task-Aware Representation Learning**
@@ -2373,7 +2373,7 @@
 **DIFFA: Large Language Diffusion Models Can Listen and Understand**
 
 - Paper: <https://arxiv.org/abs/2507.18452>
-- Notes (Chinese): [papernotes.org/AAAI2026/image_generation/diffa_large_langu…](https://papernotes.org/AAAI2026/image_generation/diffa_large_language_diffusion_models_can_listen_and_understand/)
+- Notes (Chinese): [papernotes.org/AAAI2026/audio_speech/diffa_large_language_…](https://papernotes.org/AAAI2026/audio_speech/diffa_large_language_diffusion_models_can_listen_and_understand/)
 - Notes (English): [en.papernotes.org/AAAI2026/image_generation/diffa_large_la…](https://en.papernotes.org/AAAI2026/image_generation/diffa_large_language_diffusion_models_can_listen_and_understand/)
 
 **T-LoRA: Single Image Diffusion Model Customization Without Overfitting**
@@ -2385,13 +2385,13 @@
 **Symmetrical Flow Matching: Unified Image Generation, Segmentation, and Classification with Score-Based Generative Models**
 
 - Paper: <https://arxiv.org/abs/2506.10634>
-- Notes (Chinese): [papernotes.org/AAAI2026/segmentation/symmetrical_flow_matc…](https://papernotes.org/AAAI2026/segmentation/symmetrical_flow_matching_unified_image_generation_segmentation_and_classificati/)
+- Notes (Chinese): [papernotes.org/AAAI2026/image_generation/symmetrical_flow_…](https://papernotes.org/AAAI2026/image_generation/symmetrical_flow_matching_unified_image_generation_segmentation_and_classificati/)
 - Notes (English): [en.papernotes.org/AAAI2026/segmentation/symmetrical_flow_m…](https://en.papernotes.org/AAAI2026/segmentation/symmetrical_flow_matching_unified_image_generation_segmentation_and_classificati/)
 
 **Rethinking Direct Preference Optimization in Diffusion Models** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2505.18736>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_alignment/rethinking_direct_pr…](https://papernotes.org/AAAI2026/llm_alignment/rethinking_direct_preference_optimization_in_diffusion_models/)
+- Notes (Chinese): [papernotes.org/AAAI2026/image_generation/rethinking_direct…](https://papernotes.org/AAAI2026/image_generation/rethinking_direct_preference_optimization_in_diffusion_models/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_alignment/rethinking_direct…](https://en.papernotes.org/AAAI2026/llm_alignment/rethinking_direct_preference_optimization_in_diffusion_models/)
 
 **Self-NPO: Data-Free Diffusion Model Enhancement via Truncated Diffusion Fine-Tuning**
@@ -2413,7 +2413,7 @@
 **Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2503.07334>
-- Notes (Chinese): [papernotes.org/AAAI2026/medical_imaging/unleashing_the_pot…](https://papernotes.org/AAAI2026/medical_imaging/unleashing_the_potential_of_large_language_models_for_text-to-image_generation_t/)
+- Notes (Chinese): [papernotes.org/AAAI2026/image_generation/unleashing_the_po…](https://papernotes.org/AAAI2026/image_generation/unleashing_the_potential_of_large_language_models_for_text-to-image_generation_t/)
 - Notes (English): [en.papernotes.org/AAAI2026/medical_imaging/unleashing_the_…](https://en.papernotes.org/AAAI2026/medical_imaging/unleashing_the_potential_of_large_language_models_for_text-to-image_generation_t/)
 
 **Difficulty Controlled Diffusion Model for Synthesizing Effective Training Data**
@@ -2425,7 +2425,7 @@
 **Margin-aware Preference Optimization for Aligning Diffusion Models without Reference**
 
 - Paper: <https://arxiv.org/abs/2406.06424>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_alignment/margin-aware_prefere…](https://papernotes.org/AAAI2026/llm_alignment/margin-aware_preference_optimization_for_aligning_diffusion_models_without_refer/)
+- Notes (Chinese): [papernotes.org/AAAI2026/image_generation/margin-aware_pref…](https://papernotes.org/AAAI2026/image_generation/margin-aware_preference_optimization_for_aligning_diffusion_models_without_refer/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_alignment/margin-aware_pref…](https://en.papernotes.org/AAAI2026/llm_alignment/margin-aware_preference_optimization_for_aligning_diffusion_models_without_refer/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
@@ -2475,7 +2475,7 @@
 **ManiLong-Shot: Interaction-Aware One-Shot Imitation Learning for Long-Horizon Manipulation**
 
 - Paper: <https://arxiv.org/abs/2512.16302>
-- Notes (Chinese): [papernotes.org/AAAI2026/reinforcement_learning/manilong-sh…](https://papernotes.org/AAAI2026/reinforcement_learning/manilong-shot_interaction-aware_one-shot_imitation_learning_for_long-horizon_man/)
+- Notes (Chinese): [papernotes.org/AAAI2026/robotics/manilong-shot_interaction…](https://papernotes.org/AAAI2026/robotics/manilong-shot_interaction-aware_one-shot_imitation_learning_for_long-horizon_man/)
 - Notes (English): [en.papernotes.org/AAAI2026/reinforcement_learning/manilong…](https://en.papernotes.org/AAAI2026/reinforcement_learning/manilong-shot_interaction-aware_one-shot_imitation_learning_for_long-horizon_man/)
 
 **Know your Trajectory -- Trustworthy Reinforcement Learning deployment through Importance-Based Trajectory Analysis** · 🛠️ Workshop
@@ -2523,7 +2523,7 @@
 **Scalable Multi-Objective and Meta Reinforcement Learning via Gradient Estimation**
 
 - Paper: <https://arxiv.org/abs/2511.12779>
-- Notes (Chinese): [papernotes.org/AAAI2026/reinforcement_learning/scalable_mu…](https://papernotes.org/AAAI2026/reinforcement_learning/scalable_multi-objective_and_meta_reinforcement_learning_via_gradient_estimation/)
+- Notes (Chinese): [papernotes.org/AAAI2026/robotics/scalable_multi-objective_…](https://papernotes.org/AAAI2026/robotics/scalable_multi-objective_and_meta_reinforcement_learning_via_gradient_estimation/)
 - Notes (English): [en.papernotes.org/AAAI2026/reinforcement_learning/scalable…](https://en.papernotes.org/AAAI2026/reinforcement_learning/scalable_multi-objective_and_meta_reinforcement_learning_via_gradient_estimation/)
 
 **HCPO: Hierarchical Conductor-Based Policy Optimization in Multi-Agent Reinforcement Learning**
@@ -2583,7 +2583,7 @@
 **Test-driven Reinforcement Learning in Continuous Control** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2511.07904>
-- Notes (Chinese): [papernotes.org/AAAI2026/reinforcement_learning/test-driven…](https://papernotes.org/AAAI2026/reinforcement_learning/test-driven_reinforcement_learning_in_continuous_control/)
+- Notes (Chinese): [papernotes.org/AAAI2026/robotics/test-driven_reinforcement…](https://papernotes.org/AAAI2026/robotics/test-driven_reinforcement_learning_in_continuous_control/)
 - Notes (English): [en.papernotes.org/AAAI2026/reinforcement_learning/test-dri…](https://en.papernotes.org/AAAI2026/reinforcement_learning/test-driven_reinforcement_learning_in_continuous_control/)
 
 **Beyond the Lower Bound: Bridging Regret Minimization and Best Arm Identification in Lexicographic Bandits**
@@ -2663,7 +2663,7 @@
 **Real-Time Trust Verification for Safe Agentic Actions using TrustBench** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2603.09157>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_agent/real-time_trust_verifica…](https://papernotes.org/AAAI2026/llm_agent/real-time_trust_verification_for_safe_agentic_actions_using_trustbench/)
+- Notes (Chinese): [papernotes.org/AAAI2026/medical_nlp/real-time_trust_verifi…](https://papernotes.org/AAAI2026/medical_nlp/real-time_trust_verification_for_safe_agentic_actions_using_trustbench/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_agent/real-time_trust_verif…](https://en.papernotes.org/AAAI2026/llm_agent/real-time_trust_verification_for_safe_agentic_actions_using_trustbench/)
 
 **LexChronos: An Agentic Framework for Structured Event Timeline Extraction in Indian Jurisprudence**
@@ -2811,7 +2811,7 @@
 **Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation**
 
 - Paper: <https://arxiv.org/abs/2508.14031>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/unintended_misalignment_f…](https://papernotes.org/AAAI2026/robotics/unintended_misalignment_from_agentic_fine-tuning_risks_and_m/)
+- Notes (Chinese): [papernotes.org/AAAI2026/code_intelligence/unintended_misal…](https://papernotes.org/AAAI2026/code_intelligence/unintended_misalignment_from_agentic_fine-tuning_risks_and_m/)
 - Notes (English): [en.papernotes.org/AAAI2026/robotics/unintended_misalignmen…](https://en.papernotes.org/AAAI2026/robotics/unintended_misalignment_from_agentic_fine-tuning_risks_and_m/)
 
 **AgentSense: Virtual Sensor Data Generation Using LLM Agents in Simulated Home Environments**
@@ -2873,7 +2873,7 @@
 **From Classification to Ranking: Enhancing LLM Reasoning Capabilities for MBTI Personality Detection**
 
 - Paper: <https://arxiv.org/abs/2601.18582>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_nlp/from_classification_to_ran…](https://papernotes.org/AAAI2026/llm_nlp/from_classification_to_ranking_enhancing_llm_reasoning_capabilities_for_mbti_per/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_reasoning/from_classification_…](https://papernotes.org/AAAI2026/llm_reasoning/from_classification_to_ranking_enhancing_llm_reasoning_capabilities_for_mbti_per/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_nlp/from_classification_to_…](https://en.papernotes.org/AAAI2026/llm_nlp/from_classification_to_ranking_enhancing_llm_reasoning_capabilities_for_mbti_per/)
 
 **LLMs for Game Theory: Entropy-Guided In-Context Learning and Adaptive CoT Reasoning**
@@ -2885,13 +2885,13 @@
 **ActiShade: Activating Overshadowed Knowledge to Guide Multi-Hop Reasoning in Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2601.07260>
-- Notes (Chinese): [papernotes.org/AAAI2026/aigc_detection/actishade_activatin…](https://papernotes.org/AAAI2026/aigc_detection/actishade_activating_overshadowed_knowledge_to_guide_multi-h/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_reasoning/actishade_activating…](https://papernotes.org/AAAI2026/llm_reasoning/actishade_activating_overshadowed_knowledge_to_guide_multi-h/)
 - Notes (English): [en.papernotes.org/AAAI2026/aigc_detection/actishade_activa…](https://en.papernotes.org/AAAI2026/aigc_detection/actishade_activating_overshadowed_knowledge_to_guide_multi-h/)
 
 **Well Begun, Half Done: Reinforcement Learning with Prefix Optimization for LLM Reasoning**
 
 - Paper: <https://arxiv.org/abs/2512.15274>
-- Notes (Chinese): [papernotes.org/AAAI2026/reinforcement_learning/well_begun_…](https://papernotes.org/AAAI2026/reinforcement_learning/well_begun_half_done_reinforcement_learning_with_prefix_optimization_for_llm_rea/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_reasoning/well_begun_half_done…](https://papernotes.org/AAAI2026/llm_reasoning/well_begun_half_done_reinforcement_learning_with_prefix_optimization_for_llm_rea/)
 - Notes (English): [en.papernotes.org/AAAI2026/reinforcement_learning/well_beg…](https://en.papernotes.org/AAAI2026/reinforcement_learning/well_begun_half_done_reinforcement_learning_with_prefix_optimization_for_llm_rea/)
 
 **RFKG-CoT: Relation-Driven Adaptive Hop-count Selection and Few-Shot Path Guidance for Knowledge-Aware QA**
@@ -2909,13 +2909,13 @@
 **Understanding Syllogistic Reasoning in LLMs from Formal and Natural Language Perspectives**
 
 - Paper: <https://arxiv.org/abs/2512.12620>
-- Notes (Chinese): [papernotes.org/AAAI2026/nlp_understanding/understanding_sy…](https://papernotes.org/AAAI2026/nlp_understanding/understanding_syllogistic_reasoning_in_llms_from_formal_and_natural_language_per/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_reasoning/understanding_syllog…](https://papernotes.org/AAAI2026/llm_reasoning/understanding_syllogistic_reasoning_in_llms_from_formal_and_natural_language_per/)
 - Notes (English): [en.papernotes.org/AAAI2026/nlp_understanding/understanding…](https://en.papernotes.org/AAAI2026/nlp_understanding/understanding_syllogistic_reasoning_in_llms_from_formal_and_natural_language_per/)
 
 **NeSTR: A Neuro-Symbolic Abductive Framework for Temporal Reasoning in Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2512.07218>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/nestr_a_neuro-symbo…](https://papernotes.org/AAAI2026/llm_evaluation/nestr_a_neuro-symbolic_abductive_framework_for_temporal_reasoning_in_large_langu/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_reasoning/nestr_a_neuro-symbol…](https://papernotes.org/AAAI2026/llm_reasoning/nestr_a_neuro-symbolic_abductive_framework_for_temporal_reasoning_in_large_langu/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/nestr_a_neuro-sy…](https://en.papernotes.org/AAAI2026/llm_evaluation/nestr_a_neuro-symbolic_abductive_framework_for_temporal_reasoning_in_large_langu/)
 
 **SCALE: Selective Resource Allocation for Overcoming Performance Bottlenecks in Mathematical Test-time Scaling**
@@ -2927,7 +2927,7 @@
 **The Curious Case of Analogies: Investigating Analogical Reasoning in Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2511.20344>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_efficiency/the_curious_case_of…](https://papernotes.org/AAAI2026/llm_efficiency/the_curious_case_of_analogies_investigating_analogical_reasoning_in_large_langua/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_reasoning/the_curious_case_of_…](https://papernotes.org/AAAI2026/llm_reasoning/the_curious_case_of_analogies_investigating_analogical_reasoning_in_large_langua/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_efficiency/the_curious_case…](https://en.papernotes.org/AAAI2026/llm_efficiency/the_curious_case_of_analogies_investigating_analogical_reasoning_in_large_langua/)
 
 **RPM-MCTS: Knowledge-Retrieval as Process Reward Model with Monte Carlo Tree Search for Code Generation**
@@ -2957,13 +2957,13 @@
 **Beyond ReAct: A Planner-Centric Framework for Complex Tool-Augmented LLM Reasoning**
 
 - Paper: <https://arxiv.org/abs/2511.10037>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_agent/beyond_react_a_planner-c…](https://papernotes.org/AAAI2026/llm_agent/beyond_react_a_planner-centric_framework_for_complex_tool-au/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_reasoning/beyond_react_a_plann…](https://papernotes.org/AAAI2026/llm_reasoning/beyond_react_a_planner-centric_framework_for_complex_tool-au/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_agent/beyond_react_a_planne…](https://en.papernotes.org/AAAI2026/llm_agent/beyond_react_a_planner-centric_framework_for_complex_tool-au/)
 
 **In-Token Rationality Optimization: Towards Accurate and Concise LLM Reasoning via Self-Feedback** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2511.09865>
-- Notes (Chinese): [papernotes.org/AAAI2026/reinforcement_learning/in-token_ra…](https://papernotes.org/AAAI2026/reinforcement_learning/in-token_rationality_optimization_towards_accurate_and_concise_llm_reasoning_via/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_reasoning/in-token_rationality…](https://papernotes.org/AAAI2026/llm_reasoning/in-token_rationality_optimization_towards_accurate_and_concise_llm_reasoning_via/)
 - Notes (English): [en.papernotes.org/AAAI2026/reinforcement_learning/in-token…](https://en.papernotes.org/AAAI2026/reinforcement_learning/in-token_rationality_optimization_towards_accurate_and_concise_llm_reasoning_via/)
 
 **Text-to-Scene with Large Reasoning Models**
@@ -2987,7 +2987,7 @@
 **MathSmith: Towards Extremely Hard Mathematical Reasoning by Forging Synthetic Problems with a Reinforced Policy**
 
 - Paper: <https://arxiv.org/abs/2508.05592>
-- Notes (Chinese): [papernotes.org/AAAI2026/reinforcement_learning/mathsmith_t…](https://papernotes.org/AAAI2026/reinforcement_learning/mathsmith_towards_extremely_hard_mathematical_reasoning_by_forging_synthetic_pro/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_reasoning/mathsmith_towards_ex…](https://papernotes.org/AAAI2026/llm_reasoning/mathsmith_towards_extremely_hard_mathematical_reasoning_by_forging_synthetic_pro/)
 - Notes (English): [en.papernotes.org/AAAI2026/reinforcement_learning/mathsmit…](https://en.papernotes.org/AAAI2026/reinforcement_learning/mathsmith_towards_extremely_hard_mathematical_reasoning_by_forging_synthetic_pro/)
 
 **Deep Hidden Cognition Facilitates Reliable Chain-of-Thought Reasoning**
@@ -3061,7 +3061,7 @@
 **XLinear: A Lightweight and Accurate MLP-Based Model for Long-Term Time Series Forecasting with Exogenous Inputs**
 
 - Paper: <https://arxiv.org/abs/2601.09237>
-- Notes (Chinese): [papernotes.org/AAAI2026/time_series/xlinear_a_lightweight_…](https://papernotes.org/AAAI2026/time_series/xlinear_a_lightweight_and_accurate_mlp-based_model_for_long-term_time_series_for/)
+- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/xlinear_a_lightw…](https://papernotes.org/AAAI2026/model_compression/xlinear_a_lightweight_and_accurate_mlp-based_model_for_long-term_time_series_for/)
 - Notes (English): [en.papernotes.org/AAAI2026/time_series/xlinear_a_lightweig…](https://en.papernotes.org/AAAI2026/time_series/xlinear_a_lightweight_and_accurate_mlp-based_model_for_long-term_time_series_for/)
 
 **M$^2$FMoE: Multi-Resolution Multi-View Frequency Mixture-of-Experts for Extreme-Adaptive Time Series Forecasting**
@@ -3109,7 +3109,7 @@
 **TSGDiff: Rethinking Synthetic Time Series Generation from a Pure Graph Perspective**
 
 - Paper: <https://arxiv.org/abs/2511.12174>
-- Notes (Chinese): [papernotes.org/AAAI2026/time_series/tsgdiff_rethinking_syn…](https://papernotes.org/AAAI2026/time_series/tsgdiff_rethinking_synthetic_time_series_generation_from_a_pure_graph_perspectiv/)
+- Notes (Chinese): [papernotes.org/AAAI2026/image_generation/tsgdiff_rethinkin…](https://papernotes.org/AAAI2026/image_generation/tsgdiff_rethinking_synthetic_time_series_generation_from_a_pure_graph_perspectiv/)
 - Notes (English): [en.papernotes.org/AAAI2026/time_series/tsgdiff_rethinking_…](https://en.papernotes.org/AAAI2026/time_series/tsgdiff_rethinking_synthetic_time_series_generation_from_a_pure_graph_perspectiv/)
 
 **Finding Time Series Anomalies using Granular-ball Vector Data Description**
@@ -3127,7 +3127,7 @@
 **HN-MVTS: HyperNetwork-based Multivariate Time Series Forecasting**
 
 - Paper: <https://arxiv.org/abs/2511.08340>
-- Notes (Chinese): [papernotes.org/AAAI2026/time_series/hn-mvts_hypernetwork-b…](https://papernotes.org/AAAI2026/time_series/hn-mvts_hypernetwork-based_multivariate_time_series_forecasting/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_efficiency/hn-mvts_hypernetwor…](https://papernotes.org/AAAI2026/llm_efficiency/hn-mvts_hypernetwork-based_multivariate_time_series_forecasting/)
 - Notes (English): [en.papernotes.org/AAAI2026/time_series/hn-mvts_hypernetwor…](https://en.papernotes.org/AAAI2026/time_series/hn-mvts_hypernetwork-based_multivariate_time_series_forecasting/)
 
 **Towards Non-Stationary Time Series Forecasting with Temporal Stabilization and Frequency Differencing**
@@ -3175,7 +3175,7 @@
 **Sonnet: Spectral Operator Neural Network for Multivariable Time Series Forecasting** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2505.15312>
-- Notes (Chinese): [papernotes.org/AAAI2026/time_series/sonnet_spectral_operat…](https://papernotes.org/AAAI2026/time_series/sonnet_spectral_operator_neural_network_for_multivariable_time_series_forecastin/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/sonnet_spectral_operator_ne…](https://papernotes.org/AAAI2026/others/sonnet_spectral_operator_neural_network_for_multivariable_time_series_forecastin/)
 - Notes (English): [en.papernotes.org/AAAI2026/time_series/sonnet_spectral_ope…](https://en.papernotes.org/AAAI2026/time_series/sonnet_spectral_operator_neural_network_for_multivariable_time_series_forecastin/)
 
 **Transparent Networks for Multivariate Time Series**
@@ -3243,7 +3243,7 @@
 **Graph Out-of-Distribution Detection via Test-Time Calibration with Dual Dynamic Dictionaries**
 
 - Paper: <https://arxiv.org/abs/2511.13541>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/graph_out-of-distri…](https://papernotes.org/AAAI2026/llm_evaluation/graph_out-of-distribution_detection_via_test-time_calibration_with_dual_dynamic_/)
+- Notes (Chinese): [papernotes.org/AAAI2026/ai_safety/graph_out-of-distributio…](https://papernotes.org/AAAI2026/ai_safety/graph_out-of-distribution_detection_via_test-time_calibration_with_dual_dynamic_/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/graph_out-of-dis…](https://en.papernotes.org/AAAI2026/llm_evaluation/graph_out-of-distribution_detection_via_test-time_calibration_with_dual_dynamic_/)
 
 **InfoDecom: Decomposing Information for Defending Against Privacy Leakage in Split Inference**
@@ -3503,7 +3503,7 @@
 **Skill Path: Unveiling Language Skills from Circuit Graphs** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2410.01334>
-- Notes (Chinese): [papernotes.org/AAAI2026/causal_inference/skill_path_unveil…](https://papernotes.org/AAAI2026/causal_inference/skill_path_unveiling_language_skills_from_circuit_graphs/)
+- Notes (Chinese): [papernotes.org/AAAI2026/graph_learning/skill_path_unveilin…](https://papernotes.org/AAAI2026/graph_learning/skill_path_unveiling_language_skills_from_circuit_graphs/)
 - Notes (English): [en.papernotes.org/AAAI2026/causal_inference/skill_path_unv…](https://en.papernotes.org/AAAI2026/causal_inference/skill_path_unveiling_language_skills_from_circuit_graphs/)
 
 **Posterior Label Smoothing for Node Classification**
@@ -3523,145 +3523,145 @@
 **Adaptive Theory of Mind for LLM-based Multi-Agent Coordination**
 
 - Paper: <https://arxiv.org/abs/2603.16264>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/adaptive_theory_of_mind_f…](https://papernotes.org/AAAI2026/robotics/adaptive_theory_of_mind_for_llm-based_multi-agent_coordination/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/adaptive_theory_of_min…](https://papernotes.org/AAAI2026/multi_agent/adaptive_theory_of_mind_for_llm-based_multi-agent_coordination/)
 - Notes (English): [en.papernotes.org/AAAI2026/robotics/adaptive_theory_of_min…](https://en.papernotes.org/AAAI2026/robotics/adaptive_theory_of_mind_for_llm-based_multi-agent_coordination/)
 
 **LieCraft: A Multi-Agent Framework for Evaluating Deceptive Capabilities in Language Models**
 
 - Paper: <https://arxiv.org/abs/2603.06874>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_agent/liecraft_a_multi-agent_f…](https://papernotes.org/AAAI2026/llm_agent/liecraft_a_multi-agent_framework_for_evaluating_deceptive_capabilities_in_langua/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/liecraft_a_multi-agent…](https://papernotes.org/AAAI2026/multi_agent/liecraft_a_multi-agent_framework_for_evaluating_deceptive_capabilities_in_langua/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_agent/liecraft_a_multi-agen…](https://en.papernotes.org/AAAI2026/llm_agent/liecraft_a_multi-agent_framework_for_evaluating_deceptive_capabilities_in_langua/)
 
 **Learning to Generate and Extract: A Multi-Agent Collaboration Framework For Zero-shot Document-level Event Arguments Extraction**
 
 - Paper: <https://arxiv.org/abs/2603.02909>
-- Notes (Chinese): [papernotes.org/AAAI2026/reinforcement_learning/learning_to…](https://papernotes.org/AAAI2026/reinforcement_learning/learning_to_generate_and_extract_a_multi-agent_collaboration_framework_for_zero-/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/learning_to_generate_a…](https://papernotes.org/AAAI2026/multi_agent/learning_to_generate_and_extract_a_multi-agent_collaboration_framework_for_zero-/)
 - Notes (English): [en.papernotes.org/AAAI2026/reinforcement_learning/learning…](https://en.papernotes.org/AAAI2026/reinforcement_learning/learning_to_generate_and_extract_a_multi-agent_collaboration_framework_for_zero-/)
 
 **LLandMark: A Multi-Agent Framework for Landmark-Aware Multimodal Interactive Video Retrieval** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2603.02888>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_agent/llandmark_a_multi-agent_…](https://papernotes.org/AAAI2026/llm_agent/llandmark_a_multi-agent_framework_for_landmark-aware_multimodal_interactive_vide/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/llandmark_a_multi-agen…](https://papernotes.org/AAAI2026/multi_agent/llandmark_a_multi-agent_framework_for_landmark-aware_multimodal_interactive_vide/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_agent/llandmark_a_multi-age…](https://en.papernotes.org/AAAI2026/llm_agent/llandmark_a_multi-agent_framework_for_landmark-aware_multimodal_interactive_vide/)
 
 **MAMA-Memeia! Multi-Aspect Multi-Agent Collaboration for Depressive Symptoms Identification in Memes**
 
 - Paper: <https://arxiv.org/abs/2512.25015>
-- Notes (Chinese): [papernotes.org/AAAI2026/medical_imaging/mama-memeia_multi-…](https://papernotes.org/AAAI2026/medical_imaging/mama-memeia_multi-aspect_multi-agent_collaboration_for_depressive_symptoms_ident/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/mama-memeia_multi-aspe…](https://papernotes.org/AAAI2026/multi_agent/mama-memeia_multi-aspect_multi-agent_collaboration_for_depressive_symptoms_ident/)
 - Notes (English): [en.papernotes.org/AAAI2026/medical_imaging/mama-memeia_mul…](https://en.papernotes.org/AAAI2026/medical_imaging/mama-memeia_multi-aspect_multi-agent_collaboration_for_depressive_symptoms_ident/)
 
 **ARCANE: A Multi-Agent Framework for Interpretable and Configurable Alignment** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2512.06196>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_agent/arcane_a_multi-agent_fra…](https://papernotes.org/AAAI2026/llm_agent/arcane_a_multi-agent_framework_for_interpretable_and_configurable_alignment/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/arcane_a_multi-agent_f…](https://papernotes.org/AAAI2026/multi_agent/arcane_a_multi-agent_framework_for_interpretable_and_configurable_alignment/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_agent/arcane_a_multi-agent_…](https://en.papernotes.org/AAAI2026/llm_agent/arcane_a_multi-agent_framework_for_interpretable_and_configurable_alignment/)
 
 **Thucy: An LLM-based Multi-Agent System for Claim Verification across Relational Databases** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2512.03278>
-- Notes (Chinese): [papernotes.org/AAAI2026/audio_speech/thucy_an_llm-based_mu…](https://papernotes.org/AAAI2026/audio_speech/thucy_an_llm-based_multi-agent_system_for_claim_verification_across_relational_d/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/thucy_an_llm-based_mul…](https://papernotes.org/AAAI2026/multi_agent/thucy_an_llm-based_multi-agent_system_for_claim_verification_across_relational_d/)
 - Notes (English): [en.papernotes.org/AAAI2026/audio_speech/thucy_an_llm-based…](https://en.papernotes.org/AAAI2026/audio_speech/thucy_an_llm-based_multi-agent_system_for_claim_verification_across_relational_d/)
 
 **InEx: Hallucination Mitigation via Introspection and Cross-Modal Multi-Agent Collaboration**
 
 - Paper: <https://arxiv.org/abs/2512.02981>
-- Notes (Chinese): [papernotes.org/AAAI2026/multimodal_vlm/inex_hallucination_…](https://papernotes.org/AAAI2026/multimodal_vlm/inex_hallucination_mitigation_via_introspection_and_cross-mo/)
-- Notes (English): [en.papernotes.org/AAAI2026/multimodal_vlm/inex_hallucinati…](https://en.papernotes.org/AAAI2026/multimodal_vlm/inex_hallucination_mitigation_via_introspection_and_cross-mo/)
+- Notes (Chinese): [papernotes.org/AAAI2026/hallucination/inex_hallucination_m…](https://papernotes.org/AAAI2026/hallucination/inex_hallucination_mitigation_via_introspection_and_cross-mo/)
+- Notes (English): [en.papernotes.org/AAAI2026/hallucination/inex_hallucinatio…](https://en.papernotes.org/AAAI2026/hallucination/inex_hallucination_mitigation_via_introspection_and_cross-mo/)
 
 **COACH: Collaborative Agents for Contextual Highlighting -- A Multi-Agent Framework for Sports Video Analysis** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2512.01853>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_agent/coach_collaborative_agen…](https://papernotes.org/AAAI2026/llm_agent/coach_collaborative_agents_for_contextual_highlighting_--_a_multi-agent_framewor/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/coach_collaborative_ag…](https://papernotes.org/AAAI2026/multi_agent/coach_collaborative_agents_for_contextual_highlighting_--_a_multi-agent_framewor/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_agent/coach_collaborative_a…](https://en.papernotes.org/AAAI2026/llm_agent/coach_collaborative_agents_for_contextual_highlighting_--_a_multi-agent_framewor/)
 
 **AgentODRL: A Large Language Model-based Multi-agent System for ODRL Generation**
 
 - Paper: <https://arxiv.org/abs/2512.00602>
-- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/agentodrl_a_larg…](https://papernotes.org/AAAI2026/model_compression/agentodrl_a_large_language_model-based_multi-agent_system_fo/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/agentodrl_a_large_lang…](https://papernotes.org/AAAI2026/multi_agent/agentodrl_a_large_language_model-based_multi-agent_system_fo/)
 - Notes (English): [en.papernotes.org/AAAI2026/model_compression/agentodrl_a_l…](https://en.papernotes.org/AAAI2026/model_compression/agentodrl_a_large_language_model-based_multi-agent_system_fo/)
 
 **BAMAS: Structuring Budget-Aware Multi-Agent Systems** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2511.21572>
-- Notes (Chinese): [papernotes.org/AAAI2026/reinforcement_learning/bamas_struc…](https://papernotes.org/AAAI2026/reinforcement_learning/bamas_structuring_budget-aware_multi-agent_systems/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/bamas_structuring_budg…](https://papernotes.org/AAAI2026/multi_agent/bamas_structuring_budget-aware_multi-agent_systems/)
 - Notes (English): [en.papernotes.org/AAAI2026/reinforcement_learning/bamas_st…](https://en.papernotes.org/AAAI2026/reinforcement_learning/bamas_structuring_budget-aware_multi-agent_systems/)
 
 **LungNoduleAgent: A Collaborative Multi-Agent System for Precision Diagnosis of Lung Nodules**
 
 - Paper: <https://arxiv.org/abs/2511.21042>
-- Notes (Chinese): [papernotes.org/AAAI2026/medical_imaging/lungnoduleagent_a_…](https://papernotes.org/AAAI2026/medical_imaging/lungnoduleagent_a_collaborative_multi-agent_system_for_precision_diagnosis_of_lu/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/lungnoduleagent_a_coll…](https://papernotes.org/AAAI2026/multi_agent/lungnoduleagent_a_collaborative_multi-agent_system_for_precision_diagnosis_of_lu/)
 - Notes (English): [en.papernotes.org/AAAI2026/medical_imaging/lungnoduleagent…](https://en.papernotes.org/AAAI2026/medical_imaging/lungnoduleagent_a_collaborative_multi-agent_system_for_precision_diagnosis_of_lu/)
 
 **A Multi-Agent LLM Framework for Multi-Domain Low-Resource In-Context NER via Knowledge Retrieval, Disambiguation and Reflective Analysis**
 
 - Paper: <https://arxiv.org/abs/2511.19083>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_agent/a_multi-agent_llm_framew…](https://papernotes.org/AAAI2026/llm_agent/a_multi-agent_llm_framework_for_multi-domain_low-resource_in-context_ner_via_kno/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/a_multi-agent_llm_fram…](https://papernotes.org/AAAI2026/multi_agent/a_multi-agent_llm_framework_for_multi-domain_low-resource_in-context_ner_via_kno/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_agent/a_multi-agent_llm_fra…](https://en.papernotes.org/AAAI2026/llm_agent/a_multi-agent_llm_framework_for_multi-domain_low-resource_in-context_ner_via_kno/)
 
 **Shadows in the Code: Exploring the Risks and Defenses of LLM-based Multi-Agent Software Development Systems**
 
 - Paper: <https://arxiv.org/abs/2511.18467>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/shadows_in_the_code_explo…](https://papernotes.org/AAAI2026/robotics/shadows_in_the_code_exploring_the_risks_and_defenses_of_llm-/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/shadows_in_the_code_ex…](https://papernotes.org/AAAI2026/multi_agent/shadows_in_the_code_exploring_the_risks_and_defenses_of_llm-/)
 - Notes (English): [en.papernotes.org/AAAI2026/robotics/shadows_in_the_code_ex…](https://en.papernotes.org/AAAI2026/robotics/shadows_in_the_code_exploring_the_risks_and_defenses_of_llm-/)
 
 **iMAD: Intelligent Multi-Agent Debate for Efficient and Accurate LLM Inference** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2511.11306>
-- Notes (Chinese): [papernotes.org/AAAI2026/interpretability/imad_intelligent_…](https://papernotes.org/AAAI2026/interpretability/imad_intelligent_multi-agent_debate_for_efficient_and_accura/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/imad_intelligent_multi…](https://papernotes.org/AAAI2026/multi_agent/imad_intelligent_multi-agent_debate_for_efficient_and_accura/)
 - Notes (English): [en.papernotes.org/AAAI2026/interpretability/imad_intellige…](https://en.papernotes.org/AAAI2026/interpretability/imad_intelligent_multi-agent_debate_for_efficient_and_accura/)
 
 **FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation**
 
 - Paper: <https://arxiv.org/abs/2511.07322>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_agent/finrpt_dataset_evaluatio…](https://papernotes.org/AAAI2026/llm_agent/finrpt_dataset_evaluation_system_and_llm-based_multi-agent_framework_for_equity_/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/finrpt_dataset_evaluat…](https://papernotes.org/AAAI2026/multi_agent/finrpt_dataset_evaluation_system_and_llm-based_multi-agent_framework_for_equity_/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_agent/finrpt_dataset_evalua…](https://en.papernotes.org/AAAI2026/llm_agent/finrpt_dataset_evaluation_system_and_llm-based_multi-agent_framework_for_equity_/)
 
 **Beyond Detection: Exploring Evidence-based Multi-Agent Debate for Misinformation Intervention and Persuasion**
 
 - Paper: <https://arxiv.org/abs/2511.07267>
-- Notes (Chinese): [papernotes.org/AAAI2026/social_computing/beyond_detection_…](https://papernotes.org/AAAI2026/social_computing/beyond_detection_exploring_evidence-based_multi-agent_debate_for_misinformation_/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/beyond_detection_explo…](https://papernotes.org/AAAI2026/multi_agent/beyond_detection_exploring_evidence-based_multi-agent_debate_for_misinformation_/)
 - Notes (English): [en.papernotes.org/AAAI2026/social_computing/beyond_detecti…](https://en.papernotes.org/AAAI2026/social_computing/beyond_detection_exploring_evidence-based_multi-agent_debate_for_misinformation_/)
 
 **A Graph-Theoretical Perspective on Law Design for Multiagent Systems**
 
 - Paper: <https://arxiv.org/abs/2511.06361>
-- Notes (Chinese): [papernotes.org/AAAI2026/others/a_graph-theoretical_perspec…](https://papernotes.org/AAAI2026/others/a_graph-theoretical_perspective_on_law_design_for_multiagent_systems/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/a_graph-theoretical_pe…](https://papernotes.org/AAAI2026/multi_agent/a_graph-theoretical_perspective_on_law_design_for_multiagent_systems/)
 - Notes (English): [en.papernotes.org/AAAI2026/others/a_graph-theoretical_pers…](https://en.papernotes.org/AAAI2026/others/a_graph-theoretical_perspective_on_law_design_for_multiagent_systems/)
 
 **MedLA: A Logic-Driven Multi-Agent Framework for Complex Medical Reasoning with Large Language Models** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2509.23725>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_agent/medla_a_logic-driven_mul…](https://papernotes.org/AAAI2026/llm_agent/medla_a_logic-driven_multi-agent_framework_for_complex_medic/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/medla_a_logic-driven_m…](https://papernotes.org/AAAI2026/multi_agent/medla_a_logic-driven_multi-agent_framework_for_complex_medic/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_agent/medla_a_logic-driven_…](https://en.papernotes.org/AAAI2026/llm_agent/medla_a_logic-driven_multi-agent_framework_for_complex_medic/)
 
 **SafeSieve: From Heuristics to Experience in Progressive Pruning for LLM-based Multi-Agent Communication** · 📌 Poster
 
 - Paper: <https://arxiv.org/abs/2508.11733>
-- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/safesieve_from_h…](https://papernotes.org/AAAI2026/model_compression/safesieve_from_heuristics_to_experience_in_progressive_pruning_for_llm-based_mul/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/safesieve_from_heurist…](https://papernotes.org/AAAI2026/multi_agent/safesieve_from_heuristics_to_experience_in_progressive_pruning_for_llm-based_mul/)
 - Notes (English): [en.papernotes.org/AAAI2026/model_compression/safesieve_fro…](https://en.papernotes.org/AAAI2026/model_compression/safesieve_from_heuristics_to_experience_in_progressive_pruning_for_llm-based_mul/)
 
 **Assemble Your Crew: Automatic Multi-agent Communication Topology Design via Autoregressive Graph Generation** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2507.18224>
-- Notes (Chinese): [papernotes.org/AAAI2026/graph_learning/assemble_your_crew_…](https://papernotes.org/AAAI2026/graph_learning/assemble_your_crew_automatic_multi-agent_communication_topol/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/assemble_your_crew_aut…](https://papernotes.org/AAAI2026/multi_agent/assemble_your_crew_automatic_multi-agent_communication_topol/)
 - Notes (English): [en.papernotes.org/AAAI2026/graph_learning/assemble_your_cr…](https://en.papernotes.org/AAAI2026/graph_learning/assemble_your_crew_automatic_multi-agent_communication_topol/)
 
 **Parallelism Meets Adaptiveness: Scalable Documents Understanding in Multi-Agent LLM Systems** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2507.17061>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_agent/parallelism_meets_adapti…](https://papernotes.org/AAAI2026/llm_agent/parallelism_meets_adaptiveness_scalable_documents_understanding_in_multi-agent_l/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/parallelism_meets_adap…](https://papernotes.org/AAAI2026/multi_agent/parallelism_meets_adaptiveness_scalable_documents_understanding_in_multi-agent_l/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_agent/parallelism_meets_ada…](https://en.papernotes.org/AAAI2026/llm_agent/parallelism_meets_adaptiveness_scalable_documents_understanding_in_multi-agent_l/)
 
 **EcoAgent: An Efficient Device-Cloud Collaborative Multi-Agent Framework for Mobile Automation**
 
 - Paper: <https://arxiv.org/abs/2505.05440>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_agent/ecoagent_an_efficient_de…](https://papernotes.org/AAAI2026/llm_agent/ecoagent_an_efficient_device-cloud_collaborative_multi-agent/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/ecoagent_an_efficient_…](https://papernotes.org/AAAI2026/multi_agent/ecoagent_an_efficient_device-cloud_collaborative_multi-agent/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_agent/ecoagent_an_efficient…](https://en.papernotes.org/AAAI2026/llm_agent/ecoagent_an_efficient_device-cloud_collaborative_multi-agent/)
 
 **Scalable and Accurate Graph Reasoning with LLM-based Multi-Agents** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2410.05130>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_nlp/scalable_and_accurate_grap…](https://papernotes.org/AAAI2026/llm_nlp/scalable_and_accurate_graph_reasoning_with_llm-based_multi-agents/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/scalable_and_accurate_…](https://papernotes.org/AAAI2026/multi_agent/scalable_and_accurate_graph_reasoning_with_llm-based_multi-agents/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_nlp/scalable_and_accurate_g…](https://en.papernotes.org/AAAI2026/llm_nlp/scalable_and_accurate_graph_reasoning_with_llm-based_multi-agents/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
@@ -3681,7 +3681,7 @@
 **FineVAU: A Novel Human-Aligned Benchmark for Fine-Grained Video Anomaly Understanding**
 
 - Paper: <https://arxiv.org/abs/2601.17258>
-- Notes (Chinese): [papernotes.org/AAAI2026/interpretability/finevau_a_novel_h…](https://papernotes.org/AAAI2026/interpretability/finevau_a_novel_human-aligned_benchmark_for_fine-grained_video_anomaly_understan/)
+- Notes (Chinese): [papernotes.org/AAAI2026/video_understanding/finevau_a_nove…](https://papernotes.org/AAAI2026/video_understanding/finevau_a_novel_human-aligned_benchmark_for_fine-grained_video_anomaly_understan/)
 - Notes (English): [en.papernotes.org/AAAI2026/interpretability/finevau_a_nove…](https://en.papernotes.org/AAAI2026/interpretability/finevau_a_novel_human-aligned_benchmark_for_fine-grained_video_anomaly_understan/)
 
 **LiViBench: An Omnimodal Benchmark for Interactive Livestream Video Understanding**
@@ -3699,7 +3699,7 @@
 **HeadHunt-VAD: Hunting Robust Anomaly-Sensitive Heads in MLLM for Tuning-Free Video Anomaly Detection** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2512.17601>
-- Notes (Chinese): [papernotes.org/AAAI2026/multimodal_vlm/headhunt-vad_huntin…](https://papernotes.org/AAAI2026/multimodal_vlm/headhunt-vad_hunting_robust_anomaly-sensitive_heads_in_mllm_/)
+- Notes (Chinese): [papernotes.org/AAAI2026/video_understanding/headhunt-vad_h…](https://papernotes.org/AAAI2026/video_understanding/headhunt-vad_hunting_robust_anomaly-sensitive_heads_in_mllm_/)
 - Notes (English): [en.papernotes.org/AAAI2026/multimodal_vlm/headhunt-vad_hun…](https://en.papernotes.org/AAAI2026/multimodal_vlm/headhunt-vad_hunting_robust_anomaly-sensitive_heads_in_mllm_/)
 
 **StegaVAR: Privacy-Preserving Video Action Recognition via Steganographic Domain Analysis**
@@ -3729,7 +3729,7 @@
 **RefineVAD: Semantic-Guided Feature Recalibration for Weakly Supervised Video Anomaly Detection**
 
 - Paper: <https://arxiv.org/abs/2511.13204>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/refinevad_semantic-…](https://papernotes.org/AAAI2026/llm_evaluation/refinevad_semantic-guided_feature_recalibration_for_weakly_supervised_video_anom/)
+- Notes (Chinese): [papernotes.org/AAAI2026/video_understanding/refinevad_sema…](https://papernotes.org/AAAI2026/video_understanding/refinevad_semantic-guided_feature_recalibration_for_weakly_supervised_video_anom/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/refinevad_semant…](https://en.papernotes.org/AAAI2026/llm_evaluation/refinevad_semantic-guided_feature_recalibration_for_weakly_supervised_video_anom/)
 
 **PlugTrack: Multi-Perceptive Motion Analysis for Adaptive Fusion in Multi-Object Tracking**
@@ -3753,7 +3753,7 @@
 **Learning to Tell Apart: Weakly Supervised Video Anomaly Detection via Disentangled Semantic Alignment**
 
 - Paper: <https://arxiv.org/abs/2511.10334>
-- Notes (Chinese): [papernotes.org/AAAI2026/multimodal_vlm/learning_to_tell_ap…](https://papernotes.org/AAAI2026/multimodal_vlm/learning_to_tell_apart_weakly_supervised_video_anomaly_detection_via_disentangle/)
+- Notes (Chinese): [papernotes.org/AAAI2026/video_understanding/learning_to_te…](https://papernotes.org/AAAI2026/video_understanding/learning_to_tell_apart_weakly_supervised_video_anomaly_detection_via_disentangle/)
 - Notes (English): [en.papernotes.org/AAAI2026/multimodal_vlm/learning_to_tell…](https://en.papernotes.org/AAAI2026/multimodal_vlm/learning_to_tell_apart_weakly_supervised_video_anomaly_detection_via_disentangle/)
 
 **TubeRMC: Tube-conditioned Reconstruction with Mutual Constraints for Weakly-supervised Spatio-Temporal Video Grounding**
@@ -3867,7 +3867,7 @@
 **RLSLM: A Hybrid Reinforcement Learning Framework Aligning Rule-Based Social Locomotion Model with Human Social Norms**
 
 - Paper: <https://arxiv.org/abs/2511.11323>
-- Notes (Chinese): [papernotes.org/AAAI2026/reinforcement_learning/rlslm_a_hyb…](https://papernotes.org/AAAI2026/reinforcement_learning/rlslm_a_hybrid_reinforcement_learning_framework_aligning_rule-based_social_locom/)
+- Notes (Chinese): [papernotes.org/AAAI2026/robotics/rlslm_a_hybrid_reinforcem…](https://papernotes.org/AAAI2026/robotics/rlslm_a_hybrid_reinforcement_learning_framework_aligning_rule-based_social_locom/)
 - Notes (English): [en.papernotes.org/AAAI2026/reinforcement_learning/rlslm_a_…](https://en.papernotes.org/AAAI2026/reinforcement_learning/rlslm_a_hybrid_reinforcement_learning_framework_aligning_rule-based_social_locom/)
 
 **Dexterous Manipulation Transfer via Progressive Kinematic-Dynamic Alignment**
@@ -3915,25 +3915,25 @@
 **TTF-VLA: Temporal Token Fusion via Pixel-Attention Integration for Vision-Language-Action Models**
 
 - Paper: <https://arxiv.org/abs/2508.19257>
-- Notes (Chinese): [papernotes.org/AAAI2026/multimodal_vlm/ttf-vla_temporal_to…](https://papernotes.org/AAAI2026/multimodal_vlm/ttf-vla_temporal_token_fusion_via_pixel-attention_integratio/)
+- Notes (Chinese): [papernotes.org/AAAI2026/robotics/ttf-vla_temporal_token_fu…](https://papernotes.org/AAAI2026/robotics/ttf-vla_temporal_token_fusion_via_pixel-attention_integratio/)
 - Notes (English): [en.papernotes.org/AAAI2026/multimodal_vlm/ttf-vla_temporal…](https://en.papernotes.org/AAAI2026/multimodal_vlm/ttf-vla_temporal_token_fusion_via_pixel-attention_integratio/)
 
 **Actor-Critic for Continuous Action Chunks: A Reinforcement Learning Framework for Long-Horizon Robotic Manipulation with Sparse Reward** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2508.11143>
-- Notes (Chinese): [papernotes.org/AAAI2026/reinforcement_learning/actor-criti…](https://papernotes.org/AAAI2026/reinforcement_learning/actor-critic_for_continuous_action_chunks_a_reinforcement_le/)
+- Notes (Chinese): [papernotes.org/AAAI2026/robotics/actor-critic_for_continuo…](https://papernotes.org/AAAI2026/robotics/actor-critic_for_continuous_action_chunks_a_reinforcement_le/)
 - Notes (English): [en.papernotes.org/AAAI2026/reinforcement_learning/actor-cr…](https://en.papernotes.org/AAAI2026/reinforcement_learning/actor-critic_for_continuous_action_chunks_a_reinforcement_le/)
 
 **Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors**
 
 - Paper: <https://arxiv.org/abs/2508.08896>
-- Notes (Chinese): [papernotes.org/AAAI2026/segmentation/towards_affordance-aw…](https://papernotes.org/AAAI2026/segmentation/towards_affordance-aware_robotic_dexterous_grasping_with_human-like_priors/)
+- Notes (Chinese): [papernotes.org/AAAI2026/robotics/towards_affordance-aware_…](https://papernotes.org/AAAI2026/robotics/towards_affordance-aware_robotic_dexterous_grasping_with_human-like_priors/)
 - Notes (English): [en.papernotes.org/AAAI2026/segmentation/towards_affordance…](https://en.papernotes.org/AAAI2026/segmentation/towards_affordance-aware_robotic_dexterous_grasping_with_human-like_priors/)
 
 **Coordinated Humanoid Robot Locomotion with Symmetry Equivariant Reinforcement Learning Policy**
 
 - Paper: <https://arxiv.org/abs/2508.01247>
-- Notes (Chinese): [papernotes.org/AAAI2026/video_understanding/coordinated_hu…](https://papernotes.org/AAAI2026/video_understanding/coordinated_humanoid_robot_locomotion_with_symmetry_equivariant_reinforcement_le/)
+- Notes (Chinese): [papernotes.org/AAAI2026/robotics/coordinated_humanoid_robo…](https://papernotes.org/AAAI2026/robotics/coordinated_humanoid_robot_locomotion_with_symmetry_equivariant_reinforcement_le/)
 - Notes (English): [en.papernotes.org/AAAI2026/video_understanding/coordinated…](https://en.papernotes.org/AAAI2026/video_understanding/coordinated_humanoid_robot_locomotion_with_symmetry_equivariant_reinforcement_le/)
 
 **MP1: MeanFlow Tames Policy Learning in 1-step for Robotic Manipulation**
@@ -3951,7 +3951,7 @@
 **Sim-to-Real: An Unsupervised Noise Layer for Screen-Camera Watermarking Robustness**
 
 - Paper: <https://arxiv.org/abs/2504.18906>
-- Notes (Chinese): [papernotes.org/AAAI2026/ai_safety/sim-to-real_an_unsupervi…](https://papernotes.org/AAAI2026/ai_safety/sim-to-real_an_unsupervised_noise_layer_for_screen-camera_watermarking_robustnes/)
+- Notes (Chinese): [papernotes.org/AAAI2026/robotics/sim-to-real_an_unsupervis…](https://papernotes.org/AAAI2026/robotics/sim-to-real_an_unsupervised_noise_layer_for_screen-camera_watermarking_robustnes/)
 - Notes (English): [en.papernotes.org/AAAI2026/ai_safety/sim-to-real_an_unsupe…](https://en.papernotes.org/AAAI2026/ai_safety/sim-to-real_an_unsupervised_noise_layer_for_screen-camera_watermarking_robustnes/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
@@ -3977,26 +3977,26 @@
 **Bridging Day and Night: Target-Class Hallucination Suppression in Unpaired Image Translation** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2602.15383>
-- Notes (Chinese): [papernotes.org/AAAI2026/autonomous_driving/bridging_day_an…](https://papernotes.org/AAAI2026/autonomous_driving/bridging_day_and_night_target-class_hallucination_suppressio/)
-- Notes (English): [en.papernotes.org/AAAI2026/autonomous_driving/bridging_day…](https://en.papernotes.org/AAAI2026/autonomous_driving/bridging_day_and_night_target-class_hallucination_suppressio/)
+- Notes (Chinese): [papernotes.org/AAAI2026/hallucination/bridging_day_and_nig…](https://papernotes.org/AAAI2026/hallucination/bridging_day_and_night_target-class_hallucination_suppressio/)
+- Notes (English): [en.papernotes.org/AAAI2026/hallucination/bridging_day_and_…](https://en.papernotes.org/AAAI2026/hallucination/bridging_day_and_night_target-class_hallucination_suppressio/)
 
 **Beyond Hallucinations: A Composite Score for Measuring Reliability in Open-Source Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2512.24058>
-- Notes (Chinese): [papernotes.org/AAAI2026/interpretability/beyond_hallucinat…](https://papernotes.org/AAAI2026/interpretability/beyond_hallucinations_a_composite_score_for_measuring_reliability_in_open-source/)
-- Notes (English): [en.papernotes.org/AAAI2026/interpretability/beyond_halluci…](https://en.papernotes.org/AAAI2026/interpretability/beyond_hallucinations_a_composite_score_for_measuring_reliability_in_open-source/)
+- Notes (Chinese): [papernotes.org/AAAI2026/hallucination/beyond_hallucination…](https://papernotes.org/AAAI2026/hallucination/beyond_hallucinations_a_composite_score_for_measuring_reliability_in_open-source/)
+- Notes (English): [en.papernotes.org/AAAI2026/hallucination/beyond_hallucinat…](https://en.papernotes.org/AAAI2026/hallucination/beyond_hallucinations_a_composite_score_for_measuring_reliability_in_open-source/)
 
 **LLM-CAS: Dynamic Neuron Perturbation for Real-Time Hallucination Correction**
 
 - Paper: <https://arxiv.org/abs/2512.18623>
-- Notes (Chinese): [papernotes.org/AAAI2026/multimodal_vlm/llm-cas_dynamic_neu…](https://papernotes.org/AAAI2026/multimodal_vlm/llm-cas_dynamic_neuron_perturbation_for_real-time_hallucinat/)
-- Notes (English): [en.papernotes.org/AAAI2026/multimodal_vlm/llm-cas_dynamic_…](https://en.papernotes.org/AAAI2026/multimodal_vlm/llm-cas_dynamic_neuron_perturbation_for_real-time_hallucinat/)
+- Notes (Chinese): [papernotes.org/AAAI2026/hallucination/llm-cas_dynamic_neur…](https://papernotes.org/AAAI2026/hallucination/llm-cas_dynamic_neuron_perturbation_for_real-time_hallucinat/)
+- Notes (English): [en.papernotes.org/AAAI2026/hallucination/llm-cas_dynamic_n…](https://en.papernotes.org/AAAI2026/hallucination/llm-cas_dynamic_neuron_perturbation_for_real-time_hallucinat/)
 
 **Does Less Hallucination Mean Less Creativity? An Empirical Investigation in LLMs** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2512.11509>
-- Notes (Chinese): [papernotes.org/AAAI2026/information_retrieval/does_less_ha…](https://papernotes.org/AAAI2026/information_retrieval/does_less_hallucination_mean_less_creativity_an_empirical_investigation_in_llms/)
-- Notes (English): [en.papernotes.org/AAAI2026/information_retrieval/does_less…](https://en.papernotes.org/AAAI2026/information_retrieval/does_less_hallucination_mean_less_creativity_an_empirical_investigation_in_llms/)
+- Notes (Chinese): [papernotes.org/AAAI2026/hallucination/does_less_hallucinat…](https://papernotes.org/AAAI2026/hallucination/does_less_hallucination_mean_less_creativity_an_empirical_investigation_in_llms/)
+- Notes (English): [en.papernotes.org/AAAI2026/hallucination/does_less_halluci…](https://en.papernotes.org/AAAI2026/hallucination/does_less_hallucination_mean_less_creativity_an_empirical_investigation_in_llms/)
 
 **Designing Truthful Mechanisms for Asymptotic Fair Division**
 
@@ -4013,14 +4013,14 @@
 **Hallucinate Less by Thinking More: Aspect-Based Causal Abstention for Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2511.17170>
-- Notes (Chinese): [papernotes.org/AAAI2026/causal_inference/hallucinate_less_…](https://papernotes.org/AAAI2026/causal_inference/hallucinate_less_by_thinking_more_aspect-based_causal_absten/)
-- Notes (English): [en.papernotes.org/AAAI2026/causal_inference/hallucinate_le…](https://en.papernotes.org/AAAI2026/causal_inference/hallucinate_less_by_thinking_more_aspect-based_causal_absten/)
+- Notes (Chinese): [papernotes.org/AAAI2026/hallucination/hallucinate_less_by_…](https://papernotes.org/AAAI2026/hallucination/hallucinate_less_by_thinking_more_aspect-based_causal_absten/)
+- Notes (English): [en.papernotes.org/AAAI2026/hallucination/hallucinate_less_…](https://en.papernotes.org/AAAI2026/hallucination/hallucinate_less_by_thinking_more_aspect-based_causal_absten/)
 
 **PASE: Leveraging the Phonological Prior of WavLM for Low-Hallucination Generative Speech Enhancement**
 
 - Paper: <https://arxiv.org/abs/2511.13300>
-- Notes (Chinese): [papernotes.org/AAAI2026/image_generation/pase_leveraging_t…](https://papernotes.org/AAAI2026/image_generation/pase_leveraging_the_phonological_prior_of_wavlm_for_low-hallucination_generative/)
-- Notes (English): [en.papernotes.org/AAAI2026/image_generation/pase_leveragin…](https://en.papernotes.org/AAAI2026/image_generation/pase_leveraging_the_phonological_prior_of_wavlm_for_low-hallucination_generative/)
+- Notes (Chinese): [papernotes.org/AAAI2026/hallucination/pase_leveraging_the_…](https://papernotes.org/AAAI2026/hallucination/pase_leveraging_the_phonological_prior_of_wavlm_for_low-hallucination_generative/)
+- Notes (English): [en.papernotes.org/AAAI2026/hallucination/pase_leveraging_t…](https://en.papernotes.org/AAAI2026/hallucination/pase_leveraging_the_phonological_prior_of_wavlm_for_low-hallucination_generative/)
 
 **Learning from the Undesirable: Robust Adaptation of Language Models without Forgetting**
 
@@ -4049,8 +4049,8 @@
 **Causally-Grounded Dual-Path Attention Intervention for Object Hallucination Mitigation in LVLMs**
 
 - Paper: <https://arxiv.org/abs/2511.09018>
-- Notes (Chinese): [papernotes.org/AAAI2026/causal_inference/causally-grounded…](https://papernotes.org/AAAI2026/causal_inference/causally-grounded_dual-path_attention_intervention_for_objec/)
-- Notes (English): [en.papernotes.org/AAAI2026/causal_inference/causally-groun…](https://en.papernotes.org/AAAI2026/causal_inference/causally-grounded_dual-path_attention_intervention_for_objec/)
+- Notes (Chinese): [papernotes.org/AAAI2026/hallucination/causally-grounded_du…](https://papernotes.org/AAAI2026/hallucination/causally-grounded_dual-path_attention_intervention_for_objec/)
+- Notes (English): [en.papernotes.org/AAAI2026/hallucination/causally-grounded…](https://en.papernotes.org/AAAI2026/hallucination/causally-grounded_dual-path_attention_intervention_for_objec/)
 
 **WaterMod: Modular Token-Rank Partitioning for Probability-Balanced LLM Watermarking** · 🎤 Oral
 
@@ -4079,8 +4079,8 @@
 **Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models**
 
 - Paper: <https://arxiv.org/abs/2507.07505>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_safety/hallucination_stations_…](https://papernotes.org/AAAI2026/llm_safety/hallucination_stations_on_some_basic_limitations_of_transformer-based_language_m/)
-- Notes (English): [en.papernotes.org/AAAI2026/llm_safety/hallucination_statio…](https://en.papernotes.org/AAAI2026/llm_safety/hallucination_stations_on_some_basic_limitations_of_transformer-based_language_m/)
+- Notes (Chinese): [papernotes.org/AAAI2026/hallucination/hallucination_statio…](https://papernotes.org/AAAI2026/hallucination/hallucination_stations_on_some_basic_limitations_of_transformer-based_language_m/)
+- Notes (English): [en.papernotes.org/AAAI2026/hallucination/hallucination_sta…](https://en.papernotes.org/AAAI2026/hallucination/hallucination_stations_on_some_basic_limitations_of_transformer-based_language_m/)
 
 **FedP$^2$EFT: Federated Learning to Personalize PEFT for Multilingual LLMs**
 
@@ -4243,7 +4243,7 @@
 **GOAL: Geometrically Optimal Alignment for Continual Generalized Category Discovery**
 
 - Paper: <https://arxiv.org/abs/2602.19872>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/goal_geometrically_…](https://papernotes.org/AAAI2026/llm_evaluation/goal_geometrically_optimal_alignment_for_continual_generalized_category_discover/)
+- Notes (Chinese): [papernotes.org/AAAI2026/self_supervised/goal_geometrically…](https://papernotes.org/AAAI2026/self_supervised/goal_geometrically_optimal_alignment_for_continual_generalized_category_discover/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/goal_geometrical…](https://en.papernotes.org/AAAI2026/llm_evaluation/goal_geometrically_optimal_alignment_for_continual_generalized_category_discover/)
 
 **FedGRPO: Privately Optimizing Foundation Models with Group-Relative Rewards from Domain Client** · 🎤 Oral
@@ -4297,7 +4297,7 @@
 **MovSemCL: Movement-Semantics Contrastive Learning for Trajectory Similarity (Extension)** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2511.12061>
-- Notes (Chinese): [papernotes.org/AAAI2026/self_supervised/movsemcl_movement-…](https://papernotes.org/AAAI2026/self_supervised/movsemcl_movement-semantics_contrastive_learning_for_trajectory_similarity_exten/)
+- Notes (Chinese): [papernotes.org/AAAI2026/object_detection/movsemcl_movement…](https://papernotes.org/AAAI2026/object_detection/movsemcl_movement-semantics_contrastive_learning_for_trajectory_similarity_exten/)
 - Notes (English): [en.papernotes.org/AAAI2026/self_supervised/movsemcl_moveme…](https://en.papernotes.org/AAAI2026/self_supervised/movsemcl_movement-semantics_contrastive_learning_for_trajectory_similarity_exten/)
 
 **BOFA: Bridge-Layer Orthogonal Low-Rank Fusion for CLIP-Based Class-Incremental Learning**
@@ -4315,7 +4315,7 @@
 **Improving Sustainability of Adversarial Examples in Class-Incremental Learning**
 
 - Paper: <https://arxiv.org/abs/2511.09088>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_nlp/improving_sustainability_o…](https://papernotes.org/AAAI2026/llm_nlp/improving_sustainability_of_adversarial_examples_in_class-incremental_learning/)
+- Notes (Chinese): [papernotes.org/AAAI2026/self_supervised/improving_sustaina…](https://papernotes.org/AAAI2026/self_supervised/improving_sustainability_of_adversarial_examples_in_class-incremental_learning/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_nlp/improving_sustainabilit…](https://en.papernotes.org/AAAI2026/llm_nlp/improving_sustainability_of_adversarial_examples_in_class-incremental_learning/)
 
 **Improving Region Representation Learning from Urban Imagery with Noisy Long-Caption Supervision**
@@ -4407,7 +4407,7 @@
 **KineST: A Kinematics-guided Spatiotemporal State Space Model for Human Motion Tracking from Sparse Signals**
 
 - Paper: <https://arxiv.org/abs/2512.16791>
-- Notes (Chinese): [papernotes.org/AAAI2026/video_understanding/kinest_a_kinem…](https://papernotes.org/AAAI2026/video_understanding/kinest_a_kinematics-guided_spatiotemporal_state_space_model_for_human_motion_tra/)
+- Notes (Chinese): [papernotes.org/AAAI2026/human_understanding/kinest_a_kinem…](https://papernotes.org/AAAI2026/human_understanding/kinest_a_kinematics-guided_spatiotemporal_state_space_model_for_human_motion_tra/)
 - Notes (English): [en.papernotes.org/AAAI2026/video_understanding/kinest_a_ki…](https://en.papernotes.org/AAAI2026/video_understanding/kinest_a_kinematics-guided_spatiotemporal_state_space_model_for_human_motion_tra/)
 
 **Modality-Aware Bias Mitigation and Invariance Learning for Unsupervised Visible-Infrared Person Re-Identification**
@@ -4431,7 +4431,7 @@
 **ReAlign: Text-to-Motion Generation via Step-Aware Reward-Guided Alignment**
 
 - Paper: <https://arxiv.org/abs/2511.19217>
-- Notes (Chinese): [papernotes.org/AAAI2026/image_generation/realign_text-to-m…](https://papernotes.org/AAAI2026/image_generation/realign_text-to-motion_generation_via_step-aware_reward-guided_alignment/)
+- Notes (Chinese): [papernotes.org/AAAI2026/human_understanding/realign_text-t…](https://papernotes.org/AAAI2026/human_understanding/realign_text-to-motion_generation_via_step-aware_reward-guided_alignment/)
 - Notes (English): [en.papernotes.org/AAAI2026/image_generation/realign_text-t…](https://en.papernotes.org/AAAI2026/image_generation/realign_text-to-motion_generation_via_step-aware_reward-guided_alignment/)
 
 **Robust Long-term Test-Time Adaptation for 3D Human Pose Estimation through Motion Discretization**
@@ -4443,13 +4443,13 @@
 **PA-FAS: Towards Interpretable and Generalizable Multimodal Face Anti-Spoofing via Path-Augmented Reinforcement Learning** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2511.17927>
-- Notes (Chinese): [papernotes.org/AAAI2026/reinforcement_learning/pa-fas_towa…](https://papernotes.org/AAAI2026/reinforcement_learning/pa-fas_towards_interpretable_and_generalizable_multimodal_face_anti-spoofing_via/)
+- Notes (Chinese): [papernotes.org/AAAI2026/human_understanding/pa-fas_towards…](https://papernotes.org/AAAI2026/human_understanding/pa-fas_towards_interpretable_and_generalizable_multimodal_face_anti-spoofing_via/)
 - Notes (English): [en.papernotes.org/AAAI2026/reinforcement_learning/pa-fas_t…](https://en.papernotes.org/AAAI2026/reinforcement_learning/pa-fas_towards_interpretable_and_generalizable_multimodal_face_anti-spoofing_via/)
 
 **GazeInterpreter: Parsing Eye Gaze to Generate Eye-Body-Coordinated Narrations**
 
 - Paper: <https://arxiv.org/abs/2511.16245>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/gazeinterpreter_par…](https://papernotes.org/AAAI2026/llm_evaluation/gazeinterpreter_parsing_eye_gaze_to_generate_eye-body-coordinated_narrations/)
+- Notes (Chinese): [papernotes.org/AAAI2026/human_understanding/gazeinterprete…](https://papernotes.org/AAAI2026/human_understanding/gazeinterpreter_parsing_eye_gaze_to_generate_eye-body-coordinated_narrations/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/gazeinterpreter_…](https://en.papernotes.org/AAAI2026/llm_evaluation/gazeinterpreter_parsing_eye_gaze_to_generate_eye-body-coordinated_narrations/)
 
 **Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification**
@@ -4656,13 +4656,13 @@
 **RcAE: Recursive Reconstruction Framework for Unsupervised Industrial Anomaly Detection**
 
 - Paper: <https://arxiv.org/abs/2512.11284>
-- Notes (Chinese): [papernotes.org/AAAI2026/others/rcae_recursive_reconstructi…](https://papernotes.org/AAAI2026/others/rcae_recursive_reconstruction_framework_for_unsupervised_industrial_anomaly_dete/)
+- Notes (Chinese): [papernotes.org/AAAI2026/object_detection/rcae_recursive_re…](https://papernotes.org/AAAI2026/object_detection/rcae_recursive_reconstruction_framework_for_unsupervised_industrial_anomaly_dete/)
 - Notes (English): [en.papernotes.org/AAAI2026/others/rcae_recursive_reconstru…](https://en.papernotes.org/AAAI2026/others/rcae_recursive_reconstruction_framework_for_unsupervised_industrial_anomaly_dete/)
 
 **PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures**
 
 - Paper: <https://arxiv.org/abs/2511.18116>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_nlp/promptmoe_generalizable_ze…](https://papernotes.org/AAAI2026/llm_nlp/promptmoe_generalizable_zero-shot_anomaly_detection_via_visually-guided_prompt_m/)
+- Notes (Chinese): [papernotes.org/AAAI2026/object_detection/promptmoe_general…](https://papernotes.org/AAAI2026/object_detection/promptmoe_generalizable_zero-shot_anomaly_detection_via_visually-guided_prompt_m/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_nlp/promptmoe_generalizable…](https://en.papernotes.org/AAAI2026/llm_nlp/promptmoe_generalizable_zero-shot_anomaly_detection_via_visually-guided_prompt_m/)
 
 **VK-Det: Visual Knowledge Guided Prototype Learning for Open-Vocabulary Aerial Object Detection**
@@ -4680,7 +4680,7 @@
 **AquaSentinel: Next-Generation AI System Integrating Sensor Networks for Urban Underground Water Pipeline Anomaly Detection via Collaborative MoE-LLM Agent Architecture**
 
 - Paper: <https://arxiv.org/abs/2511.15870>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_agent/aquasentinel_next-genera…](https://papernotes.org/AAAI2026/llm_agent/aquasentinel_next-generation_ai_system_integrating_sensor_ne/)
+- Notes (Chinese): [papernotes.org/AAAI2026/object_detection/aquasentinel_next…](https://papernotes.org/AAAI2026/object_detection/aquasentinel_next-generation_ai_system_integrating_sensor_ne/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_agent/aquasentinel_next-gen…](https://en.papernotes.org/AAAI2026/llm_agent/aquasentinel_next-generation_ai_system_integrating_sensor_ne/)
 
 **Temporal Object-Aware Vision Transformer for Few-Shot Video Object Detection**
@@ -4692,13 +4692,13 @@
 **CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection**
 
 - Paper: <https://arxiv.org/abs/2511.12909>
-- Notes (Chinese): [papernotes.org/AAAI2026/others/casl_curvature-augmented_se…](https://papernotes.org/AAAI2026/others/casl_curvature-augmented_self-supervised_learning_for_3d_anomaly_detection/)
+- Notes (Chinese): [papernotes.org/AAAI2026/object_detection/casl_curvature-au…](https://papernotes.org/AAAI2026/object_detection/casl_curvature-augmented_self-supervised_learning_for_3d_anomaly_detection/)
 - Notes (English): [en.papernotes.org/AAAI2026/others/casl_curvature-augmented…](https://en.papernotes.org/AAAI2026/others/casl_curvature-augmented_self-supervised_learning_for_3d_anomaly_detection/)
 
 **FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI**
 
 - Paper: <https://arxiv.org/abs/2511.12899>
-- Notes (Chinese): [papernotes.org/AAAI2026/medical_imaging/fdp_a_frequency-de…](https://papernotes.org/AAAI2026/medical_imaging/fdp_a_frequency-decomposition_preprocessing_pipeline_for_unsupervised_anomaly_de/)
+- Notes (Chinese): [papernotes.org/AAAI2026/object_detection/fdp_a_frequency-d…](https://papernotes.org/AAAI2026/object_detection/fdp_a_frequency-decomposition_preprocessing_pipeline_for_unsupervised_anomaly_de/)
 - Notes (English): [en.papernotes.org/AAAI2026/medical_imaging/fdp_a_frequency…](https://en.papernotes.org/AAAI2026/medical_imaging/fdp_a_frequency-decomposition_preprocessing_pipeline_for_unsupervised_anomaly_de/)
 
 **Backdoor Attacks on Open Vocabulary Object Detectors via Multi-Modal Prompt Tuning**
@@ -4710,13 +4710,13 @@
 **CountSteer: Steering Attention for Object Counting in Diffusion Models** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2511.11253>
-- Notes (Chinese): [papernotes.org/AAAI2026/image_generation/countsteer_steeri…](https://papernotes.org/AAAI2026/image_generation/countsteer_steering_attention_for_object_counting_in_diffusion_models/)
+- Notes (Chinese): [papernotes.org/AAAI2026/object_detection/countsteer_steeri…](https://papernotes.org/AAAI2026/object_detection/countsteer_steering_attention_for_object_counting_in_diffusion_models/)
 - Notes (English): [en.papernotes.org/AAAI2026/image_generation/countsteer_ste…](https://en.papernotes.org/AAAI2026/image_generation/countsteer_steering_attention_for_object_counting_in_diffusion_models/)
 
 **Towards Multiple Missing Values-resistant Unsupervised Graph Anomaly Detection**
 
 - Paper: <https://arxiv.org/abs/2511.09917>
-- Notes (Chinese): [papernotes.org/AAAI2026/ai_safety/towards_multiple_missing…](https://papernotes.org/AAAI2026/ai_safety/towards_multiple_missing_values-resistant_unsupervised_graph_anomaly_detection/)
+- Notes (Chinese): [papernotes.org/AAAI2026/object_detection/towards_multiple_…](https://papernotes.org/AAAI2026/object_detection/towards_multiple_missing_values-resistant_unsupervised_graph_anomaly_detection/)
 - Notes (English): [en.papernotes.org/AAAI2026/ai_safety/towards_multiple_miss…](https://en.papernotes.org/AAAI2026/ai_safety/towards_multiple_missing_values-resistant_unsupervised_graph_anomaly_detection/)
 
 **T-Rex-Omni: Integrating Negative Visual Prompt in Generic Object Detection**
@@ -4734,25 +4734,25 @@
 **Correcting False Alarms from Unseen: Adapting Graph Anomaly Detectors at Test Time**
 
 - Paper: <https://arxiv.org/abs/2511.07023>
-- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/correcting_false…](https://papernotes.org/AAAI2026/model_compression/correcting_false_alarms_from_unseen_adapting_graph_anomaly_detectors_at_test_tim/)
+- Notes (Chinese): [papernotes.org/AAAI2026/object_detection/correcting_false_…](https://papernotes.org/AAAI2026/object_detection/correcting_false_alarms_from_unseen_adapting_graph_anomaly_detectors_at_test_tim/)
 - Notes (English): [en.papernotes.org/AAAI2026/model_compression/correcting_fa…](https://en.papernotes.org/AAAI2026/model_compression/correcting_false_alarms_from_unseen_adapting_graph_anomaly_detectors_at_test_tim/)
 
 **Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory**
 
 - Paper: <https://arxiv.org/abs/2511.05966>
-- Notes (Chinese): [papernotes.org/AAAI2026/graph_learning/commonality_in_few_…](https://papernotes.org/AAAI2026/graph_learning/commonality_in_few_few-shot_multimodal_anomaly_detection_via_hypergraph-enhanced/)
+- Notes (Chinese): [papernotes.org/AAAI2026/object_detection/commonality_in_fe…](https://papernotes.org/AAAI2026/object_detection/commonality_in_few_few-shot_multimodal_anomaly_detection_via_hypergraph-enhanced/)
 - Notes (English): [en.papernotes.org/AAAI2026/graph_learning/commonality_in_f…](https://en.papernotes.org/AAAI2026/graph_learning/commonality_in_few_few-shot_multimodal_anomaly_detection_via_hypergraph-enhanced/)
 
 **Open-World Object Counting in Videos**
 
 - Paper: <https://arxiv.org/abs/2506.15368>
-- Notes (Chinese): [papernotes.org/AAAI2026/medical_imaging/open-world_object_…](https://papernotes.org/AAAI2026/medical_imaging/open-world_object_counting_in_videos/)
+- Notes (Chinese): [papernotes.org/AAAI2026/object_detection/open-world_object…](https://papernotes.org/AAAI2026/object_detection/open-world_object_counting_in_videos/)
 - Notes (English): [en.papernotes.org/AAAI2026/medical_imaging/open-world_obje…](https://en.papernotes.org/AAAI2026/medical_imaging/open-world_object_counting_in_videos/)
 
 **Harnessing Vision-Language Models for Time Series Anomaly Detection** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2506.06836>
-- Notes (Chinese): [papernotes.org/AAAI2026/multimodal_vlm/harnessing_vision-l…](https://papernotes.org/AAAI2026/multimodal_vlm/harnessing_vision-language_models_for_time_series_anomaly_detection/)
+- Notes (Chinese): [papernotes.org/AAAI2026/object_detection/harnessing_vision…](https://papernotes.org/AAAI2026/object_detection/harnessing_vision-language_models_for_time_series_anomaly_detection/)
 - Notes (English): [en.papernotes.org/AAAI2026/multimodal_vlm/harnessing_visio…](https://en.papernotes.org/AAAI2026/multimodal_vlm/harnessing_vision-language_models_for_time_series_anomaly_detection/)
 
 **SimROD: A Simple Baseline for Raw Object Detection with Global and Local Enhancements**
@@ -4802,7 +4802,7 @@
 **RecToM: A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational Recommender Systems**
 
 - Paper: <https://arxiv.org/abs/2511.22275>
-- Notes (Chinese): [papernotes.org/AAAI2026/video_understanding/rectom_a_bench…](https://papernotes.org/AAAI2026/video_understanding/rectom_a_benchmark_for_evaluating_machine_theory_of_mind_in_llm-based_conversati/)
+- Notes (Chinese): [papernotes.org/AAAI2026/recommender/rectom_a_benchmark_for…](https://papernotes.org/AAAI2026/recommender/rectom_a_benchmark_for_evaluating_machine_theory_of_mind_in_llm-based_conversati/)
 - Notes (English): [en.papernotes.org/AAAI2026/video_understanding/rectom_a_be…](https://en.papernotes.org/AAAI2026/video_understanding/rectom_a_benchmark_for_evaluating_machine_theory_of_mind_in_llm-based_conversati/)
 
 **When Top-ranked Recommendations Fail: Modeling Multi-Granular Negative Feedback for Explainable and Robust Video Recommendation**
@@ -4848,7 +4848,7 @@
 **Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2511.07295>
-- Notes (Chinese): [papernotes.org/AAAI2026/image_restoration/hard_vs_noise_re…](https://papernotes.org/AAAI2026/image_restoration/hard_vs_noise_resolving_hard-noisy_sample_confusion_in_recommender_systems_via_l/)
+- Notes (Chinese): [papernotes.org/AAAI2026/recommender/hard_vs_noise_resolvin…](https://papernotes.org/AAAI2026/recommender/hard_vs_noise_resolving_hard-noisy_sample_confusion_in_recommender_systems_via_l/)
 - Notes (English): [en.papernotes.org/AAAI2026/image_restoration/hard_vs_noise…](https://en.papernotes.org/AAAI2026/image_restoration/hard_vs_noise_resolving_hard-noisy_sample_confusion_in_recommender_systems_via_l/)
 
 **Wavelet Enhanced Adaptive Frequency Filter for Sequential Recommendation**
@@ -4946,7 +4946,7 @@
 **Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2511.07587>
-- Notes (Chinese): [papernotes.org/AAAI2026/video_understanding/beyond_fact_re…](https://papernotes.org/AAAI2026/video_understanding/beyond_fact_retrieval_episodic_memory_for_rag_with_generative_semantic_workspace/)
+- Notes (Chinese): [papernotes.org/AAAI2026/graph_learning/beyond_fact_retriev…](https://papernotes.org/AAAI2026/graph_learning/beyond_fact_retrieval_episodic_memory_for_rag_with_generative_semantic_workspace/)
 - Notes (English): [en.papernotes.org/AAAI2026/video_understanding/beyond_fact…](https://en.papernotes.org/AAAI2026/video_understanding/beyond_fact_retrieval_episodic_memory_for_rag_with_generative_semantic_workspace/)
 
 **Exposing the Cracks: Vulnerabilities of Retrieval-Augmented LLM-based Machine Translation**
@@ -4964,7 +4964,7 @@
 **MIRAGE: Scaling Test-Time Inference with Parallel Graph-Retrieval-Augmented Reasoning Chains**
 
 - Paper: <https://arxiv.org/abs/2508.18260>
-- Notes (Chinese): [papernotes.org/AAAI2026/medical_imaging/mirage_scaling_tes…](https://papernotes.org/AAAI2026/medical_imaging/mirage_scaling_test-time_inference_with_parallel_graph-retrieval-augmented_reaso/)
+- Notes (Chinese): [papernotes.org/AAAI2026/medical_nlp/mirage_scaling_test-ti…](https://papernotes.org/AAAI2026/medical_nlp/mirage_scaling_test-time_inference_with_parallel_graph-retrieval-augmented_reaso/)
 - Notes (English): [en.papernotes.org/AAAI2026/medical_imaging/mirage_scaling_…](https://en.papernotes.org/AAAI2026/medical_imaging/mirage_scaling_test-time_inference_with_parallel_graph-retrieval-augmented_reaso/)
 
 **RRRA: Resampling and Reranking through a Retriever Adapter**
@@ -5020,7 +5020,7 @@
 **MetaGDPO: Alleviating Catastrophic Forgetting with Metacognitive Knowledge through Group Direct Preference Optimization**
 
 - Paper: <https://arxiv.org/abs/2511.12113>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_alignment/metagdpo_alleviating…](https://papernotes.org/AAAI2026/llm_alignment/metagdpo_alleviating_catastrophic_forgetting_with_metacognitive_knowledge_throug/)
+- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/metagdpo_allevia…](https://papernotes.org/AAAI2026/model_compression/metagdpo_alleviating_catastrophic_forgetting_with_metacognitive_knowledge_throug/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_alignment/metagdpo_alleviat…](https://en.papernotes.org/AAAI2026/llm_alignment/metagdpo_alleviating_catastrophic_forgetting_with_metacognitive_knowledge_throug/)
 
 **Moral Change or Noise? On Problems of Aligning AI With Temporally Unstable Human Feedback**
@@ -5080,7 +5080,7 @@
 **LaF-GRPO: In-Situ Navigation Instruction Generation for the Visually Impaired via GRPO with LLM-as-Follower Reward**
 
 - Paper: <https://arxiv.org/abs/2506.04070>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/laf-grpo_in-situ_navigati…](https://papernotes.org/AAAI2026/robotics/laf-grpo_in-situ_navigation_instruction_generation_for_the_visually_impaired_via/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_alignment/laf-grpo_in-situ_nav…](https://papernotes.org/AAAI2026/llm_alignment/laf-grpo_in-situ_navigation_instruction_generation_for_the_visually_impaired_via/)
 - Notes (English): [en.papernotes.org/AAAI2026/robotics/laf-grpo_in-situ_navig…](https://en.papernotes.org/AAAI2026/robotics/laf-grpo_in-situ_navigation_instruction_generation_for_the_visually_impaired_via/)
 
 **A Course Correction in Steerability Evaluation: Revealing Miscalibration and Side Effects in LLMs**
@@ -5166,13 +5166,13 @@
 **PragWorld: A Benchmark Evaluating LLMs' Local World Model under Minimal Linguistic Alterations and Conversational Dynamics** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2511.13021>
-- Notes (Chinese): [papernotes.org/AAAI2026/video_understanding/pragworld_a_be…](https://papernotes.org/AAAI2026/video_understanding/pragworld_a_benchmark_evaluating_llms_local_world_model_under_minimal_linguistic/)
+- Notes (Chinese): [papernotes.org/AAAI2026/interpretability/pragworld_a_bench…](https://papernotes.org/AAAI2026/interpretability/pragworld_a_benchmark_evaluating_llms_local_world_model_under_minimal_linguistic/)
 - Notes (English): [en.papernotes.org/AAAI2026/video_understanding/pragworld_a…](https://en.papernotes.org/AAAI2026/video_understanding/pragworld_a_benchmark_evaluating_llms_local_world_model_under_minimal_linguistic/)
 
 **Do LLMs Really Struggle at NL-FOL Translation? Revealing their Strengths via a Novel Benchmarking Strategy**
 
 - Paper: <https://arxiv.org/abs/2511.11816>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/do_llms_really_struggle_a…](https://papernotes.org/AAAI2026/robotics/do_llms_really_struggle_at_nl-fol_translation_revealing_their_strengths_via_a_no/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/do_llms_really_stru…](https://papernotes.org/AAAI2026/llm_evaluation/do_llms_really_struggle_at_nl-fol_translation_revealing_their_strengths_via_a_no/)
 - Notes (English): [en.papernotes.org/AAAI2026/robotics/do_llms_really_struggl…](https://en.papernotes.org/AAAI2026/robotics/do_llms_really_struggle_at_nl-fol_translation_revealing_their_strengths_via_a_no/)
 
 **SPAN: Benchmarking and Improving Cross-Calendar Temporal Reasoning of Large Language Models**
@@ -5184,8 +5184,8 @@
 **When Hallucination Costs Millions: Benchmarking AI Agents in High-Stakes Adversarial Financial Markets** · 🎤 Oral · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2510.00332>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/when_hallucination_costs_…](https://papernotes.org/AAAI2026/robotics/when_hallucination_costs_millions_benchmarking_ai_agents_in_high-stakes_adversar/)
-- Notes (English): [en.papernotes.org/AAAI2026/robotics/when_hallucination_cos…](https://en.papernotes.org/AAAI2026/robotics/when_hallucination_costs_millions_benchmarking_ai_agents_in_high-stakes_adversar/)
+- Notes (Chinese): [papernotes.org/AAAI2026/hallucination/when_hallucination_c…](https://papernotes.org/AAAI2026/hallucination/when_hallucination_costs_millions_benchmarking_ai_agents_in_high-stakes_adversar/)
+- Notes (English): [en.papernotes.org/AAAI2026/hallucination/when_hallucinatio…](https://en.papernotes.org/AAAI2026/hallucination/when_hallucination_costs_millions_benchmarking_ai_agents_in_high-stakes_adversar/)
 
 **SproutBench: A Benchmark for Safe and Ethical Large Language Models for Youth** · 🛠️ Workshop
 
@@ -5246,7 +5246,7 @@
 **Listening Between the Frames: Bridging Temporal Gaps in Large Audio-Language Models**
 
 - Paper: <https://arxiv.org/abs/2511.11039>
-- Notes (Chinese): [papernotes.org/AAAI2026/video_understanding/listening_betw…](https://papernotes.org/AAAI2026/video_understanding/listening_between_the_frames_bridging_temporal_gaps_in_large_audio-language_mode/)
+- Notes (Chinese): [papernotes.org/AAAI2026/audio_speech/listening_between_the…](https://papernotes.org/AAAI2026/audio_speech/listening_between_the_frames_bridging_temporal_gaps_in_large_audio-language_mode/)
 - Notes (English): [en.papernotes.org/AAAI2026/video_understanding/listening_b…](https://en.papernotes.org/AAAI2026/video_understanding/listening_between_the_frames_bridging_temporal_gaps_in_large_audio-language_mode/)
 
 **StyleBreak: Revealing Alignment Vulnerabilities in Large Audio-Language Models via Style-Aware Audio Jailbreak**
@@ -5258,13 +5258,13 @@
 **Diff-V2M: A Hierarchical Conditional Diffusion Model with Explicit Rhythmic Modeling for Video-to-Music Generation**
 
 - Paper: <https://arxiv.org/abs/2511.09090>
-- Notes (Chinese): [papernotes.org/AAAI2026/image_generation/diff-v2m_a_hierar…](https://papernotes.org/AAAI2026/image_generation/diff-v2m_a_hierarchical_conditional_diffusion_model_with_explicit_rhythmic_model/)
+- Notes (Chinese): [papernotes.org/AAAI2026/audio_speech/diff-v2m_a_hierarchic…](https://papernotes.org/AAAI2026/audio_speech/diff-v2m_a_hierarchical_conditional_diffusion_model_with_explicit_rhythmic_model/)
 - Notes (English): [en.papernotes.org/AAAI2026/image_generation/diff-v2m_a_hie…](https://en.papernotes.org/AAAI2026/image_generation/diff-v2m_a_hierarchical_conditional_diffusion_model_with_explicit_rhythmic_model/)
 
 **HQ-SVC: Towards High-Quality Zero-Shot Singing Voice Conversion in Low-Resource Scenarios**
 
 - Paper: <https://arxiv.org/abs/2511.08496>
-- Notes (Chinese): [papernotes.org/AAAI2026/image_restoration/hq-svc_towards_h…](https://papernotes.org/AAAI2026/image_restoration/hq-svc_towards_high-quality_zero-shot_singing_voice_conversion_in_low-resource_s/)
+- Notes (Chinese): [papernotes.org/AAAI2026/audio_speech/hq-svc_towards_high-q…](https://papernotes.org/AAAI2026/audio_speech/hq-svc_towards_high-quality_zero-shot_singing_voice_conversion_in_low-resource_s/)
 - Notes (English): [en.papernotes.org/AAAI2026/image_restoration/hq-svc_toward…](https://en.papernotes.org/AAAI2026/image_restoration/hq-svc_towards_high-quality_zero-shot_singing_voice_conversion_in_low-resource_s/)
 
 **Playmate2: Training-Free Multi-Character Audio-Driven Animation via Diffusion Transformer with Reward Feedback**
@@ -5350,7 +5350,7 @@
 **SparseRM: A Lightweight Preference Modeling with Sparse Autoencoder**
 
 - Paper: <https://arxiv.org/abs/2511.07896>
-- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/sparserm_a_light…](https://papernotes.org/AAAI2026/model_compression/sparserm_a_lightweight_preference_modeling_with_sparse_autoencoder/)
+- Notes (Chinese): [papernotes.org/AAAI2026/interpretability/sparserm_a_lightw…](https://papernotes.org/AAAI2026/interpretability/sparserm_a_lightweight_preference_modeling_with_sparse_autoencoder/)
 - Notes (English): [en.papernotes.org/AAAI2026/model_compression/sparserm_a_li…](https://en.papernotes.org/AAAI2026/model_compression/sparserm_a_lightweight_preference_modeling_with_sparse_autoencoder/)
 
 **Interpretable Reward Model via Sparse Autoencoder** · 🎤 Oral
@@ -5362,7 +5362,7 @@
 **Share Your Attention: Transformer Weight Sharing via Matrix-based Dictionary Learning**
 
 - Paper: <https://arxiv.org/abs/2508.04581>
-- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/share_your_atten…](https://papernotes.org/AAAI2026/model_compression/share_your_attention_transformer_weight_sharing_via_matrix-based_dictionary_lear/)
+- Notes (Chinese): [papernotes.org/AAAI2026/interpretability/share_your_attent…](https://papernotes.org/AAAI2026/interpretability/share_your_attention_transformer_weight_sharing_via_matrix-based_dictionary_lear/)
 - Notes (English): [en.papernotes.org/AAAI2026/model_compression/share_your_at…](https://en.papernotes.org/AAAI2026/model_compression/share_your_attention_transformer_weight_sharing_via_matrix-based_dictionary_lear/)
 
 **DeepGB-TB: A Risk-Balanced Cross-Attention Gradient-Boosted Convolutional Network for Rapid, Interpretable Tuberculosis Screening** · 🎤 Oral
@@ -5388,8 +5388,8 @@
 **ESG-Bench: Benchmarking Long-Context ESG Reports for Hallucination Mitigation**
 
 - Paper: <https://arxiv.org/abs/2603.13154>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_reasoning/esg-bench_benchmarki…](https://papernotes.org/AAAI2026/llm_reasoning/esg-bench_benchmarking_long-context_esg_reports_for_hallucination_mitigation/)
-- Notes (English): [en.papernotes.org/AAAI2026/llm_reasoning/esg-bench_benchma…](https://en.papernotes.org/AAAI2026/llm_reasoning/esg-bench_benchmarking_long-context_esg_reports_for_hallucination_mitigation/)
+- Notes (Chinese): [papernotes.org/AAAI2026/hallucination/esg-bench_benchmarki…](https://papernotes.org/AAAI2026/hallucination/esg-bench_benchmarking_long-context_esg_reports_for_hallucination_mitigation/)
+- Notes (English): [en.papernotes.org/AAAI2026/hallucination/esg-bench_benchma…](https://en.papernotes.org/AAAI2026/hallucination/esg-bench_benchmarking_long-context_esg_reports_for_hallucination_mitigation/)
 
 **SecMoE: Communication-Efficient Secure MoE Inference via Select-Then-Compute**
 
@@ -5700,7 +5700,7 @@
 **Consensus-Aligned Neuron Efficient Fine-Tuning Large Language Models for Multi-Domain Machine Translation**
 
 - Paper: <https://arxiv.org/abs/2602.05694>
-- Notes (Chinese): [papernotes.org/AAAI2026/multilingual_mt/consensus-aligned_…](https://papernotes.org/AAAI2026/multilingual_mt/consensus-aligned_neuron_efficient_fine-tuning_large_language_models_for_multi-d/)
+- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/consensus-aligne…](https://papernotes.org/AAAI2026/model_compression/consensus-aligned_neuron_efficient_fine-tuning_large_language_models_for_multi-d/)
 - Notes (English): [en.papernotes.org/AAAI2026/multilingual_mt/consensus-align…](https://en.papernotes.org/AAAI2026/multilingual_mt/consensus-aligned_neuron_efficient_fine-tuning_large_language_models_for_multi-d/)
 
 **GloCTM: Cross-Lingual Topic Modeling via a Global Context Space**
@@ -5762,7 +5762,7 @@
 **QGShap: Quantum Acceleration for Faithful GNN Explanations** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2512.03099>
-- Notes (Chinese): [papernotes.org/AAAI2026/interpretability/qgshap_quantum_ac…](https://papernotes.org/AAAI2026/interpretability/qgshap_quantum_acceleration_for_faithful_gnn_explanations/)
+- Notes (Chinese): [papernotes.org/AAAI2026/computational_biology/qgshap_quant…](https://papernotes.org/AAAI2026/computational_biology/qgshap_quantum_acceleration_for_faithful_gnn_explanations/)
 - Notes (English): [en.papernotes.org/AAAI2026/interpretability/qgshap_quantum…](https://en.papernotes.org/AAAI2026/interpretability/qgshap_quantum_acceleration_for_faithful_gnn_explanations/)
 
 **Towards a Foundation Model for Partial Differential Equations Across Physics Domains** · 🛠️ Workshop
@@ -5774,13 +5774,13 @@
 **Catastrophic Forgetting in Kolmogorov-Arnold Networks**
 
 - Paper: <https://arxiv.org/abs/2511.12828>
-- Notes (Chinese): [papernotes.org/AAAI2026/knowledge_editing/catastrophic_for…](https://papernotes.org/AAAI2026/knowledge_editing/catastrophic_forgetting_in_kolmogorov-arnold_networks/)
+- Notes (Chinese): [papernotes.org/AAAI2026/physics/catastrophic_forgetting_in…](https://papernotes.org/AAAI2026/physics/catastrophic_forgetting_in_kolmogorov-arnold_networks/)
 - Notes (English): [en.papernotes.org/AAAI2026/knowledge_editing/catastrophic_…](https://en.papernotes.org/AAAI2026/knowledge_editing/catastrophic_forgetting_in_kolmogorov-arnold_networks/)
 
 **Learning Fair Representations with Kolmogorov-Arnold Networks**
 
 - Paper: <https://arxiv.org/abs/2511.11767>
-- Notes (Chinese): [papernotes.org/AAAI2026/others/learning_fair_representatio…](https://papernotes.org/AAAI2026/others/learning_fair_representations_with_kolmogorov-arnold_networks/)
+- Notes (Chinese): [papernotes.org/AAAI2026/physics/learning_fair_representati…](https://papernotes.org/AAAI2026/physics/learning_fair_representations_with_kolmogorov-arnold_networks/)
 - Notes (English): [en.papernotes.org/AAAI2026/others/learning_fair_representa…](https://en.papernotes.org/AAAI2026/others/learning_fair_representations_with_kolmogorov-arnold_networks/)
 
 **Phys-Liquid: A Physics-Informed Dataset for Estimating 3D Geometry and Volume of Transparent Deformable Liquids** · 🎤 Oral
@@ -5792,13 +5792,13 @@
 **STELLAR: Scene Text Editor for Low-Resource Languages and Real-World Data** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2511.09977>
-- Notes (Chinese): [papernotes.org/AAAI2026/multilingual_mt/stellar_scene_text…](https://papernotes.org/AAAI2026/multilingual_mt/stellar_scene_text_editor_for_low-resource_languages_and_real-world_data/)
+- Notes (Chinese): [papernotes.org/AAAI2026/image_generation/stellar_scene_tex…](https://papernotes.org/AAAI2026/image_generation/stellar_scene_text_editor_for_low-resource_languages_and_real-world_data/)
 - Notes (English): [en.papernotes.org/AAAI2026/multilingual_mt/stellar_scene_t…](https://en.papernotes.org/AAAI2026/multilingual_mt/stellar_scene_text_editor_for_low-resource_languages_and_real-world_data/)
 
 **FlashKAT: Understanding and Addressing Performance Bottlenecks in the Kolmogorov-Arnold Transformer**
 
 - Paper: <https://arxiv.org/abs/2505.13813>
-- Notes (Chinese): [papernotes.org/AAAI2026/interpretability/flashkat_understa…](https://papernotes.org/AAAI2026/interpretability/flashkat_understanding_and_addressing_performance_bottlenecks_in_the_kolmogorov-/)
+- Notes (Chinese): [papernotes.org/AAAI2026/physics/flashkat_understanding_and…](https://papernotes.org/AAAI2026/physics/flashkat_understanding_and_addressing_performance_bottlenecks_in_the_kolmogorov-/)
 - Notes (English): [en.papernotes.org/AAAI2026/interpretability/flashkat_under…](https://en.papernotes.org/AAAI2026/interpretability/flashkat_understanding_and_addressing_performance_bottlenecks_in_the_kolmogorov-/)
 
 **PIMRL: Physics-Informed Multi-Scale Recurrent Learning for Burst-Sampled Spatiotemporal Dynamics**
@@ -5818,13 +5818,13 @@
 **ClearAIR: A Human-Visual-Perception-Inspired All-in-One Image Restoration**
 
 - Paper: <https://arxiv.org/abs/2601.02763>
-- Notes (Chinese): [papernotes.org/AAAI2026/image_restoration/clearair_a_human…](https://papernotes.org/AAAI2026/image_restoration/clearair_a_human-visual-perception-inspired_all-in-one_image_restoration/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multimodal_vlm/clearair_a_human-vi…](https://papernotes.org/AAAI2026/multimodal_vlm/clearair_a_human-visual-perception-inspired_all-in-one_image_restoration/)
 - Notes (English): [en.papernotes.org/AAAI2026/image_restoration/clearair_a_hu…](https://en.papernotes.org/AAAI2026/image_restoration/clearair_a_human-visual-perception-inspired_all-in-one_image_restoration/)
 
 **Depth-Synergized Mamba Meets Memory Experts for All-Day Image Reflection Separation**
 
 - Paper: <https://arxiv.org/abs/2601.00322>
-- Notes (Chinese): [papernotes.org/AAAI2026/others/depth-synergized_mamba_meet…](https://papernotes.org/AAAI2026/others/depth-synergized_mamba_meets_memory_experts_for_all-day_image_reflection_separat/)
+- Notes (Chinese): [papernotes.org/AAAI2026/image_restoration/depth-synergized…](https://papernotes.org/AAAI2026/image_restoration/depth-synergized_mamba_meets_memory_experts_for_all-day_image_reflection_separat/)
 - Notes (English): [en.papernotes.org/AAAI2026/others/depth-synergized_mamba_m…](https://en.papernotes.org/AAAI2026/others/depth-synergized_mamba_meets_memory_experts_for_all-day_image_reflection_separat/)
 
 **SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining**
@@ -5954,7 +5954,7 @@
 **CLIPPan: Adapting CLIP as A Supervisor for Unsupervised Pansharpening**
 
 - Paper: <https://arxiv.org/abs/2511.10896>
-- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/clippan_adapting…](https://papernotes.org/AAAI2026/model_compression/clippan_adapting_clip_as_a_supervisor_for_unsupervised_pansharpening/)
+- Notes (Chinese): [papernotes.org/AAAI2026/3d_vision/clippan_adapting_clip_as…](https://papernotes.org/AAAI2026/3d_vision/clippan_adapting_clip_as_a_supervisor_for_unsupervised_pansharpening/)
 - Notes (English): [en.papernotes.org/AAAI2026/model_compression/clippan_adapt…](https://en.papernotes.org/AAAI2026/model_compression/clippan_adapting_clip_as_a_supervisor_for_unsupervised_pansharpening/)
 
 **Generalizable Slum Detection from Satellite Imagery with Mixture-of-Experts**
@@ -6032,7 +6032,7 @@
 **Causal Inference under Threshold Manipulation: Bayesian Mixture Modeling and Heterogeneous Treatment Effects**
 
 - Paper: <https://arxiv.org/abs/2509.19814>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/causal_inference_under_th…](https://papernotes.org/AAAI2026/robotics/causal_inference_under_threshold_manipulation_bayesian_mixtu/)
+- Notes (Chinese): [papernotes.org/AAAI2026/causal_inference/causal_inference_…](https://papernotes.org/AAAI2026/causal_inference/causal_inference_under_threshold_manipulation_bayesian_mixtu/)
 - Notes (English): [en.papernotes.org/AAAI2026/robotics/causal_inference_under…](https://en.papernotes.org/AAAI2026/robotics/causal_inference_under_threshold_manipulation_bayesian_mixtu/)
 
 **Uncovering Bias Paths with LLM-guided Causal Discovery: An Active Learning and Dynamic Scoring Approach**
@@ -6126,7 +6126,7 @@
 **GSAP-ERE: Fine-Grained Scholarly Entity and Relation Extraction Focused on Machine Learning**
 
 - Paper: <https://arxiv.org/abs/2511.09411>
-- Notes (Chinese): [papernotes.org/AAAI2026/graph_learning/gsap-ere_fine-grain…](https://papernotes.org/AAAI2026/graph_learning/gsap-ere_fine-grained_scholarly_entity_and_relation_extraction_focused_on_machin/)
+- Notes (Chinese): [papernotes.org/AAAI2026/3d_vision/gsap-ere_fine-grained_sc…](https://papernotes.org/AAAI2026/3d_vision/gsap-ere_fine-grained_scholarly_entity_and_relation_extraction_focused_on_machin/)
 - Notes (English): [en.papernotes.org/AAAI2026/graph_learning/gsap-ere_fine-gr…](https://en.papernotes.org/AAAI2026/graph_learning/gsap-ere_fine-grained_scholarly_entity_and_relation_extraction_focused_on_machin/)
 
 **Breaking the Adversarial Robustness-Performance Trade-off in Text Classification via Manifold Purification** · 📌 Poster
@@ -6194,7 +6194,7 @@
 **Structured Language Generation Model: Loss Calibration and Formatted Decoding for Robust Structure Prediction and Knowledge Retrieval**
 
 - Paper: <https://arxiv.org/abs/2402.08971>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/structured_language…](https://papernotes.org/AAAI2026/llm_evaluation/structured_language_generation_model_loss_calibration_and_formatted_decoding_for/)
+- Notes (Chinese): [papernotes.org/AAAI2026/nlp_generation/structured_language…](https://papernotes.org/AAAI2026/nlp_generation/structured_language_generation_model_loss_calibration_and_formatted_decoding_for/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/structured_langu…](https://en.papernotes.org/AAAI2026/llm_evaluation/structured_language_generation_model_loss_calibration_and_formatted_decoding_for/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
@@ -6208,7 +6208,7 @@
 **Balancing Multimodal Domain Generalization via Gradient Modulation and Projection** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2603.14175>
-- Notes (Chinese): [papernotes.org/AAAI2026/video_understanding/balancing_mult…](https://papernotes.org/AAAI2026/video_understanding/balancing_multimodal_domain_generalization_via_gradient_modulation_and_projectio/)
+- Notes (Chinese): [papernotes.org/AAAI2026/signal_comm/balancing_multimodal_d…](https://papernotes.org/AAAI2026/signal_comm/balancing_multimodal_domain_generalization_via_gradient_modulation_and_projectio/)
 - Notes (English): [en.papernotes.org/AAAI2026/video_understanding/balancing_m…](https://en.papernotes.org/AAAI2026/video_understanding/balancing_multimodal_domain_generalization_via_gradient_modulation_and_projectio/)
 
 **Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes**
@@ -6294,7 +6294,7 @@
 **CATFormer: When Continual Learning Meets Spiking Transformers With Dynamic Thresholds** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2603.15184>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_safety/catformer_when_continua…](https://papernotes.org/AAAI2026/llm_safety/catformer_when_continual_learning_meets_spiking_transformers_with_dynamic_thresh/)
+- Notes (Chinese): [papernotes.org/AAAI2026/self_supervised/catformer_when_con…](https://papernotes.org/AAAI2026/self_supervised/catformer_when_continual_learning_meets_spiking_transformers_with_dynamic_thresh/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_safety/catformer_when_conti…](https://en.papernotes.org/AAAI2026/llm_safety/catformer_when_continual_learning_meets_spiking_transformers_with_dynamic_thresh/)
 
 **Attention Gathers, MLPs Compose: A Causal Analysis of an Action-Outcome Circuit in VideoViT** · 🛠️ Workshop
@@ -6306,7 +6306,7 @@
 **A Principle-Driven Adaptive Policy for Group Cognitive Stimulation Dialogue for Elderly with Cognitive Impairment**
 
 - Paper: <https://arxiv.org/abs/2603.10034>
-- Notes (Chinese): [papernotes.org/AAAI2026/medical_imaging/a_principle-driven…](https://papernotes.org/AAAI2026/medical_imaging/a_principle-driven_adaptive_policy_for_group_cognitive_stimu/)
+- Notes (Chinese): [papernotes.org/AAAI2026/medical_nlp/a_principle-driven_ada…](https://papernotes.org/AAAI2026/medical_nlp/a_principle-driven_adaptive_policy_for_group_cognitive_stimu/)
 - Notes (English): [en.papernotes.org/AAAI2026/medical_imaging/a_principle-dri…](https://en.papernotes.org/AAAI2026/medical_imaging/a_principle-driven_adaptive_policy_for_group_cognitive_stimu/)
 
 **Aligning the True Semantics: Constrained Decoupling and Distribution Sampling for Cross-Modal Alignment** · 📌 Poster
@@ -6342,7 +6342,7 @@
 **Conversational Learning Diagnosis via Reasoning Multi-Turn Interactive Learning**
 
 - Paper: <https://arxiv.org/abs/2603.03236>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_nlp/conversational_learning_di…](https://papernotes.org/AAAI2026/llm_nlp/conversational_learning_diagnosis_via_reasoning_multi-turn_interactive_learning/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/conversational_learnin…](https://papernotes.org/AAAI2026/multi_agent/conversational_learning_diagnosis_via_reasoning_multi-turn_interactive_learning/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_nlp/conversational_learning…](https://en.papernotes.org/AAAI2026/llm_nlp/conversational_learning_diagnosis_via_reasoning_multi-turn_interactive_learning/)
 
 **Constrained Particle Seeking: Solving Diffusion Inverse Problems with Just Forward Passes**
@@ -6498,7 +6498,7 @@
 **RENEW: Risk- and Energy-Aware Navigation in Dynamic Waterways** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2601.16424>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/renew_risk-_and_energy-aw…](https://papernotes.org/AAAI2026/robotics/renew_risk-_and_energy-aware_navigation_in_dynamic_waterways/)
+- Notes (Chinese): [papernotes.org/AAAI2026/earth_science/renew_risk-_and_ener…](https://papernotes.org/AAAI2026/earth_science/renew_risk-_and_energy-aware_navigation_in_dynamic_waterways/)
 - Notes (English): [en.papernotes.org/AAAI2026/robotics/renew_risk-_and_energy…](https://en.papernotes.org/AAAI2026/robotics/renew_risk-_and_energy-aware_navigation_in_dynamic_waterways/)
 
 **VitalDiagnosis: AI-Driven Ecosystem for 24/7 Vital Monitoring and Chronic Disease Management** · 🎬 Demo
@@ -6594,13 +6594,13 @@
 **Deep Incomplete Multi-View Clustering via Hierarchical Imputation and Alignment**
 
 - Paper: <https://arxiv.org/abs/2601.09051>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/deep_incomplete_mul…](https://papernotes.org/AAAI2026/llm_evaluation/deep_incomplete_multi-view_clustering_via_hierarchical_imputation_and_alignment/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/deep_incomplete_multi-view_…](https://papernotes.org/AAAI2026/others/deep_incomplete_multi-view_clustering_via_hierarchical_imputation_and_alignment/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/deep_incomplete_…](https://en.papernotes.org/AAAI2026/llm_evaluation/deep_incomplete_multi-view_clustering_via_hierarchical_imputation_and_alignment/)
 
 **Gaming the Answer Matcher: Examining the Impact of Text Manipulation on Automated Judgment** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2601.08849>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/gaming_the_answer_matcher…](https://papernotes.org/AAAI2026/robotics/gaming_the_answer_matcher_examining_the_impact_of_text_manipulation_on_automated/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/gaming_the_answer_m…](https://papernotes.org/AAAI2026/llm_evaluation/gaming_the_answer_matcher_examining_the_impact_of_text_manipulation_on_automated/)
 - Notes (English): [en.papernotes.org/AAAI2026/robotics/gaming_the_answer_matc…](https://en.papernotes.org/AAAI2026/robotics/gaming_the_answer_matcher_examining_the_impact_of_text_manipulation_on_automated/)
 
 **Aggregating Diverse Cue Experts for AI-Generated Image Detection**
@@ -6720,7 +6720,7 @@
 **GranAlign: Granularity-Aware Alignment Framework for Zero-Shot Video Moment Retrieval**
 
 - Paper: <https://arxiv.org/abs/2601.00584>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/granalign_granulari…](https://papernotes.org/AAAI2026/llm_evaluation/granalign_granularity-aware_alignment_framework_for_zero-shot_video_moment_retri/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_pretraining/granalign_granular…](https://papernotes.org/AAAI2026/llm_pretraining/granalign_granularity-aware_alignment_framework_for_zero-shot_video_moment_retri/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/granalign_granul…](https://en.papernotes.org/AAAI2026/llm_evaluation/granalign_granularity-aware_alignment_framework_for_zero-shot_video_moment_retri/)
 
 **When Small Models Are Right for Wrong Reasons: Process Verification for Trustworthy Agents** · 🛠️ Workshop
@@ -6744,7 +6744,7 @@
 **Hierarchical Pedagogical Oversight: A Multi-Agent Adversarial Framework for Reliable AI Tutoring**
 
 - Paper: <https://arxiv.org/abs/2512.22496>
-- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/hierarchical_ped…](https://papernotes.org/AAAI2026/model_compression/hierarchical_pedagogical_oversight_a_multi-agent_adversarial_framework_for_relia/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/hierarchical_pedagogic…](https://papernotes.org/AAAI2026/multi_agent/hierarchical_pedagogical_oversight_a_multi-agent_adversarial_framework_for_relia/)
 - Notes (English): [en.papernotes.org/AAAI2026/model_compression/hierarchical_…](https://en.papernotes.org/AAAI2026/model_compression/hierarchical_pedagogical_oversight_a_multi-agent_adversarial_framework_for_relia/)
 
 **AutoPP: Towards Automated Product Poster Generation and Optimization**
@@ -6834,7 +6834,7 @@
 **Attention as Binding: A Vector-Symbolic Perspective on Transformer Reasoning**
 
 - Paper: <https://arxiv.org/abs/2512.14709>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/attention_as_binding_a_ve…](https://papernotes.org/AAAI2026/robotics/attention_as_binding_a_vector-symbolic_perspective_on_transformer_reasoning/)
+- Notes (Chinese): [papernotes.org/AAAI2026/interpretability/attention_as_bind…](https://papernotes.org/AAAI2026/interpretability/attention_as_binding_a_vector-symbolic_perspective_on_transformer_reasoning/)
 - Notes (English): [en.papernotes.org/AAAI2026/robotics/attention_as_binding_a…](https://en.papernotes.org/AAAI2026/robotics/attention_as_binding_a_vector-symbolic_perspective_on_transformer_reasoning/)
 
 **Cost-Free Neutrality for the River Method**
@@ -6864,7 +6864,7 @@
 **LUCID: Learning-Enabled Uncertainty-Aware Certification of Stochastic Dynamical Systems**
 
 - Paper: <https://arxiv.org/abs/2512.11750>
-- Notes (Chinese): [papernotes.org/AAAI2026/autonomous_driving/lucid_learning-…](https://papernotes.org/AAAI2026/autonomous_driving/lucid_learning-enabled_uncertainty-aware_certification_of_stochastic_dynamical_s/)
+- Notes (Chinese): [papernotes.org/AAAI2026/medical_nlp/lucid_learning-enabled…](https://papernotes.org/AAAI2026/medical_nlp/lucid_learning-enabled_uncertainty-aware_certification_of_stochastic_dynamical_s/)
 - Notes (English): [en.papernotes.org/AAAI2026/autonomous_driving/lucid_learni…](https://en.papernotes.org/AAAI2026/autonomous_driving/lucid_learning-enabled_uncertainty-aware_certification_of_stochastic_dynamical_s/)
 
 **BAID: A Benchmark for Bias Assessment of AI Detectors** · 🛠️ Workshop
@@ -6900,7 +6900,7 @@
 **TRACE: A Generalizable Drift Detector for Streaming Data-Driven Optimization**
 
 - Paper: <https://arxiv.org/abs/2512.07082>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/trace_a_generalizab…](https://papernotes.org/AAAI2026/llm_evaluation/trace_a_generalizable_drift_detector_for_streaming_data-driven_optimization/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_pretraining/trace_a_generaliza…](https://papernotes.org/AAAI2026/llm_pretraining/trace_a_generalizable_drift_detector_for_streaming_data-driven_optimization/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/trace_a_generali…](https://en.papernotes.org/AAAI2026/llm_evaluation/trace_a_generalizable_drift_detector_for_streaming_data-driven_optimization/)
 
 **SparseCoop: Cooperative Perception with Kinematic-Grounded Queries**
@@ -6924,13 +6924,13 @@
 **Group Orthogonal Low-Rank Adaptation for RGB-T Tracking**
 
 - Paper: <https://arxiv.org/abs/2512.05359>
-- Notes (Chinese): [papernotes.org/AAAI2026/video_understanding/group_orthogon…](https://papernotes.org/AAAI2026/video_understanding/group_orthogonal_low-rank_adaptation_for_rgb-t_tracking/)
+- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/group_orthogonal…](https://papernotes.org/AAAI2026/model_compression/group_orthogonal_low-rank_adaptation_for_rgb-t_tracking/)
 - Notes (English): [en.papernotes.org/AAAI2026/video_understanding/group_ortho…](https://en.papernotes.org/AAAI2026/video_understanding/group_orthogonal_low-rank_adaptation_for_rgb-t_tracking/)
 
 **Human Cognitive Biases in Explanation-Based Interaction: The Case of Within and Between Session Order Effect**
 
 - Paper: <https://arxiv.org/abs/2512.04764>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/human_cognitive_biases_in…](https://papernotes.org/AAAI2026/robotics/human_cognitive_biases_in_explanation-based_interaction_the_case_of_within_and_b/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/human_cognitive_biases_in_e…](https://papernotes.org/AAAI2026/others/human_cognitive_biases_in_explanation-based_interaction_the_case_of_within_and_b/)
 - Notes (English): [en.papernotes.org/AAAI2026/robotics/human_cognitive_biases…](https://en.papernotes.org/AAAI2026/robotics/human_cognitive_biases_in_explanation-based_interaction_the_case_of_within_and_b/)
 
 **Prototype-Based Semantic Consistency Alignment for Domain Adaptive Retrieval**
@@ -7050,7 +7050,7 @@
 **From Passive Perception to Active Memory: A Weakly Supervised Image Manipulation Localization Framework Driven by Coarse-Grained Annotations**
 
 - Paper: <https://arxiv.org/abs/2511.20359>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/from_passive_perception_t…](https://papernotes.org/AAAI2026/robotics/from_passive_perception_to_active_memory_a_weakly_supervised_image_manipulation_/)
+- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/from_passive_per…](https://papernotes.org/AAAI2026/model_compression/from_passive_perception_to_active_memory_a_weakly_supervised_image_manipulation_/)
 - Notes (English): [en.papernotes.org/AAAI2026/robotics/from_passive_perceptio…](https://en.papernotes.org/AAAI2026/robotics/from_passive_perception_to_active_memory_a_weakly_supervised_image_manipulation_/)
 
 **DiCaP: Distribution-Calibrated Pseudo-labeling for Semi-Supervised Multi-Label Learning**
@@ -7074,7 +7074,7 @@
 **HybriDLA: Hybrid Generation for Document Layout Analysis** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2511.19919>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/hybridla_hybrid_gen…](https://papernotes.org/AAAI2026/llm_evaluation/hybridla_hybrid_generation_for_document_layout_analysis/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/hybridla_hybrid_generation_…](https://papernotes.org/AAAI2026/others/hybridla_hybrid_generation_for_document_layout_analysis/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/hybridla_hybrid_…](https://en.papernotes.org/AAAI2026/llm_evaluation/hybridla_hybrid_generation_for_document_layout_analysis/)
 
 **Tracking and Segmenting Anything in Any Modality**
@@ -7128,13 +7128,13 @@
 **Sampling Control for Imbalanced Calibration in Semi-Supervised Learning**
 
 - Paper: <https://arxiv.org/abs/2511.18773>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/sampling_control_fo…](https://papernotes.org/AAAI2026/llm_evaluation/sampling_control_for_imbalanced_calibration_in_semi-supervised_learning/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/sampling_control_for_imbala…](https://papernotes.org/AAAI2026/others/sampling_control_for_imbalanced_calibration_in_semi-supervised_learning/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/sampling_control…](https://en.papernotes.org/AAAI2026/llm_evaluation/sampling_control_for_imbalanced_calibration_in_semi-supervised_learning/)
 
 **Think How Your Teammates Think: Active Inference Can Benefit Decentralized Execution**
 
 - Paper: <https://arxiv.org/abs/2511.18761>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/think_how_your_team…](https://papernotes.org/AAAI2026/llm_evaluation/think_how_your_teammates_think_active_inference_can_benefit_decentralized_execut/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/think_how_your_teammates_th…](https://papernotes.org/AAAI2026/others/think_how_your_teammates_think_active_inference_can_benefit_decentralized_execut/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/think_how_your_t…](https://en.papernotes.org/AAAI2026/llm_evaluation/think_how_your_teammates_think_active_inference_can_benefit_decentralized_execut/)
 
 **Clinician-in-the-Loop Smart Home System to Detect Urinary Tract Infection Flare-Ups via Uncertainty-Aware Decision Support**
@@ -7146,7 +7146,7 @@
 **Neural Graph Navigation for Intelligent Subgraph Matching**
 
 - Paper: <https://arxiv.org/abs/2511.17939>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/neural_graph_navigation_f…](https://papernotes.org/AAAI2026/robotics/neural_graph_navigation_for_intelligent_subgraph_matching/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/neural_graph_navigation_for…](https://papernotes.org/AAAI2026/others/neural_graph_navigation_for_intelligent_subgraph_matching/)
 - Notes (English): [en.papernotes.org/AAAI2026/robotics/neural_graph_navigatio…](https://en.papernotes.org/AAAI2026/robotics/neural_graph_navigation_for_intelligent_subgraph_matching/)
 
 **A superpersuasive autonomous policy debating system** · 🛠️ Workshop
@@ -7428,13 +7428,13 @@
 **More Than Irrational: Modeling Belief-Biased Agents**
 
 - Paper: <https://arxiv.org/abs/2511.12359>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/more_than_irrational_mode…](https://papernotes.org/AAAI2026/robotics/more_than_irrational_modeling_belief-biased_agents/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/more_than_irrational_modeli…](https://papernotes.org/AAAI2026/others/more_than_irrational_modeling_belief-biased_agents/)
 - Notes (English): [en.papernotes.org/AAAI2026/robotics/more_than_irrational_m…](https://en.papernotes.org/AAAI2026/robotics/more_than_irrational_modeling_belief-biased_agents/)
 
 **Learning Time in Static Classifiers**
 
 - Paper: <https://arxiv.org/abs/2511.12321>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_pretraining/learning_time_in_s…](https://papernotes.org/AAAI2026/llm_pretraining/learning_time_in_static_classifiers/)
+- Notes (Chinese): [papernotes.org/AAAI2026/video_understanding/learning_time_…](https://papernotes.org/AAAI2026/video_understanding/learning_time_in_static_classifiers/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_pretraining/learning_time_i…](https://en.papernotes.org/AAAI2026/llm_pretraining/learning_time_in_static_classifiers/)
 
 **Beyond World Models: Rethinking Understanding in AI Models**
@@ -7452,7 +7452,7 @@
 **Incremental Maintenance of DatalogMTL Materialisations** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2511.12169>
-- Notes (Chinese): [papernotes.org/AAAI2026/audio_speech/incremental_maintenan…](https://papernotes.org/AAAI2026/audio_speech/incremental_maintenance_of_datalogmtl_materialisations/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/incremental_maintenance_of_…](https://papernotes.org/AAAI2026/others/incremental_maintenance_of_datalogmtl_materialisations/)
 - Notes (English): [en.papernotes.org/AAAI2026/audio_speech/incremental_mainte…](https://en.papernotes.org/AAAI2026/audio_speech/incremental_maintenance_of_datalogmtl_materialisations/)
 
 **MF-Speech: Achieving Fine-Grained and Compositional Control in Speech Generation via Factor Disentanglement**
@@ -7494,7 +7494,7 @@
 **Fast 3D Surrogate Modeling for Data Center Thermal Management**
 
 - Paper: <https://arxiv.org/abs/2511.11722>
-- Notes (Chinese): [papernotes.org/AAAI2026/3d_vision/fast_3d_surrogate_modeli…](https://papernotes.org/AAAI2026/3d_vision/fast_3d_surrogate_modeling_for_data_center_thermal_management/)
+- Notes (Chinese): [papernotes.org/AAAI2026/physics/fast_3d_surrogate_modeling…](https://papernotes.org/AAAI2026/physics/fast_3d_surrogate_modeling_for_data_center_thermal_management/)
 - Notes (English): [en.papernotes.org/AAAI2026/3d_vision/fast_3d_surrogate_mod…](https://en.papernotes.org/AAAI2026/3d_vision/fast_3d_surrogate_modeling_for_data_center_thermal_management/)
 
 **Stratified Knowledge-Density Super-Network for Scalable Vision Transformers**
@@ -7566,7 +7566,7 @@
 **Toward Gaze Target Detection of Young Autistic Children**
 
 - Paper: <https://arxiv.org/abs/2511.11244>
-- Notes (Chinese): [papernotes.org/AAAI2026/signal_comm/toward_gaze_target_det…](https://papernotes.org/AAAI2026/signal_comm/toward_gaze_target_detection_of_young_autistic_children/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/toward_gaze_target_detectio…](https://papernotes.org/AAAI2026/others/toward_gaze_target_detection_of_young_autistic_children/)
 - Notes (English): [en.papernotes.org/AAAI2026/signal_comm/toward_gaze_target_…](https://en.papernotes.org/AAAI2026/signal_comm/toward_gaze_target_detection_of_young_autistic_children/)
 
 **Dynamic Gaussian Scene Reconstruction from Unsynchronized Videos**
@@ -7626,7 +7626,7 @@
 **Regular Games -- an Automata-Based General Game Playing Language**
 
 - Paper: <https://arxiv.org/abs/2511.10593>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/regular_games_--_an…](https://papernotes.org/AAAI2026/llm_evaluation/regular_games_--_an_automata-based_general_game_playing_language/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/regular_games_--_an_automat…](https://papernotes.org/AAAI2026/others/regular_games_--_an_automata-based_general_game_playing_language/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/regular_games_--…](https://en.papernotes.org/AAAI2026/llm_evaluation/regular_games_--_an_automata-based_general_game_playing_language/)
 
 **Panda: Test-Time Adaptation with Negative Data Augmentation**
@@ -7644,7 +7644,7 @@
 **Generalizing Analogical Inference from Boolean to Continuous Domains**
 
 - Paper: <https://arxiv.org/abs/2511.10416>
-- Notes (Chinese): [papernotes.org/AAAI2026/audio_speech/generalizing_analogic…](https://papernotes.org/AAAI2026/audio_speech/generalizing_analogical_inference_from_boolean_to_continuous_domains/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/generalizing_analogical_inf…](https://papernotes.org/AAAI2026/others/generalizing_analogical_inference_from_boolean_to_continuous_domains/)
 - Notes (English): [en.papernotes.org/AAAI2026/audio_speech/generalizing_analo…](https://en.papernotes.org/AAAI2026/audio_speech/generalizing_analogical_inference_from_boolean_to_continuous_domains/)
 
 **Certified Branch-and-Bound MaxSAT Solving (Extended Version)**
@@ -7692,13 +7692,13 @@
 **Beyond Cosine Similarity: Magnitude-Aware CLIP for No-Reference Image Quality Assessment**
 
 - Paper: <https://arxiv.org/abs/2511.09948>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/beyond_cosine_simil…](https://papernotes.org/AAAI2026/llm_evaluation/beyond_cosine_similarity_magnitude-aware_clip_for_no-reference_image_quality_ass/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_pretraining/beyond_cosine_simi…](https://papernotes.org/AAAI2026/llm_pretraining/beyond_cosine_similarity_magnitude-aware_clip_for_no-reference_image_quality_ass/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/beyond_cosine_si…](https://en.papernotes.org/AAAI2026/llm_evaluation/beyond_cosine_similarity_magnitude-aware_clip_for_no-reference_image_quality_ass/)
 
 **Expandable and Differentiable Dual Memories with Orthogonal Regularization for Exemplar-free Continual Learning**
 
 - Paper: <https://arxiv.org/abs/2511.09871>
-- Notes (Chinese): [papernotes.org/AAAI2026/others/expandable_and_differentiab…](https://papernotes.org/AAAI2026/others/expandable_and_differentiable_dual_memories_with_orthogonal_regularization_for_e/)
+- Notes (Chinese): [papernotes.org/AAAI2026/self_supervised/expandable_and_dif…](https://papernotes.org/AAAI2026/self_supervised/expandable_and_differentiable_dual_memories_with_orthogonal_regularization_for_e/)
 - Notes (English): [en.papernotes.org/AAAI2026/others/expandable_and_different…](https://en.papernotes.org/AAAI2026/others/expandable_and_differentiable_dual_memories_with_orthogonal_regularization_for_e/)
 
 **Remember Me: Bridging the Long-Range Gap in LVLMs with Three-Step Inference-Only Decay Resilience Strategies**
@@ -7775,13 +7775,13 @@
 **Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering**
 
 - Paper: <https://arxiv.org/abs/2511.09049>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/break_the_tie_learn…](https://papernotes.org/AAAI2026/llm_evaluation/break_the_tie_learning_cluster-customized_category_relationships_for_categorical/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/break_the_tie_learning_clus…](https://papernotes.org/AAAI2026/others/break_the_tie_learning_cluster-customized_category_relationships_for_categorical/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/break_the_tie_le…](https://en.papernotes.org/AAAI2026/llm_evaluation/break_the_tie_learning_cluster-customized_category_relationships_for_categorical/)
 
 **MicroEvoEval: A Systematic Evaluation Framework for Image-Based Microstructure Evolution Prediction**
 
 - Paper: <https://arxiv.org/abs/2511.08955>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/microevoeval_a_syst…](https://papernotes.org/AAAI2026/llm_evaluation/microevoeval_a_systematic_evaluation_framework_for_image-based_microstructure_ev/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/microevoeval_a_systematic_e…](https://papernotes.org/AAAI2026/others/microevoeval_a_systematic_evaluation_framework_for_image-based_microstructure_ev/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/microevoeval_a_s…](https://en.papernotes.org/AAAI2026/llm_evaluation/microevoeval_a_systematic_evaluation_framework_for_image-based_microstructure_ev/)
 
 **Boosting Adversarial Transferability via Ensemble Non-Attention**
@@ -7877,18 +7877,18 @@
 **Generating Sketches in a Hierarchical Auto-Regressive Process for Flexible Sketch Drawing Manipulation at Stroke-Level**
 
 - Paper: <https://arxiv.org/abs/2511.07889>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/generating_sketches_in_a_…](https://papernotes.org/AAAI2026/robotics/generating_sketches_in_a_hierarchical_auto-regressive_proces/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/generating_sketches_in_a_hi…](https://papernotes.org/AAAI2026/others/generating_sketches_in_a_hierarchical_auto-regressive_proces/)
 
 **SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition**
 
 - Paper: <https://arxiv.org/abs/2511.07883>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/spikcommander_a_hig…](https://papernotes.org/AAAI2026/llm_evaluation/spikcommander_a_high-performance_spiking_transformer_with_multi-view_learning_fo/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/spikcommander_a_high-perfor…](https://papernotes.org/AAAI2026/others/spikcommander_a_high-performance_spiking_transformer_with_multi-view_learning_fo/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/spikcommander_a_…](https://en.papernotes.org/AAAI2026/llm_evaluation/spikcommander_a_high-performance_spiking_transformer_with_multi-view_learning_fo/)
 
 **Distributionally Robust Online Markov Game with Linear Function Approximation**
 
 - Paper: <https://arxiv.org/abs/2511.07831>
-- Notes (Chinese): [papernotes.org/AAAI2026/reinforcement_learning/distributio…](https://papernotes.org/AAAI2026/reinforcement_learning/distributionally_robust_online_markov_game_with_linear_function_approximation/)
+- Notes (Chinese): [papernotes.org/AAAI2026/robotics/distributionally_robust_o…](https://papernotes.org/AAAI2026/robotics/distributionally_robust_online_markov_game_with_linear_function_approximation/)
 - Notes (English): [en.papernotes.org/AAAI2026/reinforcement_learning/distribu…](https://en.papernotes.org/AAAI2026/reinforcement_learning/distributionally_robust_online_markov_game_with_linear_function_approximation/)
 
 **Judging by the Rules: Compliance-Aligned Framework for Modern Slavery Statement Monitoring**
@@ -7930,7 +7930,7 @@
 **LoReTTA: A Low Resource Framework To Poison Continuous Time Dynamic Graphs**
 
 - Paper: <https://arxiv.org/abs/2511.07379>
-- Notes (Chinese): [papernotes.org/AAAI2026/time_series/loretta_a_low_resource…](https://papernotes.org/AAAI2026/time_series/loretta_a_low_resource_framework_to_poison_continuous_time_dynamic_graphs/)
+- Notes (Chinese): [papernotes.org/AAAI2026/object_detection/loretta_a_low_res…](https://papernotes.org/AAAI2026/object_detection/loretta_a_low_resource_framework_to_poison_continuous_time_dynamic_graphs/)
 - Notes (English): [en.papernotes.org/AAAI2026/time_series/loretta_a_low_resou…](https://en.papernotes.org/AAAI2026/time_series/loretta_a_low_resource_framework_to_poison_continuous_time_dynamic_graphs/)
 
 **Model Counting for Dependency Quantified Boolean Formulas**
@@ -7954,13 +7954,13 @@
 **Improved Runtime Guarantees for the SPEA2 Multi-Objective Optimizer**
 
 - Paper: <https://arxiv.org/abs/2511.07150>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/improved_runtime_gu…](https://papernotes.org/AAAI2026/llm_evaluation/improved_runtime_guarantees_for_the_spea2_multi-objective_optimizer/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/improved_runtime_guarantees…](https://papernotes.org/AAAI2026/others/improved_runtime_guarantees_for_the_spea2_multi-objective_optimizer/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/improved_runtime…](https://en.papernotes.org/AAAI2026/llm_evaluation/improved_runtime_guarantees_for_the_spea2_multi-objective_optimizer/)
 
 **Towards a Rigorous Understanding of the Population Dynamics of the NSGA-III: Tight Runtime Bounds**
 
 - Paper: <https://arxiv.org/abs/2511.07125>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/towards_a_rigorous_…](https://papernotes.org/AAAI2026/llm_evaluation/towards_a_rigorous_understanding_of_the_population_dynamics_of_the_nsga-iii_tigh/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/towards_a_rigorous_understa…](https://papernotes.org/AAAI2026/others/towards_a_rigorous_understanding_of_the_population_dynamics_of_the_nsga-iii_tigh/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/towards_a_rigoro…](https://en.papernotes.org/AAAI2026/llm_evaluation/towards_a_rigorous_understanding_of_the_population_dynamics_of_the_nsga-iii_tigh/)
 
 **Data Complexity of Querying Description Logic Knowledge Bases under Cost-Based Semantics**
@@ -8044,7 +8044,7 @@
 **Predicting the Future by Retrieving the Past**
 
 - Paper: <https://arxiv.org/abs/2511.05859>
-- Notes (Chinese): [papernotes.org/AAAI2026/time_series/predicting_the_future_…](https://papernotes.org/AAAI2026/time_series/predicting_the_future_by_retrieving_the_past/)
+- Notes (Chinese): [papernotes.org/AAAI2026/model_compression/predicting_the_f…](https://papernotes.org/AAAI2026/model_compression/predicting_the_future_by_retrieving_the_past/)
 - Notes (English): [en.papernotes.org/AAAI2026/time_series/predicting_the_futu…](https://en.papernotes.org/AAAI2026/time_series/predicting_the_future_by_retrieving_the_past/)
 
 **Parametric Pareto Set Learning for Expensive Multi-Objective Optimization**
@@ -8134,7 +8134,7 @@
 **EvoEmpirBench: Dynamic Spatial Reasoning with Agent-ExpVer**
 
 - Paper: <https://arxiv.org/abs/2509.12718>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/evoempirbench_dynamic_spa…](https://papernotes.org/AAAI2026/robotics/evoempirbench_dynamic_spatial_reasoning_with_agent-expver/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/evoempirbench_dynamic_spati…](https://papernotes.org/AAAI2026/others/evoempirbench_dynamic_spatial_reasoning_with_agent-expver/)
 - Notes (English): [en.papernotes.org/AAAI2026/robotics/evoempirbench_dynamic_…](https://en.papernotes.org/AAAI2026/robotics/evoempirbench_dynamic_spatial_reasoning_with_agent-expver/)
 
 **Towards a Common Framework for Autoformalization**
@@ -8152,13 +8152,13 @@
 **ShortageSim: Simulating Drug Shortages under Information Asymmetry** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2509.01813>
-- Notes (Chinese): [papernotes.org/AAAI2026/others/shortagesim_simulating_drug…](https://papernotes.org/AAAI2026/others/shortagesim_simulating_drug_shortages_under_information_asymmetry/)
+- Notes (Chinese): [papernotes.org/AAAI2026/medical_nlp/shortagesim_simulating…](https://papernotes.org/AAAI2026/medical_nlp/shortagesim_simulating_drug_shortages_under_information_asymmetry/)
 - Notes (English): [en.papernotes.org/AAAI2026/others/shortagesim_simulating_d…](https://en.papernotes.org/AAAI2026/others/shortagesim_simulating_drug_shortages_under_information_asymmetry/)
 
 **DcMatch: Unsupervised Multi-Shape Matching with Dual-Level Consistency**
 
 - Paper: <https://arxiv.org/abs/2509.01204>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/dcmatch_unsupervise…](https://papernotes.org/AAAI2026/llm_evaluation/dcmatch_unsupervised_multi-shape_matching_with_dual-level_consistency/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/dcmatch_unsupervised_multi-…](https://papernotes.org/AAAI2026/others/dcmatch_unsupervised_multi-shape_matching_with_dual-level_consistency/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/dcmatch_unsuperv…](https://en.papernotes.org/AAAI2026/llm_evaluation/dcmatch_unsupervised_multi-shape_matching_with_dual-level_consistency/)
 
 **Symbolic Planning and Multi-Agent Path Finding in Extremely Dense Environments with Unassigned Agents**
@@ -8218,7 +8218,7 @@
 **GDBA Revisited: Unleashing the Power of Guided Local Search for Distributed Constraint Optimization**
 
 - Paper: <https://arxiv.org/abs/2508.06899>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/gdba_revisited_unle…](https://papernotes.org/AAAI2026/llm_evaluation/gdba_revisited_unleashing_the_power_of_guided_local_search_for_distributed_const/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/gdba_revisited_unleashing_t…](https://papernotes.org/AAAI2026/others/gdba_revisited_unleashing_the_power_of_guided_local_search_for_distributed_const/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/gdba_revisited_u…](https://en.papernotes.org/AAAI2026/llm_evaluation/gdba_revisited_unleashing_the_power_of_guided_local_search_for_distributed_const/)
 
 **Beyond Perplexity: Let the Reader Select Retrieval Summaries via Spectrum Projection Score** · 🎤 Oral
@@ -8272,7 +8272,7 @@
 **Streaming Generated Gaussian Process Experts for Online Learning and Control: Extended Version**
 
 - Paper: <https://arxiv.org/abs/2508.03679>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/streaming_generated…](https://papernotes.org/AAAI2026/llm_evaluation/streaming_generated_gaussian_process_experts_for_online_learning_and_control_ext/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/streaming_generated_gaussia…](https://papernotes.org/AAAI2026/others/streaming_generated_gaussian_process_experts_for_online_learning_and_control_ext/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/streaming_genera…](https://en.papernotes.org/AAAI2026/llm_evaluation/streaming_generated_gaussian_process_experts_for_online_learning_and_control_ext/)
 
 **Forest vs Tree: The $(N, K)$ Trade-off in Reproducible ML Evaluation**
@@ -8314,7 +8314,7 @@
 **Perspective from a Broader Context: Can Room Style Knowledge Help Visual Floorplan Localization?**
 
 - Paper: <https://arxiv.org/abs/2508.01216>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/perspective_from_a_…](https://papernotes.org/AAAI2026/llm_evaluation/perspective_from_a_broader_context_can_room_style_knowledge_help_visual_floorpla/)
+- Notes (Chinese): [papernotes.org/AAAI2026/llm_pretraining/perspective_from_a…](https://papernotes.org/AAAI2026/llm_pretraining/perspective_from_a_broader_context_can_room_style_knowledge_help_visual_floorpla/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/perspective_from…](https://en.papernotes.org/AAAI2026/llm_evaluation/perspective_from_a_broader_context_can_room_style_knowledge_help_visual_floorpla/)
 
 **Learning Network Dismantling Without Handcrafted Inputs** · 🎤 Oral
@@ -8332,7 +8332,7 @@
 **Recursive Visual Imagination and Adaptive Linguistic Grounding for Vision Language Navigation**
 
 - Paper: <https://arxiv.org/abs/2507.21450>
-- Notes (Chinese): [papernotes.org/AAAI2026/robotics/recursive_visual_imaginat…](https://papernotes.org/AAAI2026/robotics/recursive_visual_imagination_and_adaptive_linguistic_grounding_for_vision_langua/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multimodal_vlm/recursive_visual_im…](https://papernotes.org/AAAI2026/multimodal_vlm/recursive_visual_imagination_and_adaptive_linguistic_grounding_for_vision_langua/)
 - Notes (English): [en.papernotes.org/AAAI2026/robotics/recursive_visual_imagi…](https://en.papernotes.org/AAAI2026/robotics/recursive_visual_imagination_and_adaptive_linguistic_grounding_for_vision_langua/)
 
 **TrinityDNA: A Bio-Inspired Foundational Model for Efficient Long-Sequence DNA Modeling**
@@ -8356,7 +8356,7 @@
 **Axis-Aligned Document Dewarping**
 
 - Paper: <https://arxiv.org/abs/2507.15000>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/axis-aligned_docume…](https://papernotes.org/AAAI2026/llm_evaluation/axis-aligned_document_dewarping/)
+- Notes (Chinese): [papernotes.org/AAAI2026/others/axis-aligned_document_dewar…](https://papernotes.org/AAAI2026/others/axis-aligned_document_dewarping/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/axis-aligned_doc…](https://en.papernotes.org/AAAI2026/llm_evaluation/axis-aligned_document_dewarping/)
 
 **Why Isn't Relational Learning Taking Over the World?**
@@ -8458,7 +8458,7 @@
 **Modelling the Effects of Hearing Loss on Neural Coding in the Auditory Midbrain with Variational Conditioning**
 
 - Paper: <https://arxiv.org/abs/2506.03088>
-- Notes (Chinese): [papernotes.org/AAAI2026/audio_speech/modelling_the_effects…](https://papernotes.org/AAAI2026/audio_speech/modelling_the_effects_of_hearing_loss_on_neural_coding_in_the_auditory_midbrain_/)
+- Notes (Chinese): [papernotes.org/AAAI2026/interpretability/modelling_the_eff…](https://papernotes.org/AAAI2026/interpretability/modelling_the_effects_of_hearing_loss_on_neural_coding_in_the_auditory_midbrain_/)
 - Notes (English): [en.papernotes.org/AAAI2026/audio_speech/modelling_the_effe…](https://en.papernotes.org/AAAI2026/audio_speech/modelling_the_effects_of_hearing_loss_on_neural_coding_in_the_auditory_midbrain_/)
 
 **Higher-Order Responsibility**
@@ -8536,7 +8536,7 @@
 **MAPS: Multi-Agent Personality Shaping for Collaborative Reasoning**
 
 - Paper: <https://arxiv.org/abs/2503.16905>
-- Notes (Chinese): [papernotes.org/AAAI2026/llm_evaluation/maps_multi-agent_pe…](https://papernotes.org/AAAI2026/llm_evaluation/maps_multi-agent_personality_shaping_for_collaborative_reaso/)
+- Notes (Chinese): [papernotes.org/AAAI2026/multi_agent/maps_multi-agent_perso…](https://papernotes.org/AAAI2026/multi_agent/maps_multi-agent_personality_shaping_for_collaborative_reaso/)
 - Notes (English): [en.papernotes.org/AAAI2026/llm_evaluation/maps_multi-agent…](https://en.papernotes.org/AAAI2026/llm_evaluation/maps_multi-agent_personality_shaping_for_collaborative_reaso/)
 
 **Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**
@@ -8566,7 +8566,7 @@
 **Parameterized Approximation Algorithms for TSP on Non-Metric Graphs**
 
 - Paper: <https://arxiv.org/abs/2503.03642>
-- Notes (Chinese): [papernotes.org/AAAI2026/others/parameterized_approximation…](https://papernotes.org/AAAI2026/others/parameterized_approximation_algorithms_for_tsp_on_non-metric_graphs/)
+- Notes (Chinese): [papernotes.org/AAAI2026/3d_vision/parameterized_approximat…](https://papernotes.org/AAAI2026/3d_vision/parameterized_approximation_algorithms_for_tsp_on_non-metric_graphs/)
 - Notes (English): [en.papernotes.org/AAAI2026/others/parameterized_approximat…](https://en.papernotes.org/AAAI2026/others/parameterized_approximation_algorithms_for_tsp_on_non-metric_graphs/)
 
 **RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers**
@@ -8596,7 +8596,7 @@
 **Object-Centric Latent Action Learning** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2502.09680>
-- Notes (Chinese): [papernotes.org/AAAI2026/reinforcement_learning/object-cent…](https://papernotes.org/AAAI2026/reinforcement_learning/object-centric_latent_action_learning/)
+- Notes (Chinese): [papernotes.org/AAAI2026/robotics/object-centric_latent_act…](https://papernotes.org/AAAI2026/robotics/object-centric_latent_action_learning/)
 - Notes (English): [en.papernotes.org/AAAI2026/reinforcement_learning/object-c…](https://en.papernotes.org/AAAI2026/reinforcement_learning/object-centric_latent_action_learning/)
 
 **DeToNATION: Decoupled Torch Network-Aware Training on Interlinked Online Nodes**
@@ -8679,7 +8679,7 @@
 **Reimagining Anomalies: What If Anomalies Were Normal?**
 
 - Paper: <https://arxiv.org/abs/2402.14469>
-- Notes (Chinese): [papernotes.org/AAAI2026/others/reimagining_anomalies_what_…](https://papernotes.org/AAAI2026/others/reimagining_anomalies_what_if_anomalies_were_normal/)
+- Notes (Chinese): [papernotes.org/AAAI2026/object_detection/reimagining_anoma…](https://papernotes.org/AAAI2026/object_detection/reimagining_anomalies_what_if_anomalies_were_normal/)
 - Notes (English): [en.papernotes.org/AAAI2026/others/reimagining_anomalies_wh…](https://en.papernotes.org/AAAI2026/others/reimagining_anomalies_what_if_anomalies_were_normal/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>

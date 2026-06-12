@@ -311,7 +311,7 @@
 **ToProVAR: Efficient Visual Autoregressive Modeling via Tri-Dimensional Entropy-Aware Semantic Analysis and Sparsity Optimization**
 
 - Paper: <https://arxiv.org/abs/2602.22948>
-- Notes (Chinese): [papernotes.org/ICLR2026/others/toprovar_efficient_visual_a…](https://papernotes.org/ICLR2026/others/toprovar_efficient_visual_autoregressive_modeling_via_tri-dimensional_entropy-aw/)
+- Notes (Chinese): [papernotes.org/ICLR2026/image_generation/toprovar_efficien…](https://papernotes.org/ICLR2026/image_generation/toprovar_efficient_visual_autoregressive_modeling_via_tri-dimensional_entropy-aw/)
 - Notes (English): [en.papernotes.org/ICLR2026/others/toprovar_efficient_visua…](https://en.papernotes.org/ICLR2026/others/toprovar_efficient_visual_autoregressive_modeling_via_tri-dimensional_entropy-aw/)
 
 **GeoDiv: Framework For Measuring Geographical Diversity In Text-To-Image Models**
@@ -868,7 +868,7 @@
 **MVAR: Visual Autoregressive Modeling with Scale and Spatial Markovian Conditioning**
 
 - Paper: <https://arxiv.org/abs/2505.12742>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_efficiency/mvar_visual_autoreg…](https://papernotes.org/ICLR2026/llm_efficiency/mvar_visual_autoregressive_modeling_with_scale_and_spatial_markovian_conditionin/)
+- Notes (Chinese): [papernotes.org/ICLR2026/image_generation/mvar_visual_autor…](https://papernotes.org/ICLR2026/image_generation/mvar_visual_autoregressive_modeling_with_scale_and_spatial_markovian_conditionin/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_efficiency/mvar_visual_auto…](https://en.papernotes.org/ICLR2026/llm_efficiency/mvar_visual_autoregressive_modeling_with_scale_and_spatial_markovian_conditionin/)
 
 **COSMO-INR: Complex Sinusoidal Modulation for Implicit Neural Representations**
@@ -1329,7 +1329,7 @@
 **Exo-Plore: Exploring Exoskeleton Control Space through Human-aligned Simulation**
 
 - Paper: <https://arxiv.org/abs/2601.22550>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/exo-plore_explorin…](https://papernotes.org/ICLR2026/medical_imaging/exo-plore_exploring_exoskeleton_control_space_through_human-aligned_simulation/)
+- Notes (Chinese): [papernotes.org/ICLR2026/reinforcement_learning/exo-plore_e…](https://papernotes.org/ICLR2026/reinforcement_learning/exo-plore_exploring_exoskeleton_control_space_through_human-aligned_simulation/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/exo-plore_explo…](https://en.papernotes.org/ICLR2026/medical_imaging/exo-plore_exploring_exoskeleton_control_space_through_human-aligned_simulation/)
 
 **Less is More: Clustered Cross-Covariance Control for Offline RL**
@@ -1463,7 +1463,7 @@
 **Offline Reinforcement Learning with Generative Trajectory Policies**
 
 - Paper: <https://arxiv.org/abs/2510.11499>
-- Notes (Chinese): [papernotes.org/ICLR2026/image_generation/offline_reinforce…](https://papernotes.org/ICLR2026/image_generation/offline_reinforcement_learning_with_generative_trajectory_policies/)
+- Notes (Chinese): [papernotes.org/ICLR2026/reinforcement_learning/offline_rei…](https://papernotes.org/ICLR2026/reinforcement_learning/offline_reinforcement_learning_with_generative_trajectory_policies/)
 - Notes (English): [en.papernotes.org/ICLR2026/image_generation/offline_reinfo…](https://en.papernotes.org/ICLR2026/image_generation/offline_reinforcement_learning_with_generative_trajectory_policies/)
 
 **Reasoning as Representation: Rethinking Visual Reinforcement Learning in Image Quality Assessment** · 🎤 Oral
@@ -1785,7 +1785,7 @@
 
 - Paper: <https://arxiv.org/abs/2602.10847>
 - Code: <https://github.com/macovaseas/GTR>
-- Notes (Chinese): [papernotes.org/ICLR2026/time_series/enhancing_multivariate…](https://papernotes.org/ICLR2026/time_series/enhancing_multivariate_time_series_forecasting_with_global_temporal_retrieval/)
+- Notes (Chinese): [papernotes.org/ICLR2026/model_compression/enhancing_multiv…](https://papernotes.org/ICLR2026/model_compression/enhancing_multivariate_time_series_forecasting_with_global_temporal_retrieval/)
 - Notes (English): [en.papernotes.org/ICLR2026/time_series/enhancing_multivari…](https://en.papernotes.org/ICLR2026/time_series/enhancing_multivariate_time_series_forecasting_with_global_temporal_retrieval/)
 
 **LLMs Encode Their Failures: Predicting Success from Pre-Generation Activations** · 🛠️ Workshop
@@ -1884,7 +1884,7 @@
 
 - Paper: <https://arxiv.org/abs/2509.23371>
 - Code: <https://github.com/junming-yang/MetaAPO>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_alignment/alignment_through_me…](https://papernotes.org/ICLR2026/llm_alignment/alignment_through_meta-weighted_online_sampling_bridging_the_gap_between_data_ge/)
+- Notes (Chinese): [papernotes.org/ICLR2026/model_compression/alignment_throug…](https://papernotes.org/ICLR2026/model_compression/alignment_through_meta-weighted_online_sampling_bridging_the_gap_between_data_ge/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_alignment/alignment_through…](https://en.papernotes.org/ICLR2026/llm_alignment/alignment_through_meta-weighted_online_sampling_bridging_the_gap_between_data_ge/)
 
 **Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity**
@@ -1898,7 +1898,7 @@
 
 - Paper: <https://arxiv.org/abs/2509.20989>
 - Code: <https://github.com/BDML-lab/RCE-KD>
-- Notes (Chinese): [papernotes.org/ICLR2026/recommender/rejuvenating_cross-ent…](https://papernotes.org/ICLR2026/recommender/rejuvenating_cross-entropy_loss_in_knowledge_distillation_for_recommender_system/)
+- Notes (Chinese): [papernotes.org/ICLR2026/model_compression/rejuvenating_cro…](https://papernotes.org/ICLR2026/model_compression/rejuvenating_cross-entropy_loss_in_knowledge_distillation_for_recommender_system/)
 - Notes (English): [en.papernotes.org/ICLR2026/recommender/rejuvenating_cross-…](https://en.papernotes.org/ICLR2026/recommender/rejuvenating_cross-entropy_loss_in_knowledge_distillation_for_recommender_system/)
 
 **FS-DFM: Fast and Accurate Long Text Generation with Few-Step Diffusion Language Models**
@@ -2012,7 +2012,7 @@
 **NerVE: Nonlinear Eigenspectrum Dynamics in LLM Feed-Forward Networks**
 
 - Paper: <https://arxiv.org/abs/2603.06922>
-- Notes (Chinese): [papernotes.org/ICLR2026/video_understanding/nerve_nonlinea…](https://papernotes.org/ICLR2026/video_understanding/nerve_nonlinear_eigenspectrum_dynamics_in_llm_feed-forward_networks/)
+- Notes (Chinese): [papernotes.org/ICLR2026/model_compression/nerve_nonlinear_…](https://papernotes.org/ICLR2026/model_compression/nerve_nonlinear_eigenspectrum_dynamics_in_llm_feed-forward_networks/)
 - Notes (English): [en.papernotes.org/ICLR2026/video_understanding/nerve_nonli…](https://en.papernotes.org/ICLR2026/video_understanding/nerve_nonlinear_eigenspectrum_dynamics_in_llm_feed-forward_networks/)
 
 **Distilling and Adapting: A Topology-Aware Framework for Zero-Shot Interaction Prediction in Multiplex Biological Networks**
@@ -2024,7 +2024,7 @@
 **SPARTA: Scalable and Principled Benchmark of Tree-Structured Multi-hop QA over Text and Tables**
 
 - Paper: <https://arxiv.org/abs/2602.23286>
-- Notes (Chinese): [papernotes.org/ICLR2026/audio_speech/sparta_scalable_and_p…](https://papernotes.org/ICLR2026/audio_speech/sparta_scalable_and_principled_benchmark_of_tree-structured_multi-hop_qa_over_te/)
+- Notes (Chinese): [papernotes.org/ICLR2026/model_compression/sparta_scalable_…](https://papernotes.org/ICLR2026/model_compression/sparta_scalable_and_principled_benchmark_of_tree-structured_multi-hop_qa_over_te/)
 - Notes (English): [en.papernotes.org/ICLR2026/audio_speech/sparta_scalable_an…](https://en.papernotes.org/ICLR2026/audio_speech/sparta_scalable_and_principled_benchmark_of_tree-structured_multi-hop_qa_over_te/)
 
 **Dataset Color Quantization: A Training-Oriented Framework for Dataset-Level Compression**
@@ -2042,7 +2042,7 @@
 **ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment**
 
 - Paper: <https://arxiv.org/abs/2602.17560>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/odesteer_a_unified_ode-ba…](https://papernotes.org/ICLR2026/robotics/odesteer_a_unified_ode-based_steering_framework_for_llm_alignment/)
+- Notes (Chinese): [papernotes.org/ICLR2026/model_compression/odesteer_a_unifi…](https://papernotes.org/ICLR2026/model_compression/odesteer_a_unified_ode-based_steering_framework_for_llm_alignment/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/odesteer_a_unified_ode…](https://en.papernotes.org/ICLR2026/robotics/odesteer_a_unified_ode-based_steering_framework_for_llm_alignment/)
 
 **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems**
@@ -2066,7 +2066,7 @@
 **FASA: Frequency-aware Sparse Attention**
 
 - Paper: <https://arxiv.org/abs/2602.03152>
-- Notes (Chinese): [papernotes.org/ICLR2026/signal_comm/fasa_frequency-aware_s…](https://papernotes.org/ICLR2026/signal_comm/fasa_frequency-aware_sparse_attention/)
+- Notes (Chinese): [papernotes.org/ICLR2026/model_compression/fasa_frequency-a…](https://papernotes.org/ICLR2026/model_compression/fasa_frequency-aware_sparse_attention/)
 - Notes (English): [en.papernotes.org/ICLR2026/signal_comm/fasa_frequency-awar…](https://en.papernotes.org/ICLR2026/signal_comm/fasa_frequency-aware_sparse_attention/)
 
 **STAR: Similarity-guided Teacher-Assisted Refinement for Super-Tiny Function Calling Models**
@@ -2084,7 +2084,7 @@
 **FutureMind: Equipping Small Language Models with Strategic Thinking-Pattern Priors via Adaptive Knowledge Distillation**
 
 - Paper: <https://arxiv.org/abs/2602.01222>
-- Notes (Chinese): [papernotes.org/ICLR2026/information_retrieval/futuremind_e…](https://papernotes.org/ICLR2026/information_retrieval/futuremind_equipping_small_language_models_with_strategic_thinking-pattern_prior/)
+- Notes (Chinese): [papernotes.org/ICLR2026/model_compression/futuremind_equip…](https://papernotes.org/ICLR2026/model_compression/futuremind_equipping_small_language_models_with_strategic_thinking-pattern_prior/)
 - Notes (English): [en.papernotes.org/ICLR2026/information_retrieval/futuremin…](https://en.papernotes.org/ICLR2026/information_retrieval/futuremind_equipping_small_language_models_with_strategic_thinking-pattern_prior/)
 
 **Topology and Geometry of the Learning Space of ReLU Networks: Connectivity and Singularities**
@@ -2126,13 +2126,13 @@
 **LipNeXt: Scaling up Lipschitz-based Certified Robustness to Billion-parameter Models**
 
 - Paper: <https://arxiv.org/abs/2601.18513>
-- Notes (Chinese): [papernotes.org/ICLR2026/others/lipnext_scaling_up_lipschit…](https://papernotes.org/ICLR2026/others/lipnext_scaling_up_lipschitz-based_certified_robustness_to_billion-parameter_mod/)
+- Notes (Chinese): [papernotes.org/ICLR2026/model_compression/lipnext_scaling_…](https://papernotes.org/ICLR2026/model_compression/lipnext_scaling_up_lipschitz-based_certified_robustness_to_billion-parameter_mod/)
 - Notes (English): [en.papernotes.org/ICLR2026/others/lipnext_scaling_up_lipsc…](https://en.papernotes.org/ICLR2026/others/lipnext_scaling_up_lipschitz-based_certified_robustness_to_billion-parameter_mod/)
 
 **Coupling Experts and Routers in Mixture-of-Experts via an Auxiliary Loss** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2512.23447>
-- Notes (Chinese): [papernotes.org/ICLR2026/video_understanding/coupling_exper…](https://papernotes.org/ICLR2026/video_understanding/coupling_experts_and_routers_in_mixture-of-experts_via_an_auxiliary_loss/)
+- Notes (Chinese): [papernotes.org/ICLR2026/model_compression/coupling_experts…](https://papernotes.org/ICLR2026/model_compression/coupling_experts_and_routers_in_mixture-of-experts_via_an_auxiliary_loss/)
 - Notes (English): [en.papernotes.org/ICLR2026/video_understanding/coupling_ex…](https://en.papernotes.org/ICLR2026/video_understanding/coupling_experts_and_routers_in_mixture-of-experts_via_an_auxiliary_loss/)
 
 **ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference**
@@ -2168,7 +2168,7 @@
 **Paper Copilot: Tracking the Evolution of Peer Review in AI Conferences**
 
 - Paper: <https://arxiv.org/abs/2510.13201>
-- Notes (Chinese): [papernotes.org/ICLR2026/video_understanding/paper_copilot_…](https://papernotes.org/ICLR2026/video_understanding/paper_copilot_tracking_the_evolution_of_peer_review_in_ai_conferences/)
+- Notes (Chinese): [papernotes.org/ICLR2026/model_compression/paper_copilot_tr…](https://papernotes.org/ICLR2026/model_compression/paper_copilot_tracking_the_evolution_of_peer_review_in_ai_conferences/)
 - Notes (English): [en.papernotes.org/ICLR2026/video_understanding/paper_copil…](https://en.papernotes.org/ICLR2026/video_understanding/paper_copilot_tracking_the_evolution_of_peer_review_in_ai_conferences/)
 
 **UniFlow: A Unified Pixel Flow Tokenizer for Visual Understanding and Generation**
@@ -2204,7 +2204,7 @@
 **Towards Reliable Benchmarking: A Contamination Free, Controllable Evaluation Framework for Multi-step LLM Function Calling**
 
 - Paper: <https://arxiv.org/abs/2509.26553>
-- Notes (Chinese): [papernotes.org/ICLR2026/video_understanding/towards_reliab…](https://papernotes.org/ICLR2026/video_understanding/towards_reliable_benchmarking_a_contamination_free_controllable_evaluation_frame/)
+- Notes (Chinese): [papernotes.org/ICLR2026/model_compression/towards_reliable…](https://papernotes.org/ICLR2026/model_compression/towards_reliable_benchmarking_a_contamination_free_controllable_evaluation_frame/)
 - Notes (English): [en.papernotes.org/ICLR2026/video_understanding/towards_rel…](https://en.papernotes.org/ICLR2026/video_understanding/towards_reliable_benchmarking_a_contamination_free_controllable_evaluation_frame/)
 
 **LD-MoLE: Learnable Dynamic Routing for Mixture of LoRA Experts**
@@ -2326,7 +2326,7 @@
 **AdaRank: Adaptive Rank Pruning for Enhanced Model Merging**
 
 - Paper: <https://arxiv.org/abs/2503.22178>
-- Notes (Chinese): [papernotes.org/ICLR2026/object_detection/adarank_adaptive_…](https://papernotes.org/ICLR2026/object_detection/adarank_adaptive_rank_pruning_for_enhanced_model_merging/)
+- Notes (Chinese): [papernotes.org/ICLR2026/model_compression/adarank_adaptive…](https://papernotes.org/ICLR2026/model_compression/adarank_adaptive_rank_pruning_for_enhanced_model_merging/)
 - Notes (English): [en.papernotes.org/ICLR2026/object_detection/adarank_adapti…](https://en.papernotes.org/ICLR2026/object_detection/adarank_adaptive_rank_pruning_for_enhanced_model_merging/)
 
 **Understanding Dataset Distillation via Spectral Filtering**
@@ -2646,8 +2646,8 @@
 **Look Carefully: Adaptive Visual Reinforcements in Multimodal Large Language Models for Hallucination Mitigation**
 
 - Paper: <https://arxiv.org/abs/2602.24041>
-- Notes (Chinese): [papernotes.org/ICLR2026/multimodal_vlm/look_carefully_adap…](https://papernotes.org/ICLR2026/multimodal_vlm/look_carefully_adaptive_visual_reinforcements_in_multimodal_large_language_model/)
-- Notes (English): [en.papernotes.org/ICLR2026/multimodal_vlm/look_carefully_a…](https://en.papernotes.org/ICLR2026/multimodal_vlm/look_carefully_adaptive_visual_reinforcements_in_multimodal_large_language_model/)
+- Notes (Chinese): [papernotes.org/ICLR2026/hallucination/look_carefully_adapt…](https://papernotes.org/ICLR2026/hallucination/look_carefully_adaptive_visual_reinforcements_in_multimodal_large_language_model/)
+- Notes (English): [en.papernotes.org/ICLR2026/hallucination/look_carefully_ad…](https://en.papernotes.org/ICLR2026/hallucination/look_carefully_adaptive_visual_reinforcements_in_multimodal_large_language_model/)
 
 **Ref-Adv: Exploring MLLM Visual Reasoning in Referring Expression Tasks**
 
@@ -2670,8 +2670,8 @@
 **Dynamic Multimodal Activation Steering for Hallucination Mitigation in Large Vision-Language Models**
 
 - Paper: <https://arxiv.org/abs/2602.21704>
-- Notes (Chinese): [papernotes.org/ICLR2026/multimodal_vlm/dynamic_multimodal_…](https://papernotes.org/ICLR2026/multimodal_vlm/dynamic_multimodal_activation_steering_for_hallucination_mitigation_in_large_vis/)
-- Notes (English): [en.papernotes.org/ICLR2026/multimodal_vlm/dynamic_multimod…](https://en.papernotes.org/ICLR2026/multimodal_vlm/dynamic_multimodal_activation_steering_for_hallucination_mitigation_in_large_vis/)
+- Notes (Chinese): [papernotes.org/ICLR2026/hallucination/dynamic_multimodal_a…](https://papernotes.org/ICLR2026/hallucination/dynamic_multimodal_activation_steering_for_hallucination_mitigation_in_large_vis/)
+- Notes (English): [en.papernotes.org/ICLR2026/hallucination/dynamic_multimoda…](https://en.papernotes.org/ICLR2026/hallucination/dynamic_multimodal_activation_steering_for_hallucination_mitigation_in_large_vis/)
 
 **K-Sort Eval: Efficient Preference Evaluation for Visual Generation via Corrected VLM-as-a-Judge**
 
@@ -2829,7 +2829,7 @@
 **Multi-modal Data Spectrum: Multi-modal Datasets are Multi-dimensional**
 
 - Paper: <https://arxiv.org/abs/2509.23499>
-- Notes (Chinese): [papernotes.org/ICLR2026/signal_comm/multi-modal_data_spect…](https://papernotes.org/ICLR2026/signal_comm/multi-modal_data_spectrum_multi-modal_datasets_are_multi-dimensional/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multimodal_vlm/multi-modal_data_sp…](https://papernotes.org/ICLR2026/multimodal_vlm/multi-modal_data_spectrum_multi-modal_datasets_are_multi-dimensional/)
 - Notes (English): [en.papernotes.org/ICLR2026/signal_comm/multi-modal_data_sp…](https://en.papernotes.org/ICLR2026/signal_comm/multi-modal_data_spectrum_multi-modal_datasets_are_multi-dimensional/)
 
 **Index-Preserving Lightweight Token Pruning for Efficient Document Understanding in Vision-Language Models** · 🛠️ Workshop
@@ -2883,7 +2883,7 @@
 **Uni-DPO: A Unified Paradigm for Dynamic Preference Optimization of LLMs**
 
 - Paper: <https://arxiv.org/abs/2506.10054>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_alignment/uni-dpo_a_unified_pa…](https://papernotes.org/ICLR2026/llm_alignment/uni-dpo_a_unified_paradigm_for_dynamic_preference_optimization_of_llms/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multimodal_vlm/uni-dpo_a_unified_p…](https://papernotes.org/ICLR2026/multimodal_vlm/uni-dpo_a_unified_paradigm_for_dynamic_preference_optimization_of_llms/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_alignment/uni-dpo_a_unified…](https://en.papernotes.org/ICLR2026/llm_alignment/uni-dpo_a_unified_paradigm_for_dynamic_preference_optimization_of_llms/)
 
 **Meta-Adaptive Prompt Distillation for Few-Shot Visual Question Answering**
@@ -2907,7 +2907,7 @@
 **Decoding Open-Ended Information Seeking Goals from Eye Movements in Reading**
 
 - Paper: <https://arxiv.org/abs/2505.02872>
-- Notes (Chinese): [papernotes.org/ICLR2026/video_understanding/decoding_open-…](https://papernotes.org/ICLR2026/video_understanding/decoding_open-ended_information_seeking_goals_from_eye_movements_in_reading/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multimodal_vlm/decoding_open-ended…](https://papernotes.org/ICLR2026/multimodal_vlm/decoding_open-ended_information_seeking_goals_from_eye_movements_in_reading/)
 - Notes (English): [en.papernotes.org/ICLR2026/video_understanding/decoding_op…](https://en.papernotes.org/ICLR2026/video_understanding/decoding_open-ended_information_seeking_goals_from_eye_movements_in_reading/)
 
 **Sparsity Forcing: Reinforcing Token Sparsity of MLLMs**
@@ -3015,14 +3015,14 @@
 
 - Paper: <https://arxiv.org/abs/2509.13761>
 - Code: <https://github.com/JingMog/THOR>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/thor_tool-integrated_hier…](https://papernotes.org/ICLR2026/robotics/thor_tool-integrated_hierarchical_optimization_via_rl_for_mathematical_reasoning/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/thor_tool-integrated…](https://papernotes.org/ICLR2026/llm_reasoning/thor_tool-integrated_hierarchical_optimization_via_rl_for_mathematical_reasoning/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/thor_tool-integrated_h…](https://en.papernotes.org/ICLR2026/robotics/thor_tool-integrated_hierarchical_optimization_via_rl_for_mathematical_reasoning/)
 
 **Co-rewarding: Stable Self-supervised RL for Eliciting Reasoning in Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2508.00410>
 - Code: <https://github.com/tmlr-group/Co-rewarding>
-- Notes (Chinese): [papernotes.org/ICLR2026/reinforcement_learning/co-rewardin…](https://papernotes.org/ICLR2026/reinforcement_learning/co-rewarding_stable_self-supervised_rl_for_eliciting_reasoning_in_large_language/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/co-rewarding_stable_…](https://papernotes.org/ICLR2026/llm_reasoning/co-rewarding_stable_self-supervised_rl_for_eliciting_reasoning_in_large_language/)
 - Notes (English): [en.papernotes.org/ICLR2026/reinforcement_learning/co-rewar…](https://en.papernotes.org/ICLR2026/reinforcement_learning/co-rewarding_stable_self-supervised_rl_for_eliciting_reasoning_in_large_language/)
 
 **CyclicReflex: Improving Reasoning Models via Cyclical Reflection Token Scheduling**
@@ -3064,7 +3064,7 @@
 
 - Paper: <https://arxiv.org/abs/2503.06749>
 - Code: <https://github.com/Osilly/Vision-R1>
-- Notes (Chinese): [papernotes.org/ICLR2026/multimodal_vlm/vision-r1_incentivi…](https://papernotes.org/ICLR2026/multimodal_vlm/vision-r1_incentivizing_reasoning_capability_in_multimodal_large_language_models/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/vision-r1_incentiviz…](https://papernotes.org/ICLR2026/llm_reasoning/vision-r1_incentivizing_reasoning_capability_in_multimodal_large_language_models/)
 - Notes (English): [en.papernotes.org/ICLR2026/multimodal_vlm/vision-r1_incent…](https://en.papernotes.org/ICLR2026/multimodal_vlm/vision-r1_incentivizing_reasoning_capability_in_multimodal_large_language_models/)
 
 **Thinking in Latents: Adaptive Anchor Refinement for Implicit Reasoning in LLMs** · 🛠️ Workshop
@@ -3094,19 +3094,19 @@
 **The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2603.09200>
-- Notes (Chinese): [papernotes.org/ICLR2026/interpretability/the_reasoning_tra…](https://papernotes.org/ICLR2026/interpretability/the_reasoning_trap_--_logical_reasoning_as_a_mechanistic_pathway_to_situational_/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/the_reasoning_trap_-…](https://papernotes.org/ICLR2026/llm_reasoning/the_reasoning_trap_--_logical_reasoning_as_a_mechanistic_pathway_to_situational_/)
 - Notes (English): [en.papernotes.org/ICLR2026/interpretability/the_reasoning_…](https://en.papernotes.org/ICLR2026/interpretability/the_reasoning_trap_--_logical_reasoning_as_a_mechanistic_pathway_to_situational_/)
 
 **$\textbf{Re}^{2}$: Unlocking LLM Reasoning via Reinforcement Learning with Re-solving**
 
 - Paper: <https://arxiv.org/abs/2603.07197>
-- Notes (Chinese): [papernotes.org/ICLR2026/reinforcement_learning/textbfre2_u…](https://papernotes.org/ICLR2026/reinforcement_learning/textbfre2_unlocking_llm_reasoning_via_reinforcement_learning_with_re-solving/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/textbfre2_unlocking_…](https://papernotes.org/ICLR2026/llm_reasoning/textbfre2_unlocking_llm_reasoning_via_reinforcement_learning_with_re-solving/)
 - Notes (English): [en.papernotes.org/ICLR2026/reinforcement_learning/textbfre…](https://en.papernotes.org/ICLR2026/reinforcement_learning/textbfre2_unlocking_llm_reasoning_via_reinforcement_learning_with_re-solving/)
 
 **$\nabla$-Reasoner: LLM Reasoning via Test-Time Gradient Descent in Latent Space**
 
 - Paper: <https://arxiv.org/abs/2603.04948>
-- Notes (Chinese): [papernotes.org/ICLR2026/optimization/nabla-reasoner_llm_re…](https://papernotes.org/ICLR2026/optimization/nabla-reasoner_llm_reasoning_via_test-time_gradient_descent_in_latent_space/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/nabla-reasoner_llm_r…](https://papernotes.org/ICLR2026/llm_reasoning/nabla-reasoner_llm_reasoning_via_test-time_gradient_descent_in_latent_space/)
 - Notes (English): [en.papernotes.org/ICLR2026/optimization/nabla-reasoner_llm…](https://en.papernotes.org/ICLR2026/optimization/nabla-reasoner_llm_reasoning_via_test-time_gradient_descent_in_latent_space/)
 
 **When Shallow Wins: Silent Failures and the Depth-Accuracy Paradox in Latent Reasoning** · 🛠️ Workshop
@@ -3130,8 +3130,6 @@
 **RAIN-Merging: A Gradient-Free Method to Enhance Instruction Following in Large Reasoning Models with Preserved Thinking Format** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2602.22538>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/rain-merging_a_gradi…](https://papernotes.org/ICLR2026/llm_reasoning/rain-merging_a_gradient-free_method_to_enhance_instruction_following_in_large_re/)
-- Notes (English): [en.papernotes.org/ICLR2026/llm_reasoning/rain-merging_a_gr…](https://en.papernotes.org/ICLR2026/llm_reasoning/rain-merging_a_gradient-free_method_to_enhance_instruction_following_in_large_re/)
 
 **RFEval: Benchmarking Reasoning Faithfulness under Counterfactual Reasoning Intervention in Large Reasoning Models** · 📌 Poster
 
@@ -3167,13 +3165,13 @@
 **From Assumptions to Actions: Turning LLM Reasoning into Uncertainty-Aware Planning for Embodied Agents**
 
 - Paper: <https://arxiv.org/abs/2602.04326>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_nlp/from_assumptions_to_action…](https://papernotes.org/ICLR2026/llm_nlp/from_assumptions_to_actions_turning_llm_reasoning_into_uncertainty-aware_plannin/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/from_assumptions_to_…](https://papernotes.org/ICLR2026/llm_reasoning/from_assumptions_to_actions_turning_llm_reasoning_into_uncertainty-aware_plannin/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_nlp/from_assumptions_to_act…](https://en.papernotes.org/ICLR2026/llm_nlp/from_assumptions_to_actions_turning_llm_reasoning_into_uncertainty-aware_plannin/)
 
 **A State-Transition Framework for Efficient LLM Reasoning**
 
 - Paper: <https://arxiv.org/abs/2602.01198>
-- Notes (Chinese): [papernotes.org/ICLR2026/model_compression/a_state-transiti…](https://papernotes.org/ICLR2026/model_compression/a_state-transition_framework_for_efficient_llm_reasoning/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/a_state-transition_f…](https://papernotes.org/ICLR2026/llm_reasoning/a_state-transition_framework_for_efficient_llm_reasoning/)
 - Notes (English): [en.papernotes.org/ICLR2026/model_compression/a_state-trans…](https://en.papernotes.org/ICLR2026/model_compression/a_state-transition_framework_for_efficient_llm_reasoning/)
 
 **Segment-Level Attribution for Selective Learning of Long Reasoning Traces**
@@ -3204,13 +3202,13 @@
 
 - Paper: <https://arxiv.org/abs/2512.18196>
 - Project: <https://llm-symbol.github.io/LogicReward>
-- Notes (Chinese): [papernotes.org/ICLR2026/audio_speech/logicreward_incentivi…](https://papernotes.org/ICLR2026/audio_speech/logicreward_incentivizing_llm_reasoning_via_step-wise_logical_supervision/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/logicreward_incentiv…](https://papernotes.org/ICLR2026/llm_reasoning/logicreward_incentivizing_llm_reasoning_via_step-wise_logical_supervision/)
 - Notes (English): [en.papernotes.org/ICLR2026/audio_speech/logicreward_incent…](https://en.papernotes.org/ICLR2026/audio_speech/logicreward_incentivizing_llm_reasoning_via_step-wise_logical_supervision/)
 
 **Whatever Remains Must Be True: Filtering Drives Reasoning in LLMs, Shaping Diversity**
 
 - Paper: <https://arxiv.org/abs/2512.05962>
-- Notes (Chinese): [papernotes.org/ICLR2026/reinforcement_learning/whatever_re…](https://papernotes.org/ICLR2026/reinforcement_learning/whatever_remains_must_be_true_filtering_drives_reasoning_in_llms_shaping_diversi/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/whatever_remains_mus…](https://papernotes.org/ICLR2026/llm_reasoning/whatever_remains_must_be_true_filtering_drives_reasoning_in_llms_shaping_diversi/)
 - Notes (English): [en.papernotes.org/ICLR2026/reinforcement_learning/whatever…](https://en.papernotes.org/ICLR2026/reinforcement_learning/whatever_remains_must_be_true_filtering_drives_reasoning_in_llms_shaping_diversi/)
 
 **ReForm: Reflective Autoformalization with Prospective Bounded Sequence Optimization**
@@ -3222,19 +3220,19 @@
 **String Seed of Thought: Prompting LLMs for Distribution-Faithful and Diverse Generation**
 
 - Paper: <https://arxiv.org/abs/2510.21150>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/string_seed_of_thought_pr…](https://papernotes.org/ICLR2026/robotics/string_seed_of_thought_prompting_llms_for_distribution-faithful_and_diverse_gene/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/string_seed_of_thoug…](https://papernotes.org/ICLR2026/llm_reasoning/string_seed_of_thought_prompting_llms_for_distribution-faithful_and_diverse_gene/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/string_seed_of_thought…](https://en.papernotes.org/ICLR2026/robotics/string_seed_of_thought_prompting_llms_for_distribution-faithful_and_diverse_gene/)
 
 **Scaf-GRPO: Scaffolded Group Relative Policy Optimization for Enhancing LLM Reasoning**
 
 - Paper: <https://arxiv.org/abs/2510.19807>
-- Notes (Chinese): [papernotes.org/ICLR2026/optimization/scaf-grpo_scaffolded_…](https://papernotes.org/ICLR2026/optimization/scaf-grpo_scaffolded_group_relative_policy_optimization_for_enhancing_llm_reason/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/scaf-grpo_scaffolded…](https://papernotes.org/ICLR2026/llm_reasoning/scaf-grpo_scaffolded_group_relative_policy_optimization_for_enhancing_llm_reason/)
 - Notes (English): [en.papernotes.org/ICLR2026/optimization/scaf-grpo_scaffold…](https://en.papernotes.org/ICLR2026/optimization/scaf-grpo_scaffolded_group_relative_policy_optimization_for_enhancing_llm_reason/)
 
 **ActivationReasoning: Logical Reasoning in Latent Activation Spaces**
 
 - Paper: <https://arxiv.org/abs/2510.18184>
-- Notes (Chinese): [papernotes.org/ICLR2026/interpretability/activationreasoni…](https://papernotes.org/ICLR2026/interpretability/activationreasoning_logical_reasoning_in_latent_activation_spaces/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/activationreasoning_…](https://papernotes.org/ICLR2026/llm_reasoning/activationreasoning_logical_reasoning_in_latent_activation_spaces/)
 - Notes (English): [en.papernotes.org/ICLR2026/interpretability/activationreas…](https://en.papernotes.org/ICLR2026/interpretability/activationreasoning_logical_reasoning_in_latent_activation_spaces/)
 
 **Annotation-Efficient Universal Honesty Alignment**
@@ -3271,7 +3269,7 @@
 
 - Paper: <https://arxiv.org/abs/2510.04072>
 - Project: <https://slow-fast-po.github.io/>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_alignment/slow-fast_policy_opt…](https://papernotes.org/ICLR2026/llm_alignment/slow-fast_policy_optimization_reposition-before-update_for_llm_reasoning/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/slow-fast_policy_opt…](https://papernotes.org/ICLR2026/llm_reasoning/slow-fast_policy_optimization_reposition-before-update_for_llm_reasoning/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_alignment/slow-fast_policy_…](https://en.papernotes.org/ICLR2026/llm_alignment/slow-fast_policy_optimization_reposition-before-update_for_llm_reasoning/)
 
 **Understanding the Role of Training Data in Test-Time Scaling**
@@ -3301,7 +3299,7 @@
 **Stabilizing Policy Gradients for Sample-Efficient Reinforcement Learning in LLM Reasoning**
 
 - Paper: <https://arxiv.org/abs/2510.00819>
-- Notes (Chinese): [papernotes.org/ICLR2026/video_understanding/stabilizing_po…](https://papernotes.org/ICLR2026/video_understanding/stabilizing_policy_gradients_for_sample-efficient_reinforcement_learning_in_llm_/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/stabilizing_policy_g…](https://papernotes.org/ICLR2026/llm_reasoning/stabilizing_policy_gradients_for_sample-efficient_reinforcement_learning_in_llm_/)
 - Notes (English): [en.papernotes.org/ICLR2026/video_understanding/stabilizing…](https://en.papernotes.org/ICLR2026/video_understanding/stabilizing_policy_gradients_for_sample-efficient_reinforcement_learning_in_llm_/)
 
 **AIMCoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning**
@@ -3337,7 +3335,7 @@
 **Predicting LLM Reasoning Performance with Small Proxy Model**
 
 - Paper: <https://arxiv.org/abs/2509.21013>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/predicting_llm_reas…](https://papernotes.org/ICLR2026/llm_evaluation/predicting_llm_reasoning_performance_with_small_proxy_model/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/predicting_llm_reaso…](https://papernotes.org/ICLR2026/llm_reasoning/predicting_llm_reasoning_performance_with_small_proxy_model/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/predicting_llm_r…](https://en.papernotes.org/ICLR2026/llm_evaluation/predicting_llm_reasoning_performance_with_small_proxy_model/)
 
 **Generalizable End-to-End Tool-Use RL with Synthetic CodeGym**
@@ -3392,7 +3390,7 @@
 **VisioMath: Benchmarking Figure-based Mathematical Reasoning in LMMs**
 
 - Paper: <https://arxiv.org/abs/2506.06727>
-- Notes (Chinese): [papernotes.org/ICLR2026/multimodal_vlm/visiomath_benchmark…](https://papernotes.org/ICLR2026/multimodal_vlm/visiomath_benchmarking_figure-based_mathematical_reasoning_in_lmms/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/visiomath_benchmarki…](https://papernotes.org/ICLR2026/llm_reasoning/visiomath_benchmarking_figure-based_mathematical_reasoning_in_lmms/)
 - Notes (English): [en.papernotes.org/ICLR2026/multimodal_vlm/visiomath_benchm…](https://en.papernotes.org/ICLR2026/multimodal_vlm/visiomath_benchmarking_figure-based_mathematical_reasoning_in_lmms/)
 
 **SealQA: Raising the Bar for Reasoning in Search-Augmented Language Models**
@@ -3434,7 +3432,7 @@
 **InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2503.06692>
-- Notes (Chinese): [papernotes.org/ICLR2026/model_compression/inftythink_break…](https://papernotes.org/ICLR2026/model_compression/inftythink_breaking_the_length_limits_of_long-context_reasoning_in_large_languag/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/inftythink_breaking_…](https://papernotes.org/ICLR2026/llm_reasoning/inftythink_breaking_the_length_limits_of_long-context_reasoning_in_large_languag/)
 - Notes (English): [en.papernotes.org/ICLR2026/model_compression/inftythink_br…](https://en.papernotes.org/ICLR2026/model_compression/inftythink_breaking_the_length_limits_of_long-context_reasoning_in_large_languag/)
 
 **Fixing the Broken Compass: Diagnosing and Improving Inference-Time Reward Modeling**
@@ -3452,7 +3450,7 @@
 **MathFimer: Enhancing Mathematical Reasoning by Expanding Reasoning Steps through Fill-in-the-Middle Task**
 
 - Paper: <https://arxiv.org/abs/2502.11684>
-- Notes (Chinese): [papernotes.org/ICLR2026/code_intelligence/mathfimer_enhanc…](https://papernotes.org/ICLR2026/code_intelligence/mathfimer_enhancing_mathematical_reasoning_by_expanding_reasoning_steps_through_/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/mathfimer_enhancing_…](https://papernotes.org/ICLR2026/llm_reasoning/mathfimer_enhancing_mathematical_reasoning_by_expanding_reasoning_steps_through_/)
 - Notes (English): [en.papernotes.org/ICLR2026/code_intelligence/mathfimer_enh…](https://en.papernotes.org/ICLR2026/code_intelligence/mathfimer_enhancing_mathematical_reasoning_by_expanding_reasoning_steps_through_/)
 
 **Compositional Generalization from Learned Skills via CoT Training: A Theoretical and Structural Analysis for Reasoning**
@@ -3480,7 +3478,7 @@
 
 - Paper: <https://arxiv.org/abs/2602.00205>
 - Code: <https://github.com/BeierZhu/MR2>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_pretraining/reducing_class-wis…](https://papernotes.org/ICLR2026/llm_pretraining/reducing_class-wise_performance_disparity_via_margin_regularization/)
+- Notes (Chinese): [papernotes.org/ICLR2026/3d_vision/reducing_class-wise_perf…](https://papernotes.org/ICLR2026/3d_vision/reducing_class-wise_performance_disparity_via_margin_regularization/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_pretraining/reducing_class-…](https://en.papernotes.org/ICLR2026/llm_pretraining/reducing_class-wise_performance_disparity_via_margin_regularization/)
 
 **Sharp Monocular View Synthesis in Less Than a Second**
@@ -3891,8 +3889,8 @@
 
 - Paper: <https://arxiv.org/abs/2601.20279>
 - Code: <https://github.com/zhangbaijin/LVLMs-Saliency>
-- Notes (Chinese): [papernotes.org/ICLR2026/interpretability/hallucination_beg…](https://papernotes.org/ICLR2026/interpretability/hallucination_begins_where_saliency_drops/)
-- Notes (English): [en.papernotes.org/ICLR2026/interpretability/hallucination_…](https://en.papernotes.org/ICLR2026/interpretability/hallucination_begins_where_saliency_drops/)
+- Notes (Chinese): [papernotes.org/ICLR2026/hallucination/hallucination_begins…](https://papernotes.org/ICLR2026/hallucination/hallucination_begins_where_saliency_drops/)
+- Notes (English): [en.papernotes.org/ICLR2026/hallucination/hallucination_beg…](https://en.papernotes.org/ICLR2026/hallucination/hallucination_begins_where_saliency_drops/)
 
 **MATA: A Trainable Hierarchical Automaton System for Multi-Agent Visual Reasoning**
 
@@ -3905,7 +3903,7 @@
 
 - Paper: <https://arxiv.org/abs/2512.08892>
 - Code: <https://github.com/Teddy-XiongGZ/RAGLens>
-- Notes (Chinese): [papernotes.org/ICLR2026/information_retrieval/toward_faith…](https://papernotes.org/ICLR2026/information_retrieval/toward_faithful_retrieval-augmented_generation_with_sparse_autoencoders/)
+- Notes (Chinese): [papernotes.org/ICLR2026/interpretability/toward_faithful_r…](https://papernotes.org/ICLR2026/interpretability/toward_faithful_retrieval-augmented_generation_with_sparse_autoencoders/)
 - Notes (English): [en.papernotes.org/ICLR2026/information_retrieval/toward_fa…](https://en.papernotes.org/ICLR2026/information_retrieval/toward_faithful_retrieval-augmented_generation_with_sparse_autoencoders/)
 
 **Information Shapes Koopman Representation**
@@ -3940,7 +3938,7 @@
 
 - Paper: <https://arxiv.org/abs/2505.13531>
 - Code: <https://github.com/ValueCompass/AdAEM>
-- Notes (Chinese): [papernotes.org/ICLR2026/video_understanding/adaem_an_adapt…](https://papernotes.org/ICLR2026/video_understanding/adaem_an_adaptively_and_automated_extensible_measurement_of_llms_value_differenc/)
+- Notes (Chinese): [papernotes.org/ICLR2026/interpretability/adaem_an_adaptive…](https://papernotes.org/ICLR2026/interpretability/adaem_an_adaptively_and_automated_extensible_measurement_of_llms_value_differenc/)
 - Notes (English): [en.papernotes.org/ICLR2026/video_understanding/adaem_an_ad…](https://en.papernotes.org/ICLR2026/video_understanding/adaem_an_adaptively_and_automated_extensible_measurement_of_llms_value_differenc/)
 
 **Tokenizing Single-Channel EEG with Time-Frequency Motif Learning**
@@ -4001,7 +3999,7 @@
 **PERSONA: Dynamic and Compositional Inference-Time Personality Control via Activation Vector Algebra**
 
 - Paper: <https://arxiv.org/abs/2602.15669>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/persona_dynamic_and_compo…](https://papernotes.org/ICLR2026/robotics/persona_dynamic_and_compositional_inference-time_personality_control_via_activat/)
+- Notes (Chinese): [papernotes.org/ICLR2026/interpretability/persona_dynamic_a…](https://papernotes.org/ICLR2026/interpretability/persona_dynamic_and_compositional_inference-time_personality_control_via_activat/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/persona_dynamic_and_co…](https://en.papernotes.org/ICLR2026/robotics/persona_dynamic_and_compositional_inference-time_personality_control_via_activat/)
 
 **Concepts' Information Bottleneck Models**
@@ -4013,7 +4011,7 @@
 **Stress-Testing Alignment Audits With Prompt-Level Strategic Deception** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2602.08877>
-- Notes (Chinese): [papernotes.org/ICLR2026/model_compression/stress-testing_a…](https://papernotes.org/ICLR2026/model_compression/stress-testing_alignment_audits_with_prompt-level_strategic_deception/)
+- Notes (Chinese): [papernotes.org/ICLR2026/interpretability/stress-testing_al…](https://papernotes.org/ICLR2026/interpretability/stress-testing_alignment_audits_with_prompt-level_strategic_deception/)
 - Notes (English): [en.papernotes.org/ICLR2026/model_compression/stress-testin…](https://en.papernotes.org/ICLR2026/model_compression/stress-testing_alignment_audits_with_prompt-level_strategic_deception/)
 
 **Noise Stability of Transformer Models**
@@ -4037,7 +4035,7 @@
 **Domain Expansion: A Latent Space Construction Framework for Multi-Task Learning**
 
 - Paper: <https://arxiv.org/abs/2601.20069>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/domain_expansion_a_latent…](https://papernotes.org/ICLR2026/robotics/domain_expansion_a_latent_space_construction_framework_for_multi-task_learning/)
+- Notes (Chinese): [papernotes.org/ICLR2026/interpretability/domain_expansion_…](https://papernotes.org/ICLR2026/interpretability/domain_expansion_a_latent_space_construction_framework_for_multi-task_learning/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/domain_expansion_a_lat…](https://en.papernotes.org/ICLR2026/robotics/domain_expansion_a_latent_space_construction_framework_for_multi-task_learning/)
 
 **GAVEL: Towards rule-based safety through activation monitoring**
@@ -4128,7 +4126,7 @@
 **Specialization after Generalization: Towards Understanding Test-Time Training in Foundation Models** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2509.24510>
-- Notes (Chinese): [papernotes.org/ICLR2026/model_compression/specialization_a…](https://papernotes.org/ICLR2026/model_compression/specialization_after_generalization_towards_understanding_test-time_training_in_/)
+- Notes (Chinese): [papernotes.org/ICLR2026/interpretability/specialization_af…](https://papernotes.org/ICLR2026/interpretability/specialization_after_generalization_towards_understanding_test-time_training_in_/)
 - Notes (English): [en.papernotes.org/ICLR2026/model_compression/specializatio…](https://en.papernotes.org/ICLR2026/model_compression/specialization_after_generalization_towards_understanding_test-time_training_in_/)
 
 **Uncovering Grounding IDs: How External Cues Shape Multimodal Binding**
@@ -4146,13 +4144,13 @@
 **AnveshanaAI: A Multimodal Platform for Adaptive AI/ML Education through Automated Question Generation and Interactive Assessment**
 
 - Paper: <https://arxiv.org/abs/2509.23811>
-- Notes (Chinese): [papernotes.org/ICLR2026/video_understanding/anveshanaai_a_…](https://papernotes.org/ICLR2026/video_understanding/anveshanaai_a_multimodal_platform_for_adaptive_aiml_education_through_automated_/)
+- Notes (Chinese): [papernotes.org/ICLR2026/interpretability/anveshanaai_a_mul…](https://papernotes.org/ICLR2026/interpretability/anveshanaai_a_multimodal_platform_for_adaptive_aiml_education_through_automated_/)
 - Notes (English): [en.papernotes.org/ICLR2026/video_understanding/anveshanaai…](https://en.papernotes.org/ICLR2026/video_understanding/anveshanaai_a_multimodal_platform_for_adaptive_aiml_education_through_automated_/)
 
 **Emergence of Superposition: Unveiling the Training Dynamics of Chain of Continuous Thought**
 
 - Paper: <https://arxiv.org/abs/2509.23365>
-- Notes (Chinese): [papernotes.org/ICLR2026/video_understanding/emergence_of_s…](https://papernotes.org/ICLR2026/video_understanding/emergence_of_superposition_unveiling_the_training_dynamics_of_chain_of_continuou/)
+- Notes (Chinese): [papernotes.org/ICLR2026/interpretability/emergence_of_supe…](https://papernotes.org/ICLR2026/interpretability/emergence_of_superposition_unveiling_the_training_dynamics_of_chain_of_continuou/)
 - Notes (English): [en.papernotes.org/ICLR2026/video_understanding/emergence_o…](https://en.papernotes.org/ICLR2026/video_understanding/emergence_of_superposition_unveiling_the_training_dynamics_of_chain_of_continuou/)
 
 **Evolution of Concepts in Language Model Pre-Training**
@@ -4230,7 +4228,7 @@
 **Conjuring Semantic Similarity**
 
 - Paper: <https://arxiv.org/abs/2410.16431>
-- Notes (Chinese): [papernotes.org/ICLR2026/image_generation/conjuring_semanti…](https://papernotes.org/ICLR2026/image_generation/conjuring_semantic_similarity/)
+- Notes (Chinese): [papernotes.org/ICLR2026/interpretability/conjuring_semanti…](https://papernotes.org/ICLR2026/interpretability/conjuring_semantic_similarity/)
 - Notes (English): [en.papernotes.org/ICLR2026/image_generation/conjuring_sema…](https://en.papernotes.org/ICLR2026/image_generation/conjuring_semantic_similarity/)
 
 **Decoupling Dynamical Richness from Representation Learning: Towards Practical Measurement**
@@ -4272,8 +4270,8 @@
 
 - Paper: <https://arxiv.org/abs/2510.16596>
 - Code: <https://github.com/hukcc/SHIELD>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_safety/shield_suppressing_hall…](https://papernotes.org/ICLR2026/llm_safety/shield_suppressing_hallucinations_in_lvlm_encoders_via_bias_and_vulnerability_de/)
-- Notes (English): [en.papernotes.org/ICLR2026/llm_safety/shield_suppressing_h…](https://en.papernotes.org/ICLR2026/llm_safety/shield_suppressing_hallucinations_in_lvlm_encoders_via_bias_and_vulnerability_de/)
+- Notes (Chinese): [papernotes.org/ICLR2026/hallucination/shield_suppressing_h…](https://papernotes.org/ICLR2026/hallucination/shield_suppressing_hallucinations_in_lvlm_encoders_via_bias_and_vulnerability_de/)
+- Notes (English): [en.papernotes.org/ICLR2026/hallucination/shield_suppressin…](https://en.papernotes.org/ICLR2026/hallucination/shield_suppressing_hallucinations_in_lvlm_encoders_via_bias_and_vulnerability_de/)
 
 **Measuring Physical-World Privacy Awareness of Large Language Models: An Evaluation Benchmark**
 
@@ -4339,7 +4337,7 @@
 **When Priors Backfire: On the Vulnerability of Unlearnable Examples to Pretraining**
 
 - Paper: <https://arxiv.org/abs/2603.04731>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/when_priors_backfir…](https://papernotes.org/ICLR2026/llm_evaluation/when_priors_backfire_on_the_vulnerability_of_unlearnable_examples_to_pretraining/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_safety/when_priors_backfire_on…](https://papernotes.org/ICLR2026/llm_safety/when_priors_backfire_on_the_vulnerability_of_unlearnable_examples_to_pretraining/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/when_priors_back…](https://en.papernotes.org/ICLR2026/llm_evaluation/when_priors_backfire_on_the_vulnerability_of_unlearnable_examples_to_pretraining/)
 
 **ExpGuard: LLM Content Moderation in Specialized Domains**
@@ -4393,7 +4391,7 @@
 **Rethinking Benign Relearning: Syntax as the Hidden Driver of Unlearning Failures**
 
 - Paper: <https://arxiv.org/abs/2602.03379>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/rethinking_benign_r…](https://papernotes.org/ICLR2026/llm_evaluation/rethinking_benign_relearning_syntax_as_the_hidden_driver_of_the_safety_tax/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_safety/rethinking_benign_relea…](https://papernotes.org/ICLR2026/llm_safety/rethinking_benign_relearning_syntax_as_the_hidden_driver_of_the_safety_tax/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/rethinking_benig…](https://en.papernotes.org/ICLR2026/llm_evaluation/rethinking_benign_relearning_syntax_as_the_hidden_driver_of_unlearning_failures/)
 
 **Efficient Adversarial Attacks on High-dimensional Offline Bandits**
@@ -4561,8 +4559,8 @@
 **VeriTrail: Closed-Domain Hallucination Detection with Traceability**
 
 - Paper: <https://arxiv.org/abs/2505.21786>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_safety/veritrail_closed-domain…](https://papernotes.org/ICLR2026/llm_safety/veritrail_closed-domain_hallucination_detection_with_traceable_evidence_synthes/)
-- Notes (English): [en.papernotes.org/ICLR2026/llm_safety/veritrail_closed-dom…](https://en.papernotes.org/ICLR2026/llm_safety/veritrail_closed-domain_hallucination_detection_with_traceable_evidence_synthes/)
+- Notes (Chinese): [papernotes.org/ICLR2026/hallucination/veritrail_closed-dom…](https://papernotes.org/ICLR2026/hallucination/veritrail_closed-domain_hallucination_detection_with_traceable_evidence_synthes/)
+- Notes (English): [en.papernotes.org/ICLR2026/hallucination/veritrail_closed-…](https://en.papernotes.org/ICLR2026/hallucination/veritrail_closed-domain_hallucination_detection_with_traceable_evidence_synthes/)
 
 **SHE-LoRA: Selective Homomorphic Encryption for Federated Tuning with Heterogeneous LoRA**
 
@@ -4591,8 +4589,8 @@
 **Enhancing Hallucination Detection through Noise Injection**
 
 - Paper: <https://arxiv.org/abs/2502.03799>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_safety/enhancing_hallucination…](https://papernotes.org/ICLR2026/llm_safety/enhancing_hallucination_detection_through_noise_injection/)
-- Notes (English): [en.papernotes.org/ICLR2026/llm_safety/enhancing_hallucinat…](https://en.papernotes.org/ICLR2026/llm_safety/enhancing_hallucination_detection_through_noise_injection/)
+- Notes (Chinese): [papernotes.org/ICLR2026/hallucination/enhancing_hallucinat…](https://papernotes.org/ICLR2026/hallucination/enhancing_hallucination_detection_through_noise_injection/)
+- Notes (English): [en.papernotes.org/ICLR2026/hallucination/enhancing_halluci…](https://en.papernotes.org/ICLR2026/hallucination/enhancing_hallucination_detection_through_noise_injection/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -4606,7 +4604,7 @@
 
 - Paper: <https://arxiv.org/abs/2602.11437>
 - Code: <https://github.com/crqu/robust-coMARL>
-- Notes (Chinese): [papernotes.org/ICLR2026/reinforcement_learning/distributio…](https://papernotes.org/ICLR2026/reinforcement_learning/distributionally_robust_cooperative_multi-agent_reinforcement_learning_via_robus/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/distributionally_robust_c…](https://papernotes.org/ICLR2026/robotics/distributionally_robust_cooperative_multi-agent_reinforcement_learning_via_robus/)
 - Notes (English): [en.papernotes.org/ICLR2026/reinforcement_learning/distribu…](https://en.papernotes.org/ICLR2026/reinforcement_learning/distributionally_robust_cooperative_multi-agent_reinforcement_learning_via_robus/)
 
 **RoboPARA: Dual-Arm Robot Planning with Parallel Allocation and Recomposition Across Tasks**
@@ -4620,14 +4618,14 @@
 
 - Paper: <https://arxiv.org/abs/2505.15054>
 - Code: <https://github.com/TheLuoFengLab/MolLangBench>
-- Notes (Chinese): [papernotes.org/ICLR2026/graph_learning/mollangbench_a_comp…](https://papernotes.org/ICLR2026/graph_learning/mollangbench_a_comprehensive_benchmark_for_language-prompted_molecular_structure/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/mollangbench_a_comprehens…](https://papernotes.org/ICLR2026/robotics/mollangbench_a_comprehensive_benchmark_for_language-prompted_molecular_structure/)
 - Notes (English): [en.papernotes.org/ICLR2026/graph_learning/mollangbench_a_c…](https://en.papernotes.org/ICLR2026/graph_learning/mollangbench_a_comprehensive_benchmark_for_language-prompted_molecular_structure/)
 
 **RRNCO: Towards Real-World Routing with Neural Combinatorial Optimization**
 
 - Paper: <https://arxiv.org/abs/2503.16159>
 - Code: <https://github.com/ai4co/real-routing-nco>
-- Notes (Chinese): [papernotes.org/ICLR2026/optimization/rrnco_towards_real-wo…](https://papernotes.org/ICLR2026/optimization/rrnco_towards_real-world_routing_with_neural_combinatorial_optimization/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/rrnco_towards_real-world_…](https://papernotes.org/ICLR2026/robotics/rrnco_towards_real-world_routing_with_neural_combinatorial_optimization/)
 - Notes (English): [en.papernotes.org/ICLR2026/optimization/rrnco_towards_real…](https://en.papernotes.org/ICLR2026/optimization/rrnco_towards_real-world_routing_with_neural_combinatorial_optimization/)
 
 **All-day Multi-scenes Lifelong Vision-and-Language Navigation with Tucker Adaptation**
@@ -4652,37 +4650,37 @@
 
 - Paper: <https://arxiv.org/abs/2603.01741>
 - Project: <https://naoki04.github.io/paper-cpo/>
-- Notes (Chinese): [papernotes.org/ICLR2026/reinforcement_learning/rethinking_…](https://papernotes.org/ICLR2026/reinforcement_learning/rethinking_policy_diversity_in_ensemble_policy_gradient_in_large-scale_reinforce/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/rethinking_policy_diversi…](https://papernotes.org/ICLR2026/robotics/rethinking_policy_diversity_in_ensemble_policy_gradient_in_large-scale_reinforce/)
 - Notes (English): [en.papernotes.org/ICLR2026/reinforcement_learning/rethinki…](https://en.papernotes.org/ICLR2026/reinforcement_learning/rethinking_policy_diversity_in_ensemble_policy_gradient_in_large-scale_reinforce/)
 
 **MVR: Multi-view Video Reward Shaping for Reinforcement Learning**
 
 - Paper: <https://arxiv.org/abs/2603.01694>
-- Notes (Chinese): [papernotes.org/ICLR2026/reinforcement_learning/mvr_multi-v…](https://papernotes.org/ICLR2026/reinforcement_learning/mvr_multi-view_video_reward_shaping_for_reinforcement_learning/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/mvr_multi-view_video_rewa…](https://papernotes.org/ICLR2026/robotics/mvr_multi-view_video_reward_shaping_for_reinforcement_learning/)
 - Notes (English): [en.papernotes.org/ICLR2026/reinforcement_learning/mvr_mult…](https://en.papernotes.org/ICLR2026/reinforcement_learning/mvr_multi-view_video_reward_shaping_for_reinforcement_learning/)
 
 **D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping** · 📌 Poster
 
 - Paper: <https://arxiv.org/abs/2603.01151>
-- Notes (Chinese): [papernotes.org/ICLR2026/3d_vision/d-rex_differentiable_rea…](https://papernotes.org/ICLR2026/3d_vision/d-rex_differentiable_real-to-sim-to-real_engine_for_learning_dexterous_grasping/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/d-rex_differentiable_real…](https://papernotes.org/ICLR2026/robotics/d-rex_differentiable_real-to-sim-to-real_engine_for_learning_dexterous_grasping/)
 - Notes (English): [en.papernotes.org/ICLR2026/3d_vision/d-rex_differentiable_…](https://en.papernotes.org/ICLR2026/3d_vision/d-rex_differentiable_real-to-sim-to-real_engine_for_learning_dexterous_grasping/)
 
 **Nonparametric Teaching of Attention Learners**
 
 - Paper: <https://arxiv.org/abs/2602.20461>
-- Notes (Chinese): [papernotes.org/ICLR2026/optimization/nonparametric_teachin…](https://papernotes.org/ICLR2026/optimization/nonparametric_teaching_of_attention_learners/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/nonparametric_teaching_of…](https://papernotes.org/ICLR2026/robotics/nonparametric_teaching_of_attention_learners/)
 - Notes (English): [en.papernotes.org/ICLR2026/optimization/nonparametric_teac…](https://en.papernotes.org/ICLR2026/optimization/nonparametric_teaching_of_attention_learners/)
 
 **TPRU: Advancing Temporal and Procedural Understanding in Large Multimodal Models**
 
 - Paper: <https://arxiv.org/abs/2602.18884>
-- Notes (Chinese): [papernotes.org/ICLR2026/reinforcement_learning/tpru_advanc…](https://papernotes.org/ICLR2026/reinforcement_learning/tpru_advancing_temporal_and_procedural_understanding_in_large_multimodal_models/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/tpru_advancing_temporal_a…](https://papernotes.org/ICLR2026/robotics/tpru_advancing_temporal_and_procedural_understanding_in_large_multimodal_models/)
 - Notes (English): [en.papernotes.org/ICLR2026/reinforcement_learning/tpru_adv…](https://en.papernotes.org/ICLR2026/reinforcement_learning/tpru_advancing_temporal_and_procedural_understanding_in_large_multimodal_models/)
 
 **Cross-Embodiment Offline Reinforcement Learning for Heterogeneous Robot Datasets**
 
 - Paper: <https://arxiv.org/abs/2602.18025>
-- Notes (Chinese): [papernotes.org/ICLR2026/reinforcement_learning/cross-embod…](https://papernotes.org/ICLR2026/reinforcement_learning/cross-embodiment_offline_reinforcement_learning_for_heterogeneous_robot_datasets/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/cross-embodiment_offline_…](https://papernotes.org/ICLR2026/robotics/cross-embodiment_offline_reinforcement_learning_for_heterogeneous_robot_datasets/)
 - Notes (English): [en.papernotes.org/ICLR2026/reinforcement_learning/cross-em…](https://en.papernotes.org/ICLR2026/reinforcement_learning/cross-embodiment_offline_reinforcement_learning_for_heterogeneous_robot_datasets/)
 
 **When would Vision-Proprioception Policies Fail in Robotic Manipulation?**
@@ -4695,7 +4693,7 @@
 
 - Paper: <https://arxiv.org/abs/2602.10109>
 - Project: <https://internrobotics.github.io/internvla-m1.github.io/>
-- Notes (Chinese): [papernotes.org/ICLR2026/autonomous_driving/st4vla_spatiall…](https://papernotes.org/ICLR2026/autonomous_driving/st4vla_spatially_guided_training_for_vision-language-action_models/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/st4vla_spatially_guided_t…](https://papernotes.org/ICLR2026/robotics/st4vla_spatially_guided_training_for_vision-language-action_models/)
 - Notes (English): [en.papernotes.org/ICLR2026/autonomous_driving/st4vla_spati…](https://en.papernotes.org/ICLR2026/autonomous_driving/st4vla_spatially_guided_training_for_vision-language-action_models/)
 
 **RoboInter: A Holistic Intermediate Representation Suite Towards Robotic Manipulation**
@@ -4707,7 +4705,7 @@
 **AutoFly: Vision-Language-Action Model for UAV Autonomous Navigation in the Wild**
 
 - Paper: <https://arxiv.org/abs/2602.09657>
-- Notes (Chinese): [papernotes.org/ICLR2026/remote_sensing/autofly_vision-lang…](https://papernotes.org/ICLR2026/remote_sensing/autofly_vision-language-action_model_for_uav_autonomous_navigation_in_the_wild/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/autofly_vision-language-a…](https://papernotes.org/ICLR2026/robotics/autofly_vision-language-action_model_for_uav_autonomous_navigation_in_the_wild/)
 - Notes (English): [en.papernotes.org/ICLR2026/remote_sensing/autofly_vision-l…](https://en.papernotes.org/ICLR2026/remote_sensing/autofly_vision-language-action_model_for_uav_autonomous_navigation_in_the_wild/)
 
 **AnyTouch 2: General Optical Tactile Representation Learning For Dynamic Tactile Perception**
@@ -4738,7 +4736,7 @@
 
 - Paper: <https://arxiv.org/abs/2601.21363>
 - Project: <https://lift-humanoid.github.io>
-- Notes (Chinese): [papernotes.org/ICLR2026/reinforcement_learning/towards_bri…](https://papernotes.org/ICLR2026/reinforcement_learning/towards_bridging_the_gap_between_large-scale_pretraining_and_efficient_finetunin/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/towards_bridging_the_gap_…](https://papernotes.org/ICLR2026/robotics/towards_bridging_the_gap_between_large-scale_pretraining_and_efficient_finetunin/)
 - Notes (English): [en.papernotes.org/ICLR2026/reinforcement_learning/towards_…](https://en.papernotes.org/ICLR2026/reinforcement_learning/towards_bridging_the_gap_between_large-scale_pretraining_and_efficient_finetunin/)
 
 **RF-MatID: Dataset and Benchmark for Radio Frequency Material Identification**
@@ -4756,14 +4754,14 @@
 **Scalable Exploration for High-Dimensional Continuous Control via Value-Guided Flow**
 
 - Paper: <https://arxiv.org/abs/2601.19707>
-- Notes (Chinese): [papernotes.org/ICLR2026/reinforcement_learning/scalable_ex…](https://papernotes.org/ICLR2026/reinforcement_learning/scalable_exploration_for_high-dimensional_continuous_control_via_value-guided_fl/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/scalable_exploration_for_…](https://papernotes.org/ICLR2026/robotics/scalable_exploration_for_high-dimensional_continuous_control_via_value-guided_fl/)
 - Notes (English): [en.papernotes.org/ICLR2026/reinforcement_learning/scalable…](https://en.papernotes.org/ICLR2026/reinforcement_learning/scalable_exploration_for_high-dimensional_continuous_control_via_value-guided_fl/)
 
 **Partially Equivariant Reinforcement Learning in Symmetry-Breaking Environments**
 
 - Paper: <https://arxiv.org/abs/2512.00915>
 - Project: <https://pranaboy72.github.io/perl_page/>
-- Notes (Chinese): [papernotes.org/ICLR2026/reinforcement_learning/partially_e…](https://papernotes.org/ICLR2026/reinforcement_learning/partially_equivariant_reinforcement_learning_in_symmetry-breaking_environments/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/partially_equivariant_rei…](https://papernotes.org/ICLR2026/robotics/partially_equivariant_reinforcement_learning_in_symmetry-breaking_environments/)
 - Notes (English): [en.papernotes.org/ICLR2026/reinforcement_learning/partiall…](https://en.papernotes.org/ICLR2026/reinforcement_learning/partially_equivariant_reinforcement_learning_in_symmetry-breaking_environments/)
 
 **TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models** · 📌 Poster
@@ -4775,7 +4773,7 @@
 **MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation**
 
 - Paper: <https://arxiv.org/abs/2510.18316>
-- Notes (Chinese): [papernotes.org/ICLR2026/reinforcement_learning/momagen_gen…](https://papernotes.org/ICLR2026/reinforcement_learning/momagen_generating_demonstrations_under_soft_and_hard_constraints_for_multi-step/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/momagen_generating_demons…](https://papernotes.org/ICLR2026/robotics/momagen_generating_demonstrations_under_soft_and_hard_constraints_for_multi-step/)
 - Notes (English): [en.papernotes.org/ICLR2026/reinforcement_learning/momagen_…](https://en.papernotes.org/ICLR2026/reinforcement_learning/momagen_generating_demonstrations_under_soft_and_hard_constraints_for_multi-step/)
 
 **From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors**
@@ -4793,7 +4791,7 @@
 **Emergence of Spatial Representation in an Actor-Critic Agent with Hippocampus-Inspired Sequence Generator**
 
 - Paper: <https://arxiv.org/abs/2510.09951>
-- Notes (Chinese): [papernotes.org/ICLR2026/reinforcement_learning/emergence_o…](https://papernotes.org/ICLR2026/reinforcement_learning/emergence_of_spatial_representation_in_an_actor-critic_agent_with_hippocampus-in/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/emergence_of_spatial_repr…](https://papernotes.org/ICLR2026/robotics/emergence_of_spatial_representation_in_an_actor-critic_agent_with_hippocampus-in/)
 - Notes (English): [en.papernotes.org/ICLR2026/reinforcement_learning/emergenc…](https://en.papernotes.org/ICLR2026/reinforcement_learning/emergence_of_spatial_representation_in_an_actor-critic_agent_with_hippocampus-in/)
 
 **D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI**
@@ -4845,7 +4843,7 @@
 **Statistical Guarantees for Offline Domain Randomization**
 
 - Paper: <https://arxiv.org/abs/2506.10133>
-- Notes (Chinese): [papernotes.org/ICLR2026/audio_speech/statistical_guarantee…](https://papernotes.org/ICLR2026/audio_speech/statistical_guarantees_for_offline_domain_randomization/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/statistical_guarantees_fo…](https://papernotes.org/ICLR2026/robotics/statistical_guarantees_for_offline_domain_randomization/)
 - Notes (English): [en.papernotes.org/ICLR2026/audio_speech/statistical_guaran…](https://en.papernotes.org/ICLR2026/audio_speech/statistical_guarantees_for_offline_domain_randomization/)
 
 **Sparse Imagination for Efficient Visual World Model Planning**
@@ -4871,7 +4869,7 @@
 
 - Paper: <https://arxiv.org/abs/2505.16348>
 - Project: <https://connoriginal.github.io/MEMENTO>
-- Notes (Chinese): [papernotes.org/ICLR2026/graph_learning/embodied_agents_mee…](https://papernotes.org/ICLR2026/graph_learning/embodied_agents_meet_personalization_investigating_challenges_and_solutions_thro/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/embodied_agents_meet_pers…](https://papernotes.org/ICLR2026/robotics/embodied_agents_meet_personalization_investigating_challenges_and_solutions_thro/)
 - Notes (English): [en.papernotes.org/ICLR2026/graph_learning/embodied_agents_…](https://en.papernotes.org/ICLR2026/graph_learning/embodied_agents_meet_personalization_investigating_challenges_and_solutions_thro/)
 
 **Visual Planning: Let's Think Only with Images** · 🎤 Oral
@@ -4890,7 +4888,7 @@
 
 - Paper: <https://arxiv.org/abs/2505.06182>
 - Project: <https://timschneider42.github.io/apple>
-- Notes (Chinese): [papernotes.org/ICLR2026/reinforcement_learning/apple_towar…](https://papernotes.org/ICLR2026/reinforcement_learning/apple_toward_general_active_perception_via_reinforcement_learning/)
+- Notes (Chinese): [papernotes.org/ICLR2026/robotics/apple_toward_general_acti…](https://papernotes.org/ICLR2026/robotics/apple_toward_general_active_perception_via_reinforcement_learning/)
 - Notes (English): [en.papernotes.org/ICLR2026/reinforcement_learning/apple_to…](https://en.papernotes.org/ICLR2026/reinforcement_learning/apple_toward_general_active_perception_via_reinforcement_learning/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
@@ -4905,7 +4903,7 @@
 
 - Paper: <https://arxiv.org/abs/2510.09658>
 - Code: <https://github.com/fillo-rinaldi/GradFix>
-- Notes (Chinese): [papernotes.org/ICLR2026/self_supervised/gradient-sign_mask…](https://papernotes.org/ICLR2026/self_supervised/gradient-sign_masking_for_task_vector_transport_across_pre-trained_models/)
+- Notes (Chinese): [papernotes.org/ICLR2026/optimization/gradient-sign_masking…](https://papernotes.org/ICLR2026/optimization/gradient-sign_masking_for_task_vector_transport_across_pre-trained_models/)
 - Notes (English): [en.papernotes.org/ICLR2026/self_supervised/gradient-sign_m…](https://en.papernotes.org/ICLR2026/self_supervised/gradient-sign_masking_for_task_vector_transport_across_pre-trained_models/)
 
 **Learning to Recall with Transformers Beyond Orthogonal Embeddings**
@@ -4917,7 +4915,7 @@
 **LCA: Local Classifier Alignment for Continual Learning**
 
 - Paper: <https://arxiv.org/abs/2603.09888>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/lca_local_classifie…](https://papernotes.org/ICLR2026/llm_evaluation/lca_local_classifier_alignment_for_continual_learning/)
+- Notes (Chinese): [papernotes.org/ICLR2026/optimization/lca_local_classifier_…](https://papernotes.org/ICLR2026/optimization/lca_local_classifier_alignment_for_continual_learning/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/lca_local_classi…](https://en.papernotes.org/ICLR2026/llm_evaluation/lca_local_classifier_alignment_for_continual_learning/)
 
 **Minor First, Major Last: A Depth-Induced Implicit Bias of Sharpness-Aware Minimization**
@@ -5110,7 +5108,7 @@
 **Incentives in Federated Learning with Heterogeneous Agents**
 
 - Paper: <https://arxiv.org/abs/2509.21612>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/incentives_in_fede…](https://papernotes.org/ICLR2026/medical_imaging/incentives_in_federated_learning_with_heterogeneous_agents/)
+- Notes (Chinese): [papernotes.org/ICLR2026/optimization/incentives_in_federat…](https://papernotes.org/ICLR2026/optimization/incentives_in_federated_learning_with_heterogeneous_agents/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/incentives_in_f…](https://en.papernotes.org/ICLR2026/medical_imaging/incentives_in_federated_learning_with_heterogeneous_agents/)
 
 **Faster Gradient Methods for Highly-Smooth Stochastic Bilevel Optimization**
@@ -5140,7 +5138,7 @@
 **Conformal Prediction Adaptive to Unknown Subpopulation Shifts**
 
 - Paper: <https://arxiv.org/abs/2506.05583>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/conformal_predictio…](https://papernotes.org/ICLR2026/llm_evaluation/conformal_prediction_adaptive_to_unknown_subpopulation_shifts/)
+- Notes (Chinese): [papernotes.org/ICLR2026/optimization/conformal_prediction_…](https://papernotes.org/ICLR2026/optimization/conformal_prediction_adaptive_to_unknown_subpopulation_shifts/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/conformal_predic…](https://en.papernotes.org/ICLR2026/llm_evaluation/conformal_prediction_adaptive_to_unknown_subpopulation_shifts/)
 
 **Rolling Ball Optimizer: Learning by ironing out loss landscape wrinkles**
@@ -5241,7 +5239,7 @@
 **Ignore All Previous Instructions: Jailbreaking as a de-escalatory peace building practise to resist LLM social media bots** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2603.01942>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/ignore_all_previous_instr…](https://papernotes.org/ICLR2026/robotics/ignore_all_previous_instructions_jailbreaking_as_a_de-escalatory_peace_building_/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_alignment/ignore_all_previous_…](https://papernotes.org/ICLR2026/llm_alignment/ignore_all_previous_instructions_jailbreaking_as_a_de-escalatory_peace_building_/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/ignore_all_previous_in…](https://en.papernotes.org/ICLR2026/robotics/ignore_all_previous_instructions_jailbreaking_as_a_de-escalatory_peace_building_/)
 
 **GuardAlign: Test-time Safety Alignment in Multimodal Large Language Models**
@@ -5307,7 +5305,7 @@
 **Robust Preference Alignment via Directional Neighborhood Consensus**
 
 - Paper: <https://arxiv.org/abs/2510.20498>
-- Notes (Chinese): [papernotes.org/ICLR2026/signal_comm/robust_preference_alig…](https://papernotes.org/ICLR2026/signal_comm/robust_preference_alignment_via_directional_neighborhood_consensus/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_alignment/robust_preference_al…](https://papernotes.org/ICLR2026/llm_alignment/robust_preference_alignment_via_directional_neighborhood_consensus/)
 - Notes (English): [en.papernotes.org/ICLR2026/signal_comm/robust_preference_a…](https://en.papernotes.org/ICLR2026/signal_comm/robust_preference_alignment_via_directional_neighborhood_consensus/)
 
 **Why DPO is a Misspecified Estimator and How to Fix It**
@@ -5319,7 +5317,7 @@
 **Spectrum Tuning: Post-Training for Distributional Coverage and In-Context Steerability**
 
 - Paper: <https://arxiv.org/abs/2510.06084>
-- Notes (Chinese): [papernotes.org/ICLR2026/signal_comm/spectrum_tuning_post-t…](https://papernotes.org/ICLR2026/signal_comm/spectrum_tuning_post-training_for_distributional_coverage_and_in-context_steerab/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_alignment/spectrum_tuning_post…](https://papernotes.org/ICLR2026/llm_alignment/spectrum_tuning_post-training_for_distributional_coverage_and_in-context_steerab/)
 - Notes (English): [en.papernotes.org/ICLR2026/signal_comm/spectrum_tuning_pos…](https://en.papernotes.org/ICLR2026/signal_comm/spectrum_tuning_post-training_for_distributional_coverage_and_in-context_steerab/)
 
 **General Exploratory Bonus for Optimistic Exploration in RLHF**
@@ -5380,7 +5378,7 @@
 **Sysformer: Safeguarding Frozen Large Language Models with Adaptive System Prompts**
 
 - Paper: <https://arxiv.org/abs/2506.15751>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/sysformer_safeguarding_fr…](https://papernotes.org/ICLR2026/robotics/sysformer_safeguarding_frozen_large_language_models_with_adaptive_system_prompts/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_alignment/sysformer_safeguardi…](https://papernotes.org/ICLR2026/llm_alignment/sysformer_safeguarding_frozen_large_language_models_with_adaptive_system_prompts/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/sysformer_safeguarding…](https://en.papernotes.org/ICLR2026/robotics/sysformer_safeguarding_frozen_large_language_models_with_adaptive_system_prompts/)
 
 **Beyond RLHF and NLHF: Population-Proportional Alignment under an Axiomatic Framework**
@@ -5392,7 +5390,7 @@
 **Capability-Based Scaling Trends for LLM-Based Red-Teaming**
 
 - Paper: <https://arxiv.org/abs/2505.20162>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/capability-based_scaling_…](https://papernotes.org/ICLR2026/robotics/capability-based_scaling_trends_for_llm-based_red-teaming/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_alignment/capability-based_sca…](https://papernotes.org/ICLR2026/llm_alignment/capability-based_scaling_trends_for_llm-based_red-teaming/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/capability-based_scali…](https://en.papernotes.org/ICLR2026/robotics/capability-based_scaling_trends_for_llm-based_red-teaming/)
 
 **SafeDPO: A Simple Approach to Direct Preference Optimization with Enhanced Safety**
@@ -5410,7 +5408,7 @@
 **JULI: Jailbreak Large Language Models by Self-Introspection**
 
 - Paper: <https://arxiv.org/abs/2505.11790>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/juli_jailbreak_large_lang…](https://papernotes.org/ICLR2026/robotics/juli_jailbreak_large_language_models_by_self-introspection/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_alignment/juli_jailbreak_large…](https://papernotes.org/ICLR2026/llm_alignment/juli_jailbreak_large_language_models_by_self-introspection/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/juli_jailbreak_large_l…](https://en.papernotes.org/ICLR2026/robotics/juli_jailbreak_large_language_models_by_self-introspection/)
 
 **Superficial Safety Alignment Hypothesis**
@@ -5439,7 +5437,7 @@
 
 - Paper: <https://arxiv.org/abs/2602.03828>
 - Code: <https://github.com/ResearAI/AutoFigure>
-- Notes (Chinese): [papernotes.org/ICLR2026/audio_speech/autofigure_generating…](https://papernotes.org/ICLR2026/audio_speech/autofigure_generating_and_refining_publication-ready_scientific_illustrations/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_agent/autofigure_generating_an…](https://papernotes.org/ICLR2026/llm_agent/autofigure_generating_and_refining_publication-ready_scientific_illustrations/)
 - Notes (English): [en.papernotes.org/ICLR2026/audio_speech/autofigure_generat…](https://en.papernotes.org/ICLR2026/audio_speech/autofigure_generating_and_refining_publication-ready_scientific_illustrations/)
 
 **PerfGuard: A Performance-Aware Agent for Visual Content Generation**
@@ -5679,14 +5677,14 @@
 
 - Paper: <https://arxiv.org/abs/2603.01725>
 - Code: <https://github.com/GuangluDong0728/DATPRL-IR>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/learning_domain-aw…](https://papernotes.org/ICLR2026/medical_imaging/learning_domain-aware_task_prompt_representations_for_multi-domain_all-in-one_im/)
+- Notes (Chinese): [papernotes.org/ICLR2026/image_restoration/learning_domain-…](https://papernotes.org/ICLR2026/image_restoration/learning_domain-aware_task_prompt_representations_for_multi-domain_all-in-one_im/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/learning_domain…](https://en.papernotes.org/ICLR2026/medical_imaging/learning_domain-aware_task_prompt_representations_for_multi-domain_all-in-one_im/)
 
 **Decentralized Attention Fails Centralized Signals: Rethinking Transformers for Medical Time Series** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2602.18473>
 - Code: <https://github.com/Levi-Ackman/TeCh>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/decentralized_atte…](https://papernotes.org/ICLR2026/medical_imaging/decentralized_attention_fails_centralized_signals_rethinking_transformers_for_me/)
+- Notes (Chinese): [papernotes.org/ICLR2026/time_series/decentralized_attentio…](https://papernotes.org/ICLR2026/time_series/decentralized_attention_fails_centralized_signals_rethinking_transformers_for_me/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/decentralized_a…](https://en.papernotes.org/ICLR2026/medical_imaging/decentralized_attention_fails_centralized_signals_rethinking_transformers_for_me/)
 
 **Improving 2D Diffusion Models for 3D Medical Imaging with Inter-Slice Consistent Stochasticity**
@@ -5707,7 +5705,7 @@
 
 - Paper: <https://arxiv.org/abs/2509.25827>
 - Code: <https://github.com/pixas/DECS>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/overthinking_reduc…](https://papernotes.org/ICLR2026/medical_imaging/overthinking_reduction_with_decoupled_rewards_and_curriculum_data_scheduling/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/overthinking_reducti…](https://papernotes.org/ICLR2026/llm_reasoning/overthinking_reduction_with_decoupled_rewards_and_curriculum_data_scheduling/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/overthinking_re…](https://en.papernotes.org/ICLR2026/medical_imaging/overthinking_reduction_with_decoupled_rewards_and_curriculum_data_scheduling/)
 
 **SEED: Towards More Accurate Semantic Evaluation for Visual Brain Decoding**
@@ -5721,13 +5719,13 @@
 
 - Paper: <https://arxiv.org/abs/2410.18970>
 - Code: <https://github.com/bit-ml/bee>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/bridging_explainab…](https://papernotes.org/ICLR2026/medical_imaging/bridging_explainability_and_embeddings_bee_aware_of_spuriousness/)
+- Notes (Chinese): [papernotes.org/ICLR2026/interpretability/bridging_explaina…](https://papernotes.org/ICLR2026/interpretability/bridging_explainability_and_embeddings_bee_aware_of_spuriousness/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/bridging_explai…](https://en.papernotes.org/ICLR2026/medical_imaging/bridging_explainability_and_embeddings_bee_aware_of_spuriousness/)
 
 **Causal Interpretation of Neural Network Computations with Contribution Decomposition** · 📌 Poster
 
 - Paper: <https://arxiv.org/abs/2603.06557>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/causal_interpretat…](https://papernotes.org/ICLR2026/medical_imaging/causal_interpretation_of_neural_network_computations_with_contribution_decomposi/)
+- Notes (Chinese): [papernotes.org/ICLR2026/interpretability/causal_interpreta…](https://papernotes.org/ICLR2026/interpretability/causal_interpretation_of_neural_network_computations_with_contribution_decomposi/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/causal_interpre…](https://en.papernotes.org/ICLR2026/medical_imaging/causal_interpretation_of_neural_network_computations_with_contribution_decomposi/)
 
 **Augmenting representations with scientific papers** · 🛠️ Workshop
@@ -5758,13 +5756,13 @@
 **Neural Synchrony Between Socially Interacting Language Models**
 
 - Paper: <https://arxiv.org/abs/2602.17815>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/neural_synchrony_b…](https://papernotes.org/ICLR2026/medical_imaging/neural_synchrony_between_socially_interacting_language_models/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_nlp/neural_synchrony_between_s…](https://papernotes.org/ICLR2026/llm_nlp/neural_synchrony_between_socially_interacting_language_models/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/neural_synchron…](https://en.papernotes.org/ICLR2026/medical_imaging/neural_synchrony_between_socially_interacting_language_models/)
 
 **Omni-iEEG: A Large-Scale, Comprehensive iEEG Dataset and Benchmark for Epilepsy Research**
 
 - Paper: <https://arxiv.org/abs/2602.16072>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/omni-ieeg_a_large-…](https://papernotes.org/ICLR2026/medical_imaging/omni-ieeg_a_large-scale_comprehensive_ieeg_dataset_and_benchmark_for_epilepsy_re/)
+- Notes (Chinese): [papernotes.org/ICLR2026/time_series/omni-ieeg_a_large-scal…](https://papernotes.org/ICLR2026/time_series/omni-ieeg_a_large-scale_comprehensive_ieeg_dataset_and_benchmark_for_epilepsy_re/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/omni-ieeg_a_lar…](https://en.papernotes.org/ICLR2026/medical_imaging/omni-ieeg_a_large-scale_comprehensive_ieeg_dataset_and_benchmark_for_epilepsy_re/)
 
 **Characterizing Human Semantic Navigation in Concept Production as Trajectories in Embedding Space**
@@ -5788,7 +5786,7 @@
 **SONIC: Spectral Oriented Neural Invariant Convolutions**
 
 - Paper: <https://arxiv.org/abs/2601.19884>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/sonic_spectral_ori…](https://papernotes.org/ICLR2026/medical_imaging/sonic_spectral_oriented_neural_invariant_convolutions/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/sonic_spectral_oriented_neu…](https://papernotes.org/ICLR2026/others/sonic_spectral_oriented_neural_invariant_convolutions/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/sonic_spectral_…](https://en.papernotes.org/ICLR2026/medical_imaging/sonic_spectral_oriented_neural_invariant_convolutions/)
 
 **Glance and Focus Reinforcement for Pan-cancer Screening**
@@ -5830,7 +5828,7 @@
 **Can SAEs reveal and mitigate racial biases of LLMs in healthcare?**
 
 - Paper: <https://arxiv.org/abs/2511.00177>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/can_saes_reveal_an…](https://papernotes.org/ICLR2026/medical_imaging/can_saes_reveal_and_mitigate_racial_biases_of_llms_in_healthcare/)
+- Notes (Chinese): [papernotes.org/ICLR2026/medical_nlp/can_saes_reveal_and_mi…](https://papernotes.org/ICLR2026/medical_nlp/can_saes_reveal_and_mitigate_racial_biases_of_llms_in_healthcare/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/can_saes_reveal…](https://en.papernotes.org/ICLR2026/medical_imaging/can_saes_reveal_and_mitigate_racial_biases_of_llms_in_healthcare/)
 
 **Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer**
@@ -5842,7 +5840,7 @@
 **Shoot First, Ask Questions Later? Building Rational Agents that Explore and Act Like People**
 
 - Paper: <https://arxiv.org/abs/2510.20886>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/shoot_first_ask_qu…](https://papernotes.org/ICLR2026/medical_imaging/shoot_first_ask_questions_later_building_rational_agents_that_explore_and_act_li/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_agent/shoot_first_ask_question…](https://papernotes.org/ICLR2026/llm_agent/shoot_first_ask_questions_later_building_rational_agents_that_explore_and_act_li/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/shoot_first_ask…](https://en.papernotes.org/ICLR2026/medical_imaging/shoot_first_ask_questions_later_building_rational_agents_that_explore_and_act_li/)
 
 **Distributional Consistency Loss: Beyond Pointwise Data Terms in Inverse Problems**
@@ -5854,19 +5852,19 @@
 **An Orthogonal Learner for Individualized Outcomes in Markov Decision Processes**
 
 - Paper: <https://arxiv.org/abs/2509.26429>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/an_orthogonal_lear…](https://papernotes.org/ICLR2026/medical_imaging/an_orthogonal_learner_for_individualized_outcomes_in_markov_decision_processes/)
+- Notes (Chinese): [papernotes.org/ICLR2026/causal_inference/an_orthogonal_lea…](https://papernotes.org/ICLR2026/causal_inference/an_orthogonal_learner_for_individualized_outcomes_in_markov_decision_processes/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/an_orthogonal_l…](https://en.papernotes.org/ICLR2026/medical_imaging/an_orthogonal_learner_for_individualized_outcomes_in_markov_decision_processes/)
 
 **Benchmarking ECG FMs: A Reality Check Across Clinical Tasks**
 
 - Paper: <https://arxiv.org/abs/2509.25095>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/benchmarking_ecg_f…](https://papernotes.org/ICLR2026/medical_imaging/benchmarking_ecg_fms_a_reality_check_across_clinical_tasks/)
+- Notes (Chinese): [papernotes.org/ICLR2026/time_series/benchmarking_ecg_fms_a…](https://papernotes.org/ICLR2026/time_series/benchmarking_ecg_fms_a_reality_check_across_clinical_tasks/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/benchmarking_ec…](https://en.papernotes.org/ICLR2026/medical_imaging/benchmarking_ecg_fms_a_reality_check_across_clinical_tasks/)
 
 **Uni-NTFM: A Unified Foundation Model for EEG Signal Representation Learning**
 
 - Paper: <https://arxiv.org/abs/2509.24222>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/uni-ntfm_a_unified…](https://papernotes.org/ICLR2026/medical_imaging/uni-ntfm_a_unified_foundation_model_for_eeg_signal_representation_learning/)
+- Notes (Chinese): [papernotes.org/ICLR2026/time_series/uni-ntfm_a_unified_fou…](https://papernotes.org/ICLR2026/time_series/uni-ntfm_a_unified_foundation_model_for_eeg_signal_representation_learning/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/uni-ntfm_a_unif…](https://en.papernotes.org/ICLR2026/medical_imaging/uni-ntfm_a_unified_foundation_model_for_eeg_signal_representation_learning/)
 
 **Q-FSRU: Quantum-Augmented Frequency-Spectral For Medical Visual Question Answering**
@@ -5890,13 +5888,13 @@
 **Deep Hierarchical Learning with Nested Subspace Networks for Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2509.17874>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/deep_hierarchical_…](https://papernotes.org/ICLR2026/medical_imaging/deep_hierarchical_learning_with_nested_subspace_networks_for_large_language_mode/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_efficiency/deep_hierarchical_l…](https://papernotes.org/ICLR2026/llm_efficiency/deep_hierarchical_learning_with_nested_subspace_networks_for_large_language_mode/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/deep_hierarchic…](https://en.papernotes.org/ICLR2026/medical_imaging/deep_hierarchical_learning_with_nested_subspace_networks_for_large_language_mode/)
 
 **Biologically Plausible Online Hebbian Meta-Learning: Two-Timescale Local Rules for Spiking Neural Brain Interfaces**
 
 - Paper: <https://arxiv.org/abs/2509.14447>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/biologically_plaus…](https://papernotes.org/ICLR2026/medical_imaging/biologically_plausible_online_hebbian_meta-learning_two-timescale_local_rules_fo/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/biologically_plausible_onli…](https://papernotes.org/ICLR2026/others/biologically_plausible_online_hebbian_meta-learning_two-timescale_local_rules_fo/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/biologically_pl…](https://en.papernotes.org/ICLR2026/medical_imaging/biologically_plausible_online_hebbian_meta-learning_two-timescale_local_rules_fo/)
 
 **LaVCa: LLM-assisted Visual Cortex Captioning**
@@ -5908,7 +5906,7 @@
 **Controllable Sequence Editing for Biological and Clinical Trajectories**
 
 - Paper: <https://arxiv.org/abs/2502.03569>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/controllable_seque…](https://papernotes.org/ICLR2026/medical_imaging/controllable_sequence_editing_for_biological_and_clinical_trajectories/)
+- Notes (Chinese): [papernotes.org/ICLR2026/computational_biology/controllable…](https://papernotes.org/ICLR2026/computational_biology/controllable_sequence_editing_for_biological_and_clinical_trajectories/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/controllable_se…](https://en.papernotes.org/ICLR2026/medical_imaging/controllable_sequence_editing_for_biological_and_clinical_trajectories/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
@@ -6121,7 +6119,7 @@
 **Ultra-Fast Language Generation via Discrete Diffusion Divergence Instruct**
 
 - Paper: <https://arxiv.org/abs/2509.25035>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_efficiency/ultra-fast_language…](https://papernotes.org/ICLR2026/llm_efficiency/ultra-fast_language_generation_via_discrete_diffusion_divergence_instruct/)
+- Notes (Chinese): [papernotes.org/ICLR2026/computational_biology/ultra-fast_l…](https://papernotes.org/ICLR2026/computational_biology/ultra-fast_language_generation_via_discrete_diffusion_divergence_instruct/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_efficiency/ultra-fast_langu…](https://en.papernotes.org/ICLR2026/llm_efficiency/ultra-fast_language_generation_via_discrete_diffusion_divergence_instruct/)
 
 **A Genetic Algorithm for Navigating Synthesizable Molecular Spaces**
@@ -6189,7 +6187,7 @@
 - Paper: <https://arxiv.org/abs/2512.23278>
 - Code: <https://github.com/k2-fsa/Flow2GAN>
 - Project: <https://flow2gan.github.io>
-- Notes (Chinese): [papernotes.org/ICLR2026/image_generation/flow2gan_hybrid_f…](https://papernotes.org/ICLR2026/image_generation/flow2gan_hybrid_flow_matching_and_gan_with_multi-resolution_network_for_few-step/)
+- Notes (Chinese): [papernotes.org/ICLR2026/audio_speech/flow2gan_hybrid_flow_…](https://papernotes.org/ICLR2026/audio_speech/flow2gan_hybrid_flow_matching_and_gan_with_multi-resolution_network_for_few-step/)
 - Notes (English): [en.papernotes.org/ICLR2026/image_generation/flow2gan_hybri…](https://en.papernotes.org/ICLR2026/image_generation/flow2gan_hybrid_flow_matching_and_gan_with_multi-resolution_network_for_few-step/)
 
 **Latent Speech-Text Transformer** · 🎤 Oral
@@ -6203,7 +6201,7 @@
 
 - Paper: <https://arxiv.org/abs/2510.04899>
 - Code: <https://github.com/MIT-MI/human_behavior_atlas>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/human_behavior_atl…](https://papernotes.org/ICLR2026/medical_imaging/human_behavior_atlas_benchmarking_unified_psychological_and_social_behavior_unde/)
+- Notes (Chinese): [papernotes.org/ICLR2026/audio_speech/human_behavior_atlas_…](https://papernotes.org/ICLR2026/audio_speech/human_behavior_atlas_benchmarking_unified_psychological_and_social_behavior_unde/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/human_behavior_…](https://en.papernotes.org/ICLR2026/medical_imaging/human_behavior_atlas_benchmarking_unified_psychological_and_social_behavior_unde/)
 
 **FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates**
@@ -6264,7 +6262,7 @@
 
 - Paper: <https://arxiv.org/abs/2602.07054>
 - Project: <https://avere-iclr.github.io>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_alignment/avere_improving_audi…](https://papernotes.org/ICLR2026/llm_alignment/avere_improving_audiovisual_emotion_reasoning_with_preference_optimization/)
+- Notes (Chinese): [papernotes.org/ICLR2026/audio_speech/avere_improving_audio…](https://papernotes.org/ICLR2026/audio_speech/avere_improving_audiovisual_emotion_reasoning_with_preference_optimization/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_alignment/avere_improving_a…](https://en.papernotes.org/ICLR2026/llm_alignment/avere_improving_audiovisual_emotion_reasoning_with_preference_optimization/)
 
 **Scaling Speech Tokenizers with Diffusion Autoencoders**
@@ -6295,13 +6293,13 @@
 
 - Paper: <https://arxiv.org/abs/2511.18833>
 - Project: <https://PrismAudio.github.io>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_reasoning/prismaudio_decompose…](https://papernotes.org/ICLR2026/llm_reasoning/prismaudio_decomposed_chain-of-thoughts_and_multi-dimensional_rewards_for_video-/)
+- Notes (Chinese): [papernotes.org/ICLR2026/audio_speech/prismaudio_decomposed…](https://papernotes.org/ICLR2026/audio_speech/prismaudio_decomposed_chain-of-thoughts_and_multi-dimensional_rewards_for_video-/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_reasoning/prismaudio_decomp…](https://en.papernotes.org/ICLR2026/llm_reasoning/prismaudio_decomposed_chain-of-thoughts_and_multi-dimensional_rewards_for_video-/)
 
 **ParaS2S: Benchmarking and Aligning Spoken Language Models for Paralinguistic-aware Speech-to-Speech Interaction**
 
 - Paper: <https://arxiv.org/abs/2511.08723>
-- Notes (Chinese): [papernotes.org/ICLR2026/reinforcement_learning/paras2s_ben…](https://papernotes.org/ICLR2026/reinforcement_learning/paras2s_benchmarking_and_aligning_spoken_language_models_for_paralinguistic-awar/)
+- Notes (Chinese): [papernotes.org/ICLR2026/audio_speech/paras2s_benchmarking_…](https://papernotes.org/ICLR2026/audio_speech/paras2s_benchmarking_and_aligning_spoken_language_models_for_paralinguistic-awar/)
 - Notes (English): [en.papernotes.org/ICLR2026/reinforcement_learning/paras2s_…](https://en.papernotes.org/ICLR2026/reinforcement_learning/paras2s_benchmarking_and_aligning_spoken_language_models_for_paralinguistic-awar/)
 
 **EchoMind: An Interrelated Multi-level Benchmark for Evaluating Empathetic Speech Language Models**
@@ -6381,7 +6379,7 @@
 
 - Paper: <https://arxiv.org/abs/2504.07053>
 - Project: <https://mtkresearch.github.io/TASTE-SpokenLM.github.io>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_pretraining/taste_text-aligned…](https://papernotes.org/ICLR2026/llm_pretraining/taste_text-aligned_speech_tokenization_and_embedding_for_spoken_language_modelin/)
+- Notes (Chinese): [papernotes.org/ICLR2026/audio_speech/taste_text-aligned_sp…](https://papernotes.org/ICLR2026/audio_speech/taste_text-aligned_speech_tokenization_and_embedding_for_spoken_language_modelin/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_pretraining/taste_text-alig…](https://en.papernotes.org/ICLR2026/llm_pretraining/taste_text-aligned_speech_tokenization_and_embedding_for_spoken_language_modelin/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
@@ -6410,8 +6408,8 @@
 
 - Paper: <https://arxiv.org/abs/2509.21875>
 - Code: <https://github.com/deeplearning-wisc/LUMINA>
-- Notes (Chinese): [papernotes.org/ICLR2026/video_understanding/lumina_detecti…](https://papernotes.org/ICLR2026/video_understanding/lumina_detecting_hallucinations_in_rag_system_with_context-knowledge_signals/)
-- Notes (English): [en.papernotes.org/ICLR2026/video_understanding/lumina_dete…](https://en.papernotes.org/ICLR2026/video_understanding/lumina_detecting_hallucinations_in_rag_system_with_context-knowledge_signals/)
+- Notes (Chinese): [papernotes.org/ICLR2026/hallucination/lumina_detecting_hal…](https://papernotes.org/ICLR2026/hallucination/lumina_detecting_hallucinations_in_rag_system_with_context-knowledge_signals/)
+- Notes (English): [en.papernotes.org/ICLR2026/hallucination/lumina_detecting_…](https://en.papernotes.org/ICLR2026/hallucination/lumina_detecting_hallucinations_in_rag_system_with_context-knowledge_signals/)
 
 **Attributing Response to Context: A Jensen-Shannon Divergence Driven Mechanistic Study of Context Attribution in Retrieval-Augmented Generation** · 🏆 Best Paper · 🛠️ Workshop
 
@@ -6471,8 +6469,8 @@
 **Token-Guard: Towards Token-Level Hallucination Control via Self-Checking Decoding**
 
 - Paper: <https://arxiv.org/abs/2601.21969>
-- Notes (Chinese): [papernotes.org/ICLR2026/information_retrieval/token-guard_…](https://papernotes.org/ICLR2026/information_retrieval/token-guard_towards_token-level_hallucination_control_via_self-checking_decoding/)
-- Notes (English): [en.papernotes.org/ICLR2026/information_retrieval/token-gua…](https://en.papernotes.org/ICLR2026/information_retrieval/token-guard_towards_token-level_hallucination_control_via_self-checking_decoding/)
+- Notes (Chinese): [papernotes.org/ICLR2026/hallucination/token-guard_towards_…](https://papernotes.org/ICLR2026/hallucination/token-guard_towards_token-level_hallucination_control_via_self-checking_decoding/)
+- Notes (English): [en.papernotes.org/ICLR2026/hallucination/token-guard_towar…](https://en.papernotes.org/ICLR2026/hallucination/token-guard_towards_token-level_hallucination_control_via_self-checking_decoding/)
 
 **Q-RAG: Long Context Multi-Step Retrieval via Value-Based Embedder Training**
 
@@ -6483,7 +6481,7 @@
 **SynthWorlds: Controlled Parallel Worlds for Disentangling Reasoning and Knowledge in Language Models**
 
 - Paper: <https://arxiv.org/abs/2510.24427>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/synthworlds_controlled_pa…](https://papernotes.org/ICLR2026/robotics/synthworlds_controlled_parallel_worlds_for_disentangling_reasoning_and_knowledge/)
+- Notes (Chinese): [papernotes.org/ICLR2026/information_retrieval/synthworlds_…](https://papernotes.org/ICLR2026/information_retrieval/synthworlds_controlled_parallel_worlds_for_disentangling_reasoning_and_knowledge/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/synthworlds_controlled…](https://en.papernotes.org/ICLR2026/robotics/synthworlds_controlled_parallel_worlds_for_disentangling_reasoning_and_knowledge/)
 
 **Embedding-Based Context-Aware Reranker**
@@ -6525,7 +6523,7 @@
 **Attribution-Guided Decoding**
 
 - Paper: <https://arxiv.org/abs/2509.26307>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/attribution-guided_decoding](https://papernotes.org/ICLR2026/robotics/attribution-guided_decoding/)
+- Notes (Chinese): [papernotes.org/ICLR2026/information_retrieval/attribution-…](https://papernotes.org/ICLR2026/information_retrieval/attribution-guided_decoding/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/attribution-guided_dec…](https://en.papernotes.org/ICLR2026/robotics/attribution-guided_decoding/)
 
 **G-reasoner: Foundation Models for Unified Reasoning over Graph-structured Knowledge**
@@ -6651,13 +6649,11 @@
 **Enhancing Persona Following at Decoding Time via Dynamic Importance Estimation for Role-Playing Agents**
 
 - Paper: <https://arxiv.org/abs/2603.01438>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_nlp/enhancing_persona_followin…](https://papernotes.org/ICLR2026/llm_nlp/enhancing_persona_following_at_decoding_time_via_dynamic_importance_estimation_/)
-- Notes (English): [en.papernotes.org/ICLR2026/llm_nlp/enhancing_persona_follo…](https://en.papernotes.org/ICLR2026/llm_nlp/enhancing_persona_following_at_decoding_time_via_dynamic_importance_estimation_/)
 
 **Spectral Attention Steering for Prompt Highlighting** · 📌 Poster
 
 - Paper: <https://arxiv.org/abs/2603.01281>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/spectral_attention_…](https://papernotes.org/ICLR2026/llm_evaluation/spectral_attention_steering_for_prompt_highlighting/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_nlp/spectral_attention_steerin…](https://papernotes.org/ICLR2026/llm_nlp/spectral_attention_steering_for_prompt_highlighting/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/spectral_attenti…](https://en.papernotes.org/ICLR2026/llm_evaluation/spectral_attention_steering_for_prompt_highlighting/)
 
 **The Lattice Representation Hypothesis of Large Language Models**
@@ -6669,7 +6665,7 @@
 **Breaking the Correlation Plateau: On the Optimization and Capacity Limits of Attention-Based Regressors**
 
 - Paper: <https://arxiv.org/abs/2602.17898>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/breaking_the_correl…](https://papernotes.org/ICLR2026/llm_evaluation/breaking_the_correlation_plateau_on_the_optimization_and_capacity_limits_of_atte/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_nlp/breaking_the_correlation_p…](https://papernotes.org/ICLR2026/llm_nlp/breaking_the_correlation_plateau_on_the_optimization_and_capacity_limits_of_atte/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/breaking_the_cor…](https://en.papernotes.org/ICLR2026/llm_evaluation/breaking_the_correlation_plateau_on_the_optimization_and_capacity_limits_of_atte/)
 
 **Trapped by simplicity: When Transformers fail to learn from noisy features**
@@ -6706,7 +6702,7 @@
 **WebOperator: Action-Aware Tree Search for Autonomous Agents in Web Environment**
 
 - Paper: <https://arxiv.org/abs/2512.12692>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/weboperator_action-aware_…](https://papernotes.org/ICLR2026/robotics/weboperator_action-aware_tree_search_for_autonomous_agents_in_web_environment/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_nlp/weboperator_action-aware_t…](https://papernotes.org/ICLR2026/llm_nlp/weboperator_action-aware_tree_search_for_autonomous_agents_in_web_environment/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/weboperator_action-awa…](https://en.papernotes.org/ICLR2026/robotics/weboperator_action-aware_tree_search_for_autonomous_agents_in_web_environment/)
 
 **First is Not Really Better Than Last: Evaluating Layer Choice and Aggregation Strategies in Language Model Data Influence Estimation**
@@ -6755,8 +6751,6 @@
 **Generative Value Conflicts Reveal LLM Priorities**
 
 - Paper: <https://arxiv.org/abs/2509.25369>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_nlp/generative_value_conflicts…](https://papernotes.org/ICLR2026/llm_nlp/generative_value_conflicts_reveal_llm_priorities/)
-- Notes (English): [en.papernotes.org/ICLR2026/llm_nlp/generative_value_confli…](https://en.papernotes.org/ICLR2026/llm_nlp/generative_value_conflicts_reveal_llm_priorities/)
 
 **Statistical Advantage of Softmax Attention: Insights from Single-Location Regression**
 
@@ -6939,7 +6933,7 @@
 **Online time series prediction using feature adjustment**
 
 - Paper: <https://arxiv.org/abs/2509.03810>
-- Notes (Chinese): [papernotes.org/ICLR2026/video_understanding/online_time_se…](https://papernotes.org/ICLR2026/video_understanding/online_time_series_prediction_using_feature_adjustment/)
+- Notes (Chinese): [papernotes.org/ICLR2026/time_series/online_time_series_pre…](https://papernotes.org/ICLR2026/time_series/online_time_series_prediction_using_feature_adjustment/)
 - Notes (English): [en.papernotes.org/ICLR2026/video_understanding/online_time…](https://en.papernotes.org/ICLR2026/video_understanding/online_time_series_prediction_using_feature_adjustment/)
 
 **EDINET-Bench: Evaluating LLMs on Complex Financial Tasks using Japanese Financial Statements**
@@ -6975,8 +6969,6 @@
 **GTM: A General Time-series Model for Enhanced Representation Learning of Time-Series Data**
 
 - Paper: <https://arxiv.org/abs/2502.03264>
-- Notes (Chinese): [papernotes.org/ICLR2026/time_series/gtm_a_general_time-ser…](https://papernotes.org/ICLR2026/time_series/gtm_a_general_time-series_model_for_enhanced_representation_learning_of_time-ser/)
-- Notes (English): [en.papernotes.org/ICLR2026/time_series/gtm_a_general_time-…](https://en.papernotes.org/ICLR2026/time_series/gtm_a_general_time-series_model_for_enhanced_representation_learning_of_time-ser/)
 
 **Tensor learning with orthogonal, Lorentz, and symplectic symmetries**
 
@@ -7077,7 +7069,7 @@
 **AP-OOD: Attention Pooling for Out-of-Distribution Detection**
 
 - Paper: <https://arxiv.org/abs/2602.06031>
-- Notes (Chinese): [papernotes.org/ICLR2026/nlp_generation/ap-ood_attention_po…](https://papernotes.org/ICLR2026/nlp_generation/ap-ood_attention_pooling_for_out-of-distribution_detection/)
+- Notes (Chinese): [papernotes.org/ICLR2026/ai_safety/ap-ood_attention_pooling…](https://papernotes.org/ICLR2026/ai_safety/ap-ood_attention_pooling_for_out-of-distribution_detection/)
 - Notes (English): [en.papernotes.org/ICLR2026/nlp_generation/ap-ood_attention…](https://en.papernotes.org/ICLR2026/nlp_generation/ap-ood_attention_pooling_for_out-of-distribution_detection/)
 
 **Beware Untrusted Simulators -- Reward-Free Backdoor Attacks in Reinforcement Learning**
@@ -7101,7 +7093,7 @@
 **Optimal Transport-Induced Samples against Out-of-Distribution Overconfidence**
 
 - Paper: <https://arxiv.org/abs/2601.21320>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/optimal_transport-i…](https://papernotes.org/ICLR2026/llm_evaluation/optimal_transport-induced_samples_against_out-of-distribution_overconfidence/)
+- Notes (Chinese): [papernotes.org/ICLR2026/ai_safety/optimal_transport-induce…](https://papernotes.org/ICLR2026/ai_safety/optimal_transport-induced_samples_against_out-of-distribution_overconfidence/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/optimal_transpor…](https://en.papernotes.org/ICLR2026/llm_evaluation/optimal_transport-induced_samples_against_out-of-distribution_overconfidence/)
 
 **Unified Privacy Guarantees for Decentralized Learning via Matrix Factorization**
@@ -7119,7 +7111,7 @@
 **Prior-based Noisy Text Data Filtering: Fast and Strong Alternative For Perplexity**
 
 - Paper: <https://arxiv.org/abs/2509.18577>
-- Notes (Chinese): [papernotes.org/ICLR2026/multilingual_mt/prior-based_noisy_…](https://papernotes.org/ICLR2026/multilingual_mt/prior-based_noisy_text_data_filtering_fast_and_strong_alternative_to_perplexity/)
+- Notes (Chinese): [papernotes.org/ICLR2026/ai_safety/prior-based_noisy_text_d…](https://papernotes.org/ICLR2026/ai_safety/prior-based_noisy_text_data_filtering_fast_and_strong_alternative_to_perplexity/)
 - Notes (English): [en.papernotes.org/ICLR2026/multilingual_mt/prior-based_noi…](https://en.papernotes.org/ICLR2026/multilingual_mt/prior-based_noisy_text_data_filtering_fast_and_strong_alternative_to_perplexity/)
 
 **Sample-Efficient Distributionally Robust Multi-Agent Reinforcement Learning via Online Interaction**
@@ -7177,7 +7169,7 @@
 
 - Paper: <https://arxiv.org/abs/2509.26432>
 - Code: <https://github.com/lgxi24/AdaBlock-dLLM>
-- Notes (Chinese): [papernotes.org/ICLR2026/image_restoration/adablock-dllm_se…](https://papernotes.org/ICLR2026/image_restoration/adablock-dllm_semantic-aware_diffusion_llm_inference_via_adaptive_block_size/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/adablock-dllm_seman…](https://papernotes.org/ICLR2026/llm_evaluation/adablock-dllm_semantic-aware_diffusion_llm_inference_via_adaptive_block_size/)
 - Notes (English): [en.papernotes.org/ICLR2026/image_restoration/adablock-dllm…](https://en.papernotes.org/ICLR2026/image_restoration/adablock-dllm_semantic-aware_diffusion_llm_inference_via_adaptive_block_size/)
 
 **ASIDE: Architectural Separation of Instructions and Data in Language Models**
@@ -7245,7 +7237,7 @@
 **Log Probability Tracking of LLM APIs**
 
 - Paper: <https://arxiv.org/abs/2512.03816>
-- Notes (Chinese): [papernotes.org/ICLR2026/video_understanding/log_probabilit…](https://papernotes.org/ICLR2026/video_understanding/log_probability_tracking_of_llm_apis/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/log_probability_tra…](https://papernotes.org/ICLR2026/llm_evaluation/log_probability_tracking_of_llm_apis/)
 - Notes (English): [en.papernotes.org/ICLR2026/video_understanding/log_probabi…](https://en.papernotes.org/ICLR2026/video_understanding/log_probability_tracking_of_llm_apis/)
 
 **Benchmarking Overton Pluralism in LLMs**
@@ -7299,7 +7291,7 @@
 **Doubly-Robust LLM-as-a-Judge: Externally Valid Estimation with Imperfect Personas**
 
 - Paper: <https://arxiv.org/abs/2509.22957>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/doubly-robust_llm-as-a-ju…](https://papernotes.org/ICLR2026/robotics/doubly-robust_llm-as-a-judge_externally_valid_estimation_with_imperfect_personas/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/doubly-robust_llm-a…](https://papernotes.org/ICLR2026/llm_evaluation/doubly-robust_llm-as-a-judge_externally_valid_estimation_with_imperfect_personas/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/doubly-robust_llm-as-a…](https://en.papernotes.org/ICLR2026/robotics/doubly-robust_llm-as-a-judge_externally_valid_estimation_with_imperfect_personas/)
 
 **In-Context Learning for Pure Exploration**
@@ -7407,13 +7399,13 @@
 **Scaling with Collapse: Efficient and Predictable Training of LLM Families**
 
 - Paper: <https://arxiv.org/abs/2509.25087>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/scaling_with_colla…](https://papernotes.org/ICLR2026/medical_imaging/scaling_with_collapse_efficient_and_predictable_training_of_llm_families/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_pretraining/scaling_with_colla…](https://papernotes.org/ICLR2026/llm_pretraining/scaling_with_collapse_efficient_and_predictable_training_of_llm_families/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/scaling_with_co…](https://en.papernotes.org/ICLR2026/medical_imaging/scaling_with_collapse_efficient_and_predictable_training_of_llm_families/)
 
 **Accessible, Realistic, and Fair Evaluation of Positive-Unlabeled Learning Algorithms**
 
 - Paper: <https://arxiv.org/abs/2509.24228>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/accessible_realisti…](https://papernotes.org/ICLR2026/llm_evaluation/accessible_realistic_and_fair_evaluation_of_positive-unlabeled_learning_algorith/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_pretraining/accessible_realist…](https://papernotes.org/ICLR2026/llm_pretraining/accessible_realistic_and_fair_evaluation_of_positive-unlabeled_learning_algorith/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/accessible_reali…](https://en.papernotes.org/ICLR2026/llm_evaluation/accessible_realistic_and_fair_evaluation_of_positive-unlabeled_learning_algorith/)
 
 **A Law of Data Reconstruction for Random Features (and Beyond)**
@@ -7550,7 +7542,7 @@
 
 - Paper: <https://arxiv.org/abs/2511.08185>
 - Project: <https://thobotics.github.io/neural_pde_matching>
-- Notes (Chinese): [papernotes.org/ICLR2026/3d_vision/improving_long-range_int…](https://papernotes.org/ICLR2026/3d_vision/improving_long-range_interactions_in_graph_neural_simulators_via_hamiltonian_dyn/)
+- Notes (Chinese): [papernotes.org/ICLR2026/graph_learning/improving_long-rang…](https://papernotes.org/ICLR2026/graph_learning/improving_long-range_interactions_in_graph_neural_simulators_via_hamiltonian_dyn/)
 - Notes (English): [en.papernotes.org/ICLR2026/3d_vision/improving_long-range_…](https://en.papernotes.org/ICLR2026/3d_vision/improving_long-range_interactions_in_graph_neural_simulators_via_hamiltonian_dyn/)
 
 **A Geometric Perspective on the Difficulties of Learning GNN-based SAT Solvers** · 🛠️ Workshop
@@ -7774,7 +7766,7 @@
 **DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving** · 📌 Poster
 
 - Paper: <https://arxiv.org/abs/2601.01528>
-- Notes (Chinese): [papernotes.org/ICLR2026/autonomous_driving/drivinggen_a_co…](https://papernotes.org/ICLR2026/autonomous_driving/drivinggen_a_comprehensive_benchmark_for_generative_video_world_models_in_autono/)
+- Notes (Chinese): [papernotes.org/ICLR2026/video_generation/drivinggen_a_comp…](https://papernotes.org/ICLR2026/video_generation/drivinggen_a_comprehensive_benchmark_for_generative_video_world_models_in_autono/)
 - Notes (English): [en.papernotes.org/ICLR2026/autonomous_driving/drivinggen_a…](https://en.papernotes.org/ICLR2026/autonomous_driving/drivinggen_a_comprehensive_benchmark_for_generative_video_world_models_in_autono/)
 
 **MotionStream: Real-Time Video Generation with Interactive Motion Controls**
@@ -7850,7 +7842,7 @@
 **Dual-IPO: Dual-Iterative Preference Optimization for Text-to-Video Generation**
 
 - Paper: <https://arxiv.org/abs/2502.02088>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_alignment/dual-ipo_dual-iterat…](https://papernotes.org/ICLR2026/llm_alignment/dual-ipo_dual-iterative_preference_optimization_for_text-to-video_generation/)
+- Notes (Chinese): [papernotes.org/ICLR2026/video_generation/dual-ipo_dual-ite…](https://papernotes.org/ICLR2026/video_generation/dual-ipo_dual-iterative_preference_optimization_for_text-to-video_generation/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_alignment/dual-ipo_dual-ite…](https://en.papernotes.org/ICLR2026/llm_alignment/dual-ipo_dual-iterative_preference_optimization_for_text-to-video_generation/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
@@ -7872,14 +7864,14 @@
 
 - Paper: <https://arxiv.org/abs/2512.07805>
 - Code: <https://github.com/model-architectures/GRAPE>
-- Notes (Chinese): [papernotes.org/ICLR2026/signal_comm/group_representational…](https://papernotes.org/ICLR2026/signal_comm/group_representational_position_encoding/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_efficiency/group_representatio…](https://papernotes.org/ICLR2026/llm_efficiency/group_representational_position_encoding/)
 - Notes (English): [en.papernotes.org/ICLR2026/signal_comm/group_representatio…](https://en.papernotes.org/ICLR2026/signal_comm/group_representational_position_encoding/)
 
 **Efficient Resource-Constrained Training of Transformers via Subspace Optimization** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2510.09160>
 - Code: <https://github.com/Le-TrungNguyen/ICLR2026-WASI>
-- Notes (Chinese): [papernotes.org/ICLR2026/ai_safety/efficient_resource-const…](https://papernotes.org/ICLR2026/ai_safety/efficient_resource-constrained_training_of_transformers_via_subspace_optimizatio/)
+- Notes (Chinese): [papernotes.org/ICLR2026/llm_efficiency/efficient_resource-…](https://papernotes.org/ICLR2026/llm_efficiency/efficient_resource-constrained_training_of_transformers_via_subspace_optimizatio/)
 - Notes (English): [en.papernotes.org/ICLR2026/ai_safety/efficient_resource-co…](https://en.papernotes.org/ICLR2026/ai_safety/efficient_resource-constrained_training_of_transformers_via_subspace_optimizatio/)
 
 **RACE Attention: A Strictly Linear-Time Attention for Long-Sequence Training**
@@ -7993,8 +7985,8 @@
 
 - Paper: <https://arxiv.org/abs/2510.00508>
 - Code: <https://github.com/longyongchao/CopyPasteLLM>
-- Notes (Chinese): [papernotes.org/ICLR2026/causal_inference/copy-paste_to_mit…](https://papernotes.org/ICLR2026/causal_inference/copy-paste_to_mitigate_large_language_model_hallucinations/)
-- Notes (English): [en.papernotes.org/ICLR2026/causal_inference/copy-paste_to_…](https://en.papernotes.org/ICLR2026/causal_inference/copy-paste_to_mitigate_large_language_model_hallucinations/)
+- Notes (Chinese): [papernotes.org/ICLR2026/hallucination/copy-paste_to_mitiga…](https://papernotes.org/ICLR2026/hallucination/copy-paste_to_mitigate_large_language_model_hallucinations/)
+- Notes (English): [en.papernotes.org/ICLR2026/hallucination/copy-paste_to_mit…](https://en.papernotes.org/ICLR2026/hallucination/copy-paste_to_mitigate_large_language_model_hallucinations/)
 
 **Resisting Contextual Interference in RAG via Parametric-Knowledge Reinforcement**
 
@@ -8067,7 +8059,7 @@
 **Function Induction and Task Generalization: An Interpretability Study with Off-by-One Addition**
 
 - Paper: <https://arxiv.org/abs/2507.09875>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_nlp/function_induction_and_tas…](https://papernotes.org/ICLR2026/llm_nlp/function_induction_and_task_generalization_an_interpretability_study_with_off-by/)
+- Notes (Chinese): [papernotes.org/ICLR2026/causal_inference/function_inductio…](https://papernotes.org/ICLR2026/causal_inference/function_induction_and_task_generalization_an_interpretability_study_with_off-by/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_nlp/function_induction_and_…](https://en.papernotes.org/ICLR2026/llm_nlp/function_induction_and_task_generalization_an_interpretability_study_with_off-by/)
 
 **Flattery, Fluff, and Fog: Diagnosing and Mitigating Idiosyncratic Biases in Preference Models**
@@ -8094,7 +8086,7 @@
 
 - Paper: <https://arxiv.org/abs/2603.01713>
 - Code: <https://github.com/ttttqz/D24FAD>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/dual_distillation_…](https://papernotes.org/ICLR2026/medical_imaging/dual_distillation_for_few-shot_anomaly_detection/)
+- Notes (Chinese): [papernotes.org/ICLR2026/object_detection/dual_distillation…](https://papernotes.org/ICLR2026/object_detection/dual_distillation_for_few-shot_anomaly_detection/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/dual_distillati…](https://en.papernotes.org/ICLR2026/medical_imaging/dual_distillation_for_few-shot_anomaly_detection/)
 
 **CGSA: Class-Guided Slot-Aware Adaptation for Source-Free Object Detection**
@@ -8108,7 +8100,7 @@
 
 - Paper: <https://arxiv.org/abs/2602.12774>
 - Code: <https://github.com/viscom-tongji/WS-COC>
-- Notes (Chinese): [papernotes.org/ICLR2026/multimodal_vlm/bootstrapping_mllm_…](https://papernotes.org/ICLR2026/multimodal_vlm/bootstrapping_mllm_for_weakly-supervised_class-agnostic_object_counting/)
+- Notes (Chinese): [papernotes.org/ICLR2026/object_detection/bootstrapping_mll…](https://papernotes.org/ICLR2026/object_detection/bootstrapping_mllm_for_weakly-supervised_class-agnostic_object_counting/)
 - Notes (English): [en.papernotes.org/ICLR2026/multimodal_vlm/bootstrapping_ml…](https://en.papernotes.org/ICLR2026/multimodal_vlm/bootstrapping_mllm_for_weakly-supervised_class-agnostic_object_counting/)
 
 **SPWOOD: Sparse Partial Weakly-Supervised Oriented Object Detection**
@@ -8129,7 +8121,7 @@
 
 - Paper: <https://arxiv.org/abs/2502.03566>
 - Code: <https://github.com/kdariina/CLIP-not-BoW-unimodally>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/clip_behaves_like_a_bag-o…](https://papernotes.org/ICLR2026/robotics/clip_behaves_like_a_bag-of-words_model_cross-modally_but_not_uni-modally/)
+- Notes (Chinese): [papernotes.org/ICLR2026/object_detection/clip_behaves_like…](https://papernotes.org/ICLR2026/object_detection/clip_behaves_like_a_bag-of-words_model_cross-modally_but_not_uni-modally/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/clip_behaves_like_a_ba…](https://en.papernotes.org/ICLR2026/robotics/clip_behaves_like_a_bag-of-words_model_cross-modally_but_not_uni-modally/)
 
 **Grounding-IQA: Grounding Multimodal Language Model for Image Quality Assessment**
@@ -8155,7 +8147,7 @@
 **Contextual and Seasonal LSTMs for Time Series Anomaly Detection**
 
 - Paper: <https://arxiv.org/abs/2602.09690>
-- Notes (Chinese): [papernotes.org/ICLR2026/time_series/contextual_and_seasona…](https://papernotes.org/ICLR2026/time_series/contextual_and_seasonal_lstms_for_time_series_anomaly_detection/)
+- Notes (Chinese): [papernotes.org/ICLR2026/object_detection/contextual_and_se…](https://papernotes.org/ICLR2026/object_detection/contextual_and_seasonal_lstms_for_time_series_anomaly_detection/)
 - Notes (English): [en.papernotes.org/ICLR2026/time_series/contextual_and_seas…](https://en.papernotes.org/ICLR2026/time_series/contextual_and_seasonal_lstms_for_time_series_anomaly_detection/)
 
 **FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion**
@@ -8168,13 +8160,13 @@
 **PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection**
 
 - Paper: <https://arxiv.org/abs/2602.01359>
-- Notes (Chinese): [papernotes.org/ICLR2026/time_series/paano_patch-based_repr…](https://papernotes.org/ICLR2026/time_series/paano_patch-based_representation_learning_for_time-series_anomaly_detection/)
+- Notes (Chinese): [papernotes.org/ICLR2026/object_detection/paano_patch-based…](https://papernotes.org/ICLR2026/object_detection/paano_patch-based_representation_learning_for_time-series_anomaly_detection/)
 - Notes (English): [en.papernotes.org/ICLR2026/time_series/paano_patch-based_r…](https://en.papernotes.org/ICLR2026/time_series/paano_patch-based_representation_learning_for_time-series_anomaly_detection/)
 
 **OWLEYE: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection**
 
 - Paper: <https://arxiv.org/abs/2601.19102>
-- Notes (Chinese): [papernotes.org/ICLR2026/others/owleye_zero-shot_learner_fo…](https://papernotes.org/ICLR2026/others/owleye_zero-shot_learner_for_cross-domain_graph_data_anomaly_detection/)
+- Notes (Chinese): [papernotes.org/ICLR2026/object_detection/owleye_zero-shot_…](https://papernotes.org/ICLR2026/object_detection/owleye_zero-shot_learner_for_cross-domain_graph_data_anomaly_detection/)
 - Notes (English): [en.papernotes.org/ICLR2026/others/owleye_zero-shot_learner…](https://en.papernotes.org/ICLR2026/others/owleye_zero-shot_learner_for_cross-domain_graph_data_anomaly_detection/)
 
 **Long-Context Generalization with Sparse Attention**
@@ -8192,7 +8184,7 @@
 **Towards Anomaly-Aware Pre-Training and Fine-Tuning for Graph Anomaly Detection**
 
 - Paper: <https://arxiv.org/abs/2504.14250>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/towards_anomaly-awa…](https://papernotes.org/ICLR2026/llm_evaluation/towards_anomaly-aware_pre-training_and_fine-tuning_for_graph_anomaly_detection/)
+- Notes (Chinese): [papernotes.org/ICLR2026/object_detection/towards_anomaly-a…](https://papernotes.org/ICLR2026/object_detection/towards_anomaly-aware_pre-training_and_fine-tuning_for_graph_anomaly_detection/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/towards_anomaly-…](https://en.papernotes.org/ICLR2026/llm_evaluation/towards_anomaly-aware_pre-training_and_fine-tuning_for_graph_anomaly_detection/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
@@ -8221,7 +8213,7 @@
 
 - Paper: <https://arxiv.org/abs/2505.15504>
 - Code: <https://github.com/BearCleverProud/MR-Block>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/exploiting_low-dim…](https://papernotes.org/ICLR2026/medical_imaging/exploiting_low-dimensional_manifold_of_features_for_few-shot_whole_slide_image_c/)
+- Notes (Chinese): [papernotes.org/ICLR2026/self_supervised/exploiting_low-dim…](https://papernotes.org/ICLR2026/self_supervised/exploiting_low-dimensional_manifold_of_features_for_few-shot_whole_slide_image_c/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/exploiting_low-…](https://en.papernotes.org/ICLR2026/medical_imaging/exploiting_low-dimensional_manifold_of_features_for_few-shot_whole_slide_image_c/)
 
 **Regularized Latent Dynamics Prediction is a Strong Baseline For Behavioral Foundation Models**
@@ -8245,7 +8237,7 @@
 **Chart Deep Research in LVLMs via Parallel Relative Policy Optimization**
 
 - Paper: <https://arxiv.org/abs/2603.06677>
-- Notes (Chinese): [papernotes.org/ICLR2026/others/chart_deep_research_in_lvlm…](https://papernotes.org/ICLR2026/others/chart_deep_research_in_lvlms_via_parallel_relative_policy_optimization/)
+- Notes (Chinese): [papernotes.org/ICLR2026/self_supervised/chart_deep_researc…](https://papernotes.org/ICLR2026/self_supervised/chart_deep_research_in_lvlms_via_parallel_relative_policy_optimization/)
 - Notes (English): [en.papernotes.org/ICLR2026/others/chart_deep_research_in_l…](https://en.papernotes.org/ICLR2026/others/chart_deep_research_in_lvlms_via_parallel_relative_policy_optimization/)
 
 **InfoNCE Induces Gaussian Distribution** · 🎤 Oral
@@ -8263,7 +8255,7 @@
 **Adaptive Test-Time Training for Predicting Need for Invasive Mechanical Ventilation in Multi-Center Cohorts**
 
 - Paper: <https://arxiv.org/abs/2512.06652>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/adaptive_test-time…](https://papernotes.org/ICLR2026/medical_imaging/adaptive_test-time_training_for_predicting_need_for_invasive_mechanical_ventilat/)
+- Notes (Chinese): [papernotes.org/ICLR2026/self_supervised/adaptive_test-time…](https://papernotes.org/ICLR2026/self_supervised/adaptive_test-time_training_for_predicting_need_for_invasive_mechanical_ventilat/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/adaptive_test-t…](https://en.papernotes.org/ICLR2026/medical_imaging/adaptive_test-time_training_for_predicting_need_for_invasive_mechanical_ventilat/)
 
 **Why Prototypes Collapse: Diagnosing and Preventing Partial Collapse in Prototypical Self-Supervised Learning**
@@ -8275,7 +8267,7 @@
 **Test-Time Efficient Pretrained Model Portfolios for Time Series Forecasting**
 
 - Paper: <https://arxiv.org/abs/2510.06419>
-- Notes (Chinese): [papernotes.org/ICLR2026/time_series/test-time_efficient_pr…](https://papernotes.org/ICLR2026/time_series/test-time_efficient_pretrained_model_portfolios_for_time_series_forecasting/)
+- Notes (Chinese): [papernotes.org/ICLR2026/self_supervised/test-time_efficien…](https://papernotes.org/ICLR2026/self_supervised/test-time_efficient_pretrained_model_portfolios_for_time_series_forecasting/)
 - Notes (English): [en.papernotes.org/ICLR2026/time_series/test-time_efficient…](https://en.papernotes.org/ICLR2026/time_series/test-time_efficient_pretrained_model_portfolios_for_time_series_forecasting/)
 
 **Maximizing Asynchronicity in Event-based Neural Networks**
@@ -8308,20 +8300,20 @@
 
 - Paper: <https://arxiv.org/abs/2602.06526>
 - Code: <https://github.com/DISL-Lab/BRIDGE-Benchmark>
-- Notes (Chinese): [papernotes.org/ICLR2026/others/completing_missing_annotati…](https://papernotes.org/ICLR2026/others/completing_missing_annotation_multi-agent_debate_for_accurate_and_scalable_relev/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multi_agent/completing_missing_ann…](https://papernotes.org/ICLR2026/multi_agent/completing_missing_annotation_multi-agent_debate_for_accurate_and_scalable_relev/)
 - Notes (English): [en.papernotes.org/ICLR2026/others/completing_missing_annot…](https://en.papernotes.org/ICLR2026/others/completing_missing_annotation_multi-agent_debate_for_accurate_and_scalable_relev/)
 
 **When Agents "Misremember" Collectively: Exploring the Mandela Effect in LLM-based Multi-Agent Systems**
 
 - Paper: <https://arxiv.org/abs/2602.00428>
 - Code: <https://github.com/bluedream02/Mandela-Effect>
-- Notes (Chinese): [papernotes.org/ICLR2026/social_computing/when_agents_misre…](https://papernotes.org/ICLR2026/social_computing/when_agents_misremember_collectively_exploring_the_mandela_effect_in_llm-based_m/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multi_agent/when_agents_misremembe…](https://papernotes.org/ICLR2026/multi_agent/when_agents_misremember_collectively_exploring_the_mandela_effect_in_llm-based_m/)
 - Notes (English): [en.papernotes.org/ICLR2026/social_computing/when_agents_mi…](https://en.papernotes.org/ICLR2026/social_computing/when_agents_misremember_collectively_exploring_the_mandela_effect_in_llm-based_m/)
 
 **AgentTrace: Causal Graph Tracing for Root Cause Analysis in Deployed Multi-Agent Systems** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2603.14688>
-- Notes (Chinese): [papernotes.org/ICLR2026/causal_inference/agenttrace_causal…](https://papernotes.org/ICLR2026/causal_inference/agenttrace_causal_graph_tracing_for_root_cause_analysis_in_deployed_multi-agent_/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multi_agent/agenttrace_causal_grap…](https://papernotes.org/ICLR2026/multi_agent/agenttrace_causal_graph_tracing_for_root_cause_analysis_in_deployed_multi-agent_/)
 - Notes (English): [en.papernotes.org/ICLR2026/causal_inference/agenttrace_cau…](https://en.papernotes.org/ICLR2026/causal_inference/agenttrace_causal_graph_tracing_for_root_cause_analysis_in_deployed_multi-agent_/)
 
 **Auditing Cascading Risks in Multi-Agent Systems via Semantic-Geometric Co-evolution** · 🛠️ Workshop
@@ -8331,67 +8323,67 @@
 **UIS-Digger: Towards Comprehensive Research Agent Systems for Real-world Unindexed Information Seeking**
 
 - Paper: <https://arxiv.org/abs/2603.08117>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/uis-digger_towards_…](https://papernotes.org/ICLR2026/llm_evaluation/uis-digger_towards_comprehensive_research_agent_systems_for_real-world_unindexed/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multi_agent/uis-digger_towards_com…](https://papernotes.org/ICLR2026/multi_agent/uis-digger_towards_comprehensive_research_agent_systems_for_real-world_unindexed/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/uis-digger_towar…](https://en.papernotes.org/ICLR2026/llm_evaluation/uis-digger_towards_comprehensive_research_agent_systems_for_real-world_unindexed/)
 
 **MAC-AMP: A Closed-Loop Multi-Agent Collaboration System for Multi-Objective Antimicrobial Peptide Design**
 
 - Paper: <https://arxiv.org/abs/2602.14926>
-- Notes (Chinese): [papernotes.org/ICLR2026/image_generation/mac-amp_a_closed-…](https://papernotes.org/ICLR2026/image_generation/mac-amp_a_closed-loop_multi-agent_collaboration_system_for_multi-objective_antim/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multi_agent/mac-amp_a_closed-loop_…](https://papernotes.org/ICLR2026/multi_agent/mac-amp_a_closed-loop_multi-agent_collaboration_system_for_multi-objective_antim/)
 - Notes (English): [en.papernotes.org/ICLR2026/image_generation/mac-amp_a_clos…](https://en.papernotes.org/ICLR2026/image_generation/mac-amp_a_closed-loop_multi-agent_collaboration_system_for_multi-objective_antim/)
 
 **Multi-agent Coordination via Flow Matching**
 
 - Paper: <https://arxiv.org/abs/2511.05005>
-- Notes (Chinese): [papernotes.org/ICLR2026/image_generation/multi-agent_coord…](https://papernotes.org/ICLR2026/image_generation/multi-agent_coordination_via_flow_matching/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multi_agent/multi-agent_coordinati…](https://papernotes.org/ICLR2026/multi_agent/multi-agent_coordination_via_flow_matching/)
 - Notes (English): [en.papernotes.org/ICLR2026/image_generation/multi-agent_co…](https://en.papernotes.org/ICLR2026/image_generation/multi-agent_coordination_via_flow_matching/)
 
 **Stop Wasting Your Tokens: Towards Efficient Runtime Multi-Agent Systems**
 
 - Paper: <https://arxiv.org/abs/2510.26585>
-- Notes (Chinese): [papernotes.org/ICLR2026/social_computing/stop_wasting_your…](https://papernotes.org/ICLR2026/social_computing/stop_wasting_your_tokens_towards_efficient_runtime_multi-agent_systems/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multi_agent/stop_wasting_your_toke…](https://papernotes.org/ICLR2026/multi_agent/stop_wasting_your_tokens_towards_efficient_runtime_multi-agent_systems/)
 - Notes (English): [en.papernotes.org/ICLR2026/social_computing/stop_wasting_y…](https://en.papernotes.org/ICLR2026/social_computing/stop_wasting_your_tokens_towards_efficient_runtime_multi-agent_systems/)
 
 **Which LLM Multi-Agent Protocol to Choose?**
 
 - Paper: <https://arxiv.org/abs/2510.17149>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/which_llm_multi-age…](https://papernotes.org/ICLR2026/llm_evaluation/which_llm_multi-agent_protocol_to_choose/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multi_agent/which_llm_multi-agent_…](https://papernotes.org/ICLR2026/multi_agent/which_llm_multi-agent_protocol_to_choose/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/which_llm_multi-…](https://en.papernotes.org/ICLR2026/llm_evaluation/which_llm_multi-agent_protocol_to_choose/)
 
 **LH-Deception: Simulating and Understanding LLM Deceptive Behaviors in Long-Horizon Interactions**
 
 - Paper: <https://arxiv.org/abs/2510.03999>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_safety/lh-deception_simulating…](https://papernotes.org/ICLR2026/llm_safety/lh-deception_simulating_and_understanding_llm_deceptive_behaviors_in_long-horizo/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multi_agent/lh-deception_simulatin…](https://papernotes.org/ICLR2026/multi_agent/lh-deception_simulating_and_understanding_llm_deceptive_behaviors_in_long-horizo/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_safety/lh-deception_simulat…](https://en.papernotes.org/ICLR2026/llm_safety/lh-deception_simulating_and_understanding_llm_deceptive_behaviors_in_long-horizo/)
 
 **KVComm: Enabling Efficient LLM Communication through Selective KV Sharing**
 
 - Paper: <https://arxiv.org/abs/2510.03346>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_nlp/kvcomm_enabling_efficient_…](https://papernotes.org/ICLR2026/llm_nlp/kvcomm_enabling_efficient_llm_communication_through_selective_kv_sharing/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multi_agent/kvcomm_enabling_effici…](https://papernotes.org/ICLR2026/multi_agent/kvcomm_enabling_efficient_llm_communication_through_selective_kv_sharing/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_nlp/kvcomm_enabling_efficie…](https://en.papernotes.org/ICLR2026/llm_nlp/kvcomm_enabling_efficient_llm_communication_through_selective_kv_sharing/)
 
 **Stochastic Self-Organization in Multi-Agent Systems**
 
 - Paper: <https://arxiv.org/abs/2510.00685>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_pretraining/stochastic_self-or…](https://papernotes.org/ICLR2026/llm_pretraining/stochastic_self-organization_in_multi-agent_systems/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multi_agent/stochastic_self-organi…](https://papernotes.org/ICLR2026/multi_agent/stochastic_self-organization_in_multi-agent_systems/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_pretraining/stochastic_self…](https://en.papernotes.org/ICLR2026/llm_pretraining/stochastic_self-organization_in_multi-agent_systems/)
 
 **HAMLET: A Hierarchical and Adaptive Multi-Agent Framework for Live Embodied Theatrics**
 
 - Paper: <https://arxiv.org/abs/2507.15518>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_agent/hamlet_a_hierarchical_an…](https://papernotes.org/ICLR2026/llm_agent/hamlet_a_hierarchical_and_adaptive_multi-agent_framework_for_live_embodied_theat/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multi_agent/hamlet_a_hierarchical_…](https://papernotes.org/ICLR2026/multi_agent/hamlet_a_hierarchical_and_adaptive_multi-agent_framework_for_live_embodied_theat/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_agent/hamlet_a_hierarchical…](https://en.papernotes.org/ICLR2026/llm_agent/hamlet_a_hierarchical_and_adaptive_multi-agent_framework_for_live_embodied_theat/)
 
 **MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning**
 
 - Paper: <https://arxiv.org/abs/2506.00555>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/mmedagent-rl_optim…](https://papernotes.org/ICLR2026/medical_imaging/mmedagent-rl_optimizing_multi-agent_collaboration_for_multimodal_medical_reasoni/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multi_agent/mmedagent-rl_optimizin…](https://papernotes.org/ICLR2026/multi_agent/mmedagent-rl_optimizing_multi-agent_collaboration_for_multimodal_medical_reasoni/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/mmedagent-rl_op…](https://en.papernotes.org/ICLR2026/medical_imaging/mmedagent-rl_optimizing_multi-agent_collaboration_for_multimodal_medical_reasoni/)
 
 **Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies**
 
 - Paper: <https://arxiv.org/abs/2502.02533>
-- Notes (Chinese): [papernotes.org/ICLR2026/signal_comm/multi-agent_design_opt…](https://papernotes.org/ICLR2026/signal_comm/multi-agent_design_optimizing_agents_with_better_prompts_and_topologies/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multi_agent/multi-agent_design_opt…](https://papernotes.org/ICLR2026/multi_agent/multi-agent_design_optimizing_agents_with_better_prompts_and_topologies/)
 - Notes (English): [en.papernotes.org/ICLR2026/signal_comm/multi-agent_design_…](https://en.papernotes.org/ICLR2026/signal_comm/multi-agent_design_optimizing_agents_with_better_prompts_and_topologies/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
@@ -8456,7 +8448,7 @@
 **SoFlow: Solution Flow Models for One-Step Generative Modeling**
 
 - Paper: <https://arxiv.org/abs/2512.15657>
-- Notes (Chinese): [papernotes.org/ICLR2026/image_generation/soflow_solution_f…](https://papernotes.org/ICLR2026/image_generation/soflow_solution_flow_models_for_one-step_generative_modeling/)
+- Notes (Chinese): [papernotes.org/ICLR2026/image_restoration/soflow_solution_…](https://papernotes.org/ICLR2026/image_restoration/soflow_solution_flow_models_for_one-step_generative_modeling/)
 - Notes (English): [en.papernotes.org/ICLR2026/image_generation/soflow_solutio…](https://en.papernotes.org/ICLR2026/image_generation/soflow_solution_flow_models_for_one-step_generative_modeling/)
 
 **Breaking Scale Anchoring: Frequency Representation Learning for Accurate High-Resolution Inference from Low-Resolution Training** · 📌 Poster
@@ -8515,13 +8507,13 @@
 
 - Paper: <https://arxiv.org/abs/2509.03417>
 - Code: <https://github.com/srigas/KAN_Initialization_Schemes>
-- Notes (Chinese): [papernotes.org/ICLR2026/interpretability/initialization_sc…](https://papernotes.org/ICLR2026/interpretability/initialization_schemes_for_kolmogorov-arnold_networks_an_empirical_study/)
+- Notes (Chinese): [papernotes.org/ICLR2026/physics/initialization_schemes_for…](https://papernotes.org/ICLR2026/physics/initialization_schemes_for_kolmogorov-arnold_networks_an_empirical_study/)
 - Notes (English): [en.papernotes.org/ICLR2026/interpretability/initialization…](https://en.papernotes.org/ICLR2026/interpretability/initialization_schemes_for_kolmogorov-arnold_networks_an_empirical_study/)
 
 **Policy myopia as a mechanism of gradual disempowerment in Post-AGI governance, Circa 2049** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2603.03267>
-- Notes (Chinese): [papernotes.org/ICLR2026/ai_safety/policy_myopia_as_a_mecha…](https://papernotes.org/ICLR2026/ai_safety/policy_myopia_as_a_mechanism_of_gradual_disempowerment_in_post-agi_governance_ci/)
+- Notes (Chinese): [papernotes.org/ICLR2026/physics/policy_myopia_as_a_mechani…](https://papernotes.org/ICLR2026/physics/policy_myopia_as_a_mechanism_of_gradual_disempowerment_in_post-agi_governance_ci/)
 - Notes (English): [en.papernotes.org/ICLR2026/ai_safety/policy_myopia_as_a_me…](https://en.papernotes.org/ICLR2026/ai_safety/policy_myopia_as_a_mechanism_of_gradual_disempowerment_in_post-agi_governance_ci/)
 
 **DGNet: Discrete Green Networks for Data-Efficient Learning of Spatiotemporal PDEs**
@@ -8567,7 +8559,7 @@
 **Contact Wasserstein Geodesics for Non-Conservative Schrödinger Bridges**
 
 - Paper: <https://arxiv.org/abs/2511.06856>
-- Notes (Chinese): [papernotes.org/ICLR2026/image_generation/contact_wasserste…](https://papernotes.org/ICLR2026/image_generation/contact_wasserstein_geodesics_for_non-conservative_schrödinger_bridges/)
+- Notes (Chinese): [papernotes.org/ICLR2026/physics/contact_wasserstein_geodes…](https://papernotes.org/ICLR2026/physics/contact_wasserstein_geodesics_for_non-conservative_schrödinger_bridges/)
 - Notes (English): [en.papernotes.org/ICLR2026/image_generation/contact_wasser…](https://en.papernotes.org/ICLR2026/image_generation/contact_wasserstein_geodesics_for_non-conservative_schrödinger_bridges/)
 
 **Deep Learning for Subspace Regression**
@@ -8579,7 +8571,7 @@
 **Stretching Beyond the Obvious: A Gradient-Free Framework to Unveil the Hidden Landscape of Visual Invariance**
 
 - Paper: <https://arxiv.org/abs/2506.17040>
-- Notes (Chinese): [papernotes.org/ICLR2026/interpretability/stretching_beyond…](https://papernotes.org/ICLR2026/interpretability/stretching_beyond_the_obvious_a_gradient-free_framework_to_unveil_the_hidden_lan/)
+- Notes (Chinese): [papernotes.org/ICLR2026/physics/stretching_beyond_the_obvi…](https://papernotes.org/ICLR2026/physics/stretching_beyond_the_obvious_a_gradient-free_framework_to_unveil_the_hidden_lan/)
 - Notes (English): [en.papernotes.org/ICLR2026/interpretability/stretching_bey…](https://en.papernotes.org/ICLR2026/interpretability/stretching_beyond_the_obvious_a_gradient-free_framework_to_unveil_the_hidden_lan/)
 
 **Feedback-driven recurrent quantum neural network universality**
@@ -8706,14 +8698,14 @@
 
 - Paper: <https://arxiv.org/abs/2603.05483>
 - Code: <https://github.com/Shahriarnz14/SurvHTE-Bench>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/survhte-bench_a_be…](https://papernotes.org/ICLR2026/medical_imaging/survhte-bench_a_benchmark_for_heterogeneous_treatment_effect_estimation_in_survi/)
+- Notes (Chinese): [papernotes.org/ICLR2026/medical_nlp/survhte-bench_a_benchm…](https://papernotes.org/ICLR2026/medical_nlp/survhte-bench_a_benchmark_for_heterogeneous_treatment_effect_estimation_in_survi/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/survhte-bench_a…](https://en.papernotes.org/ICLR2026/medical_imaging/survhte-bench_a_benchmark_for_heterogeneous_treatment_effect_estimation_in_survi/)
 
 **Resp-Agent: An Agent-Based System for Multimodal Respiratory Sound Generation and Disease Diagnosis**
 
 - Paper: <https://arxiv.org/abs/2602.15909>
 - Code: <https://github.com/zpforlove/Resp-Agent>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/resp-agent_an_agen…](https://papernotes.org/ICLR2026/medical_imaging/resp-agent_an_agent-based_system_for_multimodal_respiratory_sound_generation_and/)
+- Notes (Chinese): [papernotes.org/ICLR2026/medical_nlp/resp-agent_an_agent-ba…](https://papernotes.org/ICLR2026/medical_nlp/resp-agent_an_agent-based_system_for_multimodal_respiratory_sound_generation_and/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/resp-agent_an_a…](https://en.papernotes.org/ICLR2026/medical_imaging/resp-agent_an_agent-based_system_for_multimodal_respiratory_sound_generation_and/)
 
 **From Conversation to Query Execution: Benchmarking User and Tool Interactions for EHR Database Agents**
@@ -8739,20 +8731,20 @@
 **HistoPrism: Unlocking Functional Pathway Analysis from Pan-Cancer Histology via Gene Expression Prediction**
 
 - Paper: <https://arxiv.org/abs/2601.21560>
-- Notes (Chinese): [papernotes.org/ICLR2026/computational_biology/histoprism_u…](https://papernotes.org/ICLR2026/computational_biology/histoprism_unlocking_functional_pathway_analysis_from_pan-cancer_histology_via_g/)
+- Notes (Chinese): [papernotes.org/ICLR2026/medical_nlp/histoprism_unlocking_f…](https://papernotes.org/ICLR2026/medical_nlp/histoprism_unlocking_functional_pathway_analysis_from_pan-cancer_histology_via_g/)
 - Notes (English): [en.papernotes.org/ICLR2026/computational_biology/histopris…](https://en.papernotes.org/ICLR2026/computational_biology/histoprism_unlocking_functional_pathway_analysis_from_pan-cancer_histology_via_g/)
 
 **EMR-AGENT: Automating Cohort and Feature Extraction from EMR Databases**
 
 - Paper: <https://arxiv.org/abs/2510.00549>
 - Project: <https://anonymoususer-max600.github.io/EMR_AGENT/>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/emr-agent_automati…](https://papernotes.org/ICLR2026/medical_imaging/emr-agent_automating_cohort_and_feature_extraction_from_emr_databases/)
+- Notes (Chinese): [papernotes.org/ICLR2026/medical_nlp/emr-agent_automating_c…](https://papernotes.org/ICLR2026/medical_nlp/emr-agent_automating_cohort_and_feature_extraction_from_emr_databases/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/emr-agent_autom…](https://en.papernotes.org/ICLR2026/medical_imaging/emr-agent_automating_cohort_and_feature_extraction_from_emr_databases/)
 
 **Knowledgeable Language Models as Black-Box Optimizers for Personalized Medicine**
 
 - Paper: <https://arxiv.org/abs/2509.20975>
-- Notes (Chinese): [papernotes.org/ICLR2026/medical_imaging/knowledgeable_lang…](https://papernotes.org/ICLR2026/medical_imaging/knowledgeable_language_models_as_black-box_optimizers_for_personalized_medicine/)
+- Notes (Chinese): [papernotes.org/ICLR2026/medical_nlp/knowledgeable_language…](https://papernotes.org/ICLR2026/medical_nlp/knowledgeable_language_models_as_black-box_optimizers_for_personalized_medicine/)
 - Notes (English): [en.papernotes.org/ICLR2026/medical_imaging/knowledgeable_l…](https://en.papernotes.org/ICLR2026/medical_imaging/knowledgeable_language_models_as_black-box_optimizers_for_personalized_medicine/)
 
 **CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of LLMs in Mental Health QA**
@@ -8770,13 +8762,13 @@
 **mCLM: A Modular Chemical Language Model that Generates Functional and Makeable Molecules** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2505.12565>
-- Notes (Chinese): [papernotes.org/ICLR2026/computational_biology/mclm_a_modul…](https://papernotes.org/ICLR2026/computational_biology/mclm_a_modular_chemical_language_model_that_generates_functional_and_makeable_mo/)
+- Notes (Chinese): [papernotes.org/ICLR2026/medical_nlp/mclm_a_modular_chemica…](https://papernotes.org/ICLR2026/medical_nlp/mclm_a_modular_chemical_language_model_that_generates_functional_and_makeable_mo/)
 - Notes (English): [en.papernotes.org/ICLR2026/computational_biology/mclm_a_mo…](https://en.papernotes.org/ICLR2026/computational_biology/mclm_a_modular_chemical_language_model_that_generates_functional_and_makeable_mo/)
 
 **SimpleToM: Exposing the Gap between Explicit ToM Inference and Implicit ToM Application in LLMs**
 
 - Paper: <https://arxiv.org/abs/2410.13648>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/simpletom_exposing_…](https://papernotes.org/ICLR2026/llm_evaluation/simpletom_exposing_the_gap_between_explicit_tom_inference_and_implicit_tom_appli/)
+- Notes (Chinese): [papernotes.org/ICLR2026/medical_nlp/simpletom_exposing_the…](https://papernotes.org/ICLR2026/medical_nlp/simpletom_exposing_the_gap_between_explicit_tom_inference_and_implicit_tom_appli/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/simpletom_exposi…](https://en.papernotes.org/ICLR2026/llm_evaluation/simpletom_exposing_the_gap_between_explicit_tom_inference_and_implicit_tom_appli/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
@@ -8804,7 +8796,7 @@
 **When Agents Persuade: Propaganda Generation and Mitigation in LLMs** · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2603.04636>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/when_agents_persuade_prop…](https://papernotes.org/ICLR2026/robotics/when_agents_persuade_propaganda_generation_and_mitigation_in_llms/)
+- Notes (Chinese): [papernotes.org/ICLR2026/social_computing/when_agents_persu…](https://papernotes.org/ICLR2026/social_computing/when_agents_persuade_propaganda_generation_and_mitigation_in_llms/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/when_agents_persuade_p…](https://en.papernotes.org/ICLR2026/robotics/when_agents_persuade_propaganda_generation_and_mitigation_in_llms/)
 
 **Scalable Multi-Task Low-Rank Model Adaptation**
@@ -8822,19 +8814,17 @@
 **Mitigating Mismatch within Reference-based Preference Optimization**
 
 - Paper: <https://arxiv.org/abs/2602.11902>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_alignment/mitigating_mismatch_…](https://papernotes.org/ICLR2026/llm_alignment/mitigating_mismatch_within_reference-based_preference_optimization/)
+- Notes (Chinese): [papernotes.org/ICLR2026/social_computing/mitigating_mismat…](https://papernotes.org/ICLR2026/social_computing/mitigating_mismatch_within_reference-based_preference_optimization/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_alignment/mitigating_mismat…](https://en.papernotes.org/ICLR2026/llm_alignment/mitigating_mismatch_within_reference-based_preference_optimization/)
 
 **Functional embeddings enable Aggregation of multi-area SEEG recordings over subjects and sessions**
 
 - Paper: <https://arxiv.org/abs/2510.27090>
-- Notes (Chinese): [papernotes.org/ICLR2026/social_computing/functional_embedd…](https://papernotes.org/ICLR2026/social_computing/functional_embeddings_enable_aggregation_of_multi-area_seeg_recordings_over_subj/)
-- Notes (English): [en.papernotes.org/ICLR2026/social_computing/functional_emb…](https://en.papernotes.org/ICLR2026/social_computing/functional_embeddings_enable_aggregation_of_multi-area_seeg_recordings_over_subj/)
 
 **SocialHarmBench: Revealing LLM Vulnerabilities to Socially Harmful Requests**
 
 - Paper: <https://arxiv.org/abs/2510.04891>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/socialharmbench_revealing…](https://papernotes.org/ICLR2026/robotics/socialharmbench_revealing_llm_vulnerabilities_to_socially_harmful_requests/)
+- Notes (Chinese): [papernotes.org/ICLR2026/social_computing/socialharmbench_r…](https://papernotes.org/ICLR2026/social_computing/socialharmbench_revealing_llm_vulnerabilities_to_socially_harmful_requests/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/socialharmbench_reveal…](https://en.papernotes.org/ICLR2026/robotics/socialharmbench_revealing_llm_vulnerabilities_to_socially_harmful_requests/)
 
 **BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model Responses**
@@ -8846,7 +8836,7 @@
 **Tracing and Reversing Edits in LLMs**
 
 - Paper: <https://arxiv.org/abs/2505.20819>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/tracing_and_reversing_edi…](https://papernotes.org/ICLR2026/robotics/tracing_and_reversing_edits_in_llms/)
+- Notes (Chinese): [papernotes.org/ICLR2026/social_computing/tracing_and_rever…](https://papernotes.org/ICLR2026/social_computing/tracing_and_reversing_edits_in_llms/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/tracing_and_reversing_…](https://en.papernotes.org/ICLR2026/robotics/tracing_and_reversing_edits_in_llms/)
 
 **Propaganda AI: An Analysis of Semantic Divergence in Large Language Models**
@@ -8978,13 +8968,13 @@
 
 - Paper: <https://arxiv.org/abs/2503.13160>
 - Code: <https://github.com/Kamino666/LaGoVAD-PreVAD>
-- Notes (Chinese): [papernotes.org/ICLR2026/video_generation/language-guided_o…](https://papernotes.org/ICLR2026/video_generation/language-guided_open-world_video_anomaly_detection_under_weak_supervision/)
+- Notes (Chinese): [papernotes.org/ICLR2026/video_understanding/language-guide…](https://papernotes.org/ICLR2026/video_understanding/language-guided_open-world_video_anomaly_detection_under_weak_supervision/)
 - Notes (English): [en.papernotes.org/ICLR2026/video_generation/language-guide…](https://en.papernotes.org/ICLR2026/video_generation/language-guided_open-world_video_anomaly_detection_under_weak_supervision/)
 
 **Steering and Rectifying Latent Representation Manifolds in Frozen Multi-modal LLMs for Video Anomaly Detection**
 
 - Paper: <https://arxiv.org/abs/2602.24021>
-- Notes (Chinese): [papernotes.org/ICLR2026/multimodal_vlm/steering_and_rectif…](https://papernotes.org/ICLR2026/multimodal_vlm/steering_and_rectifying_latent_representation_manifolds_in_frozen_multi-modal_ll/)
+- Notes (Chinese): [papernotes.org/ICLR2026/video_understanding/steering_and_r…](https://papernotes.org/ICLR2026/video_understanding/steering_and_rectifying_latent_representation_manifolds_in_frozen_multi-modal_ll/)
 - Notes (English): [en.papernotes.org/ICLR2026/multimodal_vlm/steering_and_rec…](https://en.papernotes.org/ICLR2026/multimodal_vlm/steering_and_rectifying_latent_representation_manifolds_in_frozen_multi-modal_ll/)
 
 **Let's Split Up: Zero-Shot Classifier Edits for Fine-Grained Video Understanding**
@@ -9109,7 +9099,7 @@
 **Event-T2M: Event-level Conditioning for Complex Text-to-Motion Synthesis**
 
 - Paper: <https://arxiv.org/abs/2602.04292>
-- Notes (Chinese): [papernotes.org/ICLR2026/image_generation/event-t2m_event-l…](https://papernotes.org/ICLR2026/image_generation/event-t2m_event-level_conditioning_for_complex_text-to-motion_synthesis/)
+- Notes (Chinese): [papernotes.org/ICLR2026/human_understanding/event-t2m_even…](https://papernotes.org/ICLR2026/human_understanding/event-t2m_event-level_conditioning_for_complex_text-to-motion_synthesis/)
 - Notes (English): [en.papernotes.org/ICLR2026/image_generation/event-t2m_even…](https://en.papernotes.org/ICLR2026/image_generation/event-t2m_event-level_conditioning_for_complex_text-to-motion_synthesis/)
 
 **NeuroGaze-Distill: Brain-informed Distillation and Depression-Inspired Geometric Priors for Robust Facial Emotion Recognition**
@@ -9179,8 +9169,6 @@
 **Rote Learning Considered Useful: Generalizing over Memorized Data in LLMs**
 
 - Paper: <https://arxiv.org/abs/2507.21914>
-- Notes (Chinese): [papernotes.org/ICLR2026/knowledge_editing/rote_learning_co…](https://papernotes.org/ICLR2026/knowledge_editing/rote_learning_considered_useful_generalizing_over_memorized_data_in_llms/)
-- Notes (English): [en.papernotes.org/ICLR2026/knowledge_editing/rote_learning…](https://en.papernotes.org/ICLR2026/knowledge_editing/rote_learning_considered_useful_generalizing_over_memorized_data_in_llms/)
 
 **When Large Multimodal Models Confront Evolving Knowledge: Challenges and Explorations**
 
@@ -9344,7 +9332,7 @@
 **From Utterance to Vividity: Training Expressive Subtitle Translation LLM via Adaptive Local Preference Optimization**
 
 - Paper: <https://arxiv.org/abs/2602.01068>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_alignment/from_utterance_to_vi…](https://papernotes.org/ICLR2026/llm_alignment/from_utterance_to_vividity_training_expressive_subtitle_translation_llm_via_adap/)
+- Notes (Chinese): [papernotes.org/ICLR2026/multilingual_mt/from_utterance_to_…](https://papernotes.org/ICLR2026/multilingual_mt/from_utterance_to_vividity_training_expressive_subtitle_translation_llm_via_adap/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_alignment/from_utterance_to…](https://en.papernotes.org/ICLR2026/llm_alignment/from_utterance_to_vividity_training_expressive_subtitle_translation_llm_via_adap/)
 
 **ATLAS: Adaptive Transfer Scaling Laws for Multilingual Pretraining, Finetuning, and Decoding the Curse of Multilinguality**
@@ -9370,13 +9358,13 @@
 **Mamba-3: Improved Sequence Modeling using State Space Principles**
 
 - Paper: <https://arxiv.org/abs/2603.15569>
-- Notes (Chinese): [papernotes.org/ICLR2026/video_understanding/mamba-3_improv…](https://papernotes.org/ICLR2026/video_understanding/mamba-3_improved_sequence_modeling_using_state_space_principles/)
+- Notes (Chinese): [papernotes.org/ICLR2026/signal_comm/mamba-3_improved_seque…](https://papernotes.org/ICLR2026/signal_comm/mamba-3_improved_sequence_modeling_using_state_space_principles/)
 - Notes (English): [en.papernotes.org/ICLR2026/video_understanding/mamba-3_imp…](https://en.papernotes.org/ICLR2026/video_understanding/mamba-3_improved_sequence_modeling_using_state_space_principles/)
 
 **Enhancing Instruction Following of LLMs via Activation Steering with Dynamic Rejection**
 
 - Paper: <https://arxiv.org/abs/2603.06745>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/enhancing_instruction_fol…](https://papernotes.org/ICLR2026/robotics/enhancing_instruction_following_of_llms_via_activation_steering_with_dynamic_rej/)
+- Notes (Chinese): [papernotes.org/ICLR2026/signal_comm/enhancing_instruction_…](https://papernotes.org/ICLR2026/signal_comm/enhancing_instruction_following_of_llms_via_activation_steering_with_dynamic_rej/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/enhancing_instruction_…](https://en.papernotes.org/ICLR2026/robotics/enhancing_instruction_following_of_llms_via_activation_steering_with_dynamic_rej/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
@@ -9390,7 +9378,7 @@
 **What's the plan? Metrics for implicit planning in LLMs and their application to rhyme generation and question answering**
 
 - Paper: <https://arxiv.org/abs/2601.20164>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/whats_the_plan_metrics_fo…](https://papernotes.org/ICLR2026/robotics/whats_the_plan_metrics_for_implicit_planning_in_llms_and_their_application_to_rh/)
+- Notes (Chinese): [papernotes.org/ICLR2026/nlp_understanding/whats_the_plan_m…](https://papernotes.org/ICLR2026/nlp_understanding/whats_the_plan_metrics_for_implicit_planning_in_llms_and_their_application_to_rh/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/whats_the_plan_metrics…](https://en.papernotes.org/ICLR2026/robotics/whats_the_plan_metrics_for_implicit_planning_in_llms_and_their_application_to_rh/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
@@ -9419,7 +9407,7 @@
 
 - Paper: <https://arxiv.org/abs/2603.13702>
 - Code: <https://github.com/Clearloveyuan/xCPD>
-- Notes (Chinese): [papernotes.org/ICLR2026/time_series/routing_channel-patch_…](https://papernotes.org/ICLR2026/time_series/routing_channel-patch_dependencies_in_time_series_forecasting_with_graph_spectra/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/routing_channel-patch_depen…](https://papernotes.org/ICLR2026/others/routing_channel-patch_dependencies_in_time_series_forecasting_with_graph_spectra/)
 - Notes (English): [en.papernotes.org/ICLR2026/time_series/routing_channel-pat…](https://en.papernotes.org/ICLR2026/time_series/routing_channel-patch_dependencies_in_time_series_forecasting_with_graph_spectra/)
 
 **Latent Equivariant Operators for Robust Object Recognition: Promises and Challenges** · 🛠️ Workshop
@@ -9447,7 +9435,7 @@
 
 - Paper: <https://arxiv.org/abs/2512.00810>
 - Code: <https://github.com/conflictednerd/soft-qd>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/soft_quality-divers…](https://papernotes.org/ICLR2026/llm_evaluation/soft_quality-diversity_optimization/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/soft_quality-diversity_opti…](https://papernotes.org/ICLR2026/others/soft_quality-diversity_optimization/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/soft_quality-div…](https://en.papernotes.org/ICLR2026/llm_evaluation/soft_quality-diversity_optimization/)
 
 **Training Deep Normalization-Free Spiking Neural Networks with Lateral Inhibition**
@@ -9461,7 +9449,7 @@
 
 - Paper: <https://arxiv.org/abs/2509.11950>
 - Code: <https://github.com/SilenceX12138/TabStruct>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/tabstruct_measuring…](https://papernotes.org/ICLR2026/llm_evaluation/tabstruct_measuring_structural_fidelity_of_tabular_data/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/tabstruct_measuring_structu…](https://papernotes.org/ICLR2026/others/tabstruct_measuring_structural_fidelity_of_tabular_data/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/tabstruct_measur…](https://en.papernotes.org/ICLR2026/llm_evaluation/tabstruct_measuring_structural_fidelity_of_tabular_data/)
 
 **cadrille: Multi-modal CAD Reconstruction with Reinforcement Learning** · 🎤 Oral
@@ -9475,7 +9463,7 @@
 
 - Paper: <https://arxiv.org/abs/2505.21366>
 - Code: <https://github.com/yq-leo/PlanetAlign>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/planetalign_a_compr…](https://papernotes.org/ICLR2026/llm_evaluation/planetalign_a_comprehensive_python_library_for_benchmarking_network_alignment/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/planetalign_a_comprehensive…](https://papernotes.org/ICLR2026/others/planetalign_a_comprehensive_python_library_for_benchmarking_network_alignment/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/planetalign_a_co…](https://en.papernotes.org/ICLR2026/llm_evaluation/planetalign_a_comprehensive_python_library_for_benchmarking_network_alignment/)
 
 **Fast and Stable Riemannian Metrics on SPD Manifolds via Cholesky Product Geometry**
@@ -9530,7 +9518,7 @@
 **MOSIV: Multi-Object System Identification from Videos**
 
 - Paper: <https://arxiv.org/abs/2603.06022>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/mosiv_multi-object_…](https://papernotes.org/ICLR2026/llm_evaluation/mosiv_multi-object_system_identification_from_videos/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/mosiv_multi-object_system_i…](https://papernotes.org/ICLR2026/others/mosiv_multi-object_system_identification_from_videos/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/mosiv_multi-obje…](https://en.papernotes.org/ICLR2026/llm_evaluation/mosiv_multi-object_system_identification_from_videos/)
 
 **The Price of Robustness: Stable Classifiers Need Overparameterization**
@@ -9548,7 +9536,7 @@
 **The Expressive Limits of Diagonal SSMs for State-Tracking**
 
 - Paper: <https://arxiv.org/abs/2603.01959>
-- Notes (Chinese): [papernotes.org/ICLR2026/video_understanding/the_expressive…](https://papernotes.org/ICLR2026/video_understanding/the_expressive_limits_of_diagonal_ssms_for_state-tracking/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/the_expressive_limits_of_di…](https://papernotes.org/ICLR2026/others/the_expressive_limits_of_diagonal_ssms_for_state-tracking/)
 - Notes (English): [en.papernotes.org/ICLR2026/video_understanding/the_express…](https://en.papernotes.org/ICLR2026/video_understanding/the_expressive_limits_of_diagonal_ssms_for_state-tracking/)
 
 **CHLU: The Causal Hamiltonian Learning Unit as a Symplectic Primitive for Deep Learning**
@@ -9632,7 +9620,7 @@
 **Improving Set Function Approximation with Quasi-Arithmetic Neural Networks**
 
 - Paper: <https://arxiv.org/abs/2602.04941>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/improving_set_funct…](https://papernotes.org/ICLR2026/llm_evaluation/improving_set_function_approximation_with_quasi-arithmetic_neural_networks/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/improving_set_function_appr…](https://papernotes.org/ICLR2026/others/improving_set_function_approximation_with_quasi-arithmetic_neural_networks/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/improving_set_fu…](https://en.papernotes.org/ICLR2026/llm_evaluation/improving_set_function_approximation_with_quasi-arithmetic_neural_networks/)
 
 **Scalable Random Wavelet Features: Efficient Non-Stationary Kernel Approximation with Convergence Guarantees**
@@ -9644,7 +9632,7 @@
 **Non-Clashing Teaching in Graphs: Algorithms, Complexity, and Bounds**
 
 - Paper: <https://arxiv.org/abs/2602.00657>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/non-clashing_teachi…](https://papernotes.org/ICLR2026/llm_evaluation/non-clashing_teaching_in_graphs_algorithms_complexity_and_bounds/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/non-clashing_teaching_in_gr…](https://papernotes.org/ICLR2026/others/non-clashing_teaching_in_graphs_algorithms_complexity_and_bounds/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/non-clashing_tea…](https://en.papernotes.org/ICLR2026/llm_evaluation/non-clashing_teaching_in_graphs_algorithms_complexity_and_bounds/)
 
 **The Hot Mess of AI: How Does Misalignment Scale With Model Intelligence and Task Complexity?**
@@ -9680,13 +9668,13 @@
 **Discount Model Search for Quality Diversity Optimization in High-Dimensional Measure Spaces** · 🎤 Oral
 
 - Paper: <https://arxiv.org/abs/2601.01082>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/discount_model_sear…](https://papernotes.org/ICLR2026/llm_evaluation/discount_model_search_for_quality_diversity_optimization_in_high-dimensional_mea/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/discount_model_search_for_q…](https://papernotes.org/ICLR2026/others/discount_model_search_for_quality_diversity_optimization_in_high-dimensional_mea/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/discount_model_s…](https://en.papernotes.org/ICLR2026/llm_evaluation/discount_model_search_for_quality_diversity_optimization_in_high-dimensional_mea/)
 
 **Contractive Diffusion Policies: Robust Action Diffusion via Contractive Score-Based Sampling with Differential Equations**
 
 - Paper: <https://arxiv.org/abs/2601.01003>
-- Notes (Chinese): [papernotes.org/ICLR2026/image_generation/contractive_diffu…](https://papernotes.org/ICLR2026/image_generation/contractive_diffusion_policies_robust_action_diffusion_via_contractive_score-bas/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/contractive_diffusion_polic…](https://papernotes.org/ICLR2026/others/contractive_diffusion_policies_robust_action_diffusion_via_contractive_score-bas/)
 - Notes (English): [en.papernotes.org/ICLR2026/image_generation/contractive_di…](https://en.papernotes.org/ICLR2026/image_generation/contractive_diffusion_policies_robust_action_diffusion_via_contractive_score-bas/)
 
 **Compositional Diffusion with Guided Search for Long-Horizon Planning**
@@ -9710,7 +9698,7 @@
 **Measuring Uncertainty Calibration**
 
 - Paper: <https://arxiv.org/abs/2512.13872>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/measuring_uncertain…](https://papernotes.org/ICLR2026/llm_evaluation/measuring_uncertainty_calibration/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/measuring_uncertainty_calib…](https://papernotes.org/ICLR2026/others/measuring_uncertainty_calibration/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/measuring_uncert…](https://en.papernotes.org/ICLR2026/llm_evaluation/measuring_uncertainty_calibration/)
 
 **Entropic Confinement and Mode Connectivity in Overparameterized Neural Networks**
@@ -9722,7 +9710,7 @@
 **Deep FlexQP: Accelerated Nonlinear Programming via Deep Unfolding**
 
 - Paper: <https://arxiv.org/abs/2512.01565>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/deep_flexqp_acceler…](https://papernotes.org/ICLR2026/llm_evaluation/deep_flexqp_accelerated_nonlinear_programming_via_deep_unfolding/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/deep_flexqp_accelerated_non…](https://papernotes.org/ICLR2026/others/deep_flexqp_accelerated_nonlinear_programming_via_deep_unfolding/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/deep_flexqp_acce…](https://en.papernotes.org/ICLR2026/llm_evaluation/deep_flexqp_accelerated_nonlinear_programming_via_deep_unfolding/)
 
 **Hilbert-Guided Sparse Local Attention**
@@ -9746,7 +9734,7 @@
 **Disentangling Shared and Private Neural Dynamics with SPIRE: A Latent Modeling Framework for Deep Brain Stimulation**
 
 - Paper: <https://arxiv.org/abs/2510.25023>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/disentangling_share…](https://papernotes.org/ICLR2026/llm_evaluation/disentangling_shared_and_private_neural_dynamics_with_spire_a_latent_modeling_fr/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/disentangling_shared_and_pr…](https://papernotes.org/ICLR2026/others/disentangling_shared_and_private_neural_dynamics_with_spire_a_latent_modeling_fr/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/disentangling_sh…](https://en.papernotes.org/ICLR2026/llm_evaluation/disentangling_shared_and_private_neural_dynamics_with_spire_a_latent_modeling_fr/)
 
 **Key and Value Weights Are Probably All You Need: On the Necessity of the Query, Key, Value weight Triplet in Self-Attention Transformers** · 🛠️ Workshop
@@ -9782,7 +9770,7 @@
 **Do We Really Need Permutations? Impact of Model Width on Linear Mode Connectivity**
 
 - Paper: <https://arxiv.org/abs/2510.08023>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/do_we_really_need_p…](https://papernotes.org/ICLR2026/llm_evaluation/do_we_really_need_permutations_impact_of_model_width_on_linear_mode_connectivity/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/do_we_really_need_permutati…](https://papernotes.org/ICLR2026/others/do_we_really_need_permutations_impact_of_model_width_on_linear_mode_connectivity/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/do_we_really_nee…](https://en.papernotes.org/ICLR2026/llm_evaluation/do_we_really_need_permutations_impact_of_model_width_on_linear_mode_connectivity/)
 
 **t-SNE Exaggerates Clusters, Provably**
@@ -9800,7 +9788,7 @@
 **Mitigating Spurious Correlation via Distributionally Robust Learning with Hierarchical Ambiguity Sets**
 
 - Paper: <https://arxiv.org/abs/2510.02818>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/mitigating_spurious…](https://papernotes.org/ICLR2026/llm_evaluation/mitigating_spurious_correlation_via_distributionally_robust_learning_with_hierar/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/mitigating_spurious_correla…](https://papernotes.org/ICLR2026/others/mitigating_spurious_correlation_via_distributionally_robust_learning_with_hierar/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/mitigating_spuri…](https://en.papernotes.org/ICLR2026/llm_evaluation/mitigating_spurious_correlation_via_distributionally_robust_learning_with_hierar/)
 
 **Noisy-Pair Robust Representation Alignment for Positive-Unlabeled Learning**
@@ -9824,13 +9812,13 @@
 **Function Spaces Without Kernels: Learning Compact Hilbert Space Representations**
 
 - Paper: <https://arxiv.org/abs/2509.20605>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/function_spaces_wit…](https://papernotes.org/ICLR2026/llm_evaluation/function_spaces_without_kernels_learning_compact_hilbert_space_representations/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/function_spaces_without_ker…](https://papernotes.org/ICLR2026/others/function_spaces_without_kernels_learning_compact_hilbert_space_representations/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/function_spaces_…](https://en.papernotes.org/ICLR2026/llm_evaluation/function_spaces_without_kernels_learning_compact_hilbert_space_representations/)
 
 **From Samples to Scenarios: A New Paradigm for Probabilistic Forecasting**
 
 - Paper: <https://arxiv.org/abs/2509.19975>
-- Notes (Chinese): [papernotes.org/ICLR2026/time_series/from_samples_to_scenar…](https://papernotes.org/ICLR2026/time_series/from_samples_to_scenarios_a_new_paradigm_for_probabilistic_forecasting/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/from_samples_to_scenarios_a…](https://papernotes.org/ICLR2026/others/from_samples_to_scenarios_a_new_paradigm_for_probabilistic_forecasting/)
 - Notes (English): [en.papernotes.org/ICLR2026/time_series/from_samples_to_sce…](https://en.papernotes.org/ICLR2026/time_series/from_samples_to_scenarios_a_new_paradigm_for_probabilistic_forecasting/)
 
 **Enhancing Generative Auto-bidding with Offline Reward Evaluation and Policy Search**
@@ -9872,13 +9860,13 @@
 **Building spatial world models from sparse transitional episodic memories**
 
 - Paper: <https://arxiv.org/abs/2505.13696>
-- Notes (Chinese): [papernotes.org/ICLR2026/robotics/building_spatial_world_mo…](https://papernotes.org/ICLR2026/robotics/building_spatial_world_models_from_sparse_transitional_episodic_memories/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/building_spatial_world_mode…](https://papernotes.org/ICLR2026/others/building_spatial_world_models_from_sparse_transitional_episodic_memories/)
 - Notes (English): [en.papernotes.org/ICLR2026/robotics/building_spatial_world…](https://en.papernotes.org/ICLR2026/robotics/building_spatial_world_models_from_sparse_transitional_episodic_memories/)
 
 **Deterministic Bounds and Random Estimates of Metric Tensors on Neuromanifolds**
 
 - Paper: <https://arxiv.org/abs/2505.13614>
-- Notes (Chinese): [papernotes.org/ICLR2026/signal_comm/deterministic_bounds_a…](https://papernotes.org/ICLR2026/signal_comm/deterministic_bounds_and_random_estimates_of_metric_tensors_on_neuromanifolds/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/deterministic_bounds_and_ra…](https://papernotes.org/ICLR2026/others/deterministic_bounds_and_random_estimates_of_metric_tensors_on_neuromanifolds/)
 - Notes (English): [en.papernotes.org/ICLR2026/signal_comm/deterministic_bound…](https://en.papernotes.org/ICLR2026/signal_comm/deterministic_bounds_and_random_estimates_of_metric_tensors_on_neuromanifolds/)
 
 **Learning on a Razor's Edge: Identifiability and Singularity of Polynomial Neural Networks**
@@ -9896,7 +9884,7 @@
 **Noise-Aware Generalization: Robustness to In-Domain Noise and Out-of-Domain Generalization**
 
 - Paper: <https://arxiv.org/abs/2504.02996>
-- Notes (Chinese): [papernotes.org/ICLR2026/llm_evaluation/noise-aware_general…](https://papernotes.org/ICLR2026/llm_evaluation/noise-aware_generalization_robustness_to_in-domain_noise_and_out-of-domain_gener/)
+- Notes (Chinese): [papernotes.org/ICLR2026/others/noise-aware_generalization_…](https://papernotes.org/ICLR2026/others/noise-aware_generalization_robustness_to_in-domain_noise_and_out-of-domain_gener/)
 - Notes (English): [en.papernotes.org/ICLR2026/llm_evaluation/noise-aware_gene…](https://en.papernotes.org/ICLR2026/llm_evaluation/noise-aware_generalization_robustness_to_in-domain_noise_and_out-of-domain_gener/)
 
 **Neural Force Field: Few-shot Learning of Generalized Physical Reasoning**

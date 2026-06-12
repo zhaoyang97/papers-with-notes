@@ -70,8 +70,8 @@
 
 - Paper: <https://arxiv.org/abs/2605.12258>
 - Code: <https://github.com/Fraserlairh/Instruction-Lens-Score>
-- Notes (Chinese): [papernotes.org/ICML2026/multimodal_vlm/instruction_lens_sc…](https://papernotes.org/ICML2026/multimodal_vlm/instruction_lens_score_your_instruction_contributes_a_powerful_object_hallucinat/)
-- Notes (English): [en.papernotes.org/ICML2026/multimodal_vlm/instruction_lens…](https://en.papernotes.org/ICML2026/multimodal_vlm/instruction_lens_score_your_instruction_contributes_a_powerful_object_hallucinat/)
+- Notes (Chinese): [papernotes.org/ICML2026/hallucination/instruction_lens_sco…](https://papernotes.org/ICML2026/hallucination/instruction_lens_score_your_instruction_contributes_a_powerful_object_hallucinat/)
+- Notes (English): [en.papernotes.org/ICML2026/hallucination/instruction_lens_…](https://en.papernotes.org/ICML2026/hallucination/instruction_lens_score_your_instruction_contributes_a_powerful_object_hallucinat/)
 
 **R$^3$L: Reasoning 3D Layouts from Relative Spatial Relations**
 
@@ -120,14 +120,14 @@
 - Paper: <https://arxiv.org/abs/2508.05417>
 - Code: <https://github.com/Genera1Z/SmoothSA>
 - Notes (Chinese): [papernotes.org/ICML2026/multimodal_vlm/smoothing_slot_atte…](https://papernotes.org/ICML2026/multimodal_vlm/smoothing_slot_attention_iterations_and_recurrences/)
-- Notes (English): [en.papernotes.org/ICML2026/object_detection/smoothing_slot…](https://en.papernotes.org/ICML2026/object_detection/smoothing_slot_attention_iterations_and_recurrences/)
+- Notes (English): [en.papernotes.org/ICML2026/multimodal_vlm/smoothing_slot_a…](https://en.papernotes.org/ICML2026/multimodal_vlm/smoothing_slot_attention_iterations_and_recurrences/)
 
 **Efficient Reasoning with Hidden Thinking**
 
 - Paper: <https://arxiv.org/abs/2501.19201>
 - Code: <https://github.com/shawnricecake/Heima>
 - Notes (Chinese): [papernotes.org/ICML2026/multimodal_vlm/efficient_reasoning…](https://papernotes.org/ICML2026/multimodal_vlm/efficient_reasoning_with_hidden_thinking/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_reasoning/efficient_reasoni…](https://en.papernotes.org/ICML2026/llm_reasoning/efficient_reasoning_with_hidden_thinking/)
+- Notes (English): [en.papernotes.org/ICML2026/multimodal_vlm/efficient_reason…](https://en.papernotes.org/ICML2026/multimodal_vlm/efficient_reasoning_with_hidden_thinking/)
 
 **Bad Seeing or Bad Thinking? Rewarding Perception for Vision-Language Reasoning** · ✨ Spotlight
 
@@ -187,7 +187,7 @@
 
 - Paper: <https://arxiv.org/abs/2605.03245>
 - Notes (Chinese): [papernotes.org/ICML2026/multimodal_vlm/text-conditional_je…](https://papernotes.org/ICML2026/multimodal_vlm/text-conditional_jepa_for_learning_semantically_rich_visual_representations/)
-- Notes (English): [en.papernotes.org/ICML2026/self_supervised/text-conditiona…](https://en.papernotes.org/ICML2026/self_supervised/text-conditional_jepa_for_learning_semantically_rich_visual_representations/)
+- Notes (English): [en.papernotes.org/ICML2026/multimodal_vlm/text-conditional…](https://en.papernotes.org/ICML2026/multimodal_vlm/text-conditional_jepa_for_learning_semantically_rich_visual_representations/)
 
 **Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression**
 
@@ -224,7 +224,7 @@
 - Paper: <https://arxiv.org/abs/2604.16243>
 - Project: <https://jethrojames.github.io/FFR/>
 - Notes (Chinese): [papernotes.org/ICML2026/multimodal_vlm/find_fix_reason_con…](https://papernotes.org/ICML2026/multimodal_vlm/find_fix_reason_context_repair_for_video_reasoning/)
-- Notes (English): [en.papernotes.org/ICML2026/video_understanding/find_fix_re…](https://en.papernotes.org/ICML2026/video_understanding/find_fix_reason_context_repair_for_video_reasoning/)
+- Notes (English): [en.papernotes.org/ICML2026/multimodal_vlm/find_fix_reason_…](https://en.papernotes.org/ICML2026/multimodal_vlm/find_fix_reason_context_repair_for_video_reasoning/)
 
 **Pair2Scene: Learning Local Object Relations for Procedural Scene Generation**
 
@@ -242,8 +242,8 @@
 **Revis: Sparse Latent Steering to Mitigate Object Hallucination in Large Vision-Language Models**
 
 - Paper: <https://arxiv.org/abs/2602.11824>
-- Notes (Chinese): [papernotes.org/ICML2026/multimodal_vlm/revis_sparse_latent…](https://papernotes.org/ICML2026/multimodal_vlm/revis_sparse_latent_steering_to_mitigate_object_hallucination_in_large_vision-la/)
-- Notes (English): [en.papernotes.org/ICML2026/multimodal_vlm/revis_sparse_lat…](https://en.papernotes.org/ICML2026/multimodal_vlm/revis_sparse_latent_steering_to_mitigate_object_hallucination_in_large_vision-la/)
+- Notes (Chinese): [papernotes.org/ICML2026/hallucination/revis_sparse_latent_…](https://papernotes.org/ICML2026/hallucination/revis_sparse_latent_steering_to_mitigate_object_hallucination_in_large_vision-la/)
+- Notes (English): [en.papernotes.org/ICML2026/hallucination/revis_sparse_late…](https://en.papernotes.org/ICML2026/hallucination/revis_sparse_latent_steering_to_mitigate_object_hallucination_in_large_vision-la/)
 
 **Model-Dowser: Data-Free Importance Probing to Mitigate Catastrophic Forgetting in Multimodal Large Language Models**
 
@@ -274,7 +274,7 @@
 
 - Paper: <https://arxiv.org/abs/2601.21187>
 - Notes (Chinese): [papernotes.org/ICML2026/model_compression/frism_fine-grain…](https://papernotes.org/ICML2026/model_compression/frism_fine-grained_reasoning_injection_via_subspace-level_model_merging_for_visi/)
-- Notes (English): [en.papernotes.org/ICML2026/multimodal_vlm/frism_fine-grain…](https://en.papernotes.org/ICML2026/multimodal_vlm/frism_fine-grained_reasoning_injection_via_subspace-level_model_merging_for_visi/)
+- Notes (English): [en.papernotes.org/ICML2026/model_compression/frism_fine-gr…](https://en.papernotes.org/ICML2026/model_compression/frism_fine-grained_reasoning_injection_via_subspace-level_model_merging_for_visi/)
 
 **Multimodal Continual Learning with MLLMs from Multi-scenario Perspectives**
 
@@ -307,21 +307,21 @@
 - Paper: <https://arxiv.org/abs/2605.14267>
 - Code: <https://github.com/StarNextDay/SubDAPS>
 - Notes (Chinese): [papernotes.org/ICML2026/image_generation/image_restoration…](https://papernotes.org/ICML2026/image_generation/image_restoration_via_diffusion_models_with_dynamic_resolution/)
-- Notes (English): [en.papernotes.org/ICML2026/image_restoration/image_restora…](https://en.papernotes.org/ICML2026/image_restoration/image_restoration_via_diffusion_models_with_dynamic_resolution/)
+- Notes (English): [en.papernotes.org/ICML2026/image_generation/image_restorat…](https://en.papernotes.org/ICML2026/image_generation/image_restoration_via_diffusion_models_with_dynamic_resolution/)
 
 **Recovering Hidden Reward in Diffusion-Based Policies**
 
 - Paper: <https://arxiv.org/abs/2605.00623>
 - Code: <https://github.com/sotaagi/EnergyFlow>
 - Notes (Chinese): [papernotes.org/ICML2026/image_generation/recovering_hidden…](https://papernotes.org/ICML2026/image_generation/recovering_hidden_reward_in_diffusion-based_policies/)
-- Notes (English): [en.papernotes.org/ICML2026/reinforcement_learning/recoveri…](https://en.papernotes.org/ICML2026/reinforcement_learning/recovering_hidden_reward_in_diffusion-based_policies/)
+- Notes (English): [en.papernotes.org/ICML2026/image_generation/recovering_hid…](https://en.papernotes.org/ICML2026/image_generation/recovering_hidden_reward_in_diffusion-based_policies/)
 
 **Information-geometric adaptive sampling for graph diffusion**
 
 - Paper: <https://arxiv.org/abs/2605.00250>
 - Code: <https://github.com/kunzhan/DVS>
 - Notes (Chinese): [papernotes.org/ICML2026/image_generation/information-geome…](https://papernotes.org/ICML2026/image_generation/information-geometric_adaptive_sampling_for_graph_diffusion/)
-- Notes (English): [en.papernotes.org/ICML2026/graph_learning/information-geom…](https://en.papernotes.org/ICML2026/graph_learning/information-geometric_adaptive_sampling_for_graph_diffusion/)
+- Notes (English): [en.papernotes.org/ICML2026/image_generation/information-ge…](https://en.papernotes.org/ICML2026/image_generation/information-geometric_adaptive_sampling_for_graph_diffusion/)
 
 **Adversarial Flow Models**
 
@@ -360,7 +360,7 @@
 
 - Paper: <https://arxiv.org/abs/2605.11246>
 - Notes (Chinese): [papernotes.org/ICML2026/image_generation/support-proximity…](https://papernotes.org/ICML2026/image_generation/support-proximity_augmented_diffusion_estimation_for_offline_black-box_optimizat/)
-- Notes (English): [en.papernotes.org/ICML2026/optimization/support-proximity_…](https://en.papernotes.org/ICML2026/optimization/support-proximity_augmented_diffusion_estimation_for_offline_black-box_optimizat/)
+- Notes (English): [en.papernotes.org/ICML2026/image_generation/support-proxim…](https://en.papernotes.org/ICML2026/image_generation/support-proximity_augmented_diffusion_estimation_for_offline_black-box_optimizat/)
 
 **Offline Preference Optimization for Rectified Flow with Noise-Tracked Pairs**
 
@@ -378,7 +378,7 @@
 
 - Paper: <https://arxiv.org/abs/2605.08253>
 - Notes (Chinese): [papernotes.org/ICML2026/image_generation/path-coupled_bell…](https://papernotes.org/ICML2026/image_generation/path-coupled_bellman_flows_for_distributional_reinforcement_learning/)
-- Notes (English): [en.papernotes.org/ICML2026/reinforcement_learning/path-cou…](https://en.papernotes.org/ICML2026/reinforcement_learning/path-coupled_bellman_flows_for_distributional_reinforcement_learning/)
+- Notes (English): [en.papernotes.org/ICML2026/image_generation/path-coupled_b…](https://en.papernotes.org/ICML2026/image_generation/path-coupled_bellman_flows_for_distributional_reinforcement_learning/)
 
 **PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World**
 
@@ -414,13 +414,13 @@
 
 - Paper: <https://arxiv.org/abs/2605.01425>
 - Notes (Chinese): [papernotes.org/ICML2026/image_generation/barriers_to_count…](https://papernotes.org/ICML2026/image_generation/barriers_to_counterfactual_credit_attribution_for_autoregressive_models/)
-- Notes (English): [en.papernotes.org/ICML2026/interpretability/barriers_to_co…](https://en.papernotes.org/ICML2026/interpretability/barriers_to_counterfactual_credit_attribution_for_autoregressive_models/)
+- Notes (English): [en.papernotes.org/ICML2026/image_generation/barriers_to_co…](https://en.papernotes.org/ICML2026/image_generation/barriers_to_counterfactual_credit_attribution_for_autoregressive_models/)
 
 **Local Hessian Spectral Filtering for Robust Intrinsic Dimension Estimation**
 
 - Paper: <https://arxiv.org/abs/2605.01221>
 - Notes (Chinese): [papernotes.org/ICML2026/image_generation/local_hessian_spe…](https://papernotes.org/ICML2026/image_generation/local_hessian_spectral_filtering_for_robust_intrinsic_dimension_estimation/)
-- Notes (English): [en.papernotes.org/ICML2026/others/local_hessian_spectral_f…](https://en.papernotes.org/ICML2026/others/local_hessian_spectral_filtering_for_robust_intrinsic_dimension_estimation/)
+- Notes (English): [en.papernotes.org/ICML2026/image_generation/local_hessian_…](https://en.papernotes.org/ICML2026/image_generation/local_hessian_spectral_filtering_for_robust_intrinsic_dimension_estimation/)
 
 **Visual Implicit Autoregressive Modeling**
 
@@ -450,7 +450,7 @@
 
 - Paper: <https://arxiv.org/abs/2605.00435>
 - Notes (Chinese): [papernotes.org/ICML2026/image_generation/escaping_mode_col…](https://papernotes.org/ICML2026/image_generation/escaping_mode_collapse_in_llm_generation_via_geometric_regulation/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_nlp/escaping_mode_collapse_…](https://en.papernotes.org/ICML2026/llm_nlp/escaping_mode_collapse_in_llm_generation_via_geometric_regulation/)
+- Notes (English): [en.papernotes.org/ICML2026/image_generation/escaping_mode_…](https://en.papernotes.org/ICML2026/image_generation/escaping_mode_collapse_in_llm_generation_via_geometric_regulation/)
 
 **Caracal: Causal Architecture via Spectral Mixing**
 
@@ -462,7 +462,7 @@
 
 - Paper: <https://arxiv.org/abs/2603.21901>
 - Notes (Chinese): [papernotes.org/ICML2026/image_generation/clear_context-awa…](https://papernotes.org/ICML2026/image_generation/clear_context-aware_learning_with_end-to-end_mask-free_inference_for_adaptive_vi/)
-- Notes (English): [en.papernotes.org/ICML2026/video_generation/clear_context-…](https://en.papernotes.org/ICML2026/video_generation/clear_context-aware_learning_with_end-to-end_mask-free_inference_for_adaptive_vi/)
+- Notes (English): [en.papernotes.org/ICML2026/image_generation/clear_context-…](https://en.papernotes.org/ICML2026/image_generation/clear_context-aware_learning_with_end-to-end_mask-free_inference_for_adaptive_vi/)
 
 **The Coupling Within: Flow Matching via Distilled Normalizing Flows**
 
@@ -505,13 +505,13 @@
 
 - Paper: <https://arxiv.org/abs/2511.13108>
 - Notes (Chinese): [papernotes.org/ICML2026/image_generation/dgs-net_distillat…](https://papernotes.org/ICML2026/image_generation/dgs-net_distillation-guided_gradient_surgery_for_clip_fine-tuning_in_ai-generate/)
-- Notes (English): [en.papernotes.org/ICML2026/aigc_detection/dgs-net_distilla…](https://en.papernotes.org/ICML2026/aigc_detection/dgs-net_distillation-guided_gradient_surgery_for_clip_fine-tuning_in_ai-generate/)
+- Notes (English): [en.papernotes.org/ICML2026/image_generation/dgs-net_distil…](https://en.papernotes.org/ICML2026/image_generation/dgs-net_distillation-guided_gradient_surgery_for_clip_fine-tuning_in_ai-generate/)
 
 **Generative Adaptation of Dynamics to Environmental Shifts via Weight-space Diffusion**
 
 - Paper: <https://arxiv.org/abs/2505.13919>
 - Notes (Chinese): [papernotes.org/ICML2026/image_generation/generative_adapta…](https://papernotes.org/ICML2026/image_generation/generative_adaptation_of_dynamics_to_environmental_shifts_via_weight-space_diffu/)
-- Notes (English): [en.papernotes.org/ICML2026/others/generative_adaptation_of…](https://en.papernotes.org/ICML2026/others/generative_adaptation_of_dynamics_to_environmental_shifts_via_weight-space_diffu/)
+- Notes (English): [en.papernotes.org/ICML2026/image_generation/generative_ada…](https://en.papernotes.org/ICML2026/image_generation/generative_adaptation_of_dynamics_to_environmental_shifts_via_weight-space_diffu/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -533,7 +533,7 @@
 - Paper: <https://arxiv.org/abs/2605.13517>
 - Code: <https://github.com/goals4292/ArcVQ-VAE>
 - Notes (Chinese): [papernotes.org/ICML2026/model_compression/arcvq-vae_a_sphe…](https://papernotes.org/ICML2026/model_compression/arcvq-vae_a_spherical_vector_quantization_framework_with_arccosine_additive_marg/)
-- Notes (English): [en.papernotes.org/ICML2026/image_generation/arcvq-vae_a_sp…](https://en.papernotes.org/ICML2026/image_generation/arcvq-vae_a_spherical_vector_quantization_framework_with_arccosine_additive_marg/)
+- Notes (English): [en.papernotes.org/ICML2026/model_compression/arcvq-vae_a_s…](https://en.papernotes.org/ICML2026/model_compression/arcvq-vae_a_spherical_vector_quantization_framework_with_arccosine_additive_marg/)
 
 **Stochastic Sparse Attention for Memory-Bound Inference**
 
@@ -567,19 +567,19 @@
 
 - Paper: <https://arxiv.org/abs/2605.14891>
 - Notes (Chinese): [papernotes.org/ICML2026/model_compression/hierarchical_ima…](https://papernotes.org/ICML2026/model_compression/hierarchical_image_tokenization_for_multi-scale_image_super_resolution/)
-- Notes (English): [en.papernotes.org/ICML2026/image_restoration/hierarchical_…](https://en.papernotes.org/ICML2026/image_restoration/hierarchical_image_tokenization_for_multi-scale_image_super_resolution/)
+- Notes (English): [en.papernotes.org/ICML2026/model_compression/hierarchical_…](https://en.papernotes.org/ICML2026/model_compression/hierarchical_image_tokenization_for_multi-scale_image_super_resolution/)
 
 **Turning Stale Gradients into Stable Gradients: Coherent Coordinate Descent with Implicit Landscape Smoothing for Lightweight Zeroth-Order Optimization**
 
 - Paper: <https://arxiv.org/abs/2605.14373>
 - Notes (Chinese): [papernotes.org/ICML2026/model_compression/turning_stale_gr…](https://papernotes.org/ICML2026/model_compression/turning_stale_gradients_into_stable_gradients_coherent_coordinate_descent_with_i/)
-- Notes (English): [en.papernotes.org/ICML2026/optimization/turning_stale_grad…](https://en.papernotes.org/ICML2026/optimization/turning_stale_gradients_into_stable_gradients_coherent_coordinate_descent_with_i/)
+- Notes (English): [en.papernotes.org/ICML2026/model_compression/turning_stale…](https://en.papernotes.org/ICML2026/model_compression/turning_stale_gradients_into_stable_gradients_coherent_coordinate_descent_with_i/)
 
 **Towards Resource-Efficient LLMs: End-to-End Energy Accounting of Distillation Pipelines**
 
 - Paper: <https://arxiv.org/abs/2605.13981>
 - Notes (Chinese): [papernotes.org/ICML2026/model_compression/towards_resource…](https://papernotes.org/ICML2026/model_compression/towards_resource-efficient_llms_end-to-end_energy_accounting_of_distillation_pip/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_efficiency/towards_resource…](https://en.papernotes.org/ICML2026/llm_efficiency/towards_resource-efficient_llms_end-to-end_energy_accounting_of_distillation_pip/)
+- Notes (English): [en.papernotes.org/ICML2026/model_compression/towards_resou…](https://en.papernotes.org/ICML2026/model_compression/towards_resource-efficient_llms_end-to-end_energy_accounting_of_distillation_pip/)
 
 **SURGE: Surrogate Gradient Adaptation in Binary Neural Networks** · 📌 Poster
 
@@ -591,13 +591,13 @@
 
 - Paper: <https://arxiv.org/abs/2605.10315>
 - Notes (Chinese): [papernotes.org/ICML2026/model_compression/active_tabular_a…](https://papernotes.org/ICML2026/model_compression/active_tabular_augmentation_via_policy-guided_diffusion_inpainting/)
-- Notes (English): [en.papernotes.org/ICML2026/others/active_tabular_augmentat…](https://en.papernotes.org/ICML2026/others/active_tabular_augmentation_via_policy-guided_diffusion_inpainting/)
+- Notes (English): [en.papernotes.org/ICML2026/model_compression/active_tabula…](https://en.papernotes.org/ICML2026/model_compression/active_tabular_augmentation_via_policy-guided_diffusion_inpainting/)
 
 **Towards Steering without Sacrifice: Principled Training of Steering Vectors for Prompt-only Interventions**
 
 - Paper: <https://arxiv.org/abs/2605.05983>
 - Notes (Chinese): [papernotes.org/ICML2026/model_compression/towards_steering…](https://papernotes.org/ICML2026/model_compression/towards_steering_without_sacrifice_principled_training_of_steering_vectors_for_p/)
-- Notes (English): [en.papernotes.org/ICML2026/interpretability/towards_steeri…](https://en.papernotes.org/ICML2026/interpretability/towards_steering_without_sacrifice_principled_training_of_steering_vectors_for_p/)
+- Notes (English): [en.papernotes.org/ICML2026/model_compression/towards_steer…](https://en.papernotes.org/ICML2026/model_compression/towards_steering_without_sacrifice_principled_training_of_steering_vectors_for_p/)
 
 **Decomposing the Basic Abilities of Large Language Models: Mitigating Cross-Task Interference in Multi-Task Instruct-Tuning**
 
@@ -615,7 +615,7 @@
 
 - Paper: <https://arxiv.org/abs/2605.04595>
 - Notes (Chinese): [papernotes.org/ICML2026/model_compression/a_queueing-theor…](https://papernotes.org/ICML2026/model_compression/a_queueing-theoretic_framework_for_stability_analysis_of_llm_inference_with_kv_c/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_efficiency/a_queueing-theor…](https://en.papernotes.org/ICML2026/llm_efficiency/a_queueing-theoretic_framework_for_stability_analysis_of_llm_inference_with_kv_c/)
+- Notes (English): [en.papernotes.org/ICML2026/model_compression/a_queueing-th…](https://en.papernotes.org/ICML2026/model_compression/a_queueing-theoretic_framework_for_stability_analysis_of_llm_inference_with_kv_c/)
 
 **From Parameter Dynamics to Risk Scoring : Quantifying Sample-Level Safety Degradation in LLM Fine-tuning**
 
@@ -627,13 +627,13 @@
 
 - Paper: <https://arxiv.org/abs/2605.01862>
 - Notes (Chinese): [papernotes.org/ICML2026/model_compression/qhyer_q-conditio…](https://papernotes.org/ICML2026/model_compression/qhyer_q-conditioned_hybrid_attention-mamba_transformer_for_offline_goal-conditio/)
-- Notes (English): [en.papernotes.org/ICML2026/reinforcement_learning/qhyer_q-…](https://en.papernotes.org/ICML2026/reinforcement_learning/qhyer_q-conditioned_hybrid_attention-mamba_transformer_for_offline_goal-conditio/)
+- Notes (English): [en.papernotes.org/ICML2026/model_compression/qhyer_q-condi…](https://en.papernotes.org/ICML2026/model_compression/qhyer_q-conditioned_hybrid_attention-mamba_transformer_for_offline_goal-conditio/)
 
 **Lifting Traces to Logic: Programmatic Skill Induction with Neuro-Symbolic Learning for Long-Horizon Agentic Tasks**
 
 - Paper: <https://arxiv.org/abs/2605.01293>
 - Notes (Chinese): [papernotes.org/ICML2026/llm_agent/lifting_traces_to_logic_…](https://papernotes.org/ICML2026/llm_agent/lifting_traces_to_logic_programmatic_skill_induction_with_neuro-symbolic_learnin/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_reasoning/lifting_traces_to…](https://en.papernotes.org/ICML2026/llm_reasoning/lifting_traces_to_logic_programmatic_skill_induction_with_neuro-symbolic_learnin/)
+- Notes (English): [en.papernotes.org/ICML2026/llm_agent/lifting_traces_to_log…](https://en.papernotes.org/ICML2026/llm_agent/lifting_traces_to_logic_programmatic_skill_induction_with_neuro-symbolic_learnin/)
 
 **Internalizing Agency from Reflective Experience**
 
@@ -688,7 +688,7 @@
 
 - Paper: <https://arxiv.org/abs/2601.16873>
 - Notes (Chinese): [papernotes.org/ICML2026/model_compression/provably_learnin…](https://papernotes.org/ICML2026/model_compression/provably_learning_attention_with_queries/)
-- Notes (English): [en.papernotes.org/ICML2026/interpretability/provably_learn…](https://en.papernotes.org/ICML2026/interpretability/provably_learning_attention_with_queries/)
+- Notes (English): [en.papernotes.org/ICML2026/model_compression/provably_lear…](https://en.papernotes.org/ICML2026/model_compression/provably_learning_attention_with_queries/)
 
 **Resting Neurons, Active Insights: Robustify Activation Sparsity for Large Language Models**
 
@@ -740,7 +740,7 @@
 - Paper: <https://arxiv.org/abs/2605.02263>
 - Code: <https://github.com/YanJiangJerry/Block-R1>
 - Notes (Chinese): [papernotes.org/ICML2026/reinforcement_learning/break_the_b…](https://papernotes.org/ICML2026/reinforcement_learning/break_the_block_dynamic-size_reasoning_blocks_for_diffusion_large_language_model/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_reasoning/break_the_block_d…](https://en.papernotes.org/ICML2026/llm_reasoning/break_the_block_dynamic-size_reasoning_blocks_for_diffusion_large_language_model/)
+- Notes (English): [en.papernotes.org/ICML2026/reinforcement_learning/break_th…](https://en.papernotes.org/ICML2026/reinforcement_learning/break_the_block_dynamic-size_reasoning_blocks_for_diffusion_large_language_model/)
 
 **How Reasoning Evolves from Post-Training Data: An Empirical Study Using Chess** · 🎤 Oral · 🛠️ Workshop
 
@@ -768,14 +768,14 @@
 - Paper: <https://arxiv.org/abs/2511.07372>
 - Code: <https://github.com/DakeBU/Curriculum-Post-training>
 - Notes (Chinese): [papernotes.org/ICML2026/reinforcement_learning/provable_be…](https://papernotes.org/ICML2026/reinforcement_learning/provable_benefit_of_curriculum_in_transformer_tree-reasoning_post-training/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_reasoning/provable_benefit_…](https://en.papernotes.org/ICML2026/llm_reasoning/provable_benefit_of_curriculum_in_transformer_tree-reasoning_post-training/)
+- Notes (English): [en.papernotes.org/ICML2026/reinforcement_learning/provable…](https://en.papernotes.org/ICML2026/reinforcement_learning/provable_benefit_of_curriculum_in_transformer_tree-reasoning_post-training/)
 
 **Unlocking Zero-Shot Geospatial Reasoning via Indirect Rewards**
 
 - Paper: <https://arxiv.org/abs/2510.00072>
 - Code: <https://github.com/miniHuiHui/Geo-R1>
 - Notes (Chinese): [papernotes.org/ICML2026/reinforcement_learning/unlocking_z…](https://papernotes.org/ICML2026/reinforcement_learning/unlocking_zero-shot_geospatial_reasoning_via_indirect_rewards/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_reasoning/unlocking_zero-sh…](https://en.papernotes.org/ICML2026/llm_reasoning/unlocking_zero-shot_geospatial_reasoning_via_indirect_rewards/)
+- Notes (English): [en.papernotes.org/ICML2026/reinforcement_learning/unlockin…](https://en.papernotes.org/ICML2026/reinforcement_learning/unlocking_zero-shot_geospatial_reasoning_via_indirect_rewards/)
 
 **Vulnerable Agent Identification in Large-Scale Multi-Agent Reinforcement Learning**
 
@@ -842,7 +842,7 @@
 
 - Paper: <https://arxiv.org/abs/2602.01708>
 - Notes (Chinese): [papernotes.org/ICML2026/reinforcement_learning/game_of_tho…](https://papernotes.org/ICML2026/reinforcement_learning/game_of_thought_robust_information_seeking_with_large_language_models_using_game/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_reasoning/game_of_thought_r…](https://en.papernotes.org/ICML2026/llm_reasoning/game_of_thought_robust_information_seeking_with_large_language_models_using_game/)
+- Notes (English): [en.papernotes.org/ICML2026/reinforcement_learning/game_of_…](https://en.papernotes.org/ICML2026/reinforcement_learning/game_of_thought_robust_information_seeking_with_large_language_models_using_game/)
 
 **Probing RLVR training instability through the lens of objective-level hacking**
 
@@ -920,7 +920,7 @@
 **Rethink the Role of Neural Decoders in Quantum Error Correction**
 
 - Paper: <https://arxiv.org/abs/2605.12046>
-- Notes (Chinese): [papernotes.org/ICML2026/medical_imaging/rethink_the_role_o…](https://papernotes.org/ICML2026/medical_imaging/rethink_the_role_of_neural_decoders_in_quantum_error_correction/)
+- Notes (Chinese): [papernotes.org/ICML2026/others/rethink_the_role_of_neural_…](https://papernotes.org/ICML2026/others/rethink_the_role_of_neural_decoders_in_quantum_error_correction/)
 - Notes (English): [en.papernotes.org/ICML2026/medical_imaging/rethink_the_rol…](https://en.papernotes.org/ICML2026/medical_imaging/rethink_the_role_of_neural_decoders_in_quantum_error_correction/)
 
 **Marrying Generative Model of Healthcare Events with Digital Twin of Social Determinants of Health for Disease Reasoning**
@@ -944,7 +944,7 @@
 **Polaris: Coupled Orbital Polar Embeddings for Hierarchical Concept Learning**
 
 - Paper: <https://arxiv.org/abs/2605.00265>
-- Notes (Chinese): [papernotes.org/ICML2026/medical_imaging/polaris_coupled_or…](https://papernotes.org/ICML2026/medical_imaging/polaris_coupled_orbital_polar_embeddings_for_hierarchical_concept_learning/)
+- Notes (Chinese): [papernotes.org/ICML2026/others/polaris_coupled_orbital_pol…](https://papernotes.org/ICML2026/others/polaris_coupled_orbital_polar_embeddings_for_hierarchical_concept_learning/)
 - Notes (English): [en.papernotes.org/ICML2026/others/polaris_coupled_orbital_…](https://en.papernotes.org/ICML2026/others/polaris_coupled_orbital_polar_embeddings_for_hierarchical_concept_learning/)
 
 **EEG-Based Multimodal Learning via Hyperbolic Mixture-of-Curvature Experts**
@@ -956,8 +956,8 @@
 **Controllable Generative Sandbox for Causal Inference**
 
 - Paper: <https://arxiv.org/abs/2603.03587>
-- Notes (Chinese): [papernotes.org/ICML2026/medical_imaging/controllable_gener…](https://papernotes.org/ICML2026/medical_imaging/controllable_generative_sandbox_for_causal_inference/)
-- Notes (English): [en.papernotes.org/ICML2026/causal_inference/controllable_g…](https://en.papernotes.org/ICML2026/causal_inference/controllable_generative_sandbox_for_causal_inference/)
+- Notes (Chinese): [papernotes.org/ICML2026/causal_inference/controllable_gene…](https://papernotes.org/ICML2026/causal_inference/controllable_generative_sandbox_for_causal_inference/)
+- Notes (English): [en.papernotes.org/ICML2026/medical_imaging/controllable_ge…](https://en.papernotes.org/ICML2026/medical_imaging/controllable_generative_sandbox_for_causal_inference/)
 
 **Auditing Sybil: Explaining Deep Lung Cancer Risk Prediction Through Generative Interventional Attributions**
 
@@ -1090,14 +1090,14 @@
 
 - Paper: <https://arxiv.org/abs/2605.12813>
 - Code: <https://github.com/Buyun-Liang/REALISTA>
-- Notes (Chinese): [papernotes.org/ICML2026/llm_safety/realista_realistic_late…](https://papernotes.org/ICML2026/llm_safety/realista_realistic_latent_adversarial_attacks_that_elicit_llm_hallucinations/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_safety/realista_realistic_l…](https://en.papernotes.org/ICML2026/llm_safety/realista_realistic_latent_adversarial_attacks_that_elicit_llm_hallucinations/)
+- Notes (Chinese): [papernotes.org/ICML2026/hallucination/realista_realistic_l…](https://papernotes.org/ICML2026/hallucination/realista_realistic_latent_adversarial_attacks_that_elicit_llm_hallucinations/)
+- Notes (English): [en.papernotes.org/ICML2026/hallucination/realista_realisti…](https://en.papernotes.org/ICML2026/hallucination/realista_realistic_latent_adversarial_attacks_that_elicit_llm_hallucinations/)
 
 **PipeSD: An Efficient Cloud-Edge Collaborative Pipeline Inference Framework with Speculative Decoding**
 
 - Paper: <https://arxiv.org/abs/2605.13319>
 - Notes (Chinese): [papernotes.org/ICML2026/llm_safety/pipesd_an_efficient_clo…](https://papernotes.org/ICML2026/llm_safety/pipesd_an_efficient_cloud-edge_collaborative_pipeline_inference_framework_with_s/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_efficiency/pipesd_an_effici…](https://en.papernotes.org/ICML2026/llm_efficiency/pipesd_an_efficient_cloud-edge_collaborative_pipeline_inference_framework_with_s/)
+- Notes (English): [en.papernotes.org/ICML2026/llm_safety/pipesd_an_efficient_…](https://en.papernotes.org/ICML2026/llm_safety/pipesd_an_efficient_cloud-edge_collaborative_pipeline_inference_framework_with_s/)
 
 **HEDP: A Hybrid Energy-Distance Prompt-based Framework for Domain Incremental Learning**
 
@@ -1109,13 +1109,13 @@
 
 - Paper: <https://arxiv.org/abs/2605.04638>
 - Notes (Chinese): [papernotes.org/ICML2026/llm_safety/gradients_with_respect_…](https://papernotes.org/ICML2026/llm_safety/gradients_with_respect_to_semantics_preserving_embeddings_tell_the_uncertainty_o/)
-- Notes (English): [en.papernotes.org/ICML2026/interpretability/gradients_with…](https://en.papernotes.org/ICML2026/interpretability/gradients_with_respect_to_semantics_preserving_embeddings_tell_the_uncertainty_o/)
+- Notes (English): [en.papernotes.org/ICML2026/llm_safety/gradients_with_respe…](https://en.papernotes.org/ICML2026/llm_safety/gradients_with_respect_to_semantics_preserving_embeddings_tell_the_uncertainty_o/)
 
 **Memory as a Markov Matrix: Sample Efficient Knowledge Expansion via Token-to-Dictionary Mapping**
 
 - Paper: <https://arxiv.org/abs/2605.04308>
 - Notes (Chinese): [papernotes.org/ICML2026/llm_safety/memory_as_a_markov_matr…](https://papernotes.org/ICML2026/llm_safety/memory_as_a_markov_matrix_sample_efficient_knowledge_expansion_via_token-to-dict/)
-- Notes (English): [en.papernotes.org/ICML2026/interpretability/memory_as_a_ma…](https://en.papernotes.org/ICML2026/interpretability/memory_as_a_markov_matrix_sample_efficient_knowledge_expansion_via_token-to-dict/)
+- Notes (English): [en.papernotes.org/ICML2026/llm_safety/memory_as_a_markov_m…](https://en.papernotes.org/ICML2026/llm_safety/memory_as_a_markov_matrix_sample_efficient_knowledge_expansion_via_token-to-dict/)
 
 **Tracing the Dynamics of Refusal: Exploiting Latent Refusal Trajectories for Robust Jailbreak Detection**
 
@@ -1138,8 +1138,8 @@
 **From Flat Facts to Sharp Hallucinations: Detecting Stubborn Errors via Gradient Sensitivity**
 
 - Paper: <https://arxiv.org/abs/2605.00939>
-- Notes (Chinese): [papernotes.org/ICML2026/llm_safety/from_flat_facts_to_shar…](https://papernotes.org/ICML2026/llm_safety/from_flat_facts_to_sharp_hallucinations_detecting_stubborn_errors_via_gradient_s/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_safety/from_flat_facts_to_s…](https://en.papernotes.org/ICML2026/llm_safety/from_flat_facts_to_sharp_hallucinations_detecting_stubborn_errors_via_gradient_s/)
+- Notes (Chinese): [papernotes.org/ICML2026/hallucination/from_flat_facts_to_s…](https://papernotes.org/ICML2026/hallucination/from_flat_facts_to_sharp_hallucinations_detecting_stubborn_errors_via_gradient_s/)
+- Notes (English): [en.papernotes.org/ICML2026/hallucination/from_flat_facts_t…](https://en.papernotes.org/ICML2026/hallucination/from_flat_facts_to_sharp_hallucinations_detecting_stubborn_errors_via_gradient_s/)
 
 **Stable-GFlowNet: Toward Diverse and Robust LLM Red-Teaming via Contrastive Trajectory Balance** · ✨ Spotlight
 
@@ -1169,7 +1169,7 @@
 
 - Paper: <https://arxiv.org/abs/2509.26272>
 - Notes (Chinese): [papernotes.org/ICML2026/llm_safety/prpo_paragraph-level_po…](https://papernotes.org/ICML2026/llm_safety/prpo_paragraph-level_policy_optimization_for_vision-language_deepfake_detection/)
-- Notes (English): [en.papernotes.org/ICML2026/aigc_detection/prpo_paragraph-l…](https://en.papernotes.org/ICML2026/aigc_detection/prpo_paragraph-level_policy_optimization_for_vision-language_deepfake_detection/)
+- Notes (English): [en.papernotes.org/ICML2026/llm_safety/prpo_paragraph-level…](https://en.papernotes.org/ICML2026/llm_safety/prpo_paragraph-level_policy_optimization_for_vision-language_deepfake_detection/)
 
 **Privacy Amplification in Differentially Private Zeroth-Order Optimization with Hidden States**
 
@@ -1329,7 +1329,7 @@
 
 - Paper: <https://arxiv.org/abs/2604.27786>
 - Notes (Chinese): [papernotes.org/ICML2026/optimization/on_the_expressive_pow…](https://papernotes.org/ICML2026/optimization/on_the_expressive_power_of_gnns_to_solve_linear_sdps/)
-- Notes (English): [en.papernotes.org/ICML2026/graph_learning/on_the_expressiv…](https://en.papernotes.org/ICML2026/graph_learning/on_the_expressive_power_of_gnns_to_solve_linear_sdps/)
+- Notes (English): [en.papernotes.org/ICML2026/optimization/on_the_expressive_…](https://en.papernotes.org/ICML2026/optimization/on_the_expressive_power_of_gnns_to_solve_linear_sdps/)
 
 **Limits of Convergence-Rate Control for Open-Weight Safety**
 
@@ -1380,14 +1380,14 @@
 - Paper: <https://arxiv.org/abs/2605.08876>
 - Code: <https://github.com/llm2409/OTora>
 - Notes (Chinese): [papernotes.org/ICML2026/llm_agent/otora_a_unified_red_team…](https://papernotes.org/ICML2026/llm_agent/otora_a_unified_red_teaming_framework_for_reasoning-level_denial-of-service_in_l/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_safety/otora_a_unified_red_…](https://en.papernotes.org/ICML2026/llm_safety/otora_a_unified_red_teaming_framework_for_reasoning-level_denial-of-service_in_l/)
+- Notes (English): [en.papernotes.org/ICML2026/llm_agent/otora_a_unified_red_t…](https://en.papernotes.org/ICML2026/llm_agent/otora_a_unified_red_teaming_framework_for_reasoning-level_denial-of-service_in_l/)
 
 **SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety**
 
 - Paper: <https://arxiv.org/abs/2605.05704>
 - Code: <https://github.com/ljj-cyber/SafeHarbor>
 - Notes (Chinese): [papernotes.org/ICML2026/llm_agent/safeharbor_hierarchical_…](https://papernotes.org/ICML2026/llm_agent/safeharbor_hierarchical_memory-augmented_guardrail_for_llm_agent_safety/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_safety/safeharbor_hierarchi…](https://en.papernotes.org/ICML2026/llm_safety/safeharbor_hierarchical_memory-augmented_guardrail_for_llm_agent_safety/)
+- Notes (English): [en.papernotes.org/ICML2026/llm_agent/safeharbor_hierarchic…](https://en.papernotes.org/ICML2026/llm_agent/safeharbor_hierarchical_memory-augmented_guardrail_for_llm_agent_safety/)
 
 **Agent-Omit: Adaptive Context Omission for Efficient LLM Agents**
 
@@ -1437,8 +1437,8 @@
 **Hallucinations Undermine Trust; Metacognition is a Way Forward**
 
 - Paper: <https://arxiv.org/abs/2605.01428>
-- Notes (Chinese): [papernotes.org/ICML2026/llm_agent/hallucinations_undermine…](https://papernotes.org/ICML2026/llm_agent/hallucinations_undermine_trust_metacognition_is_a_way_forward/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_evaluation/hallucinations_u…](https://en.papernotes.org/ICML2026/llm_evaluation/hallucinations_undermine_trust_metacognition_is_a_way_forward/)
+- Notes (Chinese): [papernotes.org/ICML2026/hallucination/hallucinations_under…](https://papernotes.org/ICML2026/hallucination/hallucinations_undermine_trust_metacognition_is_a_way_forward/)
+- Notes (English): [en.papernotes.org/ICML2026/hallucination/hallucinations_un…](https://en.papernotes.org/ICML2026/hallucination/hallucinations_undermine_trust_metacognition_is_a_way_forward/)
 
 **Position: agentic AI orchestration should be Bayes-consistent**
 
@@ -1462,7 +1462,7 @@
 
 - Paper: <https://arxiv.org/abs/2509.06701>
 - Notes (Chinese): [papernotes.org/ICML2026/llm_agent/probabilistic_modeling_o…](https://papernotes.org/ICML2026/llm_agent/probabilistic_modeling_of_latent_agentic_substructures_in_deep_neural_networks/)
-- Notes (English): [en.papernotes.org/ICML2026/interpretability/probabilistic_…](https://en.papernotes.org/ICML2026/interpretability/probabilistic_modeling_of_latent_agentic_substructures_in_deep_neural_networks/)
+- Notes (English): [en.papernotes.org/ICML2026/llm_agent/probabilistic_modelin…](https://en.papernotes.org/ICML2026/llm_agent/probabilistic_modeling_of_latent_agentic_substructures_in_deep_neural_networks/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -1484,7 +1484,7 @@
 - Paper: <https://arxiv.org/abs/2605.01844>
 - Code: <https://github.com/mbzuai-nlp/CRH>
 - Notes (Chinese): [papernotes.org/ICML2026/llm_nlp/the_cylindrical_representa…](https://papernotes.org/ICML2026/llm_nlp/the_cylindrical_representation_hypothesis_for_language_model_steering/)
-- Notes (English): [en.papernotes.org/ICML2026/interpretability/the_cylindrica…](https://en.papernotes.org/ICML2026/interpretability/the_cylindrical_representation_hypothesis_for_language_model_steering/)
+- Notes (English): [en.papernotes.org/ICML2026/llm_nlp/the_cylindrical_represe…](https://en.papernotes.org/ICML2026/llm_nlp/the_cylindrical_representation_hypothesis_for_language_model_steering/)
 
 **ANCHOR: Abductive Network Construction with Hierarchical Orchestration for Reliable Probability Inference in Large Language Models**
 
@@ -1597,7 +1597,7 @@
 
 - Paper: <https://arxiv.org/abs/2605.03750>
 - Notes (Chinese): [papernotes.org/ICML2026/ai_safety/gem-fi_gated_evidential_…](https://papernotes.org/ICML2026/ai_safety/gem-fi_gated_evidential_mixtures_with_fisher_modulation/)
-- Notes (English): [en.papernotes.org/ICML2026/others/gem-fi_gated_evidential_…](https://en.papernotes.org/ICML2026/others/gem-fi_gated_evidential_mixtures_with_fisher_modulation/)
+- Notes (English): [en.papernotes.org/ICML2026/ai_safety/gem-fi_gated_evidenti…](https://en.papernotes.org/ICML2026/ai_safety/gem-fi_gated_evidential_mixtures_with_fisher_modulation/)
 
 **LAPRAS : Learning-Augmented PRivate Answering for linear query Streams**
 
@@ -1615,7 +1615,7 @@
 
 - Paper: <https://arxiv.org/abs/2602.00387>
 - Notes (Chinese): [papernotes.org/ICML2026/ai_safety/singular_bayesian_neural…](https://papernotes.org/ICML2026/ai_safety/singular_bayesian_neural_networks/)
-- Notes (English): [en.papernotes.org/ICML2026/others/singular_bayesian_neural…](https://en.papernotes.org/ICML2026/others/singular_bayesian_neural_networks/)
+- Notes (English): [en.papernotes.org/ICML2026/ai_safety/singular_bayesian_neu…](https://en.papernotes.org/ICML2026/ai_safety/singular_bayesian_neural_networks/)
 
 **Scaling Unsupervised Multi-Source Federated Domain Adaptation through Group-Wise Discrepancy Minimization**
 
@@ -1802,13 +1802,13 @@
 
 - Paper: <https://arxiv.org/abs/2605.01687>
 - Notes (Chinese): [papernotes.org/ICML2026/audio_speech/multibreak_a_scalable…](https://papernotes.org/ICML2026/audio_speech/multibreak_a_scalable_and_diverse_multi-turn_jailbreak_benchmark_for_evaluating_/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_safety/multibreak_a_scalabl…](https://en.papernotes.org/ICML2026/llm_safety/multibreak_a_scalable_and_diverse_multi-turn_jailbreak_benchmark_for_evaluating_/)
+- Notes (English): [en.papernotes.org/ICML2026/audio_speech/multibreak_a_scala…](https://en.papernotes.org/ICML2026/audio_speech/multibreak_a_scalable_and_diverse_multi-turn_jailbreak_benchmark_for_evaluating_/)
 
 **Group Cognition Learning: Making Everything Better Through Governed Two-Stage Agents Collaboration**
 
 - Paper: <https://arxiv.org/abs/2605.00370>
 - Notes (Chinese): [papernotes.org/ICML2026/audio_speech/group_cognition_learn…](https://papernotes.org/ICML2026/audio_speech/group_cognition_learning_making_everything_better_through_governed_two-stage_age/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_agent/group_cognition_learn…](https://en.papernotes.org/ICML2026/llm_agent/group_cognition_learning_making_everything_better_through_governed_two-stage_age/)
+- Notes (English): [en.papernotes.org/ICML2026/audio_speech/group_cognition_le…](https://en.papernotes.org/ICML2026/audio_speech/group_cognition_learning_making_everything_better_through_governed_two-stage_age/)
 
 **Alethia: A Foundational Encoder for Voice Deepfakes**
 
@@ -1826,7 +1826,7 @@
 
 - Paper: <https://arxiv.org/abs/2602.11509>
 - Notes (Chinese): [papernotes.org/ICML2026/audio_speech/multimodal_fact-level…](https://papernotes.org/ICML2026/audio_speech/multimodal_fact-level_attribution_for_verifiable_reasoning/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_reasoning/multimodal_fact-l…](https://en.papernotes.org/ICML2026/llm_reasoning/multimodal_fact-level_attribution_for_verifiable_reasoning/)
+- Notes (English): [en.papernotes.org/ICML2026/audio_speech/multimodal_fact-le…](https://en.papernotes.org/ICML2026/audio_speech/multimodal_fact-level_attribution_for_verifiable_reasoning/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -1841,7 +1841,7 @@
 - Paper: <https://arxiv.org/abs/2605.14026>
 - Code: <https://github.com/songsang7/R2R2>
 - Notes (Chinese): [papernotes.org/ICML2026/robotics/r2r2_robust_representatio…](https://papernotes.org/ICML2026/robotics/r2r2_robust_representation_for_intensive_experience_reuse_via_redundancy_reducti/)
-- Notes (English): [en.papernotes.org/ICML2026/reinforcement_learning/r2r2_rob…](https://en.papernotes.org/ICML2026/reinforcement_learning/r2r2_robust_representation_for_intensive_experience_reuse_via_redundancy_reducti/)
+- Notes (English): [en.papernotes.org/ICML2026/robotics/r2r2_robust_representa…](https://en.papernotes.org/ICML2026/robotics/r2r2_robust_representation_for_intensive_experience_reuse_via_redundancy_reducti/)
 
 **Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation**
 
@@ -1855,7 +1855,7 @@
 - Paper: <https://arxiv.org/abs/2605.01663>
 - Code: <https://github.com/brianlsy98/FAN>
 - Notes (Chinese): [papernotes.org/ICML2026/robotics/towards_efficient_and_exp…](https://papernotes.org/ICML2026/robotics/towards_efficient_and_expressive_offline_rl_via_flow-anchored_noise-conditioned_/)
-- Notes (English): [en.papernotes.org/ICML2026/reinforcement_learning/towards_…](https://en.papernotes.org/ICML2026/reinforcement_learning/towards_efficient_and_expressive_offline_rl_via_flow-anchored_noise-conditioned_/)
+- Notes (English): [en.papernotes.org/ICML2026/robotics/towards_efficient_and_…](https://en.papernotes.org/ICML2026/robotics/towards_efficient_and_expressive_offline_rl_via_flow-anchored_noise-conditioned_/)
 
 **Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges** · ✨ Spotlight
 
@@ -1928,7 +1928,7 @@
 - Paper: <https://arxiv.org/abs/2506.19037>
 - Code: <https://github.com/omerlux/DUS>
 - Notes (Chinese): [papernotes.org/ICML2026/image_restoration/plan_for_speed_d…](https://papernotes.org/ICML2026/image_restoration/plan_for_speed_dilated_scheduling_for_masked_diffusion_language_models/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_efficiency/plan_for_speed_d…](https://en.papernotes.org/ICML2026/llm_efficiency/plan_for_speed_dilated_scheduling_for_masked_diffusion_language_models/)
+- Notes (English): [en.papernotes.org/ICML2026/image_restoration/plan_for_spee…](https://en.papernotes.org/ICML2026/image_restoration/plan_for_speed_dilated_scheduling_for_masked_diffusion_language_models/)
 
 **HDFlow: Hierarchical Diffusion-Flow Planning for Long-horizon Tasks** · ✨ Spotlight
 
@@ -2058,7 +2058,7 @@
 
 - Paper: <https://arxiv.org/abs/2605.06611>
 - Notes (Chinese): [papernotes.org/ICML2026/3d_vision/the_structural_origin_of…](https://papernotes.org/ICML2026/3d_vision/the_structural_origin_of_attention_sink_variance_discrepancy_super_neurons_and_d/)
-- Notes (English): [en.papernotes.org/ICML2026/interpretability/the_structural…](https://en.papernotes.org/ICML2026/interpretability/the_structural_origin_of_attention_sink_variance_discrepancy_super_neurons_and_d/)
+- Notes (English): [en.papernotes.org/ICML2026/3d_vision/the_structural_origin…](https://en.papernotes.org/ICML2026/3d_vision/the_structural_origin_of_attention_sink_variance_discrepancy_super_neurons_and_d/)
 
 **LabBuilder: Protocol-Grounded 3D Layout Generation for Interactable and Safe Laboratory**
 
@@ -2076,7 +2076,7 @@
 
 - Paper: <https://arxiv.org/abs/2505.06835>
 - Notes (Chinese): [papernotes.org/ICML2026/3d_vision/streaming_sliced_optimal…](https://papernotes.org/ICML2026/3d_vision/streaming_sliced_optimal_transport/)
-- Notes (English): [en.papernotes.org/ICML2026/optimization/streaming_sliced_o…](https://en.papernotes.org/ICML2026/optimization/streaming_sliced_optimal_transport/)
+- Notes (English): [en.papernotes.org/ICML2026/3d_vision/streaming_sliced_opti…](https://en.papernotes.org/ICML2026/3d_vision/streaming_sliced_optimal_transport/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -2104,19 +2104,19 @@
 
 - Paper: <https://arxiv.org/abs/2605.15081>
 - Notes (Chinese): [papernotes.org/ICML2026/information_retrieval/ml-embed_inc…](https://papernotes.org/ICML2026/information_retrieval/ml-embed_inclusive_and_efficient_embeddings_for_a_multilingual_world/)
-- Notes (English): [en.papernotes.org/ICML2026/multilingual_mt/ml-embed_inclus…](https://en.papernotes.org/ICML2026/multilingual_mt/ml-embed_inclusive_and_efficient_embeddings_for_a_multilingual_world/)
+- Notes (English): [en.papernotes.org/ICML2026/information_retrieval/ml-embed_…](https://en.papernotes.org/ICML2026/information_retrieval/ml-embed_inclusive_and_efficient_embeddings_for_a_multilingual_world/)
 
 **Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference**
 
 - Paper: <https://arxiv.org/abs/2603.29002>
 - Notes (Chinese): [papernotes.org/ICML2026/information_retrieval/understand_a…](https://papernotes.org/ICML2026/information_retrieval/understand_and_accelerate_memory_processing_pipeline_for_disaggregated_llm_infer/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_efficiency/understand_and_a…](https://en.papernotes.org/ICML2026/llm_efficiency/understand_and_accelerate_memory_processing_pipeline_for_disaggregated_llm_infer/)
+- Notes (English): [en.papernotes.org/ICML2026/information_retrieval/understan…](https://en.papernotes.org/ICML2026/information_retrieval/understand_and_accelerate_memory_processing_pipeline_for_disaggregated_llm_infer/)
 
 **Understanding LoRA as Knowledge Memory: An Empirical Analysis**
 
 - Paper: <https://arxiv.org/abs/2603.01097>
 - Notes (Chinese): [papernotes.org/ICML2026/information_retrieval/understandin…](https://papernotes.org/ICML2026/information_retrieval/understanding_lora_as_knowledge_memory_an_empirical_analysis/)
-- Notes (English): [en.papernotes.org/ICML2026/interpretability/understanding_…](https://en.papernotes.org/ICML2026/interpretability/understanding_lora_as_knowledge_memory_an_empirical_analysis/)
+- Notes (English): [en.papernotes.org/ICML2026/information_retrieval/understan…](https://en.papernotes.org/ICML2026/information_retrieval/understanding_lora_as_knowledge_memory_an_empirical_analysis/)
 
 **Seeing to Generalize: How Visual Data Corrects Binding Shortcuts**
 
@@ -2403,13 +2403,13 @@
 
 - Paper: <https://arxiv.org/abs/2602.18911>
 - Notes (Chinese): [papernotes.org/ICML2026/llm_evaluation/from_human-level_ai…](https://papernotes.org/ICML2026/llm_evaluation/from_human-level_ai_tales_to_ai_leveling_human_scales/)
-- Notes (English): [en.papernotes.org/ICML2026/others/from_human-level_ai_tale…](https://en.papernotes.org/ICML2026/others/from_human-level_ai_tales_to_ai_leveling_human_scales/)
+- Notes (English): [en.papernotes.org/ICML2026/llm_evaluation/from_human-level…](https://en.papernotes.org/ICML2026/llm_evaluation/from_human-level_ai_tales_to_ai_leveling_human_scales/)
 
 **Geometry-Aware Decoding with Wasserstein-Regularized Truncation and Mass Penalties for Large Language Models**
 
 - Paper: <https://arxiv.org/abs/2602.10346>
 - Notes (Chinese): [papernotes.org/ICML2026/llm_evaluation/geometry-aware_deco…](https://papernotes.org/ICML2026/llm_evaluation/geometry-aware_decoding_with_wasserstein-regularized_truncation_and_mass_penalti/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_nlp/geometry-aware_decoding…](https://en.papernotes.org/ICML2026/llm_nlp/geometry-aware_decoding_with_wasserstein-regularized_truncation_and_mass_penalti/)
+- Notes (English): [en.papernotes.org/ICML2026/llm_evaluation/geometry-aware_d…](https://en.papernotes.org/ICML2026/llm_evaluation/geometry-aware_decoding_with_wasserstein-regularized_truncation_and_mass_penalti/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -2472,8 +2472,8 @@
 **When Hallucination Costs Millions: Benchmarking AI Agents in High-Stakes Adversarial Financial Markets** · 🎤 Oral · 🛠️ Workshop
 
 - Paper: <https://arxiv.org/abs/2510.00332>
-- Notes (Chinese): [papernotes.org/ICML2026/llm_evaluation/when_hallucination_…](https://papernotes.org/ICML2026/llm_evaluation/when_hallucination_costs_millions_benchmarking_ai_agents_in_high-stakes_adversar/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_agent/when_hallucination_co…](https://en.papernotes.org/ICML2026/llm_agent/when_hallucination_costs_millions_benchmarking_ai_agents_in_high-stakes_adversar/)
+- Notes (Chinese): [papernotes.org/ICML2026/hallucination/when_hallucination_c…](https://papernotes.org/ICML2026/hallucination/when_hallucination_costs_millions_benchmarking_ai_agents_in_high-stakes_adversar/)
+- Notes (English): [en.papernotes.org/ICML2026/hallucination/when_hallucinatio…](https://en.papernotes.org/ICML2026/hallucination/when_hallucination_costs_millions_benchmarking_ai_agents_in_high-stakes_adversar/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -2495,7 +2495,7 @@
 - Paper: <https://arxiv.org/abs/2605.07545>
 - Code: <https://github.com/mdswyz/IPA>
 - Notes (Chinese): [papernotes.org/ICML2026/llm_alignment/implicit_preference_…](https://papernotes.org/ICML2026/llm_alignment/implicit_preference_alignment_for_human_image_animation/)
-- Notes (English): [en.papernotes.org/ICML2026/image_generation/implicit_prefe…](https://en.papernotes.org/ICML2026/image_generation/implicit_preference_alignment_for_human_image_animation/)
+- Notes (English): [en.papernotes.org/ICML2026/llm_alignment/implicit_preferen…](https://en.papernotes.org/ICML2026/llm_alignment/implicit_preference_alignment_for_human_image_animation/)
 
 **$f$-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses**
 
@@ -2541,7 +2541,7 @@
 - Paper: <https://arxiv.org/abs/2601.18744>
 - Project: <https://tsrbench.github.io/>
 - Notes (Chinese): [papernotes.org/ICML2026/autonomous_driving/tsrbench_a_comp…](https://papernotes.org/ICML2026/autonomous_driving/tsrbench_a_comprehensive_multi-task_multi-modal_time_series_reasoning_benchmark_/)
-- Notes (English): [en.papernotes.org/ICML2026/time_series/tsrbench_a_comprehe…](https://en.papernotes.org/ICML2026/time_series/tsrbench_a_comprehensive_multi-task_multi-modal_time_series_reasoning_benchmark_/)
+- Notes (English): [en.papernotes.org/ICML2026/autonomous_driving/tsrbench_a_c…](https://en.papernotes.org/ICML2026/autonomous_driving/tsrbench_a_comprehensive_multi-task_multi-modal_time_series_reasoning_benchmark_/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
@@ -2587,7 +2587,7 @@
 
 - Paper: <https://arxiv.org/abs/2603.13358>
 - Notes (Chinese): [papernotes.org/ICML2026/dialogue/not_all_prefills_are_equa…](https://papernotes.org/ICML2026/dialogue/not_all_prefills_are_equal_ppd_disaggregation_for_multi-turn_llm_serving/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_efficiency/not_all_prefills…](https://en.papernotes.org/ICML2026/llm_efficiency/not_all_prefills_are_equal_ppd_disaggregation_for_multi-turn_llm_serving/)
+- Notes (English): [en.papernotes.org/ICML2026/dialogue/not_all_prefills_are_e…](https://en.papernotes.org/ICML2026/dialogue/not_all_prefills_are_equal_ppd_disaggregation_for_multi-turn_llm_serving/)
 
 **DiscoverLLM: From Executing Intents to Discovering Them**
 
@@ -2613,8 +2613,8 @@
 
 - Paper: <https://arxiv.org/abs/2601.17467>
 - Code: <https://github.com/radiolab-ntu/ars_icml2026>
-- Notes (Chinese): [papernotes.org/ICML2026/causal_inference/harnessing_reason…](https://papernotes.org/ICML2026/causal_inference/harnessing_reasoning_trajectories_for_hallucination_detection_via_answer-agreeme/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_safety/harnessing_reasoning…](https://en.papernotes.org/ICML2026/llm_safety/harnessing_reasoning_trajectories_for_hallucination_detection_via_answer-agreeme/)
+- Notes (Chinese): [papernotes.org/ICML2026/hallucination/harnessing_reasoning…](https://papernotes.org/ICML2026/hallucination/harnessing_reasoning_trajectories_for_hallucination_detection_via_answer-agreeme/)
+- Notes (English): [en.papernotes.org/ICML2026/hallucination/harnessing_reason…](https://en.papernotes.org/ICML2026/hallucination/harnessing_reasoning_trajectories_for_hallucination_detection_via_answer-agreeme/)
 
 **The (Marginal) Value of a Search Ad: An Online Causal Framework for Repeated Second-price Auctions**
 
@@ -2640,7 +2640,7 @@
 
 - Paper: <https://arxiv.org/abs/2605.09745>
 - Notes (Chinese): [papernotes.org/ICML2026/code_intelligence/entropy-informed…](https://papernotes.org/ICML2026/code_intelligence/entropy-informed_decoding_adaptive_information-driven_branching/)
-- Notes (English): [en.papernotes.org/ICML2026/llm_reasoning/entropy-informed_…](https://en.papernotes.org/ICML2026/llm_reasoning/entropy-informed_decoding_adaptive_information-driven_branching/)
+- Notes (English): [en.papernotes.org/ICML2026/code_intelligence/entropy-infor…](https://en.papernotes.org/ICML2026/code_intelligence/entropy-informed_decoding_adaptive_information-driven_branching/)
 
 **BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models**
 
@@ -2763,7 +2763,7 @@
 
 - Paper: <https://arxiv.org/abs/2410.14375>
 - Notes (Chinese): [papernotes.org/ICML2026/nlp_understanding/causal_fine-tuni…](https://papernotes.org/ICML2026/nlp_understanding/causal_fine-tuning_under_latent_confounded_shift/)
-- Notes (English): [en.papernotes.org/ICML2026/causal_inference/causal_fine-tu…](https://en.papernotes.org/ICML2026/causal_inference/causal_fine-tuning_under_latent_confounded_shift/)
+- Notes (English): [en.papernotes.org/ICML2026/nlp_understanding/causal_fine-t…](https://en.papernotes.org/ICML2026/nlp_understanding/causal_fine-tuning_under_latent_confounded_shift/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 

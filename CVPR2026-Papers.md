@@ -830,8 +830,6 @@
 **Hybrid eTFCE-GRF: Exact Cluster-Size Retrieval with Analytical p-Values for Voxel-Based Morphometry**
 
 - Paper: <https://arxiv.org/abs/2603.11344>
-- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/hybrid_etfce-grf_exact_c…](https://papernotes.org/CVPR2026/3d_vision/hybrid_etfce-grf_exact_cluster-size_retrieval_with_analytical_p-values_for_voxel/)
-- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/hybrid_etfce-grf_exac…](https://en.papernotes.org/CVPR2026/3d_vision/hybrid_etfce-grf_exact_cluster-size_retrieval_with_analytical_p-values_for_voxel/)
 
 **InstantHDR: Single-forward Gaussian Splatting for High Dynamic Range 3D Reconstruction**
 
@@ -849,7 +847,6 @@
 
 - Paper: <https://arxiv.org/abs/2603.10947>
 - Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/regularizing_inr_with_di…](https://papernotes.org/CVPR2026/3d_vision/regularizing_inr_with_diffusion_prior_self-supervised_3d_reconstruction_of_neutr/)
-- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/regularizing_inr_with…](https://en.papernotes.org/CVPR2026/3d_vision/regularizing_inr_with_diffusion_prior_self-supervised_3d_reconstruction_of_neutr/)
 
 **4DEquine: Disentangling Motion and Appearance for 4D Equine Reconstruction from Monocular Video**
 
@@ -2147,7 +2144,6 @@
 **EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation**
 
 - Paper: <https://arxiv.org/abs/2603.12267>
-- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/evatok_adaptive_l…](https://papernotes.org/CVPR2026/image_generation/evatok_adaptive_length_video_tokenization_for_eff/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/evatok_adaptiv…](https://en.papernotes.org/CVPR2026/image_generation/evatok_adaptive_length_video_tokenization_for_eff/)
 
 **DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning**
@@ -2281,8 +2277,6 @@
 **Improving Text-to-Image Generation with Intrinsic Self-Confidence Rewards**
 
 - Paper: <https://arxiv.org/abs/2603.00918>
-- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/improving_text-to…](https://papernotes.org/CVPR2026/image_generation/improving_text-to-image_generation_with_intrinsic_self-confidence_rewards/)
-- Notes (English): [en.papernotes.org/CVPR2026/image_generation/improving_text…](https://en.papernotes.org/CVPR2026/image_generation/improving_text-to-image_generation_with_intrinsic_self-confidence_rewards/)
 
 **AlignVAR: Towards Globally Consistent Visual Autoregression for Image Super-Resolution** · 📖 Findings
 
@@ -2716,7 +2710,6 @@
 **Accelerating Diffusion Model Training under Minimal Budgets: A Condensation-Based Perspective**
 
 - Paper: <https://arxiv.org/abs/2507.05914>
-- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/accelerating_diff…](https://papernotes.org/CVPR2026/image_generation/accelerating_diffusion_model_training_under_minimal_budgets_a_condensation-based/)
 - Notes (English): [en.papernotes.org/CVPR2026/image_generation/accelerating_d…](https://en.papernotes.org/CVPR2026/image_generation/accelerating_diffusion_model_training_under_minimal_budgets_a_condensation-based/)
 
 **MAGIC: Few-Shot Mask-Guided Anomaly Inpainting with Prompt Perturbation, Spatially Adaptive Guidance, and Context Awareness** · 📖 Findings
@@ -3454,14 +3447,14 @@
 
 - Paper: <https://arxiv.org/abs/2603.17662>
 - Project: <https://explainableml.github.io/finer-project/>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/finer_mllms_halluci…](https://papernotes.org/CVPR2026/multimodal_vlm/finer_mllms_hallucinate_under_fine-grained_negative_queries/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/finer_mllms_hall…](https://en.papernotes.org/CVPR2026/multimodal_vlm/finer_mllms_hallucinate_under_fine-grained_negative_queries/)
+- Notes (Chinese): [papernotes.org/CVPR2026/hallucination/finer_mllms_hallucin…](https://papernotes.org/CVPR2026/hallucination/finer_mllms_hallucinate_under_fine-grained_negative_queries/)
+- Notes (English): [en.papernotes.org/CVPR2026/hallucination/finer_mllms_hallu…](https://en.papernotes.org/CVPR2026/hallucination/finer_mllms_hallucinate_under_fine-grained_negative_queries/)
 
 **Locate-then-Sparsify: Attribution Guided Sparse Strategy for Visual Hallucination Mitigation**
 
 - Paper: <https://arxiv.org/abs/2603.16284>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/locate-then-sparsif…](https://papernotes.org/CVPR2026/multimodal_vlm/locate-then-sparsify_attribution_guided_sparse_strategy_for_visual_hallucination/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/locate-then-spar…](https://en.papernotes.org/CVPR2026/multimodal_vlm/locate-then-sparsify_attribution_guided_sparse_strategy_for_visual_hallucination/)
+- Notes (Chinese): [papernotes.org/CVPR2026/hallucination/locate-then-sparsify…](https://papernotes.org/CVPR2026/hallucination/locate-then-sparsify_attribution_guided_sparse_strategy_for_visual_hallucination/)
+- Notes (English): [en.papernotes.org/CVPR2026/hallucination/locate-then-spars…](https://en.papernotes.org/CVPR2026/hallucination/locate-then-sparsify_attribution_guided_sparse_strategy_for_visual_hallucination/)
 
 **Parallel In-context Learning for Large Vision Language Models** · 📖 Findings
 
@@ -3547,7 +3540,6 @@
 **Tokenization Allows Multimodal Large Language Models to Understand, Generate and Edit Architectural Floor Plans**
 
 - Paper: <https://arxiv.org/abs/2603.11640>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/tokenization_allows…](https://papernotes.org/CVPR2026/multimodal_vlm/tokenization_allows_multimodal_large_language_models_to_understand_generate_and_/)
 - Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/tokenization_all…](https://en.papernotes.org/CVPR2026/multimodal_vlm/tokenization_allows_multimodal_large_language_models_to_understand_generate_and_/)
 
 **Noise-aware few-shot learning through bi-directional multi-view prompt alignment**
@@ -3596,8 +3588,8 @@
 **Overthinking Causes Hallucination: Tracing Confounder Propagation in Vision Language Models** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2603.07619>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/overthinking_causes…](https://papernotes.org/CVPR2026/multimodal_vlm/overthinking_causes_hallucination_tracing_confounder_propagation_in_vision_langu/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/overthinking_cau…](https://en.papernotes.org/CVPR2026/multimodal_vlm/overthinking_causes_hallucination_tracing_confounder_propagation_in_vision_langu/)
+- Notes (Chinese): [papernotes.org/CVPR2026/hallucination/overthinking_causes_…](https://papernotes.org/CVPR2026/hallucination/overthinking_causes_hallucination_tracing_confounder_propagation_in_vision_langu/)
+- Notes (English): [en.papernotes.org/CVPR2026/hallucination/overthinking_caus…](https://en.papernotes.org/CVPR2026/hallucination/overthinking_causes_hallucination_tracing_confounder_propagation_in_vision_langu/)
 
 **Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning**
 
@@ -3608,8 +3600,8 @@
 **MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization**
 
 - Paper: <https://arxiv.org/abs/2603.03192>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/mod-dpo_towards_mit…](https://papernotes.org/CVPR2026/multimodal_vlm/mod-dpo_towards_mitigating_cross-modal_hallucinations_in_omni_llms_using_modalit/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_alignment/mod-dpo_towards_m…](https://en.papernotes.org/CVPR2026/llm_alignment/mod-dpo_towards_mitigating_cross-modal_hallucinations_in_omni_llms_using_modalit/)
+- Notes (Chinese): [papernotes.org/CVPR2026/hallucination/mod-dpo_towards_miti…](https://papernotes.org/CVPR2026/hallucination/mod-dpo_towards_mitigating_cross-modal_hallucinations_in_omni_llms_using_modalit/)
+- Notes (English): [en.papernotes.org/CVPR2026/hallucination/mod-dpo_towards_m…](https://en.papernotes.org/CVPR2026/hallucination/mod-dpo_towards_mitigating_cross-modal_hallucinations_in_omni_llms_using_modalit/)
 
 **Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs**
 
@@ -3692,8 +3684,8 @@
 **HulluEdit: Single-Pass Evidence-Consistent Subspace Editing for Mitigating Hallucinations in Large Vision-Language Models**
 
 - Paper: <https://arxiv.org/abs/2602.22727>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/hulluedit_subspace_edit…](https://papernotes.org/CVPR2026/llm_safety/hulluedit_subspace_editing_hallucination/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/hulluedit_subspace_e…](https://en.papernotes.org/CVPR2026/llm_safety/hulluedit_subspace_editing_hallucination/)
+- Notes (Chinese): [papernotes.org/CVPR2026/hallucination/hulluedit_subspace_e…](https://papernotes.org/CVPR2026/hallucination/hulluedit_subspace_editing_hallucination/)
+- Notes (English): [en.papernotes.org/CVPR2026/hallucination/hulluedit_subspac…](https://en.papernotes.org/CVPR2026/hallucination/hulluedit_subspace_editing_hallucination/)
 
 **WeaveTime: Stream from Earlier Frames into Emergent Memory in VideoLLMs**
 
@@ -3771,14 +3763,14 @@
 **KVSmooth: Mitigating Hallucination in Multi-modal Large Language Models through Key-Value Smoothing**
 
 - Paper: <https://arxiv.org/abs/2602.04268>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/kvsmooth_mitigating…](https://papernotes.org/CVPR2026/multimodal_vlm/kvsmooth_mitigating_hallucination_in_multi-modal_large_language_models_through_k/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/kvsmooth_mitigat…](https://en.papernotes.org/CVPR2026/multimodal_vlm/kvsmooth_mitigating_hallucination_in_multi-modal_large_language_models_through_k/)
+- Notes (Chinese): [papernotes.org/CVPR2026/hallucination/kvsmooth_mitigating_…](https://papernotes.org/CVPR2026/hallucination/kvsmooth_mitigating_hallucination_in_multi-modal_large_language_models_through_k/)
+- Notes (English): [en.papernotes.org/CVPR2026/hallucination/kvsmooth_mitigati…](https://en.papernotes.org/CVPR2026/hallucination/kvsmooth_mitigating_hallucination_in_multi-modal_large_language_models_through_k/)
 
 **Residual Decoding: Mitigating Hallucinations in Large Vision-Language Models via History-Aware Residual Guidance**
 
 - Paper: <https://arxiv.org/abs/2602.01047>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/residual_decoding_m…](https://papernotes.org/CVPR2026/multimodal_vlm/residual_decoding_mitigating_hallucinations_in_large_vision-language_models_via_/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/residual_decodin…](https://en.papernotes.org/CVPR2026/multimodal_vlm/residual_decoding_mitigating_hallucinations_in_large_vision-language_models_via_/)
+- Notes (Chinese): [papernotes.org/CVPR2026/hallucination/residual_decoding_mi…](https://papernotes.org/CVPR2026/hallucination/residual_decoding_mitigating_hallucinations_in_large_vision-language_models_via_/)
+- Notes (English): [en.papernotes.org/CVPR2026/hallucination/residual_decoding…](https://en.papernotes.org/CVPR2026/hallucination/residual_decoding_mitigating_hallucinations_in_large_vision-language_models_via_/)
 
 **Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration**
 
@@ -3876,8 +3868,8 @@
 **Tell Model Where to Look: Mitigating Hallucinations in MLLMs by Vision-Guided Attention**
 
 - Paper: <https://arxiv.org/abs/2511.20032>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/tell_model_where_to…](https://papernotes.org/CVPR2026/multimodal_vlm/tell_model_where_to_look_mitigating_hallucinations_in_mllms_by_vision-guided_att/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/tell_model_where…](https://en.papernotes.org/CVPR2026/multimodal_vlm/tell_model_where_to_look_mitigating_hallucinations_in_mllms_by_vision-guided_att/)
+- Notes (Chinese): [papernotes.org/CVPR2026/hallucination/tell_model_where_to_…](https://papernotes.org/CVPR2026/hallucination/tell_model_where_to_look_mitigating_hallucinations_in_mllms_by_vision-guided_att/)
+- Notes (English): [en.papernotes.org/CVPR2026/hallucination/tell_model_where_…](https://en.papernotes.org/CVPR2026/hallucination/tell_model_where_to_look_mitigating_hallucinations_in_mllms_by_vision-guided_att/)
 
 **CropVLM: Learning to Zoom for Fine-Grained Vision-Language Perception**
 
@@ -3900,8 +3892,6 @@
 **Revisiting Multimodal KV Cache Compression: A Frequency-Domain-Guided Outlier-KV-Aware Approach**
 
 - Paper: <https://arxiv.org/abs/2511.16786>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/revisiting_multimod…](https://papernotes.org/CVPR2026/multimodal_vlm/revisiting_multimodal_kv_cache_compression_a_frequency-domain-guided_outlier-kv-/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/revisiting_multi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/revisiting_multimodal_kv_cache_compression_a_frequency-domain-guided_outlier-kv-/)
 
 **When to Think and When to Look: Uncertainty-Guided Lookback**
 
@@ -3954,8 +3944,8 @@
 **Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection**
 
 - Paper: <https://arxiv.org/abs/2509.03113>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/mitigating_multimod…](https://papernotes.org/CVPR2026/multimodal_vlm/mitigating_multimodal_hallucinations_via_gradient-based_self-reflection/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/mitigating_multi…](https://en.papernotes.org/CVPR2026/multimodal_vlm/mitigating_multimodal_hallucinations_via_gradient-based_self-reflection/)
+- Notes (Chinese): [papernotes.org/CVPR2026/hallucination/mitigating_multimoda…](https://papernotes.org/CVPR2026/hallucination/mitigating_multimodal_hallucinations_via_gradient-based_self-reflection/)
+- Notes (English): [en.papernotes.org/CVPR2026/hallucination/mitigating_multim…](https://en.papernotes.org/CVPR2026/hallucination/mitigating_multimodal_hallucinations_via_gradient-based_self-reflection/)
 
 **Variation-aware Vision Token Dropping for Faster Large Vision-Language Models**
 
@@ -3972,8 +3962,8 @@
 **ZINA: Multimodal Fine-grained Hallucination Detection and Editing**
 
 - Paper: <https://arxiv.org/abs/2506.13130>
-- Notes (Chinese): [papernotes.org/CVPR2026/multimodal_vlm/zina_multimodal_fin…](https://papernotes.org/CVPR2026/multimodal_vlm/zina_multimodal_fine-grained_hallucination_detection_and_editing/)
-- Notes (English): [en.papernotes.org/CVPR2026/multimodal_vlm/zina_multimodal_…](https://en.papernotes.org/CVPR2026/multimodal_vlm/zina_multimodal_fine-grained_hallucination_detection_and_editing/)
+- Notes (Chinese): [papernotes.org/CVPR2026/hallucination/zina_multimodal_fine…](https://papernotes.org/CVPR2026/hallucination/zina_multimodal_fine-grained_hallucination_detection_and_editing/)
+- Notes (English): [en.papernotes.org/CVPR2026/hallucination/zina_multimodal_f…](https://en.papernotes.org/CVPR2026/hallucination/zina_multimodal_fine-grained_hallucination_detection_and_editing/)
 
 **AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models**
 
@@ -4159,8 +4149,6 @@
 
 - Paper: <https://arxiv.org/abs/2603.10526>
 - Code: <https://github.com/liupei101/STEPH>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/sparse_task_vector…](https://papernotes.org/CVPR2026/medical_imaging/sparse_task_vector_mixup_with_hypernetworks_for_efficient_knowledge_transfer_in_/)
-- Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/sparse_task_vec…](https://en.papernotes.org/CVPR2026/medical_imaging/sparse_task_vector_mixup_with_hypernetworks_for_efficient_knowledge_transfer_in_/)
 
 **MedKCO: Medical Vision-Language Pretraining via Knowledge-Driven Cognitive Orchestration**
 
@@ -4257,7 +4245,7 @@
 
 - Paper: <https://arxiv.org/abs/2507.18534>
 - Code: <https://github.com/PerceptionComputingLab/EDA>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/eda_arbitrary_nois…](https://papernotes.org/CVPR2026/medical_imaging/eda_arbitrary_noise_diffusion_design_space/)
+- Notes (Chinese): [papernotes.org/CVPR2026/image_generation/eda_arbitrary_noi…](https://papernotes.org/CVPR2026/image_generation/eda_arbitrary_noise_diffusion_design_space/)
 - Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/eda_arbitrary_n…](https://en.papernotes.org/CVPR2026/medical_imaging/eda_arbitrary_noise_diffusion_design_space/)
 
 **Virtual Full-stack Scanning of Brain MRI via Imputing Any Quantised Code**
@@ -4372,8 +4360,8 @@
 **Mitigating Object Hallucinations in LVLMs via Attention Imbalance Rectification** · 📖 Findings
 
 - Paper: <https://arxiv.org/abs/2603.24058>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/mitigating_object_hallu…](https://papernotes.org/CVPR2026/llm_safety/mitigating_object_hallucinations_in_lvlms_via_attention_imbalance_rectification/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/mitigating_object_ha…](https://en.papernotes.org/CVPR2026/llm_safety/mitigating_object_hallucinations_in_lvlms_via_attention_imbalance_rectification/)
+- Notes (Chinese): [papernotes.org/CVPR2026/hallucination/mitigating_object_ha…](https://papernotes.org/CVPR2026/hallucination/mitigating_object_hallucinations_in_lvlms_via_attention_imbalance_rectification/)
+- Notes (English): [en.papernotes.org/CVPR2026/hallucination/mitigating_object…](https://en.papernotes.org/CVPR2026/hallucination/mitigating_object_hallucinations_in_lvlms_via_attention_imbalance_rectification/)
 
 **OmniFM: Toward Modality-Robust and Task-Agnostic Federated Learning for Heterogeneous Medical Imaging**
 
@@ -4384,7 +4372,7 @@
 **SATTC: Structure-Aware Label-Free Test-Time Calibration for Cross-Subject EEG-to-Image Retrieval**
 
 - Paper: <https://arxiv.org/abs/2603.20738>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/sattc_structure-aw…](https://papernotes.org/CVPR2026/medical_imaging/sattc_structure-aware_label-free_test-time_calibration_for_cross-subject_eeg-to-/)
+- Notes (Chinese): [papernotes.org/CVPR2026/time_series/sattc_structure-aware_…](https://papernotes.org/CVPR2026/time_series/sattc_structure-aware_label-free_test-time_calibration_for_cross-subject_eeg-to-/)
 - Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/sattc_structure…](https://en.papernotes.org/CVPR2026/medical_imaging/sattc_structure-aware_label-free_test-time_calibration_for_cross-subject_eeg-to-/)
 
 **GaussianPile: A Unified Sparse Gaussian Splatting Framework for Slice-based Volumetric Reconstruction**
@@ -5057,8 +5045,6 @@
 **Spectral-Geometric Neural Fields for Pose-Free LiDAR View Synthesis**
 
 - Paper: <https://arxiv.org/abs/2603.12903>
-- Notes (Chinese): [papernotes.org/CVPR2026/autonomous_driving/spectral-geomet…](https://papernotes.org/CVPR2026/autonomous_driving/spectral-geometric_neural_fields_for_pose-free_lidar_view_synthesis/)
-- Notes (English): [en.papernotes.org/CVPR2026/autonomous_driving/spectral-geo…](https://en.papernotes.org/CVPR2026/autonomous_driving/spectral-geometric_neural_fields_for_pose-free_lidar_view_synthesis/)
 
 **Composing Driving Worlds through Disentangled Control for Adversarial Scenario Generation**
 
@@ -5099,8 +5085,8 @@
 **R4Det: 4D Radar-Camera Fusion for High-Performance 3D Object Detection**
 
 - Paper: <https://arxiv.org/abs/2603.11566>
-- Notes (Chinese): [papernotes.org/CVPR2026/autonomous_driving/r4det_4d_radar-…](https://papernotes.org/CVPR2026/autonomous_driving/r4det_4d_radar-camera_fusion_for_high-performance_3d_object_detection/)
-- Notes (English): [en.papernotes.org/CVPR2026/autonomous_driving/r4det_4d_rad…](https://en.papernotes.org/CVPR2026/autonomous_driving/r4det_4d_radar-camera_fusion_for_high-performance_3d_object_detection/)
+- Notes (Chinese): [papernotes.org/CVPR2026/3d_vision/r4det_4d_radar_camera_fu…](https://papernotes.org/CVPR2026/3d_vision/r4det_4d_radar_camera_fusion_3d_detection/)
+- Notes (English): [en.papernotes.org/CVPR2026/3d_vision/r4det_4d_radar_camera…](https://en.papernotes.org/CVPR2026/3d_vision/r4det_4d_radar_camera_fusion_3d_detection/)
 
 **WalkGPT: Grounded Vision-Language Conversation with Depth-Aware Segmentation for Pedestrian Navigation**
 
@@ -5621,7 +5607,6 @@
 
 - Paper: <https://arxiv.org/abs/2603.10825>
 - Notes (Chinese): [papernotes.org/CVPR2026/segmentation/a_dataset_of_medicati…](https://papernotes.org/CVPR2026/segmentation/a_dataset_of_medication_images_with_instance_segme/)
-- Notes (English): [en.papernotes.org/CVPR2026/segmentation/a_dataset_of_medic…](https://en.papernotes.org/CVPR2026/segmentation/a_dataset_of_medication_images_with_instance_segmentation_masks_for_preventing_a/)
 
 **DSFlash: Comprehensive Panoptic Scene Graph Generation in Realtime**
 
@@ -5680,7 +5665,6 @@
 **CLIP Is Shortsighted: Paying Attention Beyond the First Sentence**
 
 - Paper: <https://arxiv.org/abs/2602.22419>
-- Notes (Chinese): [papernotes.org/CVPR2026/segmentation/clip_is_shortsighted_…](https://papernotes.org/CVPR2026/segmentation/clip_is_shortsighted_paying_attention_beyond_the_first_sentence/)
 - Notes (English): [en.papernotes.org/CVPR2026/segmentation/clip_is_shortsight…](https://en.papernotes.org/CVPR2026/segmentation/clip_is_shortsighted_paying_attention_beyond_the_first_sentence/)
 
 **Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation**
@@ -6059,8 +6043,7 @@
 
 - Paper: <https://arxiv.org/abs/2603.12254>
 - Project: <https://autogaze.github.io/>
-- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/attend_before_…](https://papernotes.org/CVPR2026/video_understanding/attend_before_attention_efficient_and_scalable_video_understanding_via_autoregre/)
-- Notes (English): [en.papernotes.org/CVPR2026/video_understanding/attend_befo…](https://en.papernotes.org/CVPR2026/video_understanding/attend_before_attention_efficient_and_scalable_video_understanding_via_autoregre/)
+- Notes (Chinese): [papernotes.org/CVPR2026/video_understanding/autogaze_atten…](https://papernotes.org/CVPR2026/video_understanding/autogaze_attend_before_attention_efficient_video/)
 
 **Real-World Point Tracking with Verifier-Guided Pseudo-Labeling**
 
@@ -6723,8 +6706,6 @@
 
 - Paper: <https://arxiv.org/abs/2603.02554>
 - Code: <https://github.com/Younger-hua/GKD>
-- Notes (Chinese): [papernotes.org/CVPR2026/segmentation/generalizable_knowled…](https://papernotes.org/CVPR2026/segmentation/generalizable_knowledge_distillation_from_vision_foundation_models_for_semantic_/)
-- Notes (English): [en.papernotes.org/CVPR2026/segmentation/generalizable_know…](https://en.papernotes.org/CVPR2026/segmentation/generalizable_knowledge_distillation_from_vision_foundation_models_for_semantic_/)
 
 **Towards Generalizable AI-Generated Image Detection via Image-Adaptive Prompt Learning**
 
@@ -7667,7 +7648,6 @@
 **Harnessing Chain-of-Thought Reasoning in Multimodal Large Language Models for Face Anti-Spoofing**
 
 - Paper: <https://arxiv.org/abs/2506.01783>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/harnessing_chain-of-…](https://papernotes.org/CVPR2026/llm_reasoning/harnessing_chain-of-thought_reasoning_in_multimodal_large_language_models_for_fa/)
 - Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/harnessing_chain-…](https://en.papernotes.org/CVPR2026/llm_reasoning/harnessing_chain-of-thought_reasoning_in_multimodal_large_language_models_for_fa/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
@@ -7771,8 +7751,6 @@
 **Language-Grounded Decoupled Action Representation for Robotic Manipulation**
 
 - Paper: <https://arxiv.org/abs/2603.12967>
-- Notes (Chinese): [papernotes.org/CVPR2026/robotics/language-grounded_decoupl…](https://papernotes.org/CVPR2026/robotics/language-grounded_decoupled_action_representation_for_robotic_manipulation/)
-- Notes (English): [en.papernotes.org/CVPR2026/robotics/language-grounded_deco…](https://en.papernotes.org/CVPR2026/robotics/language-grounded_decoupled_action_representation_for_robotic_manipulation/)
 
 **SaPaVe: Towards Active Perception and Manipulation in Vision-Language-Action Models for Robotics**
 
@@ -8398,8 +8376,8 @@
 **Beyond the Global Scores: Fine-Grained Token Grounding as a Robust Detector of LVLM Hallucinations**
 
 - Paper: <https://arxiv.org/abs/2604.04863>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/beyond_global_scores_fi…](https://papernotes.org/CVPR2026/llm_safety/beyond_global_scores_fine_grained_token_grounding_as_robust_detector_of_lvlm_hallucinations/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/beyond_global_scores…](https://en.papernotes.org/CVPR2026/llm_safety/beyond_global_scores_fine_grained_token_grounding_as_robust_detector_of_lvlm_hallucinations/)
+- Notes (Chinese): [papernotes.org/CVPR2026/hallucination/beyond_global_scores…](https://papernotes.org/CVPR2026/hallucination/beyond_global_scores_fine_grained_token_grounding_as_robust_detector_of_lvlm_hallucinations/)
+- Notes (English): [en.papernotes.org/CVPR2026/hallucination/beyond_global_sco…](https://en.papernotes.org/CVPR2026/hallucination/beyond_global_scores_fine_grained_token_grounding_as_robust_detector_of_lvlm_hallucinations/)
 
 **The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models**
 
@@ -8476,8 +8454,8 @@
 **TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection**
 
 - Paper: <https://arxiv.org/abs/2512.10652>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_safety/tridf_evaluating_percep…](https://papernotes.org/CVPR2026/llm_safety/tridf_evaluating_perception_detection_and_hallucination_for_interpretable_deepfa/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_safety/tridf_evaluating_per…](https://en.papernotes.org/CVPR2026/llm_safety/tridf_evaluating_perception_detection_and_hallucination_for_interpretable_deepfa/)
+- Notes (Chinese): [papernotes.org/CVPR2026/hallucination/tridf_evaluating_per…](https://papernotes.org/CVPR2026/hallucination/tridf_evaluating_perception_detection_and_hallucination_for_interpretable_deepfa/)
+- Notes (English): [en.papernotes.org/CVPR2026/hallucination/tridf_evaluating_…](https://en.papernotes.org/CVPR2026/hallucination/tridf_evaluating_perception_detection_and_hallucination_for_interpretable_deepfa/)
 
 **SineProject: Machine Unlearning for Stable Vision Language Alignment**
 
@@ -8685,8 +8663,8 @@
 **Reallocating Attention Across Layers to Reduce Multimodal Hallucination**
 
 - Paper: <https://arxiv.org/abs/2510.10285>
-- Notes (Chinese): [papernotes.org/CVPR2026/interpretability/reallocating_atte…](https://papernotes.org/CVPR2026/interpretability/reallocating_attention_across_layers_to_reduce_multimodal_hallucination/)
-- Notes (English): [en.papernotes.org/CVPR2026/interpretability/reallocating_a…](https://en.papernotes.org/CVPR2026/interpretability/reallocating_attention_across_layers_to_reduce_multimodal_hallucination/)
+- Notes (Chinese): [papernotes.org/CVPR2026/hallucination/reallocating_attenti…](https://papernotes.org/CVPR2026/hallucination/reallocating_attention_across_layers_to_reduce_multimodal_hallucination/)
+- Notes (English): [en.papernotes.org/CVPR2026/hallucination/reallocating_atte…](https://en.papernotes.org/CVPR2026/hallucination/reallocating_attention_across_layers_to_reduce_multimodal_hallucination/)
 
 **CLIP-Free, Label Free, Unsupervised Concept Bottleneck Models** · 📖 Findings
 
@@ -8968,8 +8946,8 @@
 
 - Paper: <https://arxiv.org/abs/2603.27201>
 - Code: <https://github.com/ASGO-MM/MCoT-hallucination>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/understanding_and_mi…](https://papernotes.org/CVPR2026/llm_reasoning/understanding_and_mitigating_hallucinations_in_multimodal_chain-of-thought_model/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/understanding_and…](https://en.papernotes.org/CVPR2026/llm_reasoning/understanding_and_mitigating_hallucinations_in_multimodal_chain-of-thought_model/)
+- Notes (Chinese): [papernotes.org/CVPR2026/hallucination/understanding_and_mi…](https://papernotes.org/CVPR2026/hallucination/understanding_and_mitigating_hallucinations_in_multimodal_chain-of-thought_model/)
+- Notes (English): [en.papernotes.org/CVPR2026/hallucination/understanding_and…](https://en.papernotes.org/CVPR2026/hallucination/understanding_and_mitigating_hallucinations_in_multimodal_chain-of-thought_model/)
 
 **Scalable Object Relation Encoding for Better 3D Spatial Reasoning in Large Language Models**
 
@@ -8995,8 +8973,8 @@
 **Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models**
 
 - Paper: <https://arxiv.org/abs/2604.03179>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_reasoning/understanding_the_ro…](https://papernotes.org/CVPR2026/llm_reasoning/understanding_the_role_of_hallucination_in_reinforcement_post-training_of_multim/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_reasoning/understanding_the…](https://en.papernotes.org/CVPR2026/llm_reasoning/understanding_the_role_of_hallucination_in_reinforcement_post-training_of_multim/)
+- Notes (Chinese): [papernotes.org/CVPR2026/hallucination/understanding_the_ro…](https://papernotes.org/CVPR2026/hallucination/understanding_the_role_of_hallucination_in_reinforcement_post-training_of_multim/)
+- Notes (English): [en.papernotes.org/CVPR2026/hallucination/understanding_the…](https://en.papernotes.org/CVPR2026/hallucination/understanding_the_role_of_hallucination_in_reinforcement_post-training_of_multim/)
 
 **GRAZE: Grounded Refinement and Motion-Aware Zero-Shot Event Localization** · 🛠️ Workshop
 
@@ -9383,8 +9361,6 @@
 **Hierarchical Long Video Understanding with Audiovisual Entity Cohesion and Agentic Search**
 
 - Paper: <https://arxiv.org/abs/2601.13719>
-- Notes (Chinese): [papernotes.org/CVPR2026/llm_agent/haven_hierarchical_long_…](https://papernotes.org/CVPR2026/llm_agent/haven_hierarchical_long_video_understanding_audiovisual_entity/)
-- Notes (English): [en.papernotes.org/CVPR2026/llm_agent/haven_hierarchical_lo…](https://en.papernotes.org/CVPR2026/llm_agent/haven_hierarchical_long_video_understanding_audiovisual_entity/)
 
 **EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration** · 📖 Findings
 
@@ -9894,8 +9870,8 @@
 
 - Paper: <https://arxiv.org/abs/2603.10470>
 - Project: <https://hamidreza-dastmalchi.github.io/cipher-cvpr2026/>
-- Notes (Chinese): [papernotes.org/CVPR2026/causal_inference/fighting_hallucin…](https://papernotes.org/CVPR2026/causal_inference/fighting_hallucinations_with_counterfactuals_diffusion-guided_perturbations_for_/)
-- Notes (English): [en.papernotes.org/CVPR2026/causal_inference/fighting_hallu…](https://en.papernotes.org/CVPR2026/causal_inference/fighting_hallucinations_with_counterfactuals_diffusion-guided_perturbations_for_/)
+- Notes (Chinese): [papernotes.org/CVPR2026/hallucination/fighting_hallucinati…](https://papernotes.org/CVPR2026/hallucination/fighting_hallucinations_with_counterfactuals_diffusion-guided_perturbations_for_/)
+- Notes (English): [en.papernotes.org/CVPR2026/hallucination/fighting_hallucin…](https://en.papernotes.org/CVPR2026/hallucination/fighting_hallucinations_with_counterfactuals_diffusion-guided_perturbations_for_/)
 
 **MaskDiME: Adaptive Masked Diffusion for Precise and Efficient Visual Counterfactual Explanations**
 
@@ -9976,7 +9952,7 @@
 
 - Paper: <https://arxiv.org/abs/2508.01450>
 - Code: <https://github.com/mihara-bot/DIQ>
-- Notes (Chinese): [papernotes.org/CVPR2026/medical_imaging/towards_efficient_…](https://papernotes.org/CVPR2026/medical_imaging/towards_efficient_medical_reasoning_with_minimal_fine-tuning_data/)
+- Notes (Chinese): [papernotes.org/CVPR2026/medical_nlp/towards_efficient_medi…](https://papernotes.org/CVPR2026/medical_nlp/towards_efficient_medical_reasoning_with_minimal_fine-tuning_data/)
 - Notes (English): [en.papernotes.org/CVPR2026/medical_imaging/towards_efficie…](https://en.papernotes.org/CVPR2026/medical_imaging/towards_efficient_medical_reasoning_with_minimal_fine-tuning_data/)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
