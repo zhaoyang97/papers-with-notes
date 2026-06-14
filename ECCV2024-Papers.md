@@ -43,7 +43,7 @@
 
 ### LLM · 39 papers
 
-[💬 LLM / NLP **21**](#llm_nlp) · [📚 LLM Pretraining **8**](#llm_pretraining) · [💡 LLM Reasoning **5**](#llm_reasoning) · [🦾 LLM Agent **3**](#llm_agent) · [⚡ LLM Efficiency **1**](#llm_efficiency) · [🔒 LLM Safety **1**](#llm_safety)
+[💬 LLM (Other) **21**](#llm_nlp) · [📚 LLM Pretraining **8**](#llm_pretraining) · [💡 LLM Reasoning **5**](#llm_reasoning) · [🦾 LLM Agent **3**](#llm_agent) · [⚡ LLM Efficiency **1**](#llm_efficiency) · [🔒 LLM Safety **1**](#llm_safety)
 
 ### NLP Applications · 4 papers
 
@@ -3033,7 +3033,7 @@
 
 <a id="llm_nlp"></a>
 
-## 💬 LLM / NLP · `llm_nlp` · 21 papers
+## 💬 LLM (Other) · `llm_nlp` · 21 papers
 
 **HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**
 

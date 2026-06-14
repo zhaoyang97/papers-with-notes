@@ -43,7 +43,7 @@
 
 ### LLM · 55 papers
 
-[🔒 LLM Safety **18**](#llm_safety) · [📚 LLM Pretraining **18**](#llm_pretraining) · [💡 LLM Reasoning **5**](#llm_reasoning) · [🦾 LLM Agent **4**](#llm_agent) · [💬 LLM / NLP **4**](#llm_nlp) · [📊 LLM Evaluation **3**](#llm_evaluation) · [⚡ LLM Efficiency **2**](#llm_efficiency) · [⚖️ Alignment / RLHF **1**](#llm_alignment)
+[🔒 LLM Safety **18**](#llm_safety) · [📚 LLM Pretraining **18**](#llm_pretraining) · [💡 LLM Reasoning **5**](#llm_reasoning) · [🦾 LLM Agent **4**](#llm_agent) · [💬 LLM (Other) **4**](#llm_nlp) · [📊 LLM Evaluation **3**](#llm_evaluation) · [⚡ LLM Efficiency **2**](#llm_efficiency) · [⚖️ Alignment / RLHF **1**](#llm_alignment)
 
 ### NLP Applications · 17 papers
 
@@ -10002,7 +10002,7 @@
 
 <a id="llm_nlp"></a>
 
-## 💬 LLM / NLP · `llm_nlp` · 4 papers
+## 💬 LLM (Other) · `llm_nlp` · 4 papers
 
 **A Conditional Probability Framework for Compositional Zero-shot Learning**
 

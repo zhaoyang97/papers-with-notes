@@ -31,7 +31,7 @@
 
 ### LLM · 75 papers
 
-[🔒 LLM Safety **15**](#llm_safety) · [💡 LLM Reasoning **14**](#llm_reasoning) · [🦾 LLM Agent **14**](#llm_agent) · [💬 LLM / NLP **12**](#llm_nlp) · [📚 LLM Pretraining **6**](#llm_pretraining) · [📊 LLM Evaluation **5**](#llm_evaluation) · [⚡ LLM Efficiency **4**](#llm_efficiency) · [⚖️ Alignment / RLHF **4**](#llm_alignment) · [✏️ Knowledge Editing **1**](#knowledge_editing)
+[🔒 LLM Safety **15**](#llm_safety) · [💡 LLM Reasoning **14**](#llm_reasoning) · [🦾 LLM Agent **14**](#llm_agent) · [💬 LLM (Other) **12**](#llm_nlp) · [📚 LLM Pretraining **6**](#llm_pretraining) · [📊 LLM Evaluation **5**](#llm_evaluation) · [⚡ LLM Efficiency **4**](#llm_efficiency) · [⚖️ Alignment / RLHF **4**](#llm_alignment) · [✏️ Knowledge Editing **1**](#knowledge_editing)
 
 ### Science & Cross-Disciplinary · 51 papers
 
@@ -1470,7 +1470,7 @@
 
 <a id="llm_nlp"></a>
 
-## 💬 LLM / NLP · `llm_nlp` · 12 papers
+## 💬 LLM (Other) · `llm_nlp` · 12 papers
 
 **T$^2$PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning** · ✨ Spotlight
 

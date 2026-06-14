@@ -23,7 +23,7 @@
 
 ### LLM · 942 papers
 
-[💬 LLM / NLP **463**](#llm_nlp) · [💡 LLM Reasoning **88**](#llm_reasoning) · [🔒 LLM Safety **80**](#llm_safety) · [📊 LLM Evaluation **70**](#llm_evaluation) · [⚖️ Alignment / RLHF **69**](#llm_alignment) · [⚡ LLM Efficiency **53**](#llm_efficiency) · [🦾 LLM Agent **51**](#llm_agent) · [📚 LLM Pretraining **48**](#llm_pretraining) · [✏️ Knowledge Editing **20**](#knowledge_editing)
+[💬 LLM (Other) **463**](#llm_nlp) · [💡 LLM Reasoning **88**](#llm_reasoning) · [🔒 LLM Safety **80**](#llm_safety) · [📊 LLM Evaluation **70**](#llm_evaluation) · [⚖️ Alignment / RLHF **69**](#llm_alignment) · [⚡ LLM Efficiency **53**](#llm_efficiency) · [🦾 LLM Agent **51**](#llm_agent) · [📚 LLM Pretraining **48**](#llm_pretraining) · [✏️ Knowledge Editing **20**](#knowledge_editing)
 
 ### NLP Applications · 346 papers
 
@@ -57,7 +57,7 @@
 
 <a id="llm_nlp"></a>
 
-## 💬 LLM / NLP · `llm_nlp` · 463 papers
+## 💬 LLM (Other) · `llm_nlp` · 463 papers
 
 **Direct Confidence Alignment: Aligning Verbalized Confidence with Internal Confidence In Large Language Models**
 

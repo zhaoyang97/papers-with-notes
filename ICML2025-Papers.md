@@ -27,7 +27,7 @@
 
 ### LLM · 177 papers
 
-[🔒 LLM Safety **42**](#llm_safety) · [📚 LLM Pretraining **31**](#llm_pretraining) · [💬 LLM / NLP **25**](#llm_nlp) · [📊 LLM Evaluation **21**](#llm_evaluation) · [💡 LLM Reasoning **19**](#llm_reasoning) · [⚖️ Alignment / RLHF **15**](#llm_alignment) · [⚡ LLM Efficiency **11**](#llm_efficiency) · [🦾 LLM Agent **11**](#llm_agent) · [✏️ Knowledge Editing **2**](#knowledge_editing)
+[🔒 LLM Safety **42**](#llm_safety) · [📚 LLM Pretraining **31**](#llm_pretraining) · [💬 LLM (Other) **25**](#llm_nlp) · [📊 LLM Evaluation **21**](#llm_evaluation) · [💡 LLM Reasoning **19**](#llm_reasoning) · [⚖️ Alignment / RLHF **15**](#llm_alignment) · [⚡ LLM Efficiency **11**](#llm_efficiency) · [🦾 LLM Agent **11**](#llm_agent) · [✏️ Knowledge Editing **2**](#knowledge_editing)
 
 ### Generation & Multimodal · 165 papers
 
@@ -3142,7 +3142,7 @@
 
 <a id="llm_nlp"></a>
 
-## 💬 LLM / NLP · `llm_nlp` · 25 papers
+## 💬 LLM (Other) · `llm_nlp` · 25 papers
 
 **MERIT: Maximum-normalized Element-wise Ratio for Language Model Large-batch Training**
 

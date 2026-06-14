@@ -23,7 +23,7 @@
 
 ### LLM · 384 papers
 
-[💡 LLM Reasoning **88**](#llm_reasoning) · [🔒 LLM Safety **78**](#llm_safety) · [📊 LLM Evaluation **61**](#llm_evaluation) · [🦾 LLM Agent **58**](#llm_agent) · [💬 LLM / NLP **39**](#llm_nlp) · [⚖️ Alignment / RLHF **28**](#llm_alignment) · [⚡ LLM Efficiency **18**](#llm_efficiency) · [📚 LLM Pretraining **7**](#llm_pretraining) · [✏️ Knowledge Editing **7**](#knowledge_editing)
+[💡 LLM Reasoning **88**](#llm_reasoning) · [🔒 LLM Safety **78**](#llm_safety) · [📊 LLM Evaluation **61**](#llm_evaluation) · [🦾 LLM Agent **58**](#llm_agent) · [💬 LLM (Other) **39**](#llm_nlp) · [⚖️ Alignment / RLHF **28**](#llm_alignment) · [⚡ LLM Efficiency **18**](#llm_efficiency) · [📚 LLM Pretraining **7**](#llm_pretraining) · [✏️ Knowledge Editing **7**](#knowledge_editing)
 
 ### NLP Applications · 195 papers
 
@@ -5012,7 +5012,7 @@
 
 <a id="llm_nlp"></a>
 
-## 💬 LLM / NLP · `llm_nlp` · 39 papers
+## 💬 LLM (Other) · `llm_nlp` · 39 papers
 
 **MTRouter: Cost-Aware Multi-Turn LLM Routing with History-Model Joint Embeddings**
 

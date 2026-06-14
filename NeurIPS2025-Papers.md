@@ -31,7 +31,7 @@
 
 ### LLM · 415 papers
 
-[🔒 LLM Safety **86**](#llm_safety) · [💡 LLM Reasoning **83**](#llm_reasoning) · [📚 LLM Pretraining **49**](#llm_pretraining) · [💬 LLM / NLP **47**](#llm_nlp) · [🦾 LLM Agent **38**](#llm_agent) · [📊 LLM Evaluation **37**](#llm_evaluation) · [⚖️ Alignment / RLHF **36**](#llm_alignment) · [⚡ LLM Efficiency **33**](#llm_efficiency) · [✏️ Knowledge Editing **6**](#knowledge_editing)
+[🔒 LLM Safety **86**](#llm_safety) · [💡 LLM Reasoning **83**](#llm_reasoning) · [📚 LLM Pretraining **49**](#llm_pretraining) · [💬 LLM (Other) **47**](#llm_nlp) · [🦾 LLM Agent **38**](#llm_agent) · [📊 LLM Evaluation **37**](#llm_evaluation) · [⚖️ Alignment / RLHF **36**](#llm_alignment) · [⚡ LLM Efficiency **33**](#llm_efficiency) · [✏️ Knowledge Editing **6**](#knowledge_editing)
 
 ### Science & Cross-Disciplinary · 328 papers
 
@@ -10844,7 +10844,7 @@
 
 <a id="llm_nlp"></a>
 
-## 💬 LLM / NLP · `llm_nlp` · 47 papers
+## 💬 LLM (Other) · `llm_nlp` · 47 papers
 
 **Towards Implicit Aggregation: Robust Image Representation for Place Recognition in the Transformer Era**
 

@@ -43,7 +43,7 @@
 
 ### LLM · 106 papers
 
-[🔒 LLM Safety **31**](#llm_safety) · [📚 LLM Pretraining **21**](#llm_pretraining) · [💬 LLM / NLP **19**](#llm_nlp) · [💡 LLM Reasoning **11**](#llm_reasoning) · [🦾 LLM Agent **9**](#llm_agent) · [⚡ LLM Efficiency **6**](#llm_efficiency) · [⚖️ Alignment / RLHF **5**](#llm_alignment) · [📊 LLM Evaluation **3**](#llm_evaluation) · [✏️ Knowledge Editing **1**](#knowledge_editing)
+[🔒 LLM Safety **31**](#llm_safety) · [📚 LLM Pretraining **21**](#llm_pretraining) · [💬 LLM (Other) **19**](#llm_nlp) · [💡 LLM Reasoning **11**](#llm_reasoning) · [🦾 LLM Agent **9**](#llm_agent) · [⚡ LLM Efficiency **6**](#llm_efficiency) · [⚖️ Alignment / RLHF **5**](#llm_alignment) · [📊 LLM Evaluation **3**](#llm_evaluation) · [✏️ Knowledge Editing **1**](#knowledge_editing)
 
 ### NLP Applications · 33 papers
 
@@ -13926,7 +13926,7 @@
 
 <a id="llm_nlp"></a>
 
-## 💬 LLM / NLP · `llm_nlp` · 19 papers
+## 💬 LLM (Other) · `llm_nlp` · 19 papers
 
 **As Language Models Scale, Low-order Linear Depth Dynamics Emerge**
 

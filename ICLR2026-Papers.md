@@ -23,7 +23,7 @@
 
 ### LLM · 318 papers
 
-[💡 LLM Reasoning **82**](#llm_reasoning) · [🔒 LLM Safety **56**](#llm_safety) · [⚖️ Alignment / RLHF **39**](#llm_alignment) · [🦾 LLM Agent **38**](#llm_agent) · [💬 LLM / NLP **30**](#llm_nlp) · [📊 LLM Evaluation **24**](#llm_evaluation) · [📚 LLM Pretraining **23**](#llm_pretraining) · [⚡ LLM Efficiency **18**](#llm_efficiency) · [✏️ Knowledge Editing **8**](#knowledge_editing)
+[💡 LLM Reasoning **82**](#llm_reasoning) · [🔒 LLM Safety **56**](#llm_safety) · [⚖️ Alignment / RLHF **39**](#llm_alignment) · [🦾 LLM Agent **38**](#llm_agent) · [💬 LLM (Other) **30**](#llm_nlp) · [📊 LLM Evaluation **24**](#llm_evaluation) · [📚 LLM Pretraining **23**](#llm_pretraining) · [⚡ LLM Efficiency **18**](#llm_efficiency) · [✏️ Knowledge Editing **8**](#knowledge_editing)
 
 ### Generation & Multimodal · 286 papers
 
@@ -6604,7 +6604,7 @@
 
 <a id="llm_nlp"></a>
 
-## 💬 LLM / NLP · `llm_nlp` · 30 papers
+## 💬 LLM (Other) · `llm_nlp` · 30 papers
 
 **ELLMob: Event-Driven Human Mobility Generation with Self-Aligned LLM Framework**
 

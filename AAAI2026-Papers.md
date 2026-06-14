@@ -23,7 +23,7 @@
 
 ### LLM · 227 papers
 
-[💬 LLM / NLP **87**](#llm_nlp) · [🦾 LLM Agent **33**](#llm_agent) · [💡 LLM Reasoning **27**](#llm_reasoning) · [🔒 LLM Safety **22**](#llm_safety) · [⚖️ Alignment / RLHF **17**](#llm_alignment) · [📊 LLM Evaluation **16**](#llm_evaluation) · [⚡ LLM Efficiency **11**](#llm_efficiency) · [📚 LLM Pretraining **11**](#llm_pretraining) · [✏️ Knowledge Editing **3**](#knowledge_editing)
+[💬 LLM (Other) **87**](#llm_nlp) · [🦾 LLM Agent **33**](#llm_agent) · [💡 LLM Reasoning **27**](#llm_reasoning) · [🔒 LLM Safety **22**](#llm_safety) · [⚖️ Alignment / RLHF **17**](#llm_alignment) · [📊 LLM Evaluation **16**](#llm_evaluation) · [⚡ LLM Efficiency **11**](#llm_efficiency) · [📚 LLM Pretraining **11**](#llm_pretraining) · [✏️ Knowledge Editing **3**](#knowledge_editing)
 
 ### Visual Perception · 165 papers
 
@@ -627,7 +627,7 @@
 
 <a id="llm_nlp"></a>
 
-## 💬 LLM / NLP · `llm_nlp` · 87 papers
+## 💬 LLM (Other) · `llm_nlp` · 87 papers
 
 **Time, Identity and Consciousness in Language Model Agents**
 
