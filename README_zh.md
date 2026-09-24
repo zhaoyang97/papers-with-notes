@@ -21,7 +21,7 @@
 
 | 会议 | 文件 | 论文️| 中文笔记 | 英文笔记 |
 |---|---|---:|---:|---:|
-| ECCV 2026 | [ECCV2026-Papers.md](ECCV2026-Papers.md) | 424 | 421 | 0 |
+| ECCV 2026 | [ECCV2026-Papers.md](ECCV2026-Papers.md) | 2,834 | 349 | 0 |
 | ICML 2026 | [ICML2026-Papers.md](ICML2026-Papers.md) | 1,846 | 1,840 | 1,841 |
 | ACL 2026 | [ACL2026-Papers.md](ACL2026-Papers.md) | 1,419 | 1,410 | 1,419 |
 | CVPR 2026 | [CVPR2026-Papers.md](CVPR2026-Papers.md) | 4,367 | 4,053 | 4,039 |
@@ -33,7 +33,9 @@
 | ACL 2025 | [ACL2025-Papers.md](ACL2025-Papers.md) | 2,362 | 1,832 | 1,831 |
 | CVPR 2025 | [CVPR2025-Papers.md](CVPR2025-Papers.md) | 3,103 | 1,822 | 1,822 |
 | ECCV 2024 | [ECCV2024-Papers.md](ECCV2024-Papers.md) | 885 | 884 | 884 |
-| **合计** | | **26,673** | **23,838** | **23,320** |
+| **合计** | | **29,083** | **23,766** | **23,320** |
+
+ECCV 2026 以[官方录用清单](https://eccv.ecva.net/Conferences/2026/AcceptedPapers)为准：2,851 个展示条目按官方 poster ID 去重为 2,834 篇，17 条为跨主题重复。官网仍注明待出版社检查；旧清单中未匹配的条目不混入本清单，已有笔记保留。快照日期：2026-09-15。
 
 ## 📐 页面结构
 

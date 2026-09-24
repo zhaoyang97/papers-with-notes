@@ -21,7 +21,7 @@ Conferences are listed newest first by acceptance-notification time.
 
 | Conference | File | Papers | ZH Notes | EN Notes |
 |---|---|---:|---:|---:|
-| ECCV 2026 | [ECCV2026-Papers.md](ECCV2026-Papers.md) | 424 | 421 | 0 |
+| ECCV 2026 | [ECCV2026-Papers.md](ECCV2026-Papers.md) | 2,834 | 349 | 0 |
 | ICML 2026 | [ICML2026-Papers.md](ICML2026-Papers.md) | 1,846 | 1,840 | 1,841 |
 | ACL 2026 | [ACL2026-Papers.md](ACL2026-Papers.md) | 1,419 | 1,410 | 1,419 |
 | CVPR 2026 | [CVPR2026-Papers.md](CVPR2026-Papers.md) | 4,367 | 4,053 | 4,039 |
@@ -33,7 +33,9 @@ Conferences are listed newest first by acceptance-notification time.
 | ACL 2025 | [ACL2025-Papers.md](ACL2025-Papers.md) | 2,362 | 1,832 | 1,831 |
 | CVPR 2025 | [CVPR2025-Papers.md](CVPR2025-Papers.md) | 3,103 | 1,822 | 1,822 |
 | ECCV 2024 | [ECCV2024-Papers.md](ECCV2024-Papers.md) | 885 | 884 | 884 |
-| **Total** | | **26,673** | **23,838** | **23,320** |
+| **Total** | | **29,083** | **23,766** | **23,320** |
+
+ECCV 2026 follows the [official accepted list](https://eccv.ecva.net/Conferences/2026/AcceptedPapers): 2,851 display entries reduce to 2,834 unique poster IDs (17 cross-topic duplicates). The organizer labels the list preliminary pending publisher checks. Unmatched older entries are not included; existing notes are retained separately. Snapshot: 2026-09-15.
 
 ## 📐 Page layout
 
